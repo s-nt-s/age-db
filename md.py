@@ -28,14 +28,14 @@ def get_dom(url: str):
     return dom
 
 
-def wirte_clave(db: DBLite, f: TextIOWrapper, label: str, table: str):
+def wirte_clave(db: DBLite, f: TextIOWrapper, label: str, table: str, where=""):
     f.write("\n"+dedent(f'''
         # {label}
 
         | id | txt |
         |---:|-----|
     ''').strip()+"\n")
-    for id, txt in db.select(f"select id, txt from {table} order by id, txt"):
+    for id, txt in db.select(f"select id, txt from {table} {where} order by id, txt"):
         if txt == "¿?":
             f.write(f"| {id} | [{txt}](https://github.com/s-nt-s/age-db/issues/1) |\n")
         else:
@@ -64,6 +64,21 @@ with DBLite(ARG.db, readonly=True) as db:
             "PROVISION": "Provisión",
             "TIPO_PUESTO": "Tipo puesto",
             "TITULACION": "Titulación",
-            "CUERPO": "Cuerpo"
+            "CUERPO": "Cuerpo",
         }).items(), key=lambda x: (db.one(f"select count(*) from {x[0]}"), x)):
             wirte_clave(db, f, l, t)
+        for t, l in sorted(({
+            "MINISTERIO": "Ministerio",
+            "CENTRO": "Centro",
+            "UNIDAD": "Unidad",
+        }).items(), key=lambda x: (db.one(f"select count(*) from {x[0]} where id>0"), x)):
+            wirte_clave(db, f, l, t, where="where id>0")
+        for t, l in sorted(({
+            "PAIS": "País",
+            "PROVINCIA": "Provincia",
+            "LOCALIDAD": "Localidad",
+        }).items(), key=lambda x: (db.one(f"select count(*) from {x[0]} where id>0"), x)):
+            wirte_clave(db, f, l, t, where="where id>0")
+        f.write("# Cargo\n\n")
+        for id, txt in db.select("select id, txt from CARGO order by id, txt"):
+            f.write(f"* {txt}\n")

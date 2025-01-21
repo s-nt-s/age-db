@@ -170,10 +170,17 @@ def _parse_if_str(obj: Any) -> Any:
     val = re_sp.sub(" ", val)
     val = val.replace(fake_bl, r"\n")
     val = val.strip()
+    val = re.sub(r'(["\'])\s*\.\s*$', r'\1', val)
+    val = re.sub(r'^\s*(["\'])\s*', r'\1', val)
     while len(val) > 1 and val[0] == val[-1] and val[0] in ("'", '"'):
         val = val[1:-1].strip()
     if len(val) == 0:
         return None
+    val = re.sub(r"\s*\(\s*", " (", val)
+    val = re.sub(r"\s*\)\s*", ") ", val)
+    val = re.sub(r"\s*\[\s*", " [", val)
+    val = re.sub(r"\s*\]\s*", "] ", val)
+    val = val.strip()
     return val
 
 
