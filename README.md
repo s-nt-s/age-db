@@ -30,7 +30,7 @@ de un ministerio, sin embargo en la RPT aparecen unidades que no tienen
 centro.
 
 Para poder generalizar la jerarquía `Ministerio - Centro - Unidad` se
-ha optado que para cada unidad que no tenga centro crearle una con mismo
+ha optado por que cada unidad que no tenga centro crearle una con mismo
 `txt` y con `id` igual al de la unidad cambiado de signo.
 
 ## Cuerpo
@@ -42,13 +42,13 @@ y simplemente relacionar cada puesto con todos los cuerpos a los que pertenece.
 ## Observaciones
 
 Se ha definido la relación `<puesto, observación>` como de `1 a n`,
-en vez de `1 a 1`, para en vez de usar observaciones concatenadas por `,`
+en vez de `1 a 1`, para que en vez de usar observaciones concatenadas por `,`
 relacionar el puesto con todas sus observaciones.
 
 ## Titulaciones
 
 Se ha definido la relación `<puesto, titulaciones>` como de `1 a n`,
-en vez de `1 a 1`, para en vez de usar titulaciones concatenadas por `,`
+en vez de `1 a 1`, para que en vez de usar titulaciones concatenadas por `,`
 relacionar el puesto con todas sus titulaciones.
 
 ## Estado
@@ -60,14 +60,20 @@ que es `1` cuando es `true` y `0` cuando es `false`.
 ## [Claves](CLAVES.md)
 
 Algunas claves están relacionadas con otras en su descripción.
-Cuando esto ocurre se relaciona al puesto tanto con la _clave padre_
+Cuando esto ocurre se relaciona el puesto tanto con la _clave padre_
 como con sus _hijas_.
 
-Por ejemplo, si un puesto tienen como observación `Y71` cuya
-descripción es `C80 - C81 - C84` se le asignara una relación
+Por ejemplo, si un puesto tienen como observación `Y71`, cuya
+descripción es `C80 - C81 - C84`, se le asignara una relación
 con cada uno de los códigos (`Y71`, `C80`, `C81`, `C84`).
 
 Por otro lado, todas claves que son necesarias (porque aparecen
 relacionadas con un puesto) pero no aparecen en la leyenda
 de la segunda hoja del excel han sido añadidas a las tablas
 con la descripción `¿?`.
+
+## Cargo
+
+En el excel aparecer por cada puesto una denominación corta y
+una denominación larga. La primera es descartada y la segunda
+(la denominación larga) es guardad como el *cargo* del puesto.
