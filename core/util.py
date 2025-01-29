@@ -173,6 +173,7 @@ def to_fix(s: str):
             s,
             flags=re.IGNORECASE
         )
+    s = re.sub(r"\bn[,\. ]?\d+\b(:?$| )", lambda x: re.sub(r"n[,\. ]?", "N", x.group()), s)
     for w in (
         'España',
         'Europa',

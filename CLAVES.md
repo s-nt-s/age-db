@@ -2014,19 +2014,19 @@ Listado de claves:
 | 28093 | Residencia el alcázar |
 | 28094 | Unidad de apoyo |
 | 28096 | S.g. de personal civil |
-| 28101 | Sección española del cómite permanente hispano-norteamericano |
+| 28101 | Sección española del comité permanente hispano-norteamericano |
 | 28103 | Gabinete del jefe del estado mayor de la defensa |
 | 28109 | Unidad de apoyo |
 | 28112 | S.g. de planes y relaciones internacionales |
 | 28113 | S.g. de cooperación y defensa civil |
-| 28114 | Regimiento de infantería inmemorial del rey n1 del cuartel general del ejército |
+| 28114 | Regimiento de infantería inmemorial del rey N1 del cuartel general del ejército |
 | 28115 | Centro geográfico del ejército de tierra |
 | 28116 | Instituto de historia y cultura militar (Madrid) |
 | 28117 | Mando de personal del ejército |
 | 28118 | Dirección de asistencia al personal |
 | 28125 | Mando de apoyo logistico |
 | 28127 | Parque y centro de abastecimiento de material de intendencia |
-| 28128 | Parque y centro de mantenimiento de sistemas acorazados n1 |
+| 28128 | Parque y centro de mantenimiento de sistemas acorazados N1 |
 | 28132 | Escuela politécnica superior del ejército |
 | 28136 | Cuartel general del maaa |
 | 28138 | Escuela de guerra y liderazgo del ejército de tierra |
@@ -2039,7 +2039,7 @@ Listado de claves:
 | 28169 | Regimiento de guerra electrónica 32 |
 | 28185 | Archivo general militar de avila |
 | 28187 | Unidad de servicios de la base cid campeador |
-| 28190 | Parque y centro de mantenimiento de vehiculos de rueda n2 |
+| 28190 | Parque y centro de mantenimiento de vehiculos de rueda N2 |
 | 28191 | Mando de adiestramiento y doctrina |
 | 28192 | Archivo general militar de guadalajara |
 | 28193 | Escuela militar de montaña y operaciones especiales |
@@ -2058,7 +2058,7 @@ Listado de claves:
 | 28227 | Regimiento de transmisiones 22 (pozuelo de alarcon) |
 | 28229 | Residencia mil.ac.social descanso -archena- |
 | 28231 | Rmase "virgen del puerto" |
-| 28232 | Parque y centro de mantenimiento de sistemas acorazados n 2 |
+| 28232 | Parque y centro de mantenimiento de sistemas acorazados N2 |
 | 28233 | Academia de infantería |
 | 28240 | Residencia mil.ac.social descanso -la cortadura- |
 | 28244 | Usba "general cavalcanti" |
@@ -2094,7 +2094,7 @@ Listado de claves:
 | 28368 | Residencia mil.ac.social estudiantes -san hermenegildo- |
 | 28379 | Usba "la cuesta" |
 | 28389 | Dirección de infraestructura (barcelona) |
-| 28390 | Agrupación de apoyo logistico n.41 (san boi de llobregat) |
+| 28390 | Agrupación de apoyo logistico N41 (san boi de llobregat) |
 | 28395 | Agrupación de apoyo logistico nº 41 (zaragoza) |
 | 28399 | Unidad de servicios del acuartelamiento -san genis- |
 | 28400 | Usba "san jorge" |
@@ -2132,10 +2132,10 @@ Listado de claves:
 | 28514 | Unidad de apoyo a la proyección - san isidro |
 | 28527 | Dirección de infraestructura (burgos) |
 | 28528 | Cuartel general de la comandancia general de Ceuta |
-| 28529 | Unidad logistica n 23 |
+| 28529 | Unidad logistica N23 |
 | 28539 | Dirección de infraestructura (valencia) |
 | 28541 | Cuartel general de la comandancia general de Melilla |
-| 28542 | Unidad logistica n 24 |
+| 28542 | Unidad logistica N24 |
 | 28544 | Centro deportivo sociocultural militar "Melilla" |
 | 28554 | Jefatura 4ª s.u.i.g.e (pontevedra) |
 | 28555 | Jefatura 4ª s.u.i.g.e (salamanca) |
@@ -2311,34 +2311,34 @@ Listado de claves:
 | 29385 | Subdelegación de defensa en zaragoza |
 | 29386 | Subdelegación de defensa en Ceuta |
 | 29387 | Subdelegación de defensa en Melilla |
-| 29454 | Juzgado togado militar territorial n23 (almeria) |
+| 29454 | Juzgado togado militar territorial N23 (almeria) |
 | 29455 | Tribunal militar territorial tercero (barcelona) |
 | 29457 | Tribunal militar territorial cuarto (a coruña) |
 | 29459 | Tribunal militar central (Madrid) |
-| 29462 | Juzgado togado militar territ. n52 (las palmas) |
+| 29462 | Juzgado togado militar territ. N52 (las palmas) |
 | 29463 | Tribunal militar territorial quinto (sta. cruz de tenerife) |
 | 29464 | Tribunal militar territorial segundo (sevilla) |
-| 29465 | Juzgado togado militar territ. n32 (zaragoza) |
-| 29466 | Juzgado togado militar territorial n33 (palma de mallorca) |
-| 29467 | Juzgado togado militar territ. n31 (barcelona) |
-| 29468 | Juzgado togado militar territorial n43 (burgos) |
-| 29469 | Juzgado togado militar territorial n22 (s. fernando) |
-| 29470 | Juzgado togado militar territ. n41 (a coruña) |
-| 29472 | Juzgado togado militar territorial n14 (cartagena) |
-| 29474 | Juzgado togado militar territ. n51 (santa cruz t.) |
-| 29475 | Juzgado togado militar territ. n21 (sevilla) |
-| 29477 | Juzgado togado militar territorial n42 (valladolid) |
-| 29479 | Juzgado togado militar territorial n25 (Ceuta) |
-| 29480 | Juzgado togado militar territorial n26 (Melilla) |
+| 29465 | Juzgado togado militar territ. N32 (zaragoza) |
+| 29466 | Juzgado togado militar territorial N33 (palma de mallorca) |
+| 29467 | Juzgado togado militar territ. N31 (barcelona) |
+| 29468 | Juzgado togado militar territorial N43 (burgos) |
+| 29469 | Juzgado togado militar territorial N22 (s. fernando) |
+| 29470 | Juzgado togado militar territ. N41 (a coruña) |
+| 29472 | Juzgado togado militar territorial N14 (cartagena) |
+| 29474 | Juzgado togado militar territ. N51 (santa cruz t.) |
+| 29475 | Juzgado togado militar territ. N21 (sevilla) |
+| 29477 | Juzgado togado militar territorial N42 (valladolid) |
+| 29479 | Juzgado togado militar territorial N25 (Ceuta) |
+| 29480 | Juzgado togado militar territorial N26 (Melilla) |
 | 29481 | Fiscalía del tribunal militar territorial tercero (barcelona) |
 | 29484 | Fiscalía del tribunal militar territorial quinto (santa cruz tenerife) |
 | 29489 | Juzgado togado militar central 1 (Madrid) |
-| 29491 | Juzgado togado militar territorial n13 (valencia) |
+| 29491 | Juzgado togado militar territorial N13 (valencia) |
 | 29492 | Fiscalía del tribunal militar territorial cuarto (a coruña) |
 | 29493 | Juzgado togado militar central 2 (Madrid) |
 | 29494 | Fiscalía del tribunal militar territorial segundo (sevilla) |
-| 29495 | Juzgado togado militar territ. n11 (Madrid) |
-| 29496 | Juzgado togado militar territ. n12 (Madrid) |
+| 29495 | Juzgado togado militar territ. N11 (Madrid) |
+| 29496 | Juzgado togado militar territ. N12 (Madrid) |
 | 29500 | Tribunal militar territorial primero (Madrid) |
 | 29501 | Juzgado togado militar decano de Madrid |
 | 29502 | Fiscalía togada (Madrid) |
@@ -3817,7 +3817,7 @@ Listado de claves:
 | 36162 | Administración de la s.s. no.1 de logroño (no.1 de La Rioja) |
 | 36163 | Administración de la s.s. no.1 de calahorra (no.2 de La Rioja) |
 | 36164 | Administración de la s.s. no.1 de lugo |
-| 36165 | Administración de la s.s. no.3 de lugo (n.4 de lugo) |
+| 36165 | Administración de la s.s. no.3 de lugo (N4 de lugo) |
 | 36166 | Administración de la s.s. no.1 de Madrid |
 | 36167 | Administración de la s.s. nº.1 de alcala de henares (no.16 de Madrid) |
 | 36168 | Administración de la s.s. no.1 de alcobendas (no.17 de Madrid) |
@@ -7158,7 +7158,7 @@ Listado de claves:
 | 47775 | Unidad de apoyo |
 | 47776 | Unidad de apoyo |
 | 47777 | Unidad de apoyo |
-| 47786 | Administración de la s.s. n.3 de granada (n.6 de granada) |
+| 47786 | Administración de la s.s. N3 de granada (N6 de granada) |
 | 47789 | Abogacía del estado en la agencia española de cooperación internacional para el desarrollo |
 | 47790 | Jefatura territorial de intervención nº 1 (a coruña) |
 | 47791 | Intervención delegada en ferrol |
@@ -7261,7 +7261,7 @@ Listado de claves:
 | 48105 | Unidad provincial de informática de bizkaia |
 | 48106 | Unidad provincial de informática de zamora |
 | 48107 | Unidad provincial de informática de zaragoza |
-| 48111 | Administración de la seguridad social n.1 de coin (n.10 de málaga) |
+| 48111 | Administración de la seguridad social N1 de coin (N10 de málaga) |
 | 48114 | Bandera de cg brigada "rey alfonso xiii" ii de la legión |
 | 48116 | Batallón de cg de la brigada "guzmán el bueno" x |
 | 48117 | Batallón de cg de la brigada "Galicia" vii |
@@ -7780,7 +7780,7 @@ Listado de claves:
 | 49683 | Emad-mando conjunto del ciberespacio |
 | 49684 | Emad-mops-jefatura de seguridad y servicios retamares |
 | 49685 | Agregaduria de defensa embajada de España en los emiratos árabes unidos (abu dhabi) |
-| 49686 | Administración de la seguridad social n1 de san bartolome de tirajana (n7 de las palmas) |
+| 49686 | Administración de la seguridad social N1 de san bartolome de tirajana (N7 de las palmas) |
 | 49697 | Secretaria permanente del observatorio de la vida militar |
 | 49698 | Consejeria de trabajo, migraciones y seguridad social en canadá - ottawa |
 | 49699 | Centro de instrucción de medicina aeroespacial (torrejón) |
@@ -8092,8 +8092,8 @@ Listado de claves:
 | 50575 | Rep. per. en la u.e. bélgica-bruselas |
 | 50579 | Núcleo del cuartel general conjunto multinacional (es-ohq) |
 | 50584 | División de auditoria interna y evaluación |
-| 50585 | Administración de la seguridad social n.1 de collado villalba (n 38 de Madrid) |
-| 50586 | Administración de la seguridad social n 1 de majadahonda (n 35 de Madrid) |
+| 50585 | Administración de la seguridad social N1 de collado villalba (N38 de Madrid) |
+| 50586 | Administración de la seguridad social N1 de majadahonda (N35 de Madrid) |
 | 50593 | I.d. en el ministerio de igualdad |
 | 50597 | Residencia de investigadores y biblioteca de sevilla |
 | 50601 | Oficina consular en reino unido- manchester |
@@ -10832,11 +10832,11 @@ Listado de claves:
 * Abogado / abogada del estado secretario de t.e.a.r.
 * Abogado / abogada del estado-jefe
 * Abogado/a estado
+* Abogado/a jefe/a N1
+* Abogado/a jefe/a N2
+* Abogado/a jefe/a N3
+* Abogado/a jefe/a N4
 * Abogado/a jefe/a adjunto/a
-* Abogado/a jefe/a n.1
-* Abogado/a jefe/a n.2
-* Abogado/a jefe/a n.3
-* Abogado/a jefe/a n.4
 * Actuario economista o estadístico
 * Adjunto / adjunta al director
 * Adjunto / adjunta al director general
@@ -10876,9 +10876,9 @@ Listado de claves:
 * Administrador/a agencia g.a
 * Administrador/a agencia g.b
 * Administrador/a seguridad
+* Administrativo / administrativa N18
 * Administrativo / administrativa gabinete de comunicaciones p.g.
 * Administrativo / administrativa gabinete de la p.g.
-* Administrativo / administrativa n18
 * Administrativo / administrativa oficina expresidentes del gobierno
 * Administrativo / administrativa organos colegiados administración penitenciaria
 * Administrativo / administrativa régimen interior consejo de ministros
@@ -10909,9 +10909,9 @@ Listado de claves:
 * Agente hacienda pública entrada h10
 * Agente mediambiental
 * Agente medioambiental
+* Agente medioambiental N16
 * Agente medioambiental de parques nacionales
 * Agente medioambiental jefe
-* Agente medioambiental n16
 * Agente v.a. aéreo 4
 * Agente v.a. aéreo 6
 * Agente v.a. investigación 1
@@ -10957,12 +10957,12 @@ Listado de claves:
 * Analista de proyectos
 * Analista de puestos
 * Analista de sistemas
+* Analista de sistemas N22
 * Analista de sistemas adm.penit.
 * Analista de sistemas de admon. penit.
 * Analista de sistemas de la unidad de inteligencia económica
 * Analista de sistemas de oficina del partícipe
 * Analista de sistemas informáticos
-* Analista de sistemas n22
 * Analista de sitemas
 * Analista de tasas y precios publicos
 * Analista económico y de recursos financieros
@@ -10989,15 +10989,14 @@ Listado de claves:
 * Analista programaador
 * Analista programador
 * Analista programador (otan)
+* Analista programador N18
 * Analista programador de sistemas
-* Analista programador n.18
-* Analista programador n18
 * Analista programador/a
 * Analista programador20
 * Analista programdor
 * Analista regimenes esp. i.v.a.
 * Analista retributivo ayudante
-* Analista retributivo ayudante n22
+* Analista retributivo ayudante N22
 * Analista retributivo superior
 * Analista régimen general i.v.a.
 * Analista sector gastos fiscales
@@ -11040,6 +11039,9 @@ Listado de claves:
 * Arquitecto/a técnico/a especial
 * Arquitecto/a técnico/a jefe/a
 * Asesor / asesora
+* Asesor / asesora N25
+* Asesor / asesora N26
+* Asesor / asesora N30
 * Asesor / asesora b
 * Asesor / asesora ceintifico
 * Asesor / asesora científico
@@ -11055,24 +11057,21 @@ Listado de claves:
 * Asesor / asesora jurídico general
 * Asesor / asesora jurídico/a
 * Asesor / asesora médico
-* Asesor / asesora n.30
-* Asesor / asesora n25
-* Asesor / asesora n26
 * Asesor / asesora técnica
 * Asesor / asesora técnico
+* Asesor / asesora técnico N26
 * Asesor / asesora técnico abogado del estado
 * Asesor / asesora técnico d.p.
 * Asesor / asesora técnico d.p. 24
-* Asesor / asesora técnico d.p. n24
-* Asesor / asesora técnico d.p. n25
-* Asesor / asesora técnico d.p. n26
-* Asesor / asesora técnico d.p.n25
+* Asesor / asesora técnico d.p. N24
+* Asesor / asesora técnico d.p. N25
+* Asesor / asesora técnico d.p. N26
+* Asesor / asesora técnico d.p.N25
 * Asesor / asesora técnico de seguridad
-* Asesor / asesora técnico n26
-* Asesor / asesora técnico ss.cc. n26
+* Asesor / asesora técnico ss.cc. N26
+* Asesor N26
 * Asesor de la presidencia
-* Asesor de la presidencia n30
-* Asesor n26
+* Asesor de la presidencia N30
 * Asesor pres. para rel. institucionales
 * Asesor pres. para rel. internacionales
 * Asesor presidencia de publicaciones
@@ -11115,14 +11114,17 @@ Listado de claves:
 * Auditor / auditora nacional jefe de equipo
 * Auditor / auditora nacional supervisor
 * Auxiliar
+* Auxiliar N13
+* Auxiliar N14
+* Auxiliar N14 agencia consular basilea
 * Auxiliar de cooperación
 * Auxiliar de extranjería
 * Auxiliar de información
-* Auxiliar de información n14
+* Auxiliar de información N14
 * Auxiliar de información y registro
 * Auxiliar de informática
+* Auxiliar de informática N14
 * Auxiliar de informática de cooperación
-* Auxiliar de informática n14
 * Auxiliar de investigación de i+d+i
 * Auxiliar de investigación en laboratorio
 * Auxiliar de investigación i+d+i
@@ -11130,6 +11132,8 @@ Listado de claves:
 * Auxiliar de laboratorio 4
 * Auxiliar de laboratorio 5
 * Auxiliar de oficina
+* Auxiliar de oficina N14
+* Auxiliar de oficina N15
 * Auxiliar de oficina de empleo y prestaciones
 * Auxiliar de oficina de información
 * Auxiliar de oficina de información y registro
@@ -11139,41 +11143,37 @@ Listado de claves:
 * Auxiliar de oficina de prestacioness
 * Auxiliar de oficina de prestraciones
 * Auxiliar de oficina de registro
-* Auxiliar de oficina n14
-* Auxiliar de oficina n15
 * Auxiliar de registro
 * Auxiliar de registro e información
 * Auxiliar de registro general
 * Auxiliar de reparto en moto
-* Auxiliar n13
-* Auxiliar n14
-* Auxiliar n14 agencia consular basilea
 * Auxiliar oficina
 * Ayuda solista
 * Ayudante
+* Ayudante N16
 * Ayudante administración b
 * Ayudante administración c
 * Ayudante administración d
 * Ayudante control interno y contabilidad tipo i
 * Ayudante de administración
 * Ayudante de administración (otan)
+* Ayudante de administración N15
+* Ayudante de administración N16
 * Ayudante de administración a
 * Ayudante de administración b
 * Ayudante de administración c
 * Ayudante de administración d
 * Ayudante de administración e
-* Ayudante de administración n15
-* Ayudante de administración n16
 * Ayudante de adminsitracion c
 * Ayudante de biblioteca y documentación
 * Ayudante de control interno y contabilidad tipo i
 * Ayudante de control interno y contabilidad tipo ii
 * Ayudante de extranjería
 * Ayudante de gestión
+* Ayudante de gestión N16
+* Ayudante de gestión N18
+* Ayudante de gestión N20
 * Ayudante de gestión de personal
-* Ayudante de gestión n16
-* Ayudante de gestión n18
-* Ayudante de gestión n20
 * Ayudante de habilitación
 * Ayudante de información
 * Ayudante de información meteorológica
@@ -11188,6 +11188,9 @@ Listado de claves:
 * Ayudante de medios
 * Ayudante de nvestigacion i+d+i
 * Ayudante de oficina
+* Ayudante de oficina N14
+* Ayudante de oficina N15
+* Ayudante de oficina N16
 * Ayudante de oficina b
 * Ayudante de oficina d
 * Ayudante de oficina de empleo y prestaciones
@@ -11196,9 +11199,6 @@ Listado de claves:
 * Ayudante de oficina de prestaciones a
 * Ayudante de oficina de prestaciones b
 * Ayudante de oficina del partícipe
-* Ayudante de oficina n14
-* Ayudante de oficina n15
-* Ayudante de oficina n16
 * Ayudante de oficina prestaciones
 * Ayudante de prevención
 * Ayudante de prevención b
@@ -11227,24 +11227,23 @@ Listado de claves:
 * Ayudante de seguridad de admon. penit.
 * Ayudante de servicio técnico
 * Ayudante jefe de explotación
-* Ayudante n16
 * Ayudante oficina b
 * Ayudante secretaria de subsecretario
 * Ayudante secretaria director / directora
 * Ayudante secretaria director gabinete
 * Ayudante técnico
+* Ayudante técnico N18
 * Ayudante técnico de meteorología
-* Ayudante técnico n18
 * Ayudante técnico vida silvestre
 * Ayudantede intervención
 * Cajero / cajera
 * Cajero / cajera habilitado
-* Cajero / cajera habilitado n18
+* Cajero / cajera habilitado N18
 * Cajero / cajera pagador
+* Cajero / cajera pagador N18
+* Cajero / cajera pagador N22
 * Cajero / cajera pagador adjunto
 * Cajero / cajera pagador habilitado
-* Cajero / cajera pagador n18
-* Cajero / cajera pagador n22
 * Cajero / cajera pagador suplente
 * Cajero pagador
 * Calificador/calificadora de expedientes
@@ -11262,7 +11261,7 @@ Listado de claves:
 * Colaborador/a auditoria 3
 * Colaborador/a auditoria 5
 * Colaborador/a auditoria 6
-* Colaborador/a auditoria g.a.n.28
+* Colaborador/a auditoria g.a.N28
 * Colaborador/a auditoria g.b. especial
 * Colaborador/a grupo a
 * Colaborador/a onif grupo a
@@ -11314,6 +11313,7 @@ Listado de claves:
 * Consejero técnico
 * Consejero técnico / consejera técnica
 * Consejero técnico / consejera técnica (c.n.s.c.v.)
+* Consejero técnico / consejera técnica N28
 * Consejero técnico / consejera técnica adjunto subdirector
 * Consejero técnico / consejera técnica asuntos comunitarios
 * Consejero técnico / consejera técnica asuntos de canadá
@@ -11385,7 +11385,6 @@ Listado de claves:
 * Consejero técnico / consejera técnica del observatorio
 * Consejero técnico / consejera técnica director de área
 * Consejero técnico / consejera técnica información medicam.y p.s.
-* Consejero técnico / consejera técnica n28
 * Consejero técnico / consejera técnica ong y subvenciones
 * Consejero técnico / consejera técnica ong y voluntariado
 * Consejero técnico / consejera técnica para la u.e. y asuntos internación.
@@ -11404,6 +11403,7 @@ Listado de claves:
 * Consultor / consultora
 * Coordinación área inspección
 * Coordinador / coordinadora
+* Coordinador / coordinadora N29
 * Coordinador / coordinadora análisis territorial
 * Coordinador / coordinadora c.e.e.
 * Coordinador / coordinadora centro de proceso de datos
@@ -11468,7 +11468,7 @@ Listado de claves:
 * Coordinador / coordinadora de prevención y estudios de accidentes
 * Coordinador / coordinadora de producción
 * Coordinador / coordinadora de programa
-* Coordinador / coordinadora de programa n29
+* Coordinador / coordinadora de programa N29
 * Coordinador / coordinadora de programa técnico científico
 * Coordinador / coordinadora de programas
 * Coordinador / coordinadora de programas de actuación
@@ -11591,14 +11591,13 @@ Listado de claves:
 * Coordinador / coordinadora general de inspección sanidad vegetal
 * Coordinador / coordinadora general de prestaciones sociales
 * Coordinador / coordinadora gerente
-* Coordinador / coordinadora informatico n20
-* Coordinador / coordinadora informatico n22
-* Coordinador / coordinadora informatico n24
+* Coordinador / coordinadora informatico N20
+* Coordinador / coordinadora informatico N22
+* Coordinador / coordinadora informatico N24
 * Coordinador / coordinadora informatico n24a
 * Coordinador / coordinadora institucional
-* Coordinador / coordinadora jefe de explotación n22
+* Coordinador / coordinadora jefe de explotación N22
 * Coordinador / coordinadora jefe de los servicios de inspección
-* Coordinador / coordinadora n29
 * Coordinador / coordinadora nacional del sistema de información del mercado interior (nimic)
 * Coordinador / coordinadora observatorio ocupacional
 * Coordinador / coordinadora para asuntos juridicos
@@ -11668,9 +11667,9 @@ Listado de claves:
 * Delegado/a especial adjunto/a b
 * Delegado/a especial de la agencia
 * Delineante
+* Delineante N18
 * Delineante cartográfico
 * Delineante de segunda
-* Delineante n18
 * Director
 * Director / directora
 * Director / directora adjunto
@@ -12312,9 +12311,9 @@ Listado de claves:
 * Director / directora gtp de Ceuta
 * Director / directora gtp de Melilla
 * Director / directora insular
-* Director / directora local n18
-* Director / directora local n20
-* Director / directora local n22
+* Director / directora local N18
+* Director / directora local N20
+* Director / directora local N22
 * Director / directora o.n.a.
 * Director / directora oficina nacional de contabilidad
 * Director / directora oficina polivalente
@@ -12445,6 +12444,7 @@ Listado de claves:
 * Gerente territorial
 * Gerente territorial adjunto
 * Gestor / gestora
+* Gestor / gestora N20
 * Gestor / gestora a
 * Gestor / gestora administrativo
 * Gestor / gestora adminsitrativo
@@ -12474,7 +12474,6 @@ Listado de claves:
 * Gestor / gestora jurídico
 * Gestor / gestora jurídico coordinador
 * Gestor / gestora laboratorios alertas biologicos
-* Gestor / gestora n20
 * Gestor / gestora prestaciones o administrativo contable
 * Gestor / gestora reclamaciones internacionales
 * Gestor / gestora servicios generales
@@ -12520,9 +12519,11 @@ Listado de claves:
 * Gestor/a registro general 5
 * Gestor/a registro general 6
 * Grabador / grabadora
-* Grabador / grabadora n14
+* Grabador / grabadora N14
 * Guarda mayor
 * Habilitado / habilitada
+* Habilitado / habilitada N18
+* Habilitado / habilitada N22
 * Habilitado / habilitada adjunto
 * Habilitado / habilitada cajero
 * Habilitado / habilitada cajero pagador
@@ -12536,15 +12537,13 @@ Listado de claves:
 * Habilitado / habilitada jefe de sección de gestión económica
 * Habilitado / habilitada jefe de sección de gestión económica y servicios comunes
 * Habilitado / habilitada jefe de sección de recaudación
-* Habilitado / habilitada n18
-* Habilitado / habilitada n22
 * Habilitado / habilitada pagador
 * Habilitado / habilitada pagador/ pagadora
 * Habilitado / habilitada provincial
 * Habilitado / habilitada provincial suplente
 * Habilitado / habilitada suplente
-* Habilitado / habilitada suplente n18
-* Habilitado / habilitada suplente n22
+* Habilitado / habilitada suplente N18
+* Habilitado / habilitada suplente N22
 * Habilitado adjunto / habilitada adjunta
 * Informador / informadora gesrtor prestaciones
 * Informador / informadora gestor
@@ -12588,16 +12587,16 @@ Listado de claves:
 * Inspector / inspectora de telecomunicaciones (centrales)
 * Inspector / inspectora de telecomunicaciones a
 * Inspector / inspectora de telecomunicaciones b
-* Inspector / inspectora de trabajo y s.s n26
+* Inspector / inspectora de trabajo y s.s N26
 * Inspector / inspectora de trabajo y s.s.
-* Inspector / inspectora de trabajo y s.s. n26
+* Inspector / inspectora de trabajo y s.s. N26
 * Inspector / inspectora de trabajo y seguridad social
+* Inspector / inspectora de trabajo y seguridad social N26
+* Inspector / inspectora de trabajo y seguridad social N27
 * Inspector / inspectora de trabajo y seguridad social alta inspección
-* Inspector / inspectora de trabajo y seguridad social n26
-* Inspector / inspectora de trabajo y seguridad social n27
 * Inspector / inspectora de trabajo y seguridad socialn26
-* Inspector / inspectora de trabajo y seguridad sociaol n26
-* Inspector / inspectora de variedades n20
+* Inspector / inspectora de trabajo y seguridad sociaol N26
+* Inspector / inspectora de variedades N20
 * Inspector / inspectora general adjunto
 * Inspector / inspectora general de sanidad
 * Inspector / inspectora general de servicios
@@ -12680,9 +12679,9 @@ Listado de claves:
 * Inspector/a servicios econ.hda.coord
 * Inspector/a unidad ctrol.tribut.y aduan.
 * Instructor / instructora
+* Instructor / instructora N24
 * Instructor / instructora de expedientes
 * Instructor / instructora de formación ocupacional
-* Instructor / instructora n24
 * Interventor / interventora
 * Interventor / interventora auditor
 * Interventor / interventora auditor regional
@@ -12831,6 +12830,9 @@ Listado de claves:
 * Jefe / jefa de división de programación y gestión económica y administrativa
 * Jefe / jefa de división de tecnologías información
 * Jefe / jefa de equipo
+* Jefe / jefa de equipo N14
+* Jefe / jefa de equipo N15
+* Jefe / jefa de equipo N18
 * Jefe / jefa de equipo atención e información
 * Jefe / jefa de equipo atención e información al ciudadano
 * Jefe / jefa de equipo de aplicaciones
@@ -12844,9 +12846,6 @@ Listado de claves:
 * Jefe / jefa de equipo ensayos
 * Jefe / jefa de equipo información
 * Jefe / jefa de equipo inspección
-* Jefe / jefa de equipo n14
-* Jefe / jefa de equipo n15
-* Jefe / jefa de equipo n18
 * Jefe / jefa de equipo red alerta sanitaria veterinaria
 * Jefe / jefa de estación ensayos semillas y plantas vivero
 * Jefe / jefa de estación mediciones radioeléctricas
@@ -12875,11 +12874,11 @@ Listado de claves:
 * Jefe / jefa de gabinete telegráfico de admon. penit.
 * Jefe / jefa de gabinete técnico
 * Jefe / jefa de grupo
+* Jefe / jefa de grupo N18
+* Jefe / jefa de grupo N20
 * Jefe / jefa de grupo de inspección de servicios
 * Jefe / jefa de grupo de predicción y vigilancia
 * Jefe / jefa de grupo formación ocupacional
-* Jefe / jefa de grupo n18
-* Jefe / jefa de grupo n20
 * Jefe / jefa de grupo prestaciones
 * Jefe / jefa de habilitación de personal
 * Jefe / jefa de habilitación y pagaduría
@@ -12924,6 +12923,14 @@ Listado de claves:
 * Jefe / jefa de negociado 1 red local
 * Jefe / jefa de negociado 2 red local
 * Jefe / jefa de negociado 2 red local (c.s.)
+* Jefe / jefa de negociado N14
+* Jefe / jefa de negociado N15
+* Jefe / jefa de negociado N16
+* Jefe / jefa de negociado N16 (u. grandes empresas)
+* Jefe / jefa de negociado N17
+* Jefe / jefa de negociado N18
+* Jefe / jefa de negociado N18 (u. grandes empresas)
+* Jefe / jefa de negociado N18 p.g.
 * Jefe / jefa de negociado actos
 * Jefe / jefa de negociado actualizacion información
 * Jefe / jefa de negociado administrador de oficina
@@ -12938,6 +12945,10 @@ Listado de claves:
 * Jefe / jefa de negociado de almacén e inventario
 * Jefe / jefa de negociado de almacén y suministros de admon. penit.
 * Jefe / jefa de negociado de apoyo
+* Jefe / jefa de negociado de apoyo N16
+* Jefe / jefa de negociado de apoyo N18
+* Jefe / jefa de negociado de apoyo N18 consejo gral. ISM
+* Jefe / jefa de negociado de apoyo N18 dirección general
 * Jefe / jefa de negociado de apoyo al consejo asesor de sanidad
 * Jefe / jefa de negociado de apoyo cir
 * Jefe / jefa de negociado de apoyo cursos
@@ -12946,22 +12957,18 @@ Listado de claves:
 * Jefe / jefa de negociado de apoyo documental (disco óptico)
 * Jefe / jefa de negociado de apoyo documental e informatico
 * Jefe / jefa de negociado de apoyo internacional
-* Jefe / jefa de negociado de apoyo n16
-* Jefe / jefa de negociado de apoyo n18
-* Jefe / jefa de negociado de apoyo n18 consejo gral. ISM
-* Jefe / jefa de negociado de apoyo n18 dirección general
 * Jefe / jefa de negociado de archivo
-* Jefe / jefa de negociado de archivo n16
+* Jefe / jefa de negociado de archivo N16
 * Jefe / jefa de negociado de archivo y documentación
 * Jefe / jefa de negociado de archivo y registro general
 * Jefe / jefa de negociado de asuntos generales
 * Jefe / jefa de negociado de atención al público
+* Jefe / jefa de negociado de atención al público N15
+* Jefe / jefa de negociado de atención al público N16
 * Jefe / jefa de negociado de atención al público en legaliza.
 * Jefe / jefa de negociado de atención al público en legalizaciones
-* Jefe / jefa de negociado de atención al público n15
-* Jefe / jefa de negociado de atención al público n16
 * Jefe / jefa de negociado de base de datos
-* Jefe / jefa de negociado de becas n18
+* Jefe / jefa de negociado de becas N18
 * Jefe / jefa de negociado de biblioteca
 * Jefe / jefa de negociado de caja
 * Jefe / jefa de negociado de caja - habilitación
@@ -12980,17 +12987,17 @@ Listado de claves:
 * Jefe / jefa de negociado de control
 * Jefe / jefa de negociado de cooperación
 * Jefe / jefa de negociado de coord. administrativa
-* Jefe / jefa de negociado de coordinación n16
-* Jefe / jefa de negociado de coordinación n18
+* Jefe / jefa de negociado de coordinación N16
+* Jefe / jefa de negociado de coordinación N18
 * Jefe / jefa de negociado de cursos para iberoamerica
 * Jefe / jefa de negociado de delineación y cartografía
-* Jefe / jefa de negociado de delineación y cartografía informatizada n17
-* Jefe / jefa de negociado de delineación y cartografía informatizada n18
-* Jefe / jefa de negociado de delineación y cartografía n17
+* Jefe / jefa de negociado de delineación y cartografía N17
+* Jefe / jefa de negociado de delineación y cartografía informatizada N17
+* Jefe / jefa de negociado de delineación y cartografía informatizada N18
 * Jefe / jefa de negociado de departamento de reprografia
 * Jefe / jefa de negociado de derechos y libertades
 * Jefe / jefa de negociado de distribución
-* Jefe / jefa de negociado de distribución n18
+* Jefe / jefa de negociado de distribución N18
 * Jefe / jefa de negociado de documentación
 * Jefe / jefa de negociado de documentación parlamentaria
 * Jefe / jefa de negociado de documentación y archivo
@@ -13000,32 +13007,32 @@ Listado de claves:
 * Jefe / jefa de negociado de equipamiento e inventario
 * Jefe / jefa de negociado de equipo técnico central de observación de admon. penit.
 * Jefe / jefa de negociado de estadística
-* Jefe / jefa de negociado de estadística n18
+* Jefe / jefa de negociado de estadística N18
 * Jefe / jefa de negociado de estudio y análisis
 * Jefe / jefa de negociado de expedientes
 * Jefe / jefa de negociado de extranjería
+* Jefe / jefa de negociado de gestión N18
 * Jefe / jefa de negociado de gestión datos control dopaje
 * Jefe / jefa de negociado de gestión de contenidos de la administración del estado
 * Jefe / jefa de negociado de gestión de personal de admon. penit.
 * Jefe / jefa de negociado de gestión de servicios de admon. penit.
 * Jefe / jefa de negociado de gestión económica
-* Jefe / jefa de negociado de gestión n18
 * Jefe / jefa de negociado de gestión penitenciaria de admon. penit.
 * Jefe / jefa de negociado de habilitación
 * Jefe / jefa de negociado de habilitación central
 * Jefe / jefa de negociado de habilitación de personal
 * Jefe / jefa de negociado de habilitación y pagaduría
-* Jefe / jefa de negociado de habilitación y pagaduría n18
+* Jefe / jefa de negociado de habilitación y pagaduría N18
 * Jefe / jefa de negociado de habilitación y pagaduría suplente
 * Jefe / jefa de negociado de habilitado
 * Jefe / jefa de negociado de inform.económico-financiera
 * Jefe / jefa de negociado de información
+* Jefe / jefa de negociado de información N16
+* Jefe / jefa de negociado de información N17
+* Jefe / jefa de negociado de información N18
 * Jefe / jefa de negociado de información al público
-* Jefe / jefa de negociado de información al público n18
+* Jefe / jefa de negociado de información al público N18
 * Jefe / jefa de negociado de información meteorológica
-* Jefe / jefa de negociado de información n16
-* Jefe / jefa de negociado de información n17
-* Jefe / jefa de negociado de información n18
 * Jefe / jefa de negociado de información pública
 * Jefe / jefa de negociado de información visitas y reservas
 * Jefe / jefa de negociado de información y atención público
@@ -13034,11 +13041,11 @@ Listado de claves:
 * Jefe / jefa de negociado de inspección
 * Jefe / jefa de negociado de instrucciones
 * Jefe / jefa de negociado de intervención
-* Jefe / jefa de negociado de intervención n16
-* Jefe / jefa de negociado de intervención n17
-* Jefe / jefa de negociado de intervención n18
+* Jefe / jefa de negociado de intervención N16
+* Jefe / jefa de negociado de intervención N17
+* Jefe / jefa de negociado de intervención N18
 * Jefe / jefa de negociado de inventario
-* Jefe / jefa de negociado de laboratorio control dopaje n16
+* Jefe / jefa de negociado de laboratorio control dopaje N16
 * Jefe / jefa de negociado de mecanizacion
 * Jefe / jefa de negociado de mecanizacion propuestas
 * Jefe / jefa de negociado de nominas
@@ -13054,21 +13061,21 @@ Listado de claves:
 * Jefe / jefa de negociado de personal
 * Jefe / jefa de negociado de prensa
 * Jefe / jefa de negociado de prestaciones
-* Jefe / jefa de negociado de prestaciones n16
-* Jefe / jefa de negociado de prestaciones n18
+* Jefe / jefa de negociado de prestaciones N16
+* Jefe / jefa de negociado de prestaciones N18
 * Jefe / jefa de negociado de producción
 * Jefe / jefa de negociado de protocolo
-* Jefe / jefa de negociado de protocolo n18 p.g.
+* Jefe / jefa de negociado de protocolo N18 p.g.
 * Jefe / jefa de negociado de publicaciones
 * Jefe / jefa de negociado de publicaciones electronicas
 * Jefe / jefa de negociado de reclamaciones
 * Jefe / jefa de negociado de reg. e información
 * Jefe / jefa de negociado de registro
+* Jefe / jefa de negociado de registro N15
+* Jefe / jefa de negociado de registro N18
 * Jefe / jefa de negociado de registro de ordenación de diarios
 * Jefe / jefa de negociado de registro e información
 * Jefe / jefa de negociado de registro general
-* Jefe / jefa de negociado de registro n15
-* Jefe / jefa de negociado de registro n18
 * Jefe / jefa de negociado de registro y reclamaciones
 * Jefe / jefa de negociado de relaciones internacionales
 * Jefe / jefa de negociado de relaciones tribunales
@@ -13090,7 +13097,7 @@ Listado de claves:
 * Jefe / jefa de negociado de valijas extraordinarias
 * Jefe / jefa de negociado de ventas y atención al público
 * Jefe / jefa de negociado de visados
-* Jefe / jefa de negociado de visados n18
+* Jefe / jefa de negociado de visados N18
 * Jefe / jefa de negociado de área jurídica
 * Jefe / jefa de negociado del gis
 * Jefe / jefa de negociado documentación
@@ -13100,14 +13107,6 @@ Listado de claves:
 * Jefe / jefa de negociado intervención
 * Jefe / jefa de negociado mesa contratación
 * Jefe / jefa de negociado multimedia
-* Jefe / jefa de negociado n14
-* Jefe / jefa de negociado n15
-* Jefe / jefa de negociado n16
-* Jefe / jefa de negociado n16 (u. grandes empresas)
-* Jefe / jefa de negociado n17
-* Jefe / jefa de negociado n18
-* Jefe / jefa de negociado n18 (u. grandes empresas)
-* Jefe / jefa de negociado n18 p.g.
 * Jefe / jefa de negociado observatorio
 * Jefe / jefa de negociado oficina de información y registro
 * Jefe / jefa de negociado síndrome tóxico
@@ -13167,9 +13166,9 @@ Listado de claves:
 * Jefe / jefa de proyectos de administración electrónica
 * Jefe / jefa de proyectos informáticos
 * Jefe / jefa de proyectos sistemas informáticos
-* Jefe / jefa de proyectos sistemas informáticos n26
+* Jefe / jefa de proyectos sistemas informáticos N26
 * Jefe / jefa de proyectos técnicos
-* Jefe / jefa de proyectos técnicos n26
+* Jefe / jefa de proyectos técnicos N26
 * Jefe / jefa de red informática periférica
 * Jefe / jefa de red periférica
 * Jefe / jefa de registro
@@ -13185,6 +13184,10 @@ Listado de claves:
 * Jefe / jefa de sección (hcm)
 * Jefe / jefa de sección (oficina delegada)
 * Jefe / jefa de sección (otan)
+* Jefe / jefa de sección N20
+* Jefe / jefa de sección N22
+* Jefe / jefa de sección N22 (u. grandes empresas)
+* Jefe / jefa de sección N24
 * Jefe / jefa de sección a
 * Jefe / jefa de sección adjunto de registro general
 * Jefe / jefa de sección administrador de oficina
@@ -13255,6 +13258,8 @@ Listado de claves:
 * Jefe / jefa de sección de análisis y mant. sistemas bibliotecarios
 * Jefe / jefa de sección de análisis y prog.
 * Jefe / jefa de sección de apoyo
+* Jefe / jefa de sección de apoyo N22
+* Jefe / jefa de sección de apoyo N24
 * Jefe / jefa de sección de apoyo a control
 * Jefe / jefa de sección de apoyo a fincas
 * Jefe / jefa de sección de apoyo a formación y documentación
@@ -13266,8 +13271,6 @@ Listado de claves:
 * Jefe / jefa de sección de apoyo informatico
 * Jefe / jefa de sección de apoyo inspección de admon. penit.
 * Jefe / jefa de sección de apoyo investigación
-* Jefe / jefa de sección de apoyo n22
-* Jefe / jefa de sección de apoyo n24
 * Jefe / jefa de sección de apoyo parlamentario
 * Jefe / jefa de sección de apoyo técnico
 * Jefe / jefa de sección de apoyo técnico e información
@@ -13276,10 +13279,10 @@ Listado de claves:
 * Jefe / jefa de sección de apoyo y coordinación
 * Jefe / jefa de sección de arbitrajes internacionales
 * Jefe / jefa de sección de archivo
+* Jefe / jefa de sección de archivo N22
 * Jefe / jefa de sección de archivo de la palabra
 * Jefe / jefa de sección de archivo general
 * Jefe / jefa de sección de archivo inventario y control de material
-* Jefe / jefa de sección de archivo n22
 * Jefe / jefa de sección de archivo y biblioteca
 * Jefe / jefa de sección de archivo y registro
 * Jefe / jefa de sección de archivos
@@ -13287,11 +13290,11 @@ Listado de claves:
 * Jefe / jefa de sección de arqueología
 * Jefe / jefa de sección de arrendamientos
 * Jefe / jefa de sección de artes aplicadas
-* Jefe / jefa de sección de asesoramiento público n22
-* Jefe / jefa de sección de asesoramiento público n24
+* Jefe / jefa de sección de asesoramiento público N22
+* Jefe / jefa de sección de asesoramiento público N24
 * Jefe / jefa de sección de asistencia técnica
 * Jefe / jefa de sección de asuntos generales
-* Jefe / jefa de sección de asuntos generales n22
+* Jefe / jefa de sección de asuntos generales N22
 * Jefe / jefa de sección de asuntos juridicos
 * Jefe / jefa de sección de asuntos técnicos de admon. penit.
 * Jefe / jefa de sección de atención al ciudadano
@@ -13314,23 +13317,23 @@ Listado de claves:
 * Jefe / jefa de sección de bases de datos de personal de admon. penit.
 * Jefe / jefa de sección de bibliografía española
 * Jefe / jefa de sección de biblioteca
-* Jefe / jefa de sección de biblioteca n24
+* Jefe / jefa de sección de biblioteca N24
 * Jefe / jefa de sección de biblioteca referencia
 * Jefe / jefa de sección de biblioteca, archivo y documentación
 * Jefe / jefa de sección de bibliotecas
-* Jefe / jefa de sección de bibliotecas n24
+* Jefe / jefa de sección de bibliotecas N24
 * Jefe / jefa de sección de bienes inmuebles
 * Jefe / jefa de sección de c
 * Jefe / jefa de sección de c.r.m.f.
 * Jefe / jefa de sección de cabotaje y estadística
 * Jefe / jefa de sección de caj pag hab
 * Jefe / jefa de sección de caja
+* Jefe / jefa de sección de caja N20
+* Jefe / jefa de sección de caja N22
+* Jefe / jefa de sección de caja N24
 * Jefe / jefa de sección de caja fija
 * Jefe / jefa de sección de caja fija y facturación electrónica
 * Jefe / jefa de sección de caja habilitación
-* Jefe / jefa de sección de caja n20
-* Jefe / jefa de sección de caja n22
-* Jefe / jefa de sección de caja n24
 * Jefe / jefa de sección de caja pagadora
 * Jefe / jefa de sección de caja pagadora de centros
 * Jefe / jefa de sección de cajas de ahorro
@@ -13391,11 +13394,11 @@ Listado de claves:
 * Jefe / jefa de sección de contabilidad y presupuestos
 * Jefe / jefa de sección de contenidos web
 * Jefe / jefa de sección de contratación
+* Jefe / jefa de sección de contratación N22
 * Jefe / jefa de sección de contratación administrativa
 * Jefe / jefa de sección de contratación de admon. penit.
 * Jefe / jefa de sección de contratación de las consejerias turismo
 * Jefe / jefa de sección de contratación de obras
-* Jefe / jefa de sección de contratación n22
 * Jefe / jefa de sección de contratación y gasto
 * Jefe / jefa de sección de contratación y patrimonio
 * Jefe / jefa de sección de contratos seguridad
@@ -13432,6 +13435,7 @@ Listado de claves:
 * Jefe / jefa de sección de cooperación musical
 * Jefe / jefa de sección de cooperación técnica
 * Jefe / jefa de sección de coordinación
+* Jefe / jefa de sección de coordinación N20
 * Jefe / jefa de sección de coordinación administrativa
 * Jefe / jefa de sección de coordinación centralizada
 * Jefe / jefa de sección de coordinación cursos de admon. penit.
@@ -13441,7 +13445,6 @@ Listado de claves:
 * Jefe / jefa de sección de coordinación habilitación periférica
 * Jefe / jefa de sección de coordinación información
 * Jefe / jefa de sección de coordinación medios de control
-* Jefe / jefa de sección de coordinación n20
 * Jefe / jefa de sección de coordinación registros altos cargos
 * Jefe / jefa de sección de coordinación talleres
 * Jefe / jefa de sección de coordinación y archivo de proyectos
@@ -13455,8 +13458,8 @@ Listado de claves:
 * Jefe / jefa de sección de declaración utilidad pública
 * Jefe / jefa de sección de delineación cartográfica
 * Jefe / jefa de sección de delineación y cartografía informatizada
-* Jefe / jefa de sección de delineación y cartografía informatizada n20
-* Jefe / jefa de sección de delineación y cartografía informatizada n22
+* Jefe / jefa de sección de delineación y cartografía informatizada N20
+* Jefe / jefa de sección de delineación y cartografía informatizada N22
 * Jefe / jefa de sección de depositos generales
 * Jefe / jefa de sección de depósito legal
 * Jefe / jefa de sección de derechos ciudadanos
@@ -13485,8 +13488,8 @@ Listado de claves:
 * Jefe / jefa de sección de edición y diseño pag. web
 * Jefe / jefa de sección de ejecución económica contr.
 * Jefe / jefa de sección de emergencia consular
-* Jefe / jefa de sección de empleo n22
-* Jefe / jefa de sección de empleo n24
+* Jefe / jefa de sección de empleo N22
+* Jefe / jefa de sección de empleo N24
 * Jefe / jefa de sección de empleo y formación
 * Jefe / jefa de sección de ensayos biologicos
 * Jefe / jefa de sección de ensayos de investigación
@@ -13502,8 +13505,8 @@ Listado de claves:
 * Jefe / jefa de sección de equipos emisores
 * Jefe / jefa de sección de estado civil i
 * Jefe / jefa de sección de estadística
-* Jefe / jefa de sección de estadística n22
-* Jefe / jefa de sección de estadística n24
+* Jefe / jefa de sección de estadística N22
+* Jefe / jefa de sección de estadística N24
 * Jefe / jefa de sección de estadística y coordinación
 * Jefe / jefa de sección de estadística y tránsito explosiv
 * Jefe / jefa de sección de estadísticas web
@@ -13532,27 +13535,28 @@ Listado de claves:
 * Jefe / jefa de sección de fondos impresos
 * Jefe / jefa de sección de fondos unión europea
 * Jefe / jefa de sección de formación
+* Jefe / jefa de sección de formación N22
 * Jefe / jefa de sección de formación aeron. y escuelas
 * Jefe / jefa de sección de formación continuada de admon. penit.
 * Jefe / jefa de sección de formación control.tráfico aéreo
 * Jefe / jefa de sección de formación desp. vuelo e inglés aeron.
 * Jefe / jefa de sección de formación inicial de admon. penit.
-* Jefe / jefa de sección de formación n22
 * Jefe / jefa de sección de formación ocupacional
-* Jefe / jefa de sección de formación ocupacional n24
+* Jefe / jefa de sección de formación ocupacional N24
 * Jefe / jefa de sección de formación profesional e inserción de admon. penit.
 * Jefe / jefa de sección de formación profesional ocupacional de admon. penit.
 * Jefe / jefa de sección de formación trip.cabina pasajeros
 * Jefe / jefa de sección de formación vial
 * Jefe / jefa de sección de formación y acción social
 * Jefe / jefa de sección de fotografía y efímera
-* Jefe / jefa de sección de fotovideo n24
+* Jefe / jefa de sección de fotovideo N24
 * Jefe / jefa de sección de gabinete comunicaciones
 * Jefe / jefa de sección de gabinete de comunicaciones p.g.
 * Jefe / jefa de sección de galénica
 * Jefe / jefa de sección de gastos de transporte
 * Jefe / jefa de sección de gastos judiciales
 * Jefe / jefa de sección de gestión
+* Jefe / jefa de sección de gestión N22
 * Jefe / jefa de sección de gestión administrativa
 * Jefe / jefa de sección de gestión bibliotecaria
 * Jefe / jefa de sección de gestión cartera servicios
@@ -13582,7 +13586,6 @@ Listado de claves:
 * Jefe / jefa de sección de gestión incresos
 * Jefe / jefa de sección de gestión institucinal
 * Jefe / jefa de sección de gestión inversiones
-* Jefe / jefa de sección de gestión n22
 * Jefe / jefa de sección de gestión patrimonial
 * Jefe / jefa de sección de gestión penitenciaria de admon. penit.
 * Jefe / jefa de sección de gestión penitenciria de admon. penit.
@@ -13604,11 +13607,11 @@ Listado de claves:
 * Jefe / jefa de sección de guardería fluvial
 * Jefe / jefa de sección de guardia cifra
 * Jefe / jefa de sección de habilitación
+* Jefe / jefa de sección de habilitación N22
 * Jefe / jefa de sección de habilitación admon. penit.
 * Jefe / jefa de sección de habilitación consejerias laborales
 * Jefe / jefa de sección de habilitación de personal
 * Jefe / jefa de sección de habilitación gastos personal
-* Jefe / jefa de sección de habilitación n22
 * Jefe / jefa de sección de habilitación nominas exterior
 * Jefe / jefa de sección de habilitación nominas interior
 * Jefe / jefa de sección de habilitación pagaduría
@@ -13619,9 +13622,9 @@ Listado de claves:
 * Jefe / jefa de sección de habilitación y caja
 * Jefe / jefa de sección de habilitación y justificación de cuentas
 * Jefe / jefa de sección de habilitación y pagaduría
-* Jefe / jefa de sección de habilitación y pagaduría n20
-* Jefe / jefa de sección de habilitación y pagaduría n22
-* Jefe / jefa de sección de habilitación y pagaduría n24
+* Jefe / jefa de sección de habilitación y pagaduría N20
+* Jefe / jefa de sección de habilitación y pagaduría N22
+* Jefe / jefa de sección de habilitación y pagaduría N24
 * Jefe / jefa de sección de habilitación, tesorería y contabilidad
 * Jefe / jefa de sección de hap y aminas biogenas
 * Jefe / jefa de sección de hemostasia y trombosis
@@ -13633,6 +13636,8 @@ Listado de claves:
 * Jefe / jefa de sección de incoación
 * Jefe / jefa de sección de indemnizaciones
 * Jefe / jefa de sección de información
+* Jefe / jefa de sección de información N20
+* Jefe / jefa de sección de información N22
 * Jefe / jefa de sección de información administrativa
 * Jefe / jefa de sección de información al ciudadano
 * Jefe / jefa de sección de información bibliográfica
@@ -13641,8 +13646,6 @@ Listado de claves:
 * Jefe / jefa de sección de información electoral
 * Jefe / jefa de sección de información fotografía aérea
 * Jefe / jefa de sección de información meteorológica
-* Jefe / jefa de sección de información n20
-* Jefe / jefa de sección de información n22
 * Jefe / jefa de sección de información público
 * Jefe / jefa de sección de información registros y archivos
 * Jefe / jefa de sección de información y archivos
@@ -13651,8 +13654,8 @@ Listado de claves:
 * Jefe / jefa de sección de información y registro
 * Jefe / jefa de sección de información.ss.pp.y legisl. admtva.
 * Jefe / jefa de sección de informes
+* Jefe / jefa de sección de informes N24
 * Jefe / jefa de sección de informes juridicos
-* Jefe / jefa de sección de informes n24
 * Jefe / jefa de sección de informes y consultas
 * Jefe / jefa de sección de informática
 * Jefe / jefa de sección de infracciones y denuncias
@@ -13670,8 +13673,8 @@ Listado de claves:
 * Jefe / jefa de sección de inspección fammaceutica y control de drogas
 * Jefe / jefa de sección de inspección farmacéutica y control de drogas
 * Jefe / jefa de sección de inspección farmacéutica y control drogas
-* Jefe / jefa de sección de inspección mercado de tabacos n22
-* Jefe / jefa de sección de inspección mercado de tabacos n24
+* Jefe / jefa de sección de inspección mercado de tabacos N22
+* Jefe / jefa de sección de inspección mercado de tabacos N24
 * Jefe / jefa de sección de inspección producción pesquera
 * Jefe / jefa de sección de inspección y control de medicamentos
 * Jefe / jefa de sección de instalaciones
@@ -13679,7 +13682,7 @@ Listado de claves:
 * Jefe / jefa de sección de instituciones cerradas
 * Jefe / jefa de sección de instrucción de expedientes
 * Jefe / jefa de sección de intendencia general
-* Jefe / jefa de sección de intervención n24
+* Jefe / jefa de sección de intervención N24
 * Jefe / jefa de sección de inventario
 * Jefe / jefa de sección de inversiones y análisis económico financiero
 * Jefe / jefa de sección de investigación en enfermería
@@ -13691,9 +13694,9 @@ Listado de claves:
 * Jefe / jefa de sección de legalizaciones
 * Jefe / jefa de sección de lineas regulares
 * Jefe / jefa de sección de mantenimiento
+* Jefe / jefa de sección de mantenimiento N20
 * Jefe / jefa de sección de mantenimiento de admon. penit.
 * Jefe / jefa de sección de mantenimiento equipo
-* Jefe / jefa de sección de mantenimiento n20
 * Jefe / jefa de sección de mantenimiento y explotación
 * Jefe / jefa de sección de manuscritos antiguos
 * Jefe / jefa de sección de mapa topográfico nacional
@@ -13796,13 +13799,13 @@ Listado de claves:
 * Jefe / jefa de sección de prensa de admon. penit.
 * Jefe / jefa de sección de presidencia consejo
 * Jefe / jefa de sección de prestaciones
-* Jefe / jefa de sección de prestaciones n22
-* Jefe / jefa de sección de prestaciones n24
+* Jefe / jefa de sección de prestaciones N22
+* Jefe / jefa de sección de prestaciones N24
 * Jefe / jefa de sección de prestaciones sociales
 * Jefe / jefa de sección de prestaciones sociales fondo especial
 * Jefe / jefa de sección de presup. repres.diplomatic. bilateral
 * Jefe / jefa de sección de presupuestaria
-* Jefe / jefa de sección de presupuestaria n24
+* Jefe / jefa de sección de presupuestaria N24
 * Jefe / jefa de sección de presupuestaria represent.consulares
 * Jefe / jefa de sección de presupuestos
 * Jefe / jefa de sección de presupuestos de la p.g.
@@ -13831,8 +13834,8 @@ Listado de claves:
 * Jefe / jefa de sección de promoción web
 * Jefe / jefa de sección de promoción y difusión
 * Jefe / jefa de sección de protocolo
-* Jefe / jefa de sección de protocolo n20
-* Jefe / jefa de sección de protocolo n20 p.g.
+* Jefe / jefa de sección de protocolo N20
+* Jefe / jefa de sección de protocolo N20 p.g.
 * Jefe / jefa de sección de provincial
 * Jefe / jefa de sección de proyectos de digitalizacion
 * Jefe / jefa de sección de proyectos p.g.
@@ -13884,9 +13887,9 @@ Listado de claves:
 * Jefe / jefa de sección de reprografia y distribución
 * Jefe / jefa de sección de residuos fitosanitarios ii
 * Jefe / jefa de sección de retribuciones
+* Jefe / jefa de sección de retribuciones N22
 * Jefe / jefa de sección de retribuciones de admon. penit.
 * Jefe / jefa de sección de retribuciones funcionarios
-* Jefe / jefa de sección de retribuciones n22
 * Jefe / jefa de sección de revalidación de titulos
 * Jefe / jefa de sección de revisión ayudas
 * Jefe / jefa de sección de revisión y aprobación cuentas
@@ -13957,16 +13960,16 @@ Listado de claves:
 * Jefe / jefa de sección de suministros y patrimonio
 * Jefe / jefa de sección de supervision
 * Jefe / jefa de sección de supervision equipos instal.e infraest.
-* Jefe / jefa de sección de síndrome tóxico n22
-* Jefe / jefa de sección de síndrome tóxico n24
+* Jefe / jefa de sección de síndrome tóxico N22
+* Jefe / jefa de sección de síndrome tóxico N24
 * Jefe / jefa de sección de taller cartográfico
 * Jefe / jefa de sección de tarifas
 * Jefe / jefa de sección de tasas
 * Jefe / jefa de sección de tecnologías de la información
 * Jefe / jefa de sección de teletipos
 * Jefe / jefa de sección de tesorería
+* Jefe / jefa de sección de tesorería N22
 * Jefe / jefa de sección de tesorería habilitado pagador
-* Jefe / jefa de sección de tesorería n22
 * Jefe / jefa de sección de tesorería y bancos
 * Jefe / jefa de sección de tesoro
 * Jefe / jefa de sección de titulaciones deportivas
@@ -14011,21 +14014,15 @@ Listado de claves:
 * Jefe / jefa de sección el escorial
 * Jefe / jefa de sección escala a
 * Jefe / jefa de sección especializada
-* Jefe / jefa de sección especializada n22
-* Jefe / jefa de sección especializada n24
+* Jefe / jefa de sección especializada N22
+* Jefe / jefa de sección especializada N24
 * Jefe / jefa de sección explotación
 * Jefe / jefa de sección habilitación
 * Jefe / jefa de sección habilitado cajero pagador
 * Jefe / jefa de sección intervención
 * Jefe / jefa de sección la granja
 * Jefe / jefa de sección médica
-* Jefe / jefa de sección n.20
-* Jefe / jefa de sección n.22
-* Jefe / jefa de sección n20
-* Jefe / jefa de sección n22
-* Jefe / jefa de sección n22 (u. grandes empresas)
-* Jefe / jefa de sección n24
-* Jefe / jefa de sección normalización n24
+* Jefe / jefa de sección normalización N24
 * Jefe / jefa de sección operativa
 * Jefe / jefa de sección responsable de operaciones rpas
 * Jefe / jefa de sección régimen interior
@@ -14047,6 +14044,8 @@ Listado de claves:
 * Jefe / jefa de sección tipo iii
 * Jefe / jefa de sección técnica
 * Jefe / jefa de sección técnica (c.s.)
+* Jefe / jefa de sección técnica N22
+* Jefe / jefa de sección técnica N24
 * Jefe / jefa de sección técnica a.t.s.
 * Jefe / jefa de sección técnica de coordinación
 * Jefe / jefa de sección técnica de metrología
@@ -14059,8 +14058,6 @@ Listado de claves:
 * Jefe / jefa de sección técnica ii
 * Jefe / jefa de sección técnica industrial
 * Jefe / jefa de sección técnica ingeniería fluvial
-* Jefe / jefa de sección técnica n22
-* Jefe / jefa de sección técnica n24
 * Jefe / jefa de sección técnica obras
 * Jefe / jefa de sección técnica programas internacionales
 * Jefe / jefa de sección técnica proyectos y obras
@@ -14101,6 +14098,8 @@ Listado de claves:
 * Jefe / jefa de seguridad vuelo
 * Jefe / jefa de servicio
 * Jefe / jefa de servicio 2ª categoría y avances feaga
+* Jefe / jefa de servicio N26
+* Jefe / jefa de servicio N26 (u. grandes empresas)
 * Jefe / jefa de servicio a
 * Jefe / jefa de servicio actuaciones en cauces
 * Jefe / jefa de servicio actuación administrativa
@@ -14242,6 +14241,7 @@ Listado de claves:
 * Jefe / jefa de servicio de aplicaciones informaticas
 * Jefe / jefa de servicio de aplicaciones y aprovechamientos esp.
 * Jefe / jefa de servicio de apoyo
+* Jefe / jefa de servicio de apoyo N26
 * Jefe / jefa de servicio de apoyo a empresa
 * Jefe / jefa de servicio de apoyo a la formación ocupacional
 * Jefe / jefa de servicio de apoyo a la gest.económica
@@ -14253,7 +14253,6 @@ Listado de claves:
 * Jefe / jefa de servicio de apoyo informatico estadístico
 * Jefe / jefa de servicio de apoyo junta contratación y mesas c.
 * Jefe / jefa de servicio de apoyo jurídico de rrhh
-* Jefe / jefa de servicio de apoyo n26
 * Jefe / jefa de servicio de apoyo oficina del director
 * Jefe / jefa de servicio de apoyo sede electrónica
 * Jefe / jefa de servicio de apoyo tecnológico
@@ -14385,6 +14384,7 @@ Listado de claves:
 * Jefe / jefa de servicio de colectivos integrados y regularizacion de ingresos
 * Jefe / jefa de servicio de comisaria aguas
 * Jefe / jefa de servicio de comisiones técnicas
+* Jefe / jefa de servicio de comité hispano-norteamericano
 * Jefe / jefa de servicio de compatibilidad eletromagnetica
 * Jefe / jefa de servicio de competencias
 * Jefe / jefa de servicio de componentes y aditivos
@@ -14589,7 +14589,6 @@ Listado de claves:
 * Jefe / jefa de servicio de coyuntura sector financiero
 * Jefe / jefa de servicio de ctrol radiocomunic. fijas y moviles
 * Jefe / jefa de servicio de custodia labores decomisadas
-* Jefe / jefa de servicio de cómite hispano-norteamericano
 * Jefe / jefa de servicio de datos basicos
 * Jefe / jefa de servicio de datos sismicos
 * Jefe / jefa de servicio de defensa contra incendios
@@ -14908,8 +14907,8 @@ Listado de claves:
 * Jefe / jefa de servicio de gestión prestaciones
 * Jefe / jefa de servicio de gestión prestación farmacéutica
 * Jefe / jefa de servicio de gestión presupuestaria
+* Jefe / jefa de servicio de gestión presupuestaria N26
 * Jefe / jefa de servicio de gestión presupuestaria e indemnizaciones por responsabilidad patrimonial
-* Jefe / jefa de servicio de gestión presupuestaria n26
 * Jefe / jefa de servicio de gestión presupuestaria, gestión económica y contabilidad
 * Jefe / jefa de servicio de gestión procedimientos farmaceuticos
 * Jefe / jefa de servicio de gestión procesos selectivos
@@ -15707,8 +15706,6 @@ Listado de claves:
 * Jefe / jefa de servicio jurídico entidades tuteladas
 * Jefe / jefa de servicio monitorizacion, supervision y control
 * Jefe / jefa de servicio médico
-* Jefe / jefa de servicio n26
-* Jefe / jefa de servicio n26 (u. grandes empresas)
 * Jefe / jefa de servicio nivel 26
 * Jefe / jefa de servicio oph
 * Jefe / jefa de servicio orense
@@ -15842,7 +15839,7 @@ Listado de claves:
 * Jefe / jefa de unidad operaciones y centro proceso datos
 * Jefe / jefa de unidad operativa
 * Jefe / jefa de unidad personal subalterno
-* Jefe / jefa de unidad personal subalterno n14
+* Jefe / jefa de unidad personal subalterno N14
 * Jefe / jefa de unidad procedimientos
 * Jefe / jefa de unidad procedimientos especiales
 * Jefe / jefa de unidad programación y control mantenimiento
@@ -17051,17 +17048,14 @@ Listado de claves:
 * Jefe adjunto secretaria consejero
 * Jefe adjunto secretaria presidente
 * Jefe de la unidad de apoyo
+* Jefe de negociado N18
 * Jefe de negociado n. 18
-* Jefe de negociado n.18
-* Jefe de negociado n18
 * Jefe de proyecto central nuclear
 * Jefe de proyecto de instalaciones del ciclo y desmantelamiento
+* Jefe de sección N20
+* Jefe de sección N22
 * Jefe de sección de gestión de personal
 * Jefe de sección de gestión recaudatoria
-* Jefe de sección n.20
-* Jefe de sección n.22
-* Jefe de sección n20
-* Jefe de sección n22
 * Jefe de servicio de administración y explot.
 * Jefe de servicio de microinformática
 * Jefe de servicio de prevención b
@@ -17084,11 +17078,11 @@ Listado de claves:
 * Jefe de área de sistemas electricos e i+c
 * Jefe de área de sistemas y comunicaciones
 * Jefe de área de transporte de material radiactivo
+* Jefe negociado N18
 * Jefe negociado de retribuciones
-* Jefe negociado n 18
-* Jefe negociado n.18
-* Jefe negociado n18
 * Jefe proyecto fábrica combustible juzbado
+* Jefe sección N20
+* Jefe sección N22
 * Jefe sección archivo catalogac. y digitalizac.
 * Jefe sección asuntos generales
 * Jefe sección contabilidad
@@ -17100,9 +17094,6 @@ Listado de claves:
 * Jefe sección de régimen interior
 * Jefe sección de tramitación
 * Jefe sección gestión ingresos
-* Jefe sección n 22
-* Jefe sección n.22
-* Jefe sección n20
 * Jefe sección registro e información
 * Jefe sección registro gral. e información
 * Jefe secretaria consejero
@@ -17367,7 +17358,7 @@ Listado de claves:
 * Operador / operadora de comunicaciones
 * Operador / operadora de consola
 * Operador / operadora de control interno y contabilidad
-* Operador / operadora de emergencias n.18
+* Operador / operadora de emergencias N18
 * Operador / operadora de información
 * Operador / operadora de sala de seguridad
 * Operador / operadora de seguridad
@@ -17377,10 +17368,10 @@ Listado de claves:
 * Operador / operadora experto
 * Operador / operadora periférica
 * Operador / operadora periférico
-* Operador / operadora periférico n14
+* Operador / operadora periférico N14
 * Operador/a de seguridad
+* Ordenanza N13
 * Ordenanza de palacio y presidencia
-* Ordenanza n13
 * Ordenanza v. o asimilado
 * Pedagogo / pedagoga
 * Personal de secretaria del presidente del gobierno
@@ -17429,58 +17420,53 @@ Listado de claves:
 * Psicólogo / psicologa de cis
 * Psicólogo / psicologa de equipo central de observación de admon. penit.
 * Psicólogo / psicologa de medio abierto
-* Puesto administrativo n16
-* Puesto administrativo n16 d
-* Puesto de gestión n22
+* Puesto N14 de área control explotación
+* Puesto N15 de área servicio público
+* Puesto administrativo N16
+* Puesto administrativo N16 d
+* Puesto de gestión N22
 * Puesto de trabajo
 * Puesto de trabajo 26
+* Puesto de trabajo N10 grupo e
+* Puesto de trabajo N13
+* Puesto de trabajo N13 grupo e
+* Puesto de trabajo N14
+* Puesto de trabajo N14 grupo c2
+* Puesto de trabajo N14 subgrupo c2
+* Puesto de trabajo N15
+* Puesto de trabajo N16
+* Puesto de trabajo N17
+* Puesto de trabajo N18
+* Puesto de trabajo N18 grupo b
+* Puesto de trabajo N20
+* Puesto de trabajo N20 p.g.
+* Puesto de trabajo N22
+* Puesto de trabajo N22 p.g.
+* Puesto de trabajo N23
+* Puesto de trabajo N24
+* Puesto de trabajo N25
+* Puesto de trabajo N26
+* Puesto de trabajo N27
+* Puesto de trabajo N28
+* Puesto de trabajo N29
+* Puesto de trabajo N30
 * Puesto de trabajo de admon. penit
 * Puesto de trabajo de admon. penit.
 * Puesto de trabajo de apoyo
-* Puesto de trabajo de apoyo n14
-* Puesto de trabajo de apoyo n15
+* Puesto de trabajo de apoyo N14
+* Puesto de trabajo de apoyo N15
 * Puesto de trabajo de apoyo técnico
 * Puesto de trabajo de gabinete telegráfico de admon. penit.
 * Puesto de trabajo de información
-* Puesto de trabajo de información n14
+* Puesto de trabajo de información N14
 * Puesto de trabajo de informática
-* Puesto de trabajo de informática n15
-* Puesto de trabajo de laboratorio n15
+* Puesto de trabajo de informática N15
+* Puesto de trabajo de laboratorio N15
 * Puesto de trabajo del gabinete telegráfico
-* Puesto de trabajo n 24
-* Puesto de trabajo n 28
-* Puesto de trabajo n.27
-* Puesto de trabajo n.28
-* Puesto de trabajo n.30
-* Puesto de trabajo n10 grupo e
-* Puesto de trabajo n13
-* Puesto de trabajo n13 grupo e
-* Puesto de trabajo n14
-* Puesto de trabajo n14 grupo c2
-* Puesto de trabajo n14 subgrupo c2
-* Puesto de trabajo n15
-* Puesto de trabajo n16
-* Puesto de trabajo n17
-* Puesto de trabajo n18
-* Puesto de trabajo n18 grupo b
-* Puesto de trabajo n20
-* Puesto de trabajo n20 p.g.
-* Puesto de trabajo n22
-* Puesto de trabajo n22 p.g.
-* Puesto de trabajo n23
-* Puesto de trabajo n24
-* Puesto de trabajo n25
-* Puesto de trabajo n26
-* Puesto de trabajo n27
-* Puesto de trabajo n28
-* Puesto de trabajo n29
-* Puesto de trabajo n30
 * Puesto de trabajo nivel 28
 * Puesto de trabajo nivel 30
 * Puesto de trabajo o.t.p.
 * Puesto de área tráfico explotación
-* Puesto n14 de área control explotación
-* Puesto n15 de área servicio público
 * Puesto área control explotación
 * Recopilador / recopiladora datos de contabilidad
 * Registrador / registradora central de la propiedad intelectual
@@ -17528,11 +17514,11 @@ Listado de claves:
 * Secretario / secretaria de la comisión permanente de selección
 * Secretario / secretaria de la junta consultiva aduanera
 * Secretario / secretaria de la junta consultiva de contratación pública del estado
-* Secretario / secretaria de puesto de trabajo de n30
-* Secretario / secretaria de puesto de trabajo n30
+* Secretario / secretaria de puesto N30
+* Secretario / secretaria de puesto de trabajo N30
+* Secretario / secretaria de puesto de trabajo de N30
 * Secretario / secretaria de puesto de trabajo nivel 30
 * Secretario / secretaria de puesto de trabajo nivel 30 de admon. penit.
-* Secretario / secretaria de puesto n30
 * Secretario / secretaria de secretaria del presidente del gobierno
 * Secretario / secretaria de secretaria presidente del gobierno
 * Secretario / secretaria de subdelegado del gobierno
@@ -17571,13 +17557,11 @@ Listado de claves:
 * Secretario / secretaria general tribunal económico administrativo central
 * Secretario / secretaria presidente
 * Secretario / secretaria provincial
+* Secretario / secretaria puesto N30
+* Secretario / secretaria puesto de trabajo N30
 * Secretario / secretaria puesto de trabajo de nivel 30
-* Secretario / secretaria puesto de trabajo n.30
-* Secretario / secretaria puesto de trabajo n30
 * Secretario / secretaria puesto de trabajo nivel 30
-* Secretario / secretaria puesto n30
-* Secretario / secretaria puesto trabajo n.30
-* Secretario / secretaria puesto trabajo n30
+* Secretario / secretaria puesto trabajo N30
 * Secretario / secretaria subdirector general
 * Secretario / secretaria territorial
 * Secretario / secretaria vicepresidenta
@@ -17586,12 +17570,12 @@ Listado de claves:
 * Secretario adjunto / secretaria adjunta de comisión nacional unesco
 * Secretario adjunto / secretaria adjunta de dirección
 * Secretario director técnico
-* Secretario puesto de trabajo n30
+* Secretario puesto de trabajo N30
 * Secretario/a delegado/a central
 * Secretario/a director/a adjunto/a
 * Secretario/a dtor.departamento
 * Secretario/a presidente/a cons.df.contr.
-* Secretario/a pto.trabajo n.30
+* Secretario/a pto.trabajo N30
 * Segunda jefatura
 * Segunda jefatura - representante permanente adjunto / adjunta
 * Servicio interior de vigilancia
@@ -17603,10 +17587,10 @@ Listado de claves:
 * Sociólogo / socióloga de equipo central de observación de admon. penit.
 * Solista
 * Subalterno / subalterna
+* Subalterno / subalterna N12
+* Subalterno / subalterna N13
 * Subalterno / subalterna conductor
-* Subalterno / subalterna conductor n14
-* Subalterno / subalterna n12
-* Subalterno / subalterna n13
+* Subalterno / subalterna conductor N14
 * Subalterno / subalterna prestaciones
 * Subcajero / subcajera de pagaduría
 * Subd.adj.seguridad inf.y protec.datos
@@ -17708,13 +17692,13 @@ Listado de claves:
 * Subdirector/a gral.org.y asist.jurid.
 * Subgestor / subgestora a
 * Subgestor / subgestora b
-* Subgestor / subgestora b n18
+* Subgestor / subgestora b N18
 * Subgestor / subgestora catastral
 * Subgestor / subgestora catastral a
-* Subgestor / subgestora catastral a n18
+* Subgestor / subgestora catastral a N18
 * Subgestor / subgestora catastral b
-* Subgestor / subgestora catastral b n15
-* Subgestor / subgestora catastral b n17
+* Subgestor / subgestora catastral b N15
+* Subgestor / subgestora catastral b N17
 * Subgestor / subgestora d
 * Subgestor / subgestora f
 * Subgestor/a 1
@@ -17747,19 +17731,19 @@ Listado de claves:
 * Subinspector / subinspectora de telecomunicaciones a
 * Subinspector / subinspectora de telecomunicaciones b
 * Subinspector / subinspectora laboral
-* Subinspector / subinspectora laboral n23
+* Subinspector / subinspectora laboral N23
 * Subjefe / subjefa de sección
+* Subjefe / subjefa de sección N18
+* Subjefe / subjefa de sección N20
 * Subjefe / subjefa de sección a
 * Subjefe / subjefa de sección c
 * Subjefe / subjefa de sección de a
 * Subjefe / subjefa de sección de b
 * Subjefe / subjefa de sección de c
 * Subjefe / subjefa de sección de intervención
-* Subjefe / subjefa de sección de intervención n18
-* Subjefe / subjefa de sección de intervención n20
-* Subjefe / subjefa de sección de intervención n22
-* Subjefe / subjefa de sección n18
-* Subjefe / subjefa de sección n20
+* Subjefe / subjefa de sección de intervención N18
+* Subjefe / subjefa de sección de intervención N20
+* Subjefe / subjefa de sección de intervención N22
 * Subjefe / subjefa de unidad de apoyo
 * Subjefe / subjefa de unidad de recaudación ejecutiva estatal
 * Subjefe / subjefa provincial
@@ -17788,11 +17772,18 @@ Listado de claves:
 * Traductor / traductora jurídico
 * Técnico / técnica
 * Técnico / técnica (otan)
+* Técnico / técnica N18
+* Técnico / técnica N22
+* Técnico / técnica N23
+* Técnico / técnica N25
+* Técnico / técnica N26
+* Técnico / técnica N27
+* Técnico / técnica N28
 * Técnico / técnica administrador bases de datos
 * Técnico / técnica aeronáutico
-* Técnico / técnica asesor n16
-* Técnico / técnica asesor n18
-* Técnico / técnica asesor n20
+* Técnico / técnica asesor N16
+* Técnico / técnica asesor N18
+* Técnico / técnica asesor N20
 * Técnico / técnica auxiliar de archivo
 * Técnico / técnica auxiliar de archivos
 * Técnico / técnica auxiliar de biblioteca
@@ -17803,13 +17794,13 @@ Listado de claves:
 * Técnico / técnica auxiliar de informática
 * Técnico / técnica auxiliar de museos
 * Técnico / técnica auxiliar de sistemas informáticos
-* Técnico / técnica auxiliar de sistemas informáticos n16
+* Técnico / técnica auxiliar de sistemas informáticos N16
 * Técnico / técnica ayudante de laboratorio
 * Técnico / técnica bapmon
 * Técnico / técnica capa límite
 * Técnico / técnica catastral
-* Técnico / técnica catastral n24
-* Técnico / técnica catastral n26
+* Técnico / técnica catastral N24
+* Técnico / técnica catastral N26
 * Técnico / técnica comunicaciones comsec
 * Técnico / técnica comunicaciones en redes
 * Técnico / técnica conservador de colecciones
@@ -17843,8 +17834,8 @@ Listado de claves:
 * Técnico / técnica de dactiloscopia de admon. penit.
 * Técnico / técnica de divulgación e información al público
 * Técnico / técnica de documentación
-* Técnico / técnica de documentación n22
-* Técnico / técnica de emergencias n26
+* Técnico / técnica de documentación N22
+* Técnico / técnica de emergencias N26
 * Técnico / técnica de expropiaciones
 * Técnico / técnica de formación
 * Técnico / técnica de formación de aviación civil
@@ -17880,6 +17871,7 @@ Listado de claves:
 * Técnico / técnica de oficina prestaciones
 * Técnico / técnica de operaciones en vuelo
 * Técnico / técnica de prevención
+* Técnico / técnica de prevención N24
 * Técnico / técnica de prevención a
 * Técnico / técnica de prevención a adm. penit.
 * Técnico / técnica de prevención a adm.penit.
@@ -17888,7 +17880,6 @@ Listado de claves:
 * Técnico / técnica de prevención a de admon. penit.
 * Técnico / técnica de prevención b
 * Técnico / técnica de prevención c
-* Técnico / técnica de prevención n24
 * Técnico / técnica de prevención y salud laboral a
 * Técnico / técnica de prevención y salud laboral c
 * Técnico / técnica de proyectos
@@ -17924,7 +17915,7 @@ Listado de claves:
 * Técnico / técnica especialista mantenim. invest. accid.
 * Técnico / técnica especialista sistemas comunicaciones
 * Técnico / técnica experto meteorología
-* Técnico / técnica facultativo n24
+* Técnico / técnica facultativo N24
 * Técnico / técnica i+d+i
 * Técnico / técnica instructor de expedientes de indemnización
 * Técnico / técnica instructor expedientes indemnización
@@ -17933,26 +17924,16 @@ Listado de claves:
 * Técnico / técnica jefe de i+d+i
 * Técnico / técnica letrado de recursos y reclamaciones
 * Técnico / técnica medio
+* Técnico / técnica medio N18
 * Técnico / técnica medio clasific. examen modelos utilidad
 * Técnico / técnica medio de informática
-* Técnico / técnica medio n18
 * Técnico / técnica medio prestaciones
-* Técnico / técnica medio prestaciones n18
-* Técnico / técnica n 26
-* Técnico / técnica n,27
+* Técnico / técnica medio prestaciones N18
 * Técnico / técnica n. 27
-* Técnico / técnica n.25
-* Técnico / técnica n.26
-* Técnico / técnica n.27
-* Técnico / técnica n.28
-* Técnico / técnica n18
-* Técnico / técnica n22
-* Técnico / técnica n23
-* Técnico / técnica n25
-* Técnico / técnica n26
-* Técnico / técnica n27
-* Técnico / técnica n28
 * Técnico / técnica superior
+* Técnico / técnica superior N22
+* Técnico / técnica superior N24
+* Técnico / técnica superior N26
 * Técnico / técnica superior aeronáutico
 * Técnico / técnica superior atap
 * Técnico / técnica superior catastral
@@ -17965,20 +17946,20 @@ Listado de claves:
 * Técnico / técnica superior de avicion civil
 * Técnico / técnica superior de bibliotecas
 * Técnico / técnica superior de calidad
-* Técnico / técnica superior de control calidad n26
+* Técnico / técnica superior de control calidad N26
 * Técnico / técnica superior de estudios y desarrollos
 * Técnico / técnica superior de informática
 * Técnico / técnica superior de inspecccion
 * Técnico / técnica superior de inspección
+* Técnico / técnica superior de inspección N26
 * Técnico / técnica superior de inspección aviación civil
-* Técnico / técnica superior de inspección n26
 * Técnico / técnica superior de laboratorio
 * Técnico / técnica superior de meteorología
 * Técnico / técnica superior de museos
 * Técnico / técnica superior de operaciones en vuelo
 * Técnico / técnica superior de prevención
-* Técnico / técnica superior de prevención n24
-* Técnico / técnica superior de prevención n26
+* Técnico / técnica superior de prevención N24
+* Técnico / técnica superior de prevención N26
 * Técnico / técnica superior de proyecto informatico
 * Técnico / técnica superior de proyectos
 * Técnico / técnica superior de proyectos informáticos
@@ -17998,26 +17979,20 @@ Listado de claves:
 * Técnico / técnica superior facultativo y especialista
 * Técnico / técnica superior inspección
 * Técnico / técnica superior marítimo
-* Técnico / técnica superior n22
-* Técnico / técnica superior n24
-* Técnico / técnica superior n26
 * Técnico / técnica superior zonal
 * Técnico / técnica supervision de proyectos
 * Técnico / técnica veterinario red alerta sanitaria
 * Técnico / técnica veterinario red alerta sanitaria veterinaria
+* Técnico N25
+* Técnico N26
+* Técnico N27
+* Técnico N28
 * Técnico coordinador/técnica coordinadora
 * Técnico coordinador/técnica coordinadora de prevención
-* Técnico de emergencias n26
+* Técnico de emergencias N26
 * Técnico de sistemas
-* Técnico jurídico n26
-* Técnico n 26
-* Técnico n.25
-* Técnico n.26
-* Técnico n25
-* Técnico n26
-* Técnico n27
-* Técnico n28
-* Técnico redes y comunicaciones n.25
+* Técnico jurídico N26
+* Técnico redes y comunicaciones N25
 * Técnico/a administración 1
 * Técnico/a administración 1 p.i.
 * Técnico/a administración 2
@@ -18139,28 +18114,33 @@ Listado de claves:
 * Vicegerente
 * Vicepresidente / vicepresidenta
 * Vicepresidente / vicepresidenta adjunto
-* Vicepresidente / vicepresidenta del cómite hispano-norteamericano
+* Vicepresidente / vicepresidenta del comité hispano-norteamericano
 * Vicesecretario / vicesecretaria
 * Vicesecretario / vicesecretaria del consejo
 * Vicesecretario / vicesecretaria general
 * Vicesecretario / vicesecretaria general técnica
 * Vicesecretario / vicesecretaria general técnico
+* Vigilante N13
+* Vigilante N14
 * Vigilante de seguridad
-* Vigilante n13
-* Vigilante n14
 * Vigilante seguridad
 * Vocal
+* Vocal N26
+* Vocal N26 especial
+* Vocal N30
 * Vocal adjunto
 * Vocal adjunto/a
-* Vocal adjunto/a n.26
-* Vocal adjunto/a n.28
+* Vocal adjunto/a N26
+* Vocal adjunto/a N28
 * Vocal adscrito/a
-* Vocal adscrito/a n.26
-* Vocal adscrito/a n.28
-* Vocal adscrito/a n.29
+* Vocal adscrito/a N26
+* Vocal adscrito/a N28
+* Vocal adscrito/a N29
 * Vocal asesor / vocal asesora
 * Vocal asesor / vocal asesora (u.e.)
 * Vocal asesor / vocal asesora - secretario junta de contratación
+* Vocal asesor / vocal asesora N30
+* Vocal asesor / vocal asesora N30 inspección de datos
 * Vocal asesor / vocal asesora asuntos economicos
 * Vocal asesor / vocal asesora c.t.c.
 * Vocal asesor / vocal asesora coordinador financiero
@@ -18191,16 +18171,11 @@ Listado de claves:
 * Vocal asesor / vocal asesora de servicios presidencia
 * Vocal asesor / vocal asesora del fondo de cooperación para agua y saneamiento
 * Vocal asesor / vocal asesora ejecutivo
-* Vocal asesor / vocal asesora n30
-* Vocal asesor / vocal asesora n30 inspección de datos
 * Vocal asesor / vocal asesora unidad enlace con i.g. segur. social
 * Vocal asesor / vocal asesorade asuntos interamericanos
-* Vocal asesor n.28
+* Vocal asesor N28
 * Vocal coordinador / coordinadora de la unidad de apoyo y relaciones institucionales
 * Vocal coordinador/a
 * Vocal de empresas publicas
 * Vocal de área tributaria
 * Vocal junta asesora
-* Vocal n.26
-* Vocal n.26 especial
-* Vocal n.30
