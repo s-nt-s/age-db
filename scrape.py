@@ -124,14 +124,14 @@ with DBLite(ARG.db, reload=True) as db:
     for nivel, cd in ret.destino.items():
         db.insert("NIVEL", id=nivel, complemento_destino=cd)
 
-    p_txt = tuple(sorted(set(r.txt for r in rpt.puestos)))
-    for i, txt in enumerate(p_txt):
-        db.insert("CARGO", id=i+1, txt=to_capitalize(txt))
+    cargos = tuple(sorted(set(to_capitalize(r.txt) for r in rpt.puestos)))
+    for i, txt in enumerate(cargos):
+        db.insert("CARGO", id=i+1, txt=txt)
 
     for row in map(rpt.complete, rpt.puestos):
         obj = row._asdict()
         obj["localidad"] = lcd[(row.localidad, row.provincia)]
-        obj["cargo"] = p_txt.index(row.txt)+1
+        obj["cargo"] = cargos.index(to_capitalize(row.txt))+1
         db.insert("PUESTO", **obj)
         for o in row.observaciones:
             db.insert("PUESTO_OBSERVACION", puesto=row.id, observacion=o)

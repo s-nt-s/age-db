@@ -491,7 +491,7 @@ Listado de claves:
 | I16 | Puesto primer destino c.sup. interv. y contab. admon. s.s |
 | I17 | Puesto primer destino c.sup.sist. de admon. de la s.s. |
 | I18 | Puesto primer destino cuerpo superior de actuarios, estadísticos y economistas de la admon s.s. |
-| IBC | Islas baleares y Canarias |
+| IBC | Islas Baleares y Canarias |
 | IGN | Puesto proveniente del instituto geográfico nacional |
 | INA | Inspección agroalimentaria |
 | INP | Puesto exclusivo investigación efectos rd 2515/86 de 21-11 |
@@ -10799,12 +10799,18 @@ Listado de claves:
 | 1069 | Viso del Marqués |
 | 1070 | Torre de Mar |
 | 1071 | Torremolinos |
+
 # Cargo
 
 * Abogado / abogada del estado
 * Abogado / abogada del estado adjunto
 * Abogado / abogada del estado coordinador
 * Abogado / abogada del estado jefe
+* Abogado / abogada del estado jefe de comunidad autónoma
+* Abogado / abogada del estado jefe de departamento
+* Abogado / abogada del estado jefe de área
+* Abogado / abogada del estado jefe de área de constitucional
+* Abogado / abogada del estado jefe de área de derechos humanos
 * Abogado / abogada del estado jefe área arbitrajes internacionales
 * Abogado / abogada del estado jefe área de secretaria de estado de comercio
 * Abogado / abogada del estado jefe área de secretaria de estado de energía
@@ -10822,11 +10828,6 @@ Listado de claves:
 * Abogado / abogada del estado jefe área secretaria estado de economía y apoyo a la empresa
 * Abogado / abogada del estado jefe área secretaria estado medio ambiente
 * Abogado / abogada del estado jefe área secretaria general de fondos europeos
-* Abogado / abogada del estado jefe de área
-* Abogado / abogada del estado jefe de área de constitucional
-* Abogado / abogada del estado jefe de área de derechos humanos
-* Abogado / abogada del estado jefe de comunidad autónoma
-* Abogado / abogada del estado jefe de departamento
 * Abogado / abogada del estado jefe-área coordinación de los asuntos contenciosos administrativos
 * Abogado / abogada del estado secretario de t.e.a.r.
 * Abogado / abogada del estado-jefe
@@ -10994,17 +10995,16 @@ Listado de claves:
 * Analista programador/a
 * Analista programador20
 * Analista programdor
-* Analista régimen general i.v.a.
 * Analista regimenes esp. i.v.a.
 * Analista retributivo ayudante
 * Analista retributivo ayudante n22
 * Analista retributivo superior
+* Analista régimen general i.v.a.
 * Analista sector gastos fiscales
 * Analista sistemas
 * Analista sistemas (di)
 * Analista sistemas (fsf)
 * Analista superior de proyectos
-* Analista técnico
 * Analista tributación no residentes
 * Analista tributario
 * Analista tributario a
@@ -11013,6 +11013,7 @@ Listado de claves:
 * Analista tributario jurisprudencia
 * Analista tributario relaciones fiscales internacionales
 * Analista tributario relaciones u.e.
+* Analista técnico
 * Analista unión europea
 * Apoyo de oficina cis
 * Apoyo de oficina cis (r.d.89/2001)
@@ -11083,8 +11084,8 @@ Listado de claves:
 * Atn-1 d.p. a
 * Atn-1 d.p. b
 * Atn-1 de la división de administración y análisis presupuestario
-* Atn-1 de la presidencia del consejo del imserso
 * Atn-1 de la presidencia del consejo del ISM
+* Atn-1 de la presidencia del consejo del imserso
 * Atn-1 de la s.d.g. seguridad social trabajad. mar
 * Atn-1 de la s.d.g.de gestión y análisis presupuestario
 * Atn-1 de presidencia del consejo general del INSS
@@ -11107,9 +11108,9 @@ Listado de claves:
 * Auditor / auditora ayudante b
 * Auditor / auditora inspector / inspectora
 * Auditor / auditora nacional ayudante
-* Auditor / auditora nacional director área
-* Auditor / auditora nacional director de área
 * Auditor / auditora nacional director de equipos
+* Auditor / auditora nacional director de área
+* Auditor / auditora nacional director área
 * Auditor / auditora nacional jefe de división
 * Auditor / auditora nacional jefe de equipo
 * Auditor / auditora nacional supervisor
@@ -11273,7 +11274,6 @@ Listado de claves:
 * Consejero / consejera adjunto de información
 * Consejero / consejera adjunto de transpor. destac. montreal oaci
 * Consejero / consejera adjunto de turismo
-* Consejero / consejera área incent. y regim. esp.
 * Consejero / consejera coordinador servicio
 * Consejero / consejera coordinador u.e.
 * Consejero / consejera de antici
@@ -11304,25 +11304,23 @@ Listado de claves:
 * Consejero / consejera i+d
 * Consejero / consejera para asuntos autonomicos ante la u.e.
 * Consejero / consejera permanente ante la cee
-* Consejero / consejera técnico
-* Consejero / consejera técnico-jurídico/técnica-jurídica
 * Consejero / consejera transportes con func. de consej. ante omi
 * Consejero / consejera transportes destacado en montreal - oaci
+* Consejero / consejera técnico
+* Consejero / consejera técnico-jurídico/técnica-jurídica
 * Consejero / consejera u.e.
+* Consejero / consejera área incent. y regim. esp.
 * Consejero adjunto / consejera adjunta
 * Consejero técnico
 * Consejero técnico / consejera técnica
 * Consejero técnico / consejera técnica (c.n.s.c.v.)
 * Consejero técnico / consejera técnica adjunto subdirector
-* Consejero técnico / consejera técnica área de documentación bibliográfica
-* Consejero técnico / consejera técnica área de informes y apoyo a organos colegiados
-* Consejero técnico / consejera técnica área economía
 * Consejero técnico / consejera técnica asuntos comunitarios
 * Consejero técnico / consejera técnica asuntos de canadá
 * Consejero técnico / consejera técnica comites de insp.internacional y coordinación
 * Consejero técnico / consejera técnica coordinador
-* Consejero técnico / consejera técnica coordinador área
 * Consejero técnico / consejera técnica coordinador sector
+* Consejero técnico / consejera técnica coordinador área
 * Consejero técnico / consejera técnica de actividad
 * Consejero técnico / consejera técnica de actividades internacionales
 * Consejero técnico / consejera técnica de admon. penit.
@@ -11349,9 +11347,9 @@ Listado de claves:
 * Consejero técnico / consejera técnica de i+d
 * Consejero técnico / consejera técnica de información
 * Consejero técnico / consejera técnica de información terapéutica
-* Consejero técnico / consejera técnica de informática
 * Consejero técnico / consejera técnica de informes
 * Consejero técnico / consejera técnica de informes y disposiciones
+* Consejero técnico / consejera técnica de informática
 * Consejero técnico / consejera técnica de legislación aeronáutica
 * Consejero técnico / consejera técnica de medicamentos uso veterinario
 * Consejero técnico / consejera técnica de normas tecnologicas
@@ -11375,9 +11373,9 @@ Listado de claves:
 * Consejero técnico / consejera técnica de relaciones internacionales y asuntos con u.e.
 * Consejero técnico / consejera técnica de seguimiento directivas
 * Consejero técnico / consejera técnica de seguridad informática
+* Consejero técnico / consejera técnica de seguridad y medio ambiente en Galicia
 * Consejero técnico / consejera técnica de seguridad y medio ambiente en el cantábrico
 * Consejero técnico / consejera técnica de seguridad y medio ambiente en el estrecho
-* Consejero técnico / consejera técnica de seguridad y medio ambiente en Galicia
 * Consejero técnico / consejera técnica de seguridad y medio ambiente en las islas Canarias
 * Consejero técnico / consejera técnica de seguridad y medio ambiente en levante
 * Consejero técnico / consejera técnica de sistemas de información
@@ -11395,22 +11393,18 @@ Listado de claves:
 * Consejero técnico / consejera técnica planificación del espectro
 * Consejero técnico / consejera técnica programa electrónica de potencia
 * Consejero técnico / consejera técnica programas de tratam.y reinsercion
+* Consejero técnico / consejera técnica área de documentación bibliográfica
+* Consejero técnico / consejera técnica área de informes y apoyo a organos colegiados
+* Consejero técnico / consejera técnica área economía
 * Consejero técnico de ciberseguridad
 * Consejero técnico-jurídico
 * Conserje mayor
 * Conservador / conservadora
 * Conservador / conservadora jefe / jefa
-* Cónsul
-* Cónsul adjunto
-* Cónsul general
-* Cónsul general adjunto
 * Consultor / consultora
 * Coordinación área inspección
 * Coordinador / coordinadora
 * Coordinador / coordinadora análisis territorial
-* Coordinador / coordinadora área
-* Coordinador / coordinadora área informática
-* Coordinador / coordinadora área meteorológica Canarias-dtor.centro investigación atmosférica izaña
 * Coordinador / coordinadora c.e.e.
 * Coordinador / coordinadora centro de proceso de datos
 * Coordinador / coordinadora científico y técnico
@@ -11422,72 +11416,6 @@ Listado de claves:
 * Coordinador / coordinadora de análisis territorial
 * Coordinador / coordinadora de análisis y tratamiento de datos
 * Coordinador / coordinadora de apoyo al análisis avanzado de datos
-* Coordinador / coordinadora de área
-* Coordinador / coordinadora de área (u.e.)
-* Coordinador / coordinadora de área análisis economicos y sectoriales
-* Coordinador / coordinadora de área análisis tributario
-* Coordinador / coordinadora de área análisis y regul. balances
-* Coordinador / coordinadora de área comprobación técnica emisiones
-* Coordinador / coordinadora de área conv. doble imposic.
-* Coordinador / coordinadora de área coord. criterios
-* Coordinador / coordinadora de área de actividad
-* Coordinador / coordinadora de área de artes en vivo
-* Coordinador / coordinadora de área de desarrollo
-* Coordinador / coordinadora de área de documentación
-* Coordinador / coordinadora de área de estadística
-* Coordinador / coordinadora de área de estudios, programas de calidad e impulso a la transform.digita
-* Coordinador / coordinadora de área de expedientes sancionadores
-* Coordinador / coordinadora de área de gestión del patrimonio de admon. penit.
-* Coordinador / coordinadora de área de impuesto sobre sociedades
-* Coordinador / coordinadora de área de impuestos patrimoniales
-* Coordinador / coordinadora de área de impuestos sobre sociedades
-* Coordinador / coordinadora de área de información meteorológica y climatológica
-* Coordinador / coordinadora de área de información, comunicación y valoración
-* Coordinador / coordinadora de área de informática
-* Coordinador / coordinadora de área de informática tributaria
-* Coordinador / coordinadora de área de informes
-* Coordinador / coordinadora de área de instituciones financieras
-* Coordinador / coordinadora de área de instrumentación
-* Coordinador / coordinadora de área de internacional
-* Coordinador / coordinadora de área de investigación
-* Coordinador / coordinadora de área de la unidad de apoyo a dirección
-* Coordinador / coordinadora de área de letrados de la administración de justicia
-* Coordinador / coordinadora de área de normativa
-* Coordinador / coordinadora de área de planes técnicos espectro radioeléctrico
-* Coordinador / coordinadora de área de prestaciones
-* Coordinador / coordinadora de área de proced.amist.y acuerd prev.valora
-* Coordinador / coordinadora de área de protección de datos
-* Coordinador / coordinadora de área de régimen tributario general
-* Coordinador / coordinadora de área de relaciones aeat
-* Coordinador / coordinadora de área de relaciones fiscales internacional
-* Coordinador / coordinadora de área de relaciones internacionales
-* Coordinador / coordinadora de área de seguimiento
-* Coordinador / coordinadora de área de servicios
-* Coordinador / coordinadora de área de sistemas y desarrollo
-* Coordinador / coordinadora de área de supervisor servicios meteorologicos
-* Coordinador / coordinadora de área de tecnología
-* Coordinador / coordinadora de área de telecomunicaciones y tecnologías información
-* Coordinador / coordinadora de área de tributación no residentes
-* Coordinador / coordinadora de área de valoración
-* Coordinador / coordinadora de área fiscalidad u.e.
-* Coordinador / coordinadora de área gral. norm. y reglam. tecn.
-* Coordinador / coordinadora de área i.r.p.f.
-* Coordinador / coordinadora de área i.v.a.
-* Coordinador / coordinadora de área informática
-* Coordinador / coordinadora de área inspección de datos
-* Coordinador / coordinadora de área iva unión europea
-* Coordinador / coordinadora de área jurídica y recursos humanos
-* Coordinador / coordinadora de área laboratorios agroaliment
-* Coordinador / coordinadora de área ordenación normativa y coordinación interadministrativa
-* Coordinador / coordinadora de área organos colegiados
-* Coordinador / coordinadora de área otros imp. s/cons.
-* Coordinador / coordinadora de área p.g.
-* Coordinador / coordinadora de área para sistemas del plan de recuperación, transform. y resiliencia
-* Coordinador / coordinadora de área pg
-* Coordinador / coordinadora de área plan nacional de regadios
-* Coordinador / coordinadora de área sectorial
-* Coordinador / coordinadora de área técnica
-* Coordinador / coordinadora de área tributaria
 * Coordinador / coordinadora de asesoría jurídica
 * Coordinador / coordinadora de asuntos de asilo e inmigración
 * Coordinador / coordinadora de asuntos de interior
@@ -11581,13 +11509,79 @@ Listado de claves:
 * Coordinador / coordinadora de tic
 * Coordinador / coordinadora de tratamiento y gestión penitenciaria
 * Coordinador / coordinadora de zona
-* Coordinador / coordinadora del área de inspección
-* Coordinador / coordinadora del área de normativa técnica
-* Coordinador / coordinadora del área económica
+* Coordinador / coordinadora de área
+* Coordinador / coordinadora de área (u.e.)
+* Coordinador / coordinadora de área análisis economicos y sectoriales
+* Coordinador / coordinadora de área análisis tributario
+* Coordinador / coordinadora de área análisis y regul. balances
+* Coordinador / coordinadora de área comprobación técnica emisiones
+* Coordinador / coordinadora de área conv. doble imposic.
+* Coordinador / coordinadora de área coord. criterios
+* Coordinador / coordinadora de área de actividad
+* Coordinador / coordinadora de área de artes en vivo
+* Coordinador / coordinadora de área de desarrollo
+* Coordinador / coordinadora de área de documentación
+* Coordinador / coordinadora de área de estadística
+* Coordinador / coordinadora de área de estudios, programas de calidad e impulso a la transform.digita
+* Coordinador / coordinadora de área de expedientes sancionadores
+* Coordinador / coordinadora de área de gestión del patrimonio de admon. penit.
+* Coordinador / coordinadora de área de impuesto sobre sociedades
+* Coordinador / coordinadora de área de impuestos patrimoniales
+* Coordinador / coordinadora de área de impuestos sobre sociedades
+* Coordinador / coordinadora de área de información meteorológica y climatológica
+* Coordinador / coordinadora de área de información, comunicación y valoración
+* Coordinador / coordinadora de área de informes
+* Coordinador / coordinadora de área de informática
+* Coordinador / coordinadora de área de informática tributaria
+* Coordinador / coordinadora de área de instituciones financieras
+* Coordinador / coordinadora de área de instrumentación
+* Coordinador / coordinadora de área de internacional
+* Coordinador / coordinadora de área de investigación
+* Coordinador / coordinadora de área de la unidad de apoyo a dirección
+* Coordinador / coordinadora de área de letrados de la administración de justicia
+* Coordinador / coordinadora de área de normativa
+* Coordinador / coordinadora de área de planes técnicos espectro radioeléctrico
+* Coordinador / coordinadora de área de prestaciones
+* Coordinador / coordinadora de área de proced.amist.y acuerd prev.valora
+* Coordinador / coordinadora de área de protección de datos
+* Coordinador / coordinadora de área de relaciones aeat
+* Coordinador / coordinadora de área de relaciones fiscales internacional
+* Coordinador / coordinadora de área de relaciones internacionales
+* Coordinador / coordinadora de área de régimen tributario general
+* Coordinador / coordinadora de área de seguimiento
+* Coordinador / coordinadora de área de servicios
+* Coordinador / coordinadora de área de sistemas y desarrollo
+* Coordinador / coordinadora de área de supervisor servicios meteorologicos
+* Coordinador / coordinadora de área de tecnología
+* Coordinador / coordinadora de área de telecomunicaciones y tecnologías información
+* Coordinador / coordinadora de área de tributación no residentes
+* Coordinador / coordinadora de área de valoración
+* Coordinador / coordinadora de área fiscalidad u.e.
+* Coordinador / coordinadora de área gral. norm. y reglam. tecn.
+* Coordinador / coordinadora de área i.r.p.f.
+* Coordinador / coordinadora de área i.v.a.
+* Coordinador / coordinadora de área informática
+* Coordinador / coordinadora de área inspección de datos
+* Coordinador / coordinadora de área iva unión europea
+* Coordinador / coordinadora de área jurídica y recursos humanos
+* Coordinador / coordinadora de área laboratorios agroaliment
+* Coordinador / coordinadora de área ordenación normativa y coordinación interadministrativa
+* Coordinador / coordinadora de área organos colegiados
+* Coordinador / coordinadora de área otros imp. s/cons.
+* Coordinador / coordinadora de área p.g.
+* Coordinador / coordinadora de área para sistemas del plan de recuperación, transform. y resiliencia
+* Coordinador / coordinadora de área pg
+* Coordinador / coordinadora de área plan nacional de regadios
+* Coordinador / coordinadora de área sectorial
+* Coordinador / coordinadora de área tributaria
+* Coordinador / coordinadora de área técnica
 * Coordinador / coordinadora del departamento
 * Coordinador / coordinadora del departamento de gestión del servicio
 * Coordinador / coordinadora del fondo de reserva
 * Coordinador / coordinadora del sistema de información de los servicios publicos de empleo
+* Coordinador / coordinadora del área de inspección
+* Coordinador / coordinadora del área de normativa técnica
+* Coordinador / coordinadora del área económica
 * Coordinador / coordinadora económico de los programas de defensa
 * Coordinador / coordinadora especialista
 * Coordinador / coordinadora especialista de formación
@@ -11627,14 +11621,21 @@ Listado de claves:
 * Coordinador / coordinadora unidad de gestión
 * Coordinador / coordinadora unidad tecnologías de la información
 * Coordinador / coordinadora y jefe de tramitación vue
+* Coordinador / coordinadora área
+* Coordinador / coordinadora área informática
+* Coordinador / coordinadora área meteorológica Canarias-dtor.centro investigación atmosférica izaña
 * Coordinador de inspecciones
 * Coordinador técnico
 * Coordinador técnico de emergencias
 * Coordinador técnico de protección radiologica operacional
 * Coordinador y apoyo en la inspección residente
-* Coordinador/a área seguridad
 * Coordinador/a sepblac
 * Coordinador/a unidad apoyo a la fiscalía
+* Coordinador/a área seguridad
+* Cónsul
+* Cónsul adjunto
+* Cónsul general
+* Cónsul general adjunto
 * Delegado / delegada
 * Delegado / delegada del gobierno de la mancomunidad de los canales del taibilla
 * Delegado / delegada en el real sitio de aranjuez
@@ -11647,10 +11648,7 @@ Listado de claves:
 * Delegado / delegada territorial de la aemet en Asturias
 * Delegado / delegada territorial de la aemet en Canarias
 * Delegado / delegada territorial de la aemet en Cantabria
-* Delegado / delegada territorial de la aemet en castilla y león
-* Delegado / delegada territorial de la aemet en castilla-la mancha
 * Delegado / delegada territorial de la aemet en Cataluña
-* Delegado / delegada territorial de la aemet en el País Vasco
 * Delegado / delegada territorial de la aemet en Extremadura
 * Delegado / delegada territorial de la aemet en Galicia
 * Delegado / delegada territorial de la aemet en Illes Balears
@@ -11658,6 +11656,9 @@ Listado de claves:
 * Delegado / delegada territorial de la aemet en Madrid
 * Delegado / delegada territorial de la aemet en Murcia
 * Delegado / delegada territorial de la aemet en Navarra
+* Delegado / delegada territorial de la aemet en castilla y león
+* Delegado / delegada territorial de la aemet en castilla-la mancha
+* Delegado / delegada territorial de la aemet en el País Vasco
 * Delegado / delegada territorial de la aemet en valencia
 * Delegado/a adjunto/a de la agencia
 * Delegado/a central adjunto/a
@@ -11691,9 +11692,9 @@ Listado de claves:
 * Director / directora caed merida
 * Director / directora cendar
 * Director / directora centro
+* Director / directora centro Madrid
 * Director / directora centro alicante
 * Director / directora centro barcelona
-* Director / directora centro Madrid
 * Director / directora centro málaga
 * Director / directora conservador
 * Director / directora coordinador
@@ -11726,8 +11727,8 @@ Listado de claves:
 * Director / directora de cidead
 * Director / directora de cis
 * Director / directora de comunicación
-* Director / directora de cooperación con áfrica y asia
 * Director / directora de cooperación con américa latina y el caribe
+* Director / directora de cooperación con áfrica y asia
 * Director / directora de cooperación multilateral, horizontal y financiera
 * Director / directora de coordinación
 * Director / directora de departamento
@@ -11785,6 +11786,8 @@ Listado de claves:
 * Director / directora de oficina de empleo y prestaciones Ceuta
 * Director / directora de oficina de empleo y prestaciones Melilla
 * Director / directora de oficina de prensa
+* Director / directora de oficina de prestaciones 1 Madrid
+* Director / directora de oficina de prestaciones 1 Murcia
 * Director / directora de oficina de prestaciones 1 a coruña
 * Director / directora de oficina de prestaciones 1 aguilar frontera
 * Director / directora de oficina de prestaciones 1 aguilas
@@ -11851,10 +11854,10 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 1 collado villalba
 * Director / directora de oficina de prestaciones 1 colmenar viejo
 * Director / directora de oficina de prestaciones 1 constantina
-* Director / directora de oficina de prestaciones 1 córdoba
 * Director / directora de oficina de prestaciones 1 coria
 * Director / directora de oficina de prestaciones 1 cornella llobregat
 * Director / directora de oficina de prestaciones 1 coslada
+* Director / directora de oficina de prestaciones 1 córdoba
 * Director / directora de oficina de prestaciones 1 denia
 * Director / directora de oficina de prestaciones 1 don benito
 * Director / directora de oficina de prestaciones 1 donostia-san sebastian
@@ -11895,8 +11898,8 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 1 irun
 * Director / directora de oficina de prestaciones 1 iurreta
 * Director / directora de oficina de prestaciones 1 iznalloz
-* Director / directora de oficina de prestaciones 1 jaén
 * Director / directora de oficina de prestaciones 1 jaraíz de la vera
+* Director / directora de oficina de prestaciones 1 jaén
 * Director / directora de oficina de prestaciones 1 jerez de la frontera
 * Director / directora de oficina de prestaciones 1 jodar
 * Director / directora de oficina de prestaciones 1 la laguna
@@ -11908,8 +11911,8 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 1 lasarte-oria
 * Director / directora de oficina de prestaciones 1 lebrija
 * Director / directora de oficina de prestaciones 1 leganes
-* Director / directora de oficina de prestaciones 1 león
 * Director / directora de oficina de prestaciones 1 lepe
+* Director / directora de oficina de prestaciones 1 león
 * Director / directora de oficina de prestaciones 1 linares
 * Director / directora de oficina de prestaciones 1 lleida
 * Director / directora de oficina de prestaciones 1 lliria
@@ -11920,10 +11923,8 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 1 los cristianos
 * Director / directora de oficina de prestaciones 1 lucena
 * Director / directora de oficina de prestaciones 1 lugo
-* Director / directora de oficina de prestaciones 1 Madrid
 * Director / directora de oficina de prestaciones 1 mahón
 * Director / directora de oficina de prestaciones 1 majadahonda
-* Director / directora de oficina de prestaciones 1 málaga
 * Director / directora de oficina de prestaciones 1 maliaño
 * Director / directora de oficina de prestaciones 1 manacor
 * Director / directora de oficina de prestaciones 1 manises
@@ -11946,7 +11947,7 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 1 mostoles
 * Director / directora de oficina de prestaciones 1 motril
 * Director / directora de oficina de prestaciones 1 mula
-* Director / directora de oficina de prestaciones 1 Murcia
+* Director / directora de oficina de prestaciones 1 málaga
 * Director / directora de oficina de prestaciones 1 navalmoral de la mata
 * Director / directora de oficina de prestaciones 1 orihuela
 * Director / directora de oficina de prestaciones 1 osuna
@@ -12042,9 +12043,9 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 2 alcala del valle
 * Director / directora de oficina de prestaciones 2 alcantarilla
 * Director / directora de oficina de prestaciones 2 alcaudete
-* Director / directora de oficina de prestaciones 2 alcázar de san juan
 * Director / directora de oficina de prestaciones 2 alcorcon
 * Director / directora de oficina de prestaciones 2 alcoy
+* Director / directora de oficina de prestaciones 2 alcázar de san juan
 * Director / directora de oficina de prestaciones 2 algodonales
 * Director / directora de oficina de prestaciones 2 alhama de granada
 * Director / directora de oficina de prestaciones 2 almansa
@@ -12188,14 +12189,14 @@ Listado de claves:
 * Director / directora de oficina de prestaciones 2 zalla
 * Director / directora de oficina de prestaciones 2 zarautz
 * Director / directora de oficina de prestaciones 2 zumarraga
+* Director / directora de oficina ratel Madrid
+* Director / directora de oficina ratel Murcia
 * Director / directora de oficina ratel a coruña
 * Director / directora de oficina ratel badajoz
 * Director / directora de oficina ratel barcelona
 * Director / directora de oficina ratel bilbao
 * Director / directora de oficina ratel las palmas
 * Director / directora de oficina ratel logroño
-* Director / directora de oficina ratel Madrid
-* Director / directora de oficina ratel Murcia
 * Director / directora de oficina ratel oviedo
 * Director / directora de oficina ratel palma de mallorca
 * Director / directora de oficina ratel pamplona
@@ -12214,7 +12215,6 @@ Listado de claves:
 * Director / directora de prog. consejo superior de administración electrónica
 * Director / directora de programa
 * Director / directora de programa análisis y atrib del cambio climat
-* Director / directora de programa área ingresos
 * Director / directora de programa areas marinas
 * Director / directora de programa de coordinación
 * Director / directora de programa de formación
@@ -12235,6 +12235,7 @@ Listado de claves:
 * Director / directora de programa en turquía
 * Director / directora de programa informáticos
 * Director / directora de programa p.g.
+* Director / directora de programa área ingresos
 * Director / directora de programas
 * Director / directora de programas baremos
 * Director / directora de programas centro nacional de fotografía de soria
@@ -12268,7 +12269,6 @@ Listado de claves:
 * Director / directora de seguridad interior y gestión penitenciaria
 * Director / directora de unidad
 * Director / directora del archivo sección nobleza
-* Director / directora del área
 * Director / directora del c.i.d.a
 * Director / directora del catt
 * Director / directora del centro de educación infantil
@@ -12298,6 +12298,7 @@ Listado de claves:
 * Director / directora del observatorio de astronomía nacional
 * Director / directora del observatorio de la juventud
 * Director / directora del secretariado de la comisión nacional
+* Director / directora del área
 * Director / directora departamento tecnologías de la información
 * Director / directora ejecutivo
 * Director / directora especial inspección adscrit.autor.central
@@ -12323,6 +12324,10 @@ Listado de claves:
 * Director / directora programas centros penitenciarios
 * Director / directora provincial
 * Director / directora servicio regional
+* Director / directora territorial
+* Director / directora territorial del País Vasco - jefe/jefa de la inspección de trabaj. y s.s. alava
+* Director / directora territorial inspección trabajo y seguridad social
+* Director / directora territorial jefe inspección provincial de trabajo y s.s.
 * Director / directora técnico
 * Director / directora técnico archivo general de avila
 * Director / directora técnico archivo general de guadalajara
@@ -12341,10 +12346,6 @@ Listado de claves:
 * Director / directora técnico del museo del ejército
 * Director / directora técnico del museo naval
 * Director / directora técnico subsistemas archivisticos armada
-* Director / directora territorial
-* Director / directora territorial del País Vasco - jefe/jefa de la inspección de trabaj. y s.s. alava
-* Director / directora territorial inspección trabajo y seguridad social
-* Director / directora territorial jefe inspección provincial de trabajo y s.s.
 * Director / directora unidad de apoyo de i+d+i
 * Director / directora-gerente
 * Director adjunto / directora adjunta
@@ -12364,8 +12365,6 @@ Listado de claves:
 * Educador / educadora
 * Educador / educadora de cis
 * Encargado / encargada
-* Encargado / encargada de área administrativa
-* Encargado / encargada de área administrativa apoyo oficina cis
 * Encargado / encargada de control telematico
 * Encargado / encargada de departamento de vigilancia interior
 * Encargado / encargada de departamento de vigilancia interior cis
@@ -12373,13 +12372,14 @@ Listado de claves:
 * Encargado / encargada de servicio de vigilancia interior dos
 * Encargado / encargada de trabajo a
 * Encargado / encargada de trabajo b
+* Encargado / encargada de área administrativa
+* Encargado / encargada de área administrativa apoyo oficina cis
 * Enfermero / enfermera
 * Enfermero / enfermera de cis
 * Enfermero / enfermera sanidad exterior
 * Enfermero / enfermera subinspector
 * Especialista (r.d 89/2001)
 * Especialista cartográfico
-* Especialista de área mixta
 * Especialista de i+d+i
 * Especialista de i+d+i (cedea)
 * Especialista de laboratorio
@@ -12391,6 +12391,7 @@ Listado de claves:
 * Especialista de prevención
 * Especialista de prevención adm.penit.
 * Especialista de seguridad de admon. penit.
+* Especialista de área mixta
 * Especialista en climatología
 * Especialista en observación g-1
 * Especialista en observación g-3
@@ -12400,11 +12401,11 @@ Listado de claves:
 * Especialista i+d+i
 * Especialista observación c.r.n. g.3
 * Especialista superior en seguridad
+* Especialista topográfico
 * Especialista técnico
 * Especialista técnico cartográfico
 * Especialista técnico de telecomunicaciones
 * Especialista técnico radiocomunicacion
-* Especialista topográfico
 * Especialistas (r.d.89/2001)
 * Examinador / examinadora
 * Examinador / examinadora coordinador
@@ -12426,9 +12427,9 @@ Listado de claves:
 * Formador / formadora de formadores
 * Genérico (r.d. 89/2001)
 * Genérico (r.d.89/2001)
+* Genérico cis (r.d.89/2001)
 * Genérico área mixta
 * Genérico área mixta de cis
-* Genérico cis (r.d.89/2001)
 * Gerente
 * Gerente adjunto / gerente adjunta
 * Gerente adjunto / gerente adjunta de admon. penit.
@@ -12617,13 +12618,13 @@ Listado de claves:
 * Inspector / inspectora sanidad animal
 * Inspector / inspectora sanidad vegetal
 * Inspector / inspectora servicios
+* Inspector / inspectora transportes
+* Inspector / inspectora tráfico
 * Inspector / inspectora técnico
 * Inspector / inspectora técnico central
 * Inspector / inspectora técnico facultativo
 * Inspector / inspectora técnico postal
 * Inspector / inspectora técnico/técnica
-* Inspector / inspectora tráfico
-* Inspector / inspectora transportes
 * Inspector / inspectora-instructor / instructora
 * Inspector res. adjunto central nuclear
 * Inspector residente adjunto central nuclear
@@ -12667,9 +12668,9 @@ Listado de claves:
 * Inspector/a jefe/a
 * Inspector/a jefe/a a.a
 * Inspector/a jefe/a adjunto/a e.c.i.
-* Inspector/a jefe/a área onif
 * Inspector/a jefe/a equipo central inform
 * Inspector/a jefe/a o.n.i.f.
+* Inspector/a jefe/a área onif
 * Inspector/a oficina rel.y com.juz.y trib
 * Inspector/a oficina técnica
 * Inspector/a oficina técnica a.a.
@@ -12682,14 +12683,14 @@ Listado de claves:
 * Instructor / instructora de expedientes
 * Instructor / instructora de formación ocupacional
 * Instructor / instructora n24
-* Intérprete
 * Interventor / interventora
 * Interventor / interventora auditor
 * Interventor / interventora auditor regional
 * Interventor / interventora delegado
 * Interventor / interventora delegado / delegada
+* Interventor / interventora delegado INSS
+* Interventor / interventora delegado ISM
 * Interventor / interventora delegado adjunto
-* Interventor / interventora delegado área
 * Interventor / interventora delegado confederación hidrográfica del cantábrico
 * Interventor / interventora delegado confederación hidrográfica del ebro
 * Interventor / interventora delegado confederación hidrográfica del guadalquivir
@@ -12699,14 +12700,15 @@ Listado de claves:
 * Interventor / interventora delegado de la mancomunidad de los canales del taibilla
 * Interventor / interventora delegado imserso
 * Interventor / interventora delegado ingesa
-* Interventor / interventora delegado INSS
-* Interventor / interventora delegado ISM
 * Interventor / interventora delegado jefe
-* Interventor / interventora delegado jefe de área
 * Interventor / interventora delegado jefe de unidad territorial control financiero
+* Interventor / interventora delegado jefe de área
 * Interventor / interventora delegado territorial
 * Interventor / interventora delegado tgss
+* Interventor / interventora delegado área
 * Interventor / interventora general
+* Interventor / interventora jefe de unidad control
+* Interventor / interventora jefe de unidad control financiero
 * Interventor / interventora jefe de área de cont. calidad prest
 * Interventor / interventora jefe de área de cont. calidad recur
 * Interventor / interventora jefe de área de cont. de coordinac.
@@ -12720,11 +12722,10 @@ Listado de claves:
 * Interventor / interventora jefe de área de fiscal
 * Interventor / interventora jefe de área de fiscal con. ptar. y patr
 * Interventor / interventora jefe de área de responsabilidad
-* Interventor / interventora jefe de unidad control
-* Interventor / interventora jefe de unidad control financiero
 * Interventor / interventora regional
 * Interventor / interventora territorial
 * Interventor / interventora territorial adjunto
+* Intérprete
 * Investigador / investigadora
 * Investigador / investigadora a1
 * Investigador / investigadora a2
@@ -12766,6 +12767,3107 @@ Listado de claves:
 * Jefe / jefa de actividades y programas
 * Jefe / jefa de administración
 * Jefe / jefa de agencia
+* Jefe / jefa de asesoría de fondos de financiacion de las ee.ll.
+* Jefe / jefa de asesoría jurídica central
+* Jefe / jefa de asesoría presupuestaria de cc.aa
+* Jefe / jefa de concesiones y autorizaciones
+* Jefe / jefa de coordinación de exposiciones
+* Jefe / jefa de coordinación de informática
+* Jefe / jefa de coordinación de los servicios de prevención
+* Jefe / jefa de coordinación de los servicios de prevención de admon. penit.
+* Jefe / jefa de demarcación
+* Jefe / jefa de departamento
+* Jefe / jefa de departamento de antiguedades egipcias y próximo oriente
+* Jefe / jefa de departamento de antiguedades griegas y romana
+* Jefe / jefa de departamento de antiguedades medievales
+* Jefe / jefa de departamento de análisis
+* Jefe / jefa de departamento de biblioteca
+* Jefe / jefa de departamento de biblioteca y centro documentación
+* Jefe / jefa de departamento de conservación
+* Jefe / jefa de departamento de coordinación delegaciones territoriales
+* Jefe / jefa de departamento de coordinación y normalización
+* Jefe / jefa de departamento de coordinación y planificación
+* Jefe / jefa de departamento de desarrollo y aplicaciones
+* Jefe / jefa de departamento de descripción
+* Jefe / jefa de departamento de descripción y conservación
+* Jefe / jefa de departamento de difusión
+* Jefe / jefa de departamento de edad moderna
+* Jefe / jefa de departamento de estudios aeronauticos y reglamentación de servidumbres aeronauticas
+* Jefe / jefa de departamento de estudios y planificación
+* Jefe / jefa de departamento de infraestructura y sistemas
+* Jefe / jefa de departamento de integración fondos historicos
+* Jefe / jefa de departamento de laboratorio
+* Jefe / jefa de departamento de numismática y medalli
+* Jefe / jefa de departamento de prehistoria
+* Jefe / jefa de departamento de producción
+* Jefe / jefa de departamento de programas de defensa
+* Jefe / jefa de departamento de protohistoria y colonizaciones
+* Jefe / jefa de departamento de referencias
+* Jefe / jefa de departamento de registro obras de arte
+* Jefe / jefa de departamento de seguridad y certificación
+* Jefe / jefa de departamento de servicios de información
+* Jefe / jefa de departamento técnico
+* Jefe / jefa de departamento técnico de conservación
+* Jefe / jefa de departamento técnico de documentación
+* Jefe / jefa de dependencia
+* Jefe / jefa de dependencia informática
+* Jefe / jefa de dependencia local
+* Jefe / jefa de dependencia provincial
+* Jefe / jefa de distrito
+* Jefe / jefa de división
+* Jefe / jefa de división de asesoría e informes
+* Jefe / jefa de división de asuntos juridicos
+* Jefe / jefa de división de certificación
+* Jefe / jefa de división de control de seguridad operacional en vuelo
+* Jefe / jefa de división de control financiero permanente
+* Jefe / jefa de división de coordinación, evaluación y seguimiento científico y técnico
+* Jefe / jefa de división de electrónica y aceleradores
+* Jefe / jefa de división de energias renovables
+* Jefe / jefa de división de física de altas energias
+* Jefe / jefa de división de gestión de residuos
+* Jefe / jefa de división de infraestructuras
+* Jefe / jefa de división de materiales estructurales
+* Jefe / jefa de división de medio ambiente radiologico
+* Jefe / jefa de división de programación y gestión económica y administrativa
+* Jefe / jefa de división de tecnologías información
+* Jefe / jefa de equipo
+* Jefe / jefa de equipo atención e información
+* Jefe / jefa de equipo atención e información al ciudadano
+* Jefe / jefa de equipo de aplicaciones
+* Jefe / jefa de equipo de atención al ciudadano
+* Jefe / jefa de equipo de evaluación de proyectos
+* Jefe / jefa de equipo de información
+* Jefe / jefa de equipo de inspección de telecomunicaciones a
+* Jefe / jefa de equipo de inspección de telecomunicaciones b
+* Jefe / jefa de equipo de la unidad de lucha contra la discriminación
+* Jefe / jefa de equipo de taller
+* Jefe / jefa de equipo ensayos
+* Jefe / jefa de equipo información
+* Jefe / jefa de equipo inspección
+* Jefe / jefa de equipo n14
+* Jefe / jefa de equipo n15
+* Jefe / jefa de equipo n18
+* Jefe / jefa de equipo red alerta sanitaria veterinaria
+* Jefe / jefa de estación ensayos semillas y plantas vivero
+* Jefe / jefa de estación mediciones radioeléctricas
+* Jefe / jefa de estudios
+* Jefe / jefa de estudios de postgrado en salud laboral
+* Jefe / jefa de estudios de relaciones internacionales
+* Jefe / jefa de estudios enseñanzas especiales
+* Jefe / jefa de estudios formación
+* Jefe / jefa de estudios investigación
+* Jefe / jefa de estudios perfeccionamiento
+* Jefe / jefa de estudios área ingresos
+* Jefe / jefa de experiencias operativas
+* Jefe / jefa de explot. centro gestión tráfico
+* Jefe / jefa de explotación
+* Jefe / jefa de explotación g-1
+* Jefe / jefa de explotación o planificación
+* Jefe / jefa de gabinete
+* Jefe / jefa de gabinete de arquitectura
+* Jefe / jefa de gabinete de director
+* Jefe / jefa de gabinete de director adjunto
+* Jefe / jefa de gabinete de director de cis
+* Jefe / jefa de gabinete indizacion
+* Jefe / jefa de gabinete información bibliográfica
+* Jefe / jefa de gabinete jurídico agencia de protec. datos
+* Jefe / jefa de gabinete telegráfico
+* Jefe / jefa de gabinete telegráfico de admon. penit.
+* Jefe / jefa de gabinete técnico
+* Jefe / jefa de grupo
+* Jefe / jefa de grupo de inspección de servicios
+* Jefe / jefa de grupo de predicción y vigilancia
+* Jefe / jefa de grupo formación ocupacional
+* Jefe / jefa de grupo n18
+* Jefe / jefa de grupo n20
+* Jefe / jefa de grupo prestaciones
+* Jefe / jefa de habilitación de personal
+* Jefe / jefa de habilitación y pagaduría
+* Jefe / jefa de informática política tributaria
+* Jefe / jefa de infraestructura
+* Jefe / jefa de inspección - jefe / jefa de unidad especializada seguridad social
+* Jefe / jefa de inspección de servicios
+* Jefe / jefa de inspección de telecomunicaciones a
+* Jefe / jefa de inspección de telecomunicaciones b
+* Jefe / jefa de inspección provincial de trabajo y seguridad social
+* Jefe / jefa de inspección provincial de trabajo y seguridad social y unidad espec.s.s.
+* Jefe / jefa de inspección territorial
+* Jefe / jefa de investigación y desarrollo sistemas información geocientifica
+* Jefe / jefa de la inspección operativa
+* Jefe / jefa de la oficina
+* Jefe / jefa de la secretaria de despacho
+* Jefe / jefa de la secretaria del cisns
+* Jefe / jefa de la unidad
+* Jefe / jefa de la unidad de protocolo de la p.g.
+* Jefe / jefa de la unidad de seguridad
+* Jefe / jefa de la unidad operativa
+* Jefe / jefa de la unidad protocolo y ceremon. del estado
+* Jefe / jefa de laboratorio
+* Jefe / jefa de laboratorio calibración
+* Jefe / jefa de laboratorio control de calidad
+* Jefe / jefa de laboratorio metrologico
+* Jefe / jefa de laboratorio técnico de investigación de accidentes
+* Jefe / jefa de mantenimiento
+* Jefe / jefa de negociado
+* Jefe / jefa de negociado (coor.doc.reserv.)
+* Jefe / jefa de negociado (coord. doc. otan)
+* Jefe / jefa de negociado (getafe)
+* Jefe / jefa de negociado (oficina delegada)
+* Jefe / jefa de negociado (otan)
+* Jefe / jefa de negociado (registro auxiliar)
+* Jefe / jefa de negociado (registro general)
+* Jefe / jefa de negociado (san fernando)
+* Jefe / jefa de negociado (telde)
+* Jefe / jefa de negociado (trubia)
+* Jefe / jefa de negociado (u. grandes empresas)
+* Jefe / jefa de negociado 1
+* Jefe / jefa de negociado 1 red local
+* Jefe / jefa de negociado 2 red local
+* Jefe / jefa de negociado 2 red local (c.s.)
+* Jefe / jefa de negociado actos
+* Jefe / jefa de negociado actualizacion información
+* Jefe / jefa de negociado administrador de oficina
+* Jefe / jefa de negociado administrador oficina
+* Jefe / jefa de negociado asesoramiento al público
+* Jefe / jefa de negociado caja
+* Jefe / jefa de negociado ceremonial
+* Jefe / jefa de negociado de administración
+* Jefe / jefa de negociado de administración general crf
+* Jefe / jefa de negociado de admon. penit.
+* Jefe / jefa de negociado de almacén
+* Jefe / jefa de negociado de almacén e inventario
+* Jefe / jefa de negociado de almacén y suministros de admon. penit.
+* Jefe / jefa de negociado de apoyo
+* Jefe / jefa de negociado de apoyo al consejo asesor de sanidad
+* Jefe / jefa de negociado de apoyo cir
+* Jefe / jefa de negociado de apoyo cursos
+* Jefe / jefa de negociado de apoyo de la comisión interministerial de retribuciones
+* Jefe / jefa de negociado de apoyo documental
+* Jefe / jefa de negociado de apoyo documental (disco óptico)
+* Jefe / jefa de negociado de apoyo documental e informatico
+* Jefe / jefa de negociado de apoyo internacional
+* Jefe / jefa de negociado de apoyo n16
+* Jefe / jefa de negociado de apoyo n18
+* Jefe / jefa de negociado de apoyo n18 consejo gral. ISM
+* Jefe / jefa de negociado de apoyo n18 dirección general
+* Jefe / jefa de negociado de archivo
+* Jefe / jefa de negociado de archivo n16
+* Jefe / jefa de negociado de archivo y documentación
+* Jefe / jefa de negociado de archivo y registro general
+* Jefe / jefa de negociado de asuntos generales
+* Jefe / jefa de negociado de atención al público
+* Jefe / jefa de negociado de atención al público en legaliza.
+* Jefe / jefa de negociado de atención al público en legalizaciones
+* Jefe / jefa de negociado de atención al público n15
+* Jefe / jefa de negociado de atención al público n16
+* Jefe / jefa de negociado de base de datos
+* Jefe / jefa de negociado de becas n18
+* Jefe / jefa de negociado de biblioteca
+* Jefe / jefa de negociado de caja
+* Jefe / jefa de negociado de caja - habilitación
+* Jefe / jefa de negociado de caja de admon. penit.
+* Jefe / jefa de negociado de caja fija
+* Jefe / jefa de negociado de caja habilitación
+* Jefe / jefa de negociado de calidad
+* Jefe / jefa de negociado de centro nacional de desarrollo curricular
+* Jefe / jefa de negociado de certificaciones
+* Jefe / jefa de negociado de claves mecanicas
+* Jefe / jefa de negociado de comunicación ciudadana
+* Jefe / jefa de negociado de conferencias
+* Jefe / jefa de negociado de consejo de ministros
+* Jefe / jefa de negociado de contabilidad
+* Jefe / jefa de negociado de contratación
+* Jefe / jefa de negociado de control
+* Jefe / jefa de negociado de cooperación
+* Jefe / jefa de negociado de coord. administrativa
+* Jefe / jefa de negociado de coordinación n16
+* Jefe / jefa de negociado de coordinación n18
+* Jefe / jefa de negociado de cursos para iberoamerica
+* Jefe / jefa de negociado de delineación y cartografía
+* Jefe / jefa de negociado de delineación y cartografía informatizada n17
+* Jefe / jefa de negociado de delineación y cartografía informatizada n18
+* Jefe / jefa de negociado de delineación y cartografía n17
+* Jefe / jefa de negociado de departamento de reprografia
+* Jefe / jefa de negociado de derechos y libertades
+* Jefe / jefa de negociado de distribución
+* Jefe / jefa de negociado de distribución n18
+* Jefe / jefa de negociado de documentación
+* Jefe / jefa de negociado de documentación parlamentaria
+* Jefe / jefa de negociado de documentación y archivo
+* Jefe / jefa de negociado de edición documental
+* Jefe / jefa de negociado de edición documental y publicaciones electronicas
+* Jefe / jefa de negociado de empleo
+* Jefe / jefa de negociado de equipamiento e inventario
+* Jefe / jefa de negociado de equipo técnico central de observación de admon. penit.
+* Jefe / jefa de negociado de estadística
+* Jefe / jefa de negociado de estadística n18
+* Jefe / jefa de negociado de estudio y análisis
+* Jefe / jefa de negociado de expedientes
+* Jefe / jefa de negociado de extranjería
+* Jefe / jefa de negociado de gestión datos control dopaje
+* Jefe / jefa de negociado de gestión de contenidos de la administración del estado
+* Jefe / jefa de negociado de gestión de personal de admon. penit.
+* Jefe / jefa de negociado de gestión de servicios de admon. penit.
+* Jefe / jefa de negociado de gestión económica
+* Jefe / jefa de negociado de gestión n18
+* Jefe / jefa de negociado de gestión penitenciaria de admon. penit.
+* Jefe / jefa de negociado de habilitación
+* Jefe / jefa de negociado de habilitación central
+* Jefe / jefa de negociado de habilitación de personal
+* Jefe / jefa de negociado de habilitación y pagaduría
+* Jefe / jefa de negociado de habilitación y pagaduría n18
+* Jefe / jefa de negociado de habilitación y pagaduría suplente
+* Jefe / jefa de negociado de habilitado
+* Jefe / jefa de negociado de inform.económico-financiera
+* Jefe / jefa de negociado de información
+* Jefe / jefa de negociado de información al público
+* Jefe / jefa de negociado de información al público n18
+* Jefe / jefa de negociado de información meteorológica
+* Jefe / jefa de negociado de información n16
+* Jefe / jefa de negociado de información n17
+* Jefe / jefa de negociado de información n18
+* Jefe / jefa de negociado de información pública
+* Jefe / jefa de negociado de información visitas y reservas
+* Jefe / jefa de negociado de información y atención público
+* Jefe / jefa de negociado de información y registro
+* Jefe / jefa de negociado de información y registro de admon. penit.
+* Jefe / jefa de negociado de inspección
+* Jefe / jefa de negociado de instrucciones
+* Jefe / jefa de negociado de intervención
+* Jefe / jefa de negociado de intervención n16
+* Jefe / jefa de negociado de intervención n17
+* Jefe / jefa de negociado de intervención n18
+* Jefe / jefa de negociado de inventario
+* Jefe / jefa de negociado de laboratorio control dopaje n16
+* Jefe / jefa de negociado de mecanizacion
+* Jefe / jefa de negociado de mecanizacion propuestas
+* Jefe / jefa de negociado de nominas
+* Jefe / jefa de negociado de nominas seguros sociales y habilitación
+* Jefe / jefa de negociado de oficina de información
+* Jefe / jefa de negociado de oficina de información al mutualista
+* Jefe / jefa de negociado de oficina delegada (rcp)
+* Jefe / jefa de negociado de oficina internacional
+* Jefe / jefa de negociado de pagos
+* Jefe / jefa de negociado de pasapor. y documen. viaje
+* Jefe / jefa de negociado de pasaportes
+* Jefe / jefa de negociado de patrimonio
+* Jefe / jefa de negociado de personal
+* Jefe / jefa de negociado de prensa
+* Jefe / jefa de negociado de prestaciones
+* Jefe / jefa de negociado de prestaciones n16
+* Jefe / jefa de negociado de prestaciones n18
+* Jefe / jefa de negociado de producción
+* Jefe / jefa de negociado de protocolo
+* Jefe / jefa de negociado de protocolo n18 p.g.
+* Jefe / jefa de negociado de publicaciones
+* Jefe / jefa de negociado de publicaciones electronicas
+* Jefe / jefa de negociado de reclamaciones
+* Jefe / jefa de negociado de reg. e información
+* Jefe / jefa de negociado de registro
+* Jefe / jefa de negociado de registro de ordenación de diarios
+* Jefe / jefa de negociado de registro e información
+* Jefe / jefa de negociado de registro general
+* Jefe / jefa de negociado de registro n15
+* Jefe / jefa de negociado de registro n18
+* Jefe / jefa de negociado de registro y reclamaciones
+* Jefe / jefa de negociado de relaciones internacionales
+* Jefe / jefa de negociado de relaciones tribunales
+* Jefe / jefa de negociado de reprografia
+* Jefe / jefa de negociado de responsabilidad patrimonial
+* Jefe / jefa de negociado de retribuciones
+* Jefe / jefa de negociado de seguimiento legislativo
+* Jefe / jefa de negociado de seguridad social
+* Jefe / jefa de negociado de sobrevuelos y escalas
+* Jefe / jefa de negociado de tabulacion de encuestas
+* Jefe / jefa de negociado de teletipos
+* Jefe / jefa de negociado de titulos
+* Jefe / jefa de negociado de tramitación
+* Jefe / jefa de negociado de tramitación parlamentaria
+* Jefe / jefa de negociado de tramitación y apoyo administrativo
+* Jefe / jefa de negociado de traslados
+* Jefe / jefa de negociado de unidad de producción
+* Jefe / jefa de negociado de valijas
+* Jefe / jefa de negociado de valijas extraordinarias
+* Jefe / jefa de negociado de ventas y atención al público
+* Jefe / jefa de negociado de visados
+* Jefe / jefa de negociado de visados n18
+* Jefe / jefa de negociado de área jurídica
+* Jefe / jefa de negociado del gis
+* Jefe / jefa de negociado documentación
+* Jefe / jefa de negociado habilitación
+* Jefe / jefa de negociado habilitado-cajero pagador suplente
+* Jefe / jefa de negociado habilitado-personal
+* Jefe / jefa de negociado intervención
+* Jefe / jefa de negociado mesa contratación
+* Jefe / jefa de negociado multimedia
+* Jefe / jefa de negociado n14
+* Jefe / jefa de negociado n15
+* Jefe / jefa de negociado n16
+* Jefe / jefa de negociado n16 (u. grandes empresas)
+* Jefe / jefa de negociado n17
+* Jefe / jefa de negociado n18
+* Jefe / jefa de negociado n18 (u. grandes empresas)
+* Jefe / jefa de negociado n18 p.g.
+* Jefe / jefa de negociado observatorio
+* Jefe / jefa de negociado oficina de información y registro
+* Jefe / jefa de negociado síndrome tóxico
+* Jefe / jefa de negociado tipo 1
+* Jefe / jefa de negociado tipo 2
+* Jefe / jefa de negociado tipo 5
+* Jefe / jefa de negociado tipo i
+* Jefe / jefa de negociado tipo i (c.s.)
+* Jefe / jefa de negociado tipo ii
+* Jefe / jefa de negociado tipo vi
+* Jefe / jefa de negociado tipo5
+* Jefe / jefa de negociado técnico
+* Jefe / jefa de negociado unidad de producción
+* Jefe / jefa de observación c.r.n. g-4
+* Jefe / jefa de oficina
+* Jefe / jefa de oficina de apoyo cis
+* Jefe / jefa de oficina de cis
+* Jefe / jefa de oficina de extranjería
+* Jefe / jefa de oficina de información administrativa
+* Jefe / jefa de oficina de pesca
+* Jefe / jefa de oficina de planificación hidrológica
+* Jefe / jefa de oficina de sanidad animal y vegetal
+* Jefe / jefa de oficina de sanidad vegetal
+* Jefe / jefa de oficina de supervision de proyectos
+* Jefe / jefa de oficina de área mixta
+* Jefe / jefa de oficina de área mixta dos
+* Jefe / jefa de oficina del partícipe
+* Jefe / jefa de oficina delegada
+* Jefe / jefa de oficina delegada especializada
+* Jefe / jefa de oficina delegada técnica
+* Jefe / jefa de oficina enlace
+* Jefe / jefa de oficina estatal de lucha contra la discriminación
+* Jefe / jefa de oficina local
+* Jefe / jefa de oficina planificación
+* Jefe / jefa de oficina planificación hidrológica
+* Jefe / jefa de oficina prensa
+* Jefe / jefa de oficina proyectos
+* Jefe / jefa de oficina seguridad industrial
+* Jefe / jefa de oficina supervision de proyectos
+* Jefe / jefa de oficina tráfico
+* Jefe / jefa de oficina técnica y de supervision de proyec
+* Jefe / jefa de oficinas
+* Jefe / jefa de parque móvil
+* Jefe / jefa de planificación
+* Jefe / jefa de procedimientos concursales
+* Jefe / jefa de programa de expedientes sancionadores
+* Jefe / jefa de programa vag
+* Jefe / jefa de programas seguimiento plan nacional i+d
+* Jefe / jefa de proyecto
+* Jefe / jefa de proyecto - jefe / jefa de servicio de informática
+* Jefe / jefa de proyecto - jefe / jefa de servicio de servicios informáticos
+* Jefe / jefa de proyecto - jefe / jefa de servicio de sistemas informáticos
+* Jefe / jefa de proyecto instalaciones del ciclo y desmantelamiento
+* Jefe / jefa de proyecto servicio sistemas y comunicaciones
+* Jefe / jefa de proyecto sistemas informáticos
+* Jefe / jefa de proyectos - jefe / jefa de servicio de sistemas informáticos
+* Jefe / jefa de proyectos de administración electrónica
+* Jefe / jefa de proyectos informáticos
+* Jefe / jefa de proyectos sistemas informáticos
+* Jefe / jefa de proyectos sistemas informáticos n26
+* Jefe / jefa de proyectos técnicos
+* Jefe / jefa de proyectos técnicos n26
+* Jefe / jefa de red informática periférica
+* Jefe / jefa de red periférica
+* Jefe / jefa de registro
+* Jefe / jefa de registro general
+* Jefe / jefa de registro y archivo
+* Jefe / jefa de relaciones externas y actividades comerciales
+* Jefe / jefa de residencias
+* Jefe / jefa de sala
+* Jefe / jefa de sala cisa
+* Jefe / jefa de sala datos
+* Jefe / jefa de salud pública
+* Jefe / jefa de sección
+* Jefe / jefa de sección (hcm)
+* Jefe / jefa de sección (oficina delegada)
+* Jefe / jefa de sección (otan)
+* Jefe / jefa de sección a
+* Jefe / jefa de sección adjunto de registro general
+* Jefe / jefa de sección administrador de oficina
+* Jefe / jefa de sección administrativa
+* Jefe / jefa de sección administrativa cir
+* Jefe / jefa de sección administrativa de certificación y control
+* Jefe / jefa de sección administrativa de la comisión interministerial de retribuciones
+* Jefe / jefa de sección agronom.
+* Jefe / jefa de sección apoyo logistico
+* Jefe / jefa de sección apoyo técnico
+* Jefe / jefa de sección apoyo técnico informes
+* Jefe / jefa de sección autoridades
+* Jefe / jefa de sección autoridades materias
+* Jefe / jefa de sección b
+* Jefe / jefa de sección c
+* Jefe / jefa de sección caja/habilitación
+* Jefe / jefa de sección centro de comunicaciones
+* Jefe / jefa de sección consejo de ministros
+* Jefe / jefa de sección coordinador especialista de formación vial
+* Jefe / jefa de sección d
+* Jefe / jefa de sección de a
+* Jefe / jefa de sección de acciones integradas
+* Jefe / jefa de sección de acción educativa en el exterior
+* Jefe / jefa de sección de acción exterior
+* Jefe / jefa de sección de acción social
+* Jefe / jefa de sección de acción social de admon. penit.
+* Jefe / jefa de sección de acreditacion
+* Jefe / jefa de sección de actividades culturales
+* Jefe / jefa de sección de actividades inspectoras
+* Jefe / jefa de sección de actuaciones administrativas
+* Jefe / jefa de sección de actuación administrativa
+* Jefe / jefa de sección de administración
+* Jefe / jefa de sección de administración de redes
+* Jefe / jefa de sección de administración red local
+* Jefe / jefa de sección de administración y control
+* Jefe / jefa de sección de administración y programas
+* Jefe / jefa de sección de admon. penit
+* Jefe / jefa de sección de admon. penit.
+* Jefe / jefa de sección de adquisiciones
+* Jefe / jefa de sección de adquisiciones instalaciones cientificas
+* Jefe / jefa de sección de adquisición contratos menores
+* Jefe / jefa de sección de adquisición recursos electronicos
+* Jefe / jefa de sección de adquisición y control contable
+* Jefe / jefa de sección de adquisición y servicios de admon. penit.
+* Jefe / jefa de sección de agronómica
+* Jefe / jefa de sección de aguas superficiales
+* Jefe / jefa de sección de alertas medicamentos uso humano
+* Jefe / jefa de sección de alertas medicamentos uso veterinario
+* Jefe / jefa de sección de almacén obras de arte
+* Jefe / jefa de sección de amueblamiento
+* Jefe / jefa de sección de animalario
+* Jefe / jefa de sección de anticipo caja fija
+* Jefe / jefa de sección de anulados
+* Jefe / jefa de sección de anuncios
+* Jefe / jefa de sección de análisis calidad de las aguas
+* Jefe / jefa de sección de análisis de costes
+* Jefe / jefa de sección de análisis de proyectos
+* Jefe / jefa de sección de análisis de seguridad de helicopteros
+* Jefe / jefa de sección de análisis documental y archivo
+* Jefe / jefa de sección de análisis económico proyectos
+* Jefe / jefa de sección de análisis presupuestario
+* Jefe / jefa de sección de análisis previsión y coordinación
+* Jefe / jefa de sección de análisis programa oper. comunit.
+* Jefe / jefa de sección de análisis proyectos de edición
+* Jefe / jefa de sección de análisis quimicos productos farmaceuticos
+* Jefe / jefa de sección de análisis y desarrollo
+* Jefe / jefa de sección de análisis y estudios de vigilancia
+* Jefe / jefa de sección de análisis y mant. sistemas bibliotecarios
+* Jefe / jefa de sección de análisis y prog.
+* Jefe / jefa de sección de apoyo
+* Jefe / jefa de sección de apoyo a control
+* Jefe / jefa de sección de apoyo a fincas
+* Jefe / jefa de sección de apoyo a formación y documentación
+* Jefe / jefa de sección de apoyo a la gestión
+* Jefe / jefa de sección de apoyo administrativo de admon. penit.
+* Jefe / jefa de sección de apoyo admtvo gestión calidad laboratorio control dopaje
+* Jefe / jefa de sección de apoyo documental
+* Jefe / jefa de sección de apoyo gestión
+* Jefe / jefa de sección de apoyo informatico
+* Jefe / jefa de sección de apoyo inspección de admon. penit.
+* Jefe / jefa de sección de apoyo investigación
+* Jefe / jefa de sección de apoyo n22
+* Jefe / jefa de sección de apoyo n24
+* Jefe / jefa de sección de apoyo parlamentario
+* Jefe / jefa de sección de apoyo técnico
+* Jefe / jefa de sección de apoyo técnico e información
+* Jefe / jefa de sección de apoyo técnico e informes
+* Jefe / jefa de sección de apoyo unidad periférica
+* Jefe / jefa de sección de apoyo y coordinación
+* Jefe / jefa de sección de arbitrajes internacionales
+* Jefe / jefa de sección de archivo
+* Jefe / jefa de sección de archivo de la palabra
+* Jefe / jefa de sección de archivo general
+* Jefe / jefa de sección de archivo inventario y control de material
+* Jefe / jefa de sección de archivo n22
+* Jefe / jefa de sección de archivo y biblioteca
+* Jefe / jefa de sección de archivo y registro
+* Jefe / jefa de sección de archivos
+* Jefe / jefa de sección de archivos y bases de datos
+* Jefe / jefa de sección de arqueología
+* Jefe / jefa de sección de arrendamientos
+* Jefe / jefa de sección de artes aplicadas
+* Jefe / jefa de sección de asesoramiento público n22
+* Jefe / jefa de sección de asesoramiento público n24
+* Jefe / jefa de sección de asistencia técnica
+* Jefe / jefa de sección de asuntos generales
+* Jefe / jefa de sección de asuntos generales n22
+* Jefe / jefa de sección de asuntos juridicos
+* Jefe / jefa de sección de asuntos técnicos de admon. penit.
+* Jefe / jefa de sección de atención al ciudadano
+* Jefe / jefa de sección de atención al ciudadano y registro
+* Jefe / jefa de sección de atención al personal
+* Jefe / jefa de sección de atención al público
+* Jefe / jefa de sección de atención victimas terorismo y apoyo económico
+* Jefe / jefa de sección de audiovisuales
+* Jefe / jefa de sección de automatiz. y estadist. bibiliotecaria
+* Jefe / jefa de sección de autorizaciones circulación
+* Jefe / jefa de sección de autorizaciones de pesca
+* Jefe / jefa de sección de autorización pruebas deportivas
+* Jefe / jefa de sección de auxilio judicial penal
+* Jefe / jefa de sección de aviación civil
+* Jefe / jefa de sección de ayuda humanitaria
+* Jefe / jefa de sección de ayudas de investigación
+* Jefe / jefa de sección de bacteriología alimentaria
+* Jefe / jefa de sección de base de datos
+* Jefe / jefa de sección de bases datos y produc. asoc.
+* Jefe / jefa de sección de bases de datos de personal de admon. penit.
+* Jefe / jefa de sección de bibliografía española
+* Jefe / jefa de sección de biblioteca
+* Jefe / jefa de sección de biblioteca n24
+* Jefe / jefa de sección de biblioteca referencia
+* Jefe / jefa de sección de biblioteca, archivo y documentación
+* Jefe / jefa de sección de bibliotecas
+* Jefe / jefa de sección de bibliotecas n24
+* Jefe / jefa de sección de bienes inmuebles
+* Jefe / jefa de sección de c
+* Jefe / jefa de sección de c.r.m.f.
+* Jefe / jefa de sección de cabotaje y estadística
+* Jefe / jefa de sección de caj pag hab
+* Jefe / jefa de sección de caja
+* Jefe / jefa de sección de caja fija
+* Jefe / jefa de sección de caja fija y facturación electrónica
+* Jefe / jefa de sección de caja habilitación
+* Jefe / jefa de sección de caja n20
+* Jefe / jefa de sección de caja n22
+* Jefe / jefa de sección de caja n24
+* Jefe / jefa de sección de caja pagadora
+* Jefe / jefa de sección de caja pagadora de centros
+* Jefe / jefa de sección de cajas de ahorro
+* Jefe / jefa de sección de cajas pagadoras
+* Jefe / jefa de sección de cajero habilitado
+* Jefe / jefa de sección de cajero pagador
+* Jefe / jefa de sección de calidad de las aguas
+* Jefe / jefa de sección de calidad, innovación e información centralizada
+* Jefe / jefa de sección de canje
+* Jefe / jefa de sección de cartografía antigua
+* Jefe / jefa de sección de cartográfica
+* Jefe / jefa de sección de catalogación
+* Jefe / jefa de sección de catalogación obras españolas
+* Jefe / jefa de sección de catalogación obras extranjeras
+* Jefe / jefa de sección de catalogación y selección de empresas de admon. penit.
+* Jefe / jefa de sección de catalogos colectiv. public.periodicas
+* Jefe / jefa de sección de catalogos generales
+* Jefe / jefa de sección de censo de la flota pesquera oper
+* Jefe / jefa de sección de centro de información al ciudadano
+* Jefe / jefa de sección de centros hábil.tipo pilotos avión
+* Jefe / jefa de sección de centros tecnologicos
+* Jefe / jefa de sección de certificaciones
+* Jefe / jefa de sección de ciencias sociales
+* Jefe / jefa de sección de clases pasivas
+* Jefe / jefa de sección de clasificación ciencias y tecnología
+* Jefe / jefa de sección de clasificación de admon. penit.
+* Jefe / jefa de sección de clasificación humanidades
+* Jefe / jefa de sección de climatología
+* Jefe / jefa de sección de climatología/usuarios
+* Jefe / jefa de sección de colectivo prestaciones
+* Jefe / jefa de sección de comercializacion
+* Jefe / jefa de sección de componentes y aditivos ii
+* Jefe / jefa de sección de componentes y aditivos iii
+* Jefe / jefa de sección de compras
+* Jefe / jefa de sección de compras p.g.
+* Jefe / jefa de sección de comunicac.espec.gab.comunicaciones p.g.
+* Jefe / jefa de sección de comunicaciones y planif. sistemas
+* Jefe / jefa de sección de comunicaciones y redes informaticas
+* Jefe / jefa de sección de comunicación
+* Jefe / jefa de sección de comunicación ciudadana
+* Jefe / jefa de sección de comunicación de datos
+* Jefe / jefa de sección de comunidades autonomas
+* Jefe / jefa de sección de comunidades de regantes
+* Jefe / jefa de sección de conciertos hospitalarios
+* Jefe / jefa de sección de concursos de admon. penit.
+* Jefe / jefa de sección de consejeros sectoriales
+* Jefe / jefa de sección de conservación
+* Jefe / jefa de sección de conservación de inmuebles
+* Jefe / jefa de sección de conservación de patrimonio
+* Jefe / jefa de sección de consulados honorarios
+* Jefe / jefa de sección de consulta y referencia
+* Jefe / jefa de sección de contabilidad
+* Jefe / jefa de sección de contabilidad de admon. penit.
+* Jefe / jefa de sección de contabilidad de costes
+* Jefe / jefa de sección de contabilidad de las consejerias turismo
+* Jefe / jefa de sección de contabilidad financiera
+* Jefe / jefa de sección de contabilidad presupuestaria
+* Jefe / jefa de sección de contabilidad y presupuestos
+* Jefe / jefa de sección de contenidos web
+* Jefe / jefa de sección de contratación
+* Jefe / jefa de sección de contratación administrativa
+* Jefe / jefa de sección de contratación de admon. penit.
+* Jefe / jefa de sección de contratación de las consejerias turismo
+* Jefe / jefa de sección de contratación de obras
+* Jefe / jefa de sección de contratación n22
+* Jefe / jefa de sección de contratación y gasto
+* Jefe / jefa de sección de contratación y patrimonio
+* Jefe / jefa de sección de contratos seguridad
+* Jefe / jefa de sección de control cuentas de admon. penit.
+* Jefe / jefa de sección de control datos personal funcionario
+* Jefe / jefa de sección de control de facturas y contratos
+* Jefe / jefa de sección de control de gastos
+* Jefe / jefa de sección de control de ingresos
+* Jefe / jefa de sección de control de pagos
+* Jefe / jefa de sección de control de plantillas de admon. penit.
+* Jefe / jefa de sección de control de tráfico
+* Jefe / jefa de sección de control gestión
+* Jefe / jefa de sección de control interno y contabilidad tipo i
+* Jefe / jefa de sección de control interno y contabilidad tipo ii
+* Jefe / jefa de sección de control inversiones
+* Jefe / jefa de sección de control inversiones de admon. penit.
+* Jefe / jefa de sección de control materias primas
+* Jefe / jefa de sección de control presupuestario
+* Jefe / jefa de sección de control programas presupuestarios
+* Jefe / jefa de sección de control proyectos
+* Jefe / jefa de sección de control publicidad
+* Jefe / jefa de sección de control subvenciones
+* Jefe / jefa de sección de control vertidos y derrames
+* Jefe / jefa de sección de control y gestión patrimonial
+* Jefe / jefa de sección de control y seguimiento
+* Jefe / jefa de sección de conv. proy. infr. y acc. esp.
+* Jefe / jefa de sección de convenios
+* Jefe / jefa de sección de convenios colaboración cc.aa.
+* Jefe / jefa de sección de convenios consulares
+* Jefe / jefa de sección de convenios y operaciones comerciales
+* Jefe / jefa de sección de convenios y patentes
+* Jefe / jefa de sección de convocatorias ongd
+* Jefe / jefa de sección de cooperación científica internacional
+* Jefe / jefa de sección de cooperación musical
+* Jefe / jefa de sección de cooperación técnica
+* Jefe / jefa de sección de coordinación
+* Jefe / jefa de sección de coordinación administrativa
+* Jefe / jefa de sección de coordinación centralizada
+* Jefe / jefa de sección de coordinación cursos de admon. penit.
+* Jefe / jefa de sección de coordinación de nominas y creditos
+* Jefe / jefa de sección de coordinación de programación
+* Jefe / jefa de sección de coordinación eval. docente
+* Jefe / jefa de sección de coordinación habilitación periférica
+* Jefe / jefa de sección de coordinación información
+* Jefe / jefa de sección de coordinación medios de control
+* Jefe / jefa de sección de coordinación n20
+* Jefe / jefa de sección de coordinación registros altos cargos
+* Jefe / jefa de sección de coordinación talleres
+* Jefe / jefa de sección de coordinación y archivo de proyectos
+* Jefe / jefa de sección de coordinación y gestión marítima
+* Jefe / jefa de sección de costes de a.p.i.
+* Jefe / jefa de sección de creditos
+* Jefe / jefa de sección de creditos, contratación, planificación y centros
+* Jefe / jefa de sección de cuentas e ingresos
+* Jefe / jefa de sección de cursos
+* Jefe / jefa de sección de cálculo de costes
+* Jefe / jefa de sección de declaración utilidad pública
+* Jefe / jefa de sección de delineación cartográfica
+* Jefe / jefa de sección de delineación y cartografía informatizada
+* Jefe / jefa de sección de delineación y cartografía informatizada n20
+* Jefe / jefa de sección de delineación y cartografía informatizada n22
+* Jefe / jefa de sección de depositos generales
+* Jefe / jefa de sección de depósito legal
+* Jefe / jefa de sección de derechos ciudadanos
+* Jefe / jefa de sección de desarrollo
+* Jefe / jefa de sección de desarrollo informatico
+* Jefe / jefa de sección de detenidos
+* Jefe / jefa de sección de dibujos
+* Jefe / jefa de sección de difusión e imagen institucional
+* Jefe / jefa de sección de dioxinas
+* Jefe / jefa de sección de distribución comercial
+* Jefe / jefa de sección de divulgación
+* Jefe / jefa de sección de documentación
+* Jefe / jefa de sección de documentación apoyo al c.s. de fundaciones
+* Jefe / jefa de sección de documentación bibliográfica
+* Jefe / jefa de sección de documentación bibliotecaria
+* Jefe / jefa de sección de documentación científica
+* Jefe / jefa de sección de documentación contable informatizada
+* Jefe / jefa de sección de documentación de admon. penit.
+* Jefe / jefa de sección de documentación de la p.g.
+* Jefe / jefa de sección de documentación internacional
+* Jefe / jefa de sección de documentación jurídica
+* Jefe / jefa de sección de documentación y archivo
+* Jefe / jefa de sección de documentación y gestión
+* Jefe / jefa de sección de dosimetría y radiocontaminacion
+* Jefe / jefa de sección de edición
+* Jefe / jefa de sección de edición y diseño pag. web
+* Jefe / jefa de sección de ejecución económica contr.
+* Jefe / jefa de sección de emergencia consular
+* Jefe / jefa de sección de empleo n22
+* Jefe / jefa de sección de empleo n24
+* Jefe / jefa de sección de empleo y formación
+* Jefe / jefa de sección de ensayos biologicos
+* Jefe / jefa de sección de ensayos de investigación
+* Jefe / jefa de sección de entidades financieras
+* Jefe / jefa de sección de entrada valijas
+* Jefe / jefa de sección de epidemiologia del sida
+* Jefe / jefa de sección de epidemiologia enfermedades infecciosa
+* Jefe / jefa de sección de epizootiologia y diagnóstico p3
+* Jefe / jefa de sección de equipamiento de centros de admon. penit.
+* Jefe / jefa de sección de equipamiento y suministros
+* Jefe / jefa de sección de equipo técnico central de observación de admon. penit.
+* Jefe / jefa de sección de equipos de medida
+* Jefe / jefa de sección de equipos emisores
+* Jefe / jefa de sección de estado civil i
+* Jefe / jefa de sección de estadística
+* Jefe / jefa de sección de estadística n22
+* Jefe / jefa de sección de estadística n24
+* Jefe / jefa de sección de estadística y coordinación
+* Jefe / jefa de sección de estadística y tránsito explosiv
+* Jefe / jefa de sección de estadísticas web
+* Jefe / jefa de sección de estudios
+* Jefe / jefa de sección de estudios basicos
+* Jefe / jefa de sección de estudios de admon. penit.
+* Jefe / jefa de sección de estudios técnicos
+* Jefe / jefa de sección de estudios y evaluación riesgos
+* Jefe / jefa de sección de evaluación de homeopatía
+* Jefe / jefa de sección de examen forma y publicaciones
+* Jefe / jefa de sección de expedientes contratación
+* Jefe / jefa de sección de expedientes expropiaciones
+* Jefe / jefa de sección de expedientes sancionadores
+* Jefe / jefa de sección de explotación
+* Jefe / jefa de sección de exposiciones
+* Jefe / jefa de sección de exposiciones y ferias
+* Jefe / jefa de sección de expropiaciones
+* Jefe / jefa de sección de extradiciones y a. penales
+* Jefe / jefa de sección de extranjería
+* Jefe / jefa de sección de facilitación transporte aéreo
+* Jefe / jefa de sección de farmacovigilancia
+* Jefe / jefa de sección de financiacion
+* Jefe / jefa de sección de fondo de reserva
+* Jefe / jefa de sección de fondo reserva
+* Jefe / jefa de sección de fondos
+* Jefe / jefa de sección de fondos impresos
+* Jefe / jefa de sección de fondos unión europea
+* Jefe / jefa de sección de formación
+* Jefe / jefa de sección de formación aeron. y escuelas
+* Jefe / jefa de sección de formación continuada de admon. penit.
+* Jefe / jefa de sección de formación control.tráfico aéreo
+* Jefe / jefa de sección de formación desp. vuelo e inglés aeron.
+* Jefe / jefa de sección de formación inicial de admon. penit.
+* Jefe / jefa de sección de formación n22
+* Jefe / jefa de sección de formación ocupacional
+* Jefe / jefa de sección de formación ocupacional n24
+* Jefe / jefa de sección de formación profesional e inserción de admon. penit.
+* Jefe / jefa de sección de formación profesional ocupacional de admon. penit.
+* Jefe / jefa de sección de formación trip.cabina pasajeros
+* Jefe / jefa de sección de formación vial
+* Jefe / jefa de sección de formación y acción social
+* Jefe / jefa de sección de fotografía y efímera
+* Jefe / jefa de sección de fotovideo n24
+* Jefe / jefa de sección de gabinete comunicaciones
+* Jefe / jefa de sección de gabinete de comunicaciones p.g.
+* Jefe / jefa de sección de galénica
+* Jefe / jefa de sección de gastos de transporte
+* Jefe / jefa de sección de gastos judiciales
+* Jefe / jefa de sección de gestión
+* Jefe / jefa de sección de gestión administrativa
+* Jefe / jefa de sección de gestión bibliotecaria
+* Jefe / jefa de sección de gestión cartera servicios
+* Jefe / jefa de sección de gestión certif. obras
+* Jefe / jefa de sección de gestión compras
+* Jefe / jefa de sección de gestión comunicaciones informaticas
+* Jefe / jefa de sección de gestión cultural y deportiva de admon. penit.
+* Jefe / jefa de sección de gestión de admon. penit.
+* Jefe / jefa de sección de gestión de becas
+* Jefe / jefa de sección de gestión de creditos
+* Jefe / jefa de sección de gestión de expedientes
+* Jefe / jefa de sección de gestión de personal
+* Jefe / jefa de sección de gestión de programas
+* Jefe / jefa de sección de gestión de recursos
+* Jefe / jefa de sección de gestión dominio público hidráulico
+* Jefe / jefa de sección de gestión e información tributaria
+* Jefe / jefa de sección de gestión económica
+* Jefe / jefa de sección de gestión económica administrativa
+* Jefe / jefa de sección de gestión económica habilitación
+* Jefe / jefa de sección de gestión económica y admon.cisa
+* Jefe / jefa de sección de gestión económica y habili
+* Jefe / jefa de sección de gestión editorial
+* Jefe / jefa de sección de gestión expropiaciones
+* Jefe / jefa de sección de gestión fondos
+* Jefe / jefa de sección de gestión gastos mantenim
+* Jefe / jefa de sección de gestión incompatibilidades
+* Jefe / jefa de sección de gestión incresos
+* Jefe / jefa de sección de gestión institucinal
+* Jefe / jefa de sección de gestión inversiones
+* Jefe / jefa de sección de gestión n22
+* Jefe / jefa de sección de gestión patrimonial
+* Jefe / jefa de sección de gestión penitenciaria de admon. penit.
+* Jefe / jefa de sección de gestión penitenciria de admon. penit.
+* Jefe / jefa de sección de gestión personal
+* Jefe / jefa de sección de gestión presupuestaria de ingresos
+* Jefe / jefa de sección de gestión sicop
+* Jefe / jefa de sección de gestión subvenciones
+* Jefe / jefa de sección de gestión técnica
+* Jefe / jefa de sección de gestión técnica dominio público
+* Jefe / jefa de sección de gestión y compras
+* Jefe / jefa de sección de gestión y consulta
+* Jefe / jefa de sección de gestión y control de obras
+* Jefe / jefa de sección de gestión y distribución
+* Jefe / jefa de sección de gestión y mantenimiento
+* Jefe / jefa de sección de gestión y organización marítima
+* Jefe / jefa de sección de gestión y vigilancia
+* Jefe / jefa de sección de grabacion explotación
+* Jefe / jefa de sección de grabados
+* Jefe / jefa de sección de guardería fluvial
+* Jefe / jefa de sección de guardia cifra
+* Jefe / jefa de sección de habilitación
+* Jefe / jefa de sección de habilitación admon. penit.
+* Jefe / jefa de sección de habilitación consejerias laborales
+* Jefe / jefa de sección de habilitación de personal
+* Jefe / jefa de sección de habilitación gastos personal
+* Jefe / jefa de sección de habilitación n22
+* Jefe / jefa de sección de habilitación nominas exterior
+* Jefe / jefa de sección de habilitación nominas interior
+* Jefe / jefa de sección de habilitación pagaduría
+* Jefe / jefa de sección de habilitación personal
+* Jefe / jefa de sección de habilitación personal de admon. penit.
+* Jefe / jefa de sección de habilitación personal y seguridad social
+* Jefe / jefa de sección de habilitación suplente
+* Jefe / jefa de sección de habilitación y caja
+* Jefe / jefa de sección de habilitación y justificación de cuentas
+* Jefe / jefa de sección de habilitación y pagaduría
+* Jefe / jefa de sección de habilitación y pagaduría n20
+* Jefe / jefa de sección de habilitación y pagaduría n22
+* Jefe / jefa de sección de habilitación y pagaduría n24
+* Jefe / jefa de sección de habilitación, tesorería y contabilidad
+* Jefe / jefa de sección de hap y aminas biogenas
+* Jefe / jefa de sección de hemostasia y trombosis
+* Jefe / jefa de sección de hidrología
+* Jefe / jefa de sección de i.s.b.n.
+* Jefe / jefa de sección de i.s.s.n.
+* Jefe / jefa de sección de identificación de admon. penit.
+* Jefe / jefa de sección de impresos menores
+* Jefe / jefa de sección de incoación
+* Jefe / jefa de sección de indemnizaciones
+* Jefe / jefa de sección de información
+* Jefe / jefa de sección de información administrativa
+* Jefe / jefa de sección de información al ciudadano
+* Jefe / jefa de sección de información bibliográfica
+* Jefe / jefa de sección de información científica
+* Jefe / jefa de sección de información documental
+* Jefe / jefa de sección de información electoral
+* Jefe / jefa de sección de información fotografía aérea
+* Jefe / jefa de sección de información meteorológica
+* Jefe / jefa de sección de información n20
+* Jefe / jefa de sección de información n22
+* Jefe / jefa de sección de información público
+* Jefe / jefa de sección de información registros y archivos
+* Jefe / jefa de sección de información y archivos
+* Jefe / jefa de sección de información y atención al ciudadano de admon. penit.
+* Jefe / jefa de sección de información y atención clientes
+* Jefe / jefa de sección de información y registro
+* Jefe / jefa de sección de información.ss.pp.y legisl. admtva.
+* Jefe / jefa de sección de informes
+* Jefe / jefa de sección de informes juridicos
+* Jefe / jefa de sección de informes n24
+* Jefe / jefa de sección de informes y consultas
+* Jefe / jefa de sección de informática
+* Jefe / jefa de sección de infracciones y denuncias
+* Jefe / jefa de sección de ingeniería fluvial
+* Jefe / jefa de sección de ingreso de publicaciones
+* Jefe / jefa de sección de ingresos
+* Jefe / jefa de sección de ingresos precios publicos
+* Jefe / jefa de sección de ingresos y costes
+* Jefe / jefa de sección de inmunologia bioquímica
+* Jefe / jefa de sección de inmunopatologia y diagnóstico
+* Jefe / jefa de sección de innovación científica y tecnológica
+* Jefe / jefa de sección de innovación didáctica y calidad
+* Jefe / jefa de sección de inspección
+* Jefe / jefa de sección de inspección comercial
+* Jefe / jefa de sección de inspección fammaceutica y control de drogas
+* Jefe / jefa de sección de inspección farmacéutica y control de drogas
+* Jefe / jefa de sección de inspección farmacéutica y control drogas
+* Jefe / jefa de sección de inspección mercado de tabacos n22
+* Jefe / jefa de sección de inspección mercado de tabacos n24
+* Jefe / jefa de sección de inspección producción pesquera
+* Jefe / jefa de sección de inspección y control de medicamentos
+* Jefe / jefa de sección de instalaciones
+* Jefe / jefa de sección de instalaciones seguridad vial
+* Jefe / jefa de sección de instituciones cerradas
+* Jefe / jefa de sección de instrucción de expedientes
+* Jefe / jefa de sección de intendencia general
+* Jefe / jefa de sección de intervención n24
+* Jefe / jefa de sección de inventario
+* Jefe / jefa de sección de inversiones y análisis económico financiero
+* Jefe / jefa de sección de investigación en enfermería
+* Jefe / jefa de sección de investigadores bellas artes y cartografía
+* Jefe / jefa de sección de investigadores fondo antiguo
+* Jefe / jefa de sección de justificación de cuentas
+* Jefe / jefa de sección de laboratorio
+* Jefe / jefa de sección de laboratorio sanidad exterior
+* Jefe / jefa de sección de legalizaciones
+* Jefe / jefa de sección de lineas regulares
+* Jefe / jefa de sección de mantenimiento
+* Jefe / jefa de sección de mantenimiento de admon. penit.
+* Jefe / jefa de sección de mantenimiento equipo
+* Jefe / jefa de sección de mantenimiento n20
+* Jefe / jefa de sección de mantenimiento y explotación
+* Jefe / jefa de sección de manuscritos antiguos
+* Jefe / jefa de sección de mapa topográfico nacional
+* Jefe / jefa de sección de material y suministros
+* Jefe / jefa de sección de materiales de contacto con alimentos
+* Jefe / jefa de sección de mecanizacion
+* Jefe / jefa de sección de mecanizacion y archivo
+* Jefe / jefa de sección de mediateca y fototeca
+* Jefe / jefa de sección de medidas alternativas de admon. penit.
+* Jefe / jefa de sección de medioambiental
+* Jefe / jefa de sección de medios aereos
+* Jefe / jefa de sección de medios audiovisuales
+* Jefe / jefa de sección de medios impresos
+* Jefe / jefa de sección de medios producción agraria
+* Jefe / jefa de sección de metales pesados y elem. tox.
+* Jefe / jefa de sección de metodología química gaseosa
+* Jefe / jefa de sección de micotoxinas
+* Jefe / jefa de sección de microinformática
+* Jefe / jefa de sección de modelos
+* Jefe / jefa de sección de modificaciones
+* Jefe / jefa de sección de monasterio yuste
+* Jefe / jefa de sección de monomeros y aditivos
+* Jefe / jefa de sección de movilidad
+* Jefe / jefa de sección de multimedia
+* Jefe / jefa de sección de museos
+* Jefe / jefa de sección de móvil
+* Jefe / jefa de sección de música antigua
+* Jefe / jefa de sección de nacionalidad i
+* Jefe / jefa de sección de nacionalidad ii
+* Jefe / jefa de sección de nominas
+* Jefe / jefa de sección de nominas funcionario
+* Jefe / jefa de sección de nominas y habilitación
+* Jefe / jefa de sección de nominas y habilitación suplente
+* Jefe / jefa de sección de nominas y seguridad social
+* Jefe / jefa de sección de normalización
+* Jefe / jefa de sección de normas internacionales
+* Jefe / jefa de sección de normativa contable
+* Jefe / jefa de sección de notificación sucesos
+* Jefe / jefa de sección de nuevas tecnologías p.g.
+* Jefe / jefa de sección de obras
+* Jefe / jefa de sección de obras de arte
+* Jefe / jefa de sección de obras e instalaciones invest.
+* Jefe / jefa de sección de obras e inversiones
+* Jefe / jefa de sección de oficina de información
+* Jefe / jefa de sección de oficina de información al mutualista
+* Jefe / jefa de sección de oficina delegada
+* Jefe / jefa de sección de oficina delegada (rcp)
+* Jefe / jefa de sección de oficina extranjeros
+* Jefe / jefa de sección de oficina información
+* Jefe / jefa de sección de oficina reclamaciones administraciones territoriales
+* Jefe / jefa de sección de operaciones comerciales
+* Jefe / jefa de sección de operaciones topograficas
+* Jefe / jefa de sección de ordenación y notificaciones
+* Jefe / jefa de sección de organismo notificado
+* Jefe / jefa de sección de organismos
+* Jefe / jefa de sección de organización
+* Jefe / jefa de sección de organización de depositos
+* Jefe / jefa de sección de organización fondos y normalización
+* Jefe / jefa de sección de pagaduría
+* Jefe / jefa de sección de pagaduría ign
+* Jefe / jefa de sección de pagaduría ss.cc.
+* Jefe / jefa de sección de pagos
+* Jefe / jefa de sección de pagos de admon. penit.
+* Jefe / jefa de sección de pagos e impuestos
+* Jefe / jefa de sección de parasitología y técnicas especiales
+* Jefe / jefa de sección de pasaportes
+* Jefe / jefa de sección de patente europea pct
+* Jefe / jefa de sección de patrimonio
+* Jefe / jefa de sección de patrimonio de admon. penit.
+* Jefe / jefa de sección de patrimonio del estado
+* Jefe / jefa de sección de patrimonio del estado (1)
+* Jefe / jefa de sección de patrimonio del estado (2)
+* Jefe / jefa de sección de patrimonio del estado (3)
+* Jefe / jefa de sección de patrimonio del estado (4)
+* Jefe / jefa de sección de patrulla helicopteros
+* Jefe / jefa de sección de pensiones y asuntos seguridad social
+* Jefe / jefa de sección de periférica
+* Jefe / jefa de sección de permisos y salidas programadas de admon. penit.
+* Jefe / jefa de sección de personal
+* Jefe / jefa de sección de personal de administración periférica
+* Jefe / jefa de sección de personal funcionario
+* Jefe / jefa de sección de personal funcionario uno de admon. penit.
+* Jefe / jefa de sección de personal investigador en formación y de proyectos investigación
+* Jefe / jefa de sección de personal laboral
+* Jefe / jefa de sección de personal laboral de admon. penit.
+* Jefe / jefa de sección de personal y habilitación
+* Jefe / jefa de sección de personal y medios
+* Jefe / jefa de sección de personal y servicios
+* Jefe / jefa de sección de pesca a
+* Jefe / jefa de sección de pesca b
+* Jefe / jefa de sección de planes aeroportuarios
+* Jefe / jefa de sección de planes de obras y servicios
+* Jefe / jefa de sección de planificac. org. en funcionamiento
+* Jefe / jefa de sección de planificación
+* Jefe / jefa de sección de planificación de admon. penit.
+* Jefe / jefa de sección de planificación y coordinación
+* Jefe / jefa de sección de planificación y gestión administrativa
+* Jefe / jefa de sección de planificación y puestos de trabajo
+* Jefe / jefa de sección de plantas medicinales
+* Jefe / jefa de sección de prensa de admon. penit.
+* Jefe / jefa de sección de presidencia consejo
+* Jefe / jefa de sección de prestaciones
+* Jefe / jefa de sección de prestaciones n22
+* Jefe / jefa de sección de prestaciones n24
+* Jefe / jefa de sección de prestaciones sociales
+* Jefe / jefa de sección de prestaciones sociales fondo especial
+* Jefe / jefa de sección de presup. repres.diplomatic. bilateral
+* Jefe / jefa de sección de presupuestaria
+* Jefe / jefa de sección de presupuestaria n24
+* Jefe / jefa de sección de presupuestaria represent.consulares
+* Jefe / jefa de sección de presupuestos
+* Jefe / jefa de sección de presupuestos de la p.g.
+* Jefe / jefa de sección de presupuestos y programación
+* Jefe / jefa de sección de procedimiento visados
+* Jefe / jefa de sección de procedimientos masivos
+* Jefe / jefa de sección de procesos informáticos
+* Jefe / jefa de sección de producciones artisticas
+* Jefe / jefa de sección de producción y taquillas
+* Jefe / jefa de sección de producción, gestión y calidad digital
+* Jefe / jefa de sección de productos
+* Jefe / jefa de sección de productos geograficos
+* Jefe / jefa de sección de programa educativo
+* Jefe / jefa de sección de programación
+* Jefe / jefa de sección de programación académica
+* Jefe / jefa de sección de programación docente
+* Jefe / jefa de sección de programación económica de inversiones de admon. penit.
+* Jefe / jefa de sección de programación efectivos de admon. penit.
+* Jefe / jefa de sección de programación transferencia tecnología
+* Jefe / jefa de sección de programación y seguimiento de inversiones
+* Jefe / jefa de sección de programas
+* Jefe / jefa de sección de programas culturales
+* Jefe / jefa de sección de programas especiales de admon. penit.
+* Jefe / jefa de sección de programas y formación
+* Jefe / jefa de sección de promoción de la lectura
+* Jefe / jefa de sección de promoción web
+* Jefe / jefa de sección de promoción y difusión
+* Jefe / jefa de sección de protocolo
+* Jefe / jefa de sección de protocolo n20
+* Jefe / jefa de sección de protocolo n20 p.g.
+* Jefe / jefa de sección de provincial
+* Jefe / jefa de sección de proyectos de digitalizacion
+* Jefe / jefa de sección de proyectos p.g.
+* Jefe / jefa de sección de proyectos y estudios bibliotecarios
+* Jefe / jefa de sección de proyectos y obras
+* Jefe / jefa de sección de publicaciones
+* Jefe / jefa de sección de publicaciones electronicas
+* Jefe / jefa de sección de publicaciones periodicas
+* Jefe / jefa de sección de quejas y reclamaciones
+* Jefe / jefa de sección de quejas, sugerencias y divulgación
+* Jefe / jefa de sección de realizaciones
+* Jefe / jefa de sección de recaudación
+* Jefe / jefa de sección de reclamaciones
+* Jefe / jefa de sección de reclamaciones y procedimientos
+* Jefe / jefa de sección de reclamaciones y sanciones
+* Jefe / jefa de sección de recursos
+* Jefe / jefa de sección de recursos electronicos
+* Jefe / jefa de sección de recursos humanos
+* Jefe / jefa de sección de recursos humanos y habilitación
+* Jefe / jefa de sección de recursos reclamaciones
+* Jefe / jefa de sección de red sicop
+* Jefe / jefa de sección de red sísmica
+* Jefe / jefa de sección de regional
+* Jefe / jefa de sección de registradores propiedad
+* Jefe / jefa de sección de registro
+* Jefe / jefa de sección de registro aguas
+* Jefe / jefa de sección de registro de admon. penit.
+* Jefe / jefa de sección de registro de ordenación de diarios
+* Jefe / jefa de sección de registro e información
+* Jefe / jefa de sección de registro general
+* Jefe / jefa de sección de registro o.n.g.
+* Jefe / jefa de sección de registro servicios centrales
+* Jefe / jefa de sección de registro ultimas voluntades
+* Jefe / jefa de sección de registro y acreditacion
+* Jefe / jefa de sección de registro y asuntos generales
+* Jefe / jefa de sección de registro y comunicaciones
+* Jefe / jefa de sección de registro y distribución
+* Jefe / jefa de sección de registro y estadística
+* Jefe / jefa de sección de reingresos
+* Jefe / jefa de sección de relaciones con las administración es territoriales
+* Jefe / jefa de sección de relaciones con usuarios
+* Jefe / jefa de sección de relaciones cortés
+* Jefe / jefa de sección de relaciones internacionales
+* Jefe / jefa de sección de relaciones laborales
+* Jefe / jefa de sección de relaciones publicas
+* Jefe / jefa de sección de relaciones sindicales
+* Jefe / jefa de sección de relaciones sindicales de admon. penit.
+* Jefe / jefa de sección de renovaciones
+* Jefe / jefa de sección de reprografia y distribución
+* Jefe / jefa de sección de residuos fitosanitarios ii
+* Jefe / jefa de sección de retribuciones
+* Jefe / jefa de sección de retribuciones de admon. penit.
+* Jefe / jefa de sección de retribuciones funcionarios
+* Jefe / jefa de sección de retribuciones n22
+* Jefe / jefa de sección de revalidación de titulos
+* Jefe / jefa de sección de revisión ayudas
+* Jefe / jefa de sección de revisión y aprobación cuentas
+* Jefe / jefa de sección de revisión y control de programas
+* Jefe / jefa de sección de rpt
+* Jefe / jefa de sección de régimen dos de admon. penit.
+* Jefe / jefa de sección de régimen económico
+* Jefe / jefa de sección de régimen interior
+* Jefe / jefa de sección de régimen interior y personal
+* Jefe / jefa de sección de régimen jurídico de personal sanitario
+* Jefe / jefa de sección de régimen legal
+* Jefe / jefa de sección de régimen sancionador
+* Jefe / jefa de sección de régimen uno de admon. penit.
+* Jefe / jefa de sección de s.i.c.o.p.
+* Jefe / jefa de sección de sala barbieri
+* Jefe / jefa de sección de salas generales
+* Jefe / jefa de sección de salida valijas
+* Jefe / jefa de sección de sanciones
+* Jefe / jefa de sección de sanidad exterior
+* Jefe / jefa de sección de secr. gr. com. as. v. del.
+* Jefe / jefa de sección de secretaria
+* Jefe / jefa de sección de secretaria general
+* Jefe / jefa de sección de seguimiento
+* Jefe / jefa de sección de seguimiento de admon. penit.
+* Jefe / jefa de sección de seguimiento de politicas industriales
+* Jefe / jefa de sección de seguimiento libertad condicional de admon. penit.
+* Jefe / jefa de sección de seguimiento normativa
+* Jefe / jefa de sección de seguimiento ongd
+* Jefe / jefa de sección de seguimiento presupuestario
+* Jefe / jefa de sección de seguimiento presupuestario y asuntos generales
+* Jefe / jefa de sección de seguimiento resultados
+* Jefe / jefa de sección de seguimiento y control
+* Jefe / jefa de sección de seguimiento y control de admon. penit.
+* Jefe / jefa de sección de seguimiento y coordinación
+* Jefe / jefa de sección de seguridad
+* Jefe / jefa de sección de seguridad social
+* Jefe / jefa de sección de seguridad vial
+* Jefe / jefa de sección de seguridad y control
+* Jefe / jefa de sección de seguros
+* Jefe / jefa de sección de seguros sociales y habilitación
+* Jefe / jefa de sección de selección
+* Jefe / jefa de sección de selección de admon. penit.
+* Jefe / jefa de sección de selección de personal
+* Jefe / jefa de sección de selección personal no facultativo
+* Jefe / jefa de sección de servicios informáticos
+* Jefe / jefa de sección de servicios valor añadido
+* Jefe / jefa de sección de sistema de información y planificación de rrhh
+* Jefe / jefa de sección de sistema de localización buques
+* Jefe / jefa de sección de sistema información microbiolog.
+* Jefe / jefa de sección de sistema informáticos
+* Jefe / jefa de sección de sistemas
+* Jefe / jefa de sección de sistemas de captación de datos
+* Jefe / jefa de sección de sistemas de intercambio de informac.
+* Jefe / jefa de sección de sistemas informac. y coord. medioamb.
+* Jefe / jefa de sección de sistemas informáticos
+* Jefe / jefa de sección de sistemas informáticos de admon. penit.
+* Jefe / jefa de sección de sistemas informáticos de gestión
+* Jefe / jefa de sección de sistemas informáticos y gestión de nominas
+* Jefe / jefa de sección de sistemas integrados comunicaciones especiales
+* Jefe / jefa de sección de sistemas telecomunicaciones
+* Jefe / jefa de sección de sistemas telefonicos
+* Jefe / jefa de sección de situación de salud
+* Jefe / jefa de sección de subregistro principal otan/ue
+* Jefe / jefa de sección de subsidiacion
+* Jefe / jefa de sección de suministros
+* Jefe / jefa de sección de suministros homologados de admon. penit.
+* Jefe / jefa de sección de suministros no homologados de admon. penit.
+* Jefe / jefa de sección de suministros y patrimonio
+* Jefe / jefa de sección de supervision
+* Jefe / jefa de sección de supervision equipos instal.e infraest.
+* Jefe / jefa de sección de síndrome tóxico n22
+* Jefe / jefa de sección de síndrome tóxico n24
+* Jefe / jefa de sección de taller cartográfico
+* Jefe / jefa de sección de tarifas
+* Jefe / jefa de sección de tasas
+* Jefe / jefa de sección de tecnologías de la información
+* Jefe / jefa de sección de teletipos
+* Jefe / jefa de sección de tesorería
+* Jefe / jefa de sección de tesorería habilitado pagador
+* Jefe / jefa de sección de tesorería n22
+* Jefe / jefa de sección de tesorería y bancos
+* Jefe / jefa de sección de tesoro
+* Jefe / jefa de sección de titulaciones deportivas
+* Jefe / jefa de sección de toxicología celular
+* Jefe / jefa de sección de toxicología experimental
+* Jefe / jefa de sección de tramitación
+* Jefe / jefa de sección de tramitación administrativa
+* Jefe / jefa de sección de tramitación de subvenciones
+* Jefe / jefa de sección de tramitación expedientes
+* Jefe / jefa de sección de tramitación modif. presupuestarias
+* Jefe / jefa de sección de tramitación recursos e informes
+* Jefe / jefa de sección de tramitación subv. electorales
+* Jefe / jefa de sección de tramitación transferencias y li
+* Jefe / jefa de sección de tramitación tratados
+* Jefe / jefa de sección de tramitación y control
+* Jefe / jefa de sección de tramitación y control gasto
+* Jefe / jefa de sección de tramitación y seguimiento mod.presup.
+* Jefe / jefa de sección de transporte internacional mercancias
+* Jefe / jefa de sección de transporte internacional viajeros
+* Jefe / jefa de sección de traslado personas condenadas
+* Jefe / jefa de sección de traslados de admon. penit.
+* Jefe / jefa de sección de tratamiento dos de admon. penit.
+* Jefe / jefa de sección de tratamiento tres de admon. penit.
+* Jefe / jefa de sección de tratamiento uno de admon. penit.
+* Jefe / jefa de sección de trámite de autorizaciones
+* Jefe / jefa de sección de trámite subvenciones
+* Jefe / jefa de sección de unidad
+* Jefe / jefa de sección de unidad central
+* Jefe / jefa de sección de unidad de producción
+* Jefe / jefa de sección de unidad técnica
+* Jefe / jefa de sección de unión europea
+* Jefe / jefa de sección de valoración
+* Jefe / jefa de sección de vigilancia enferm.inmunoprevenib.
+* Jefe / jefa de sección de virologia
+* Jefe / jefa de sección de visados cuenta ajena
+* Jefe / jefa de sección de zoosanitarios iv
+* Jefe / jefa de sección del plan cartográfico nacional
+* Jefe / jefa de sección delineación y cartografía
+* Jefe / jefa de sección documentación
+* Jefe / jefa de sección económica
+* Jefe / jefa de sección económico-administrativa
+* Jefe / jefa de sección el escorial
+* Jefe / jefa de sección escala a
+* Jefe / jefa de sección especializada
+* Jefe / jefa de sección especializada n22
+* Jefe / jefa de sección especializada n24
+* Jefe / jefa de sección explotación
+* Jefe / jefa de sección habilitación
+* Jefe / jefa de sección habilitado cajero pagador
+* Jefe / jefa de sección intervención
+* Jefe / jefa de sección la granja
+* Jefe / jefa de sección médica
+* Jefe / jefa de sección n.20
+* Jefe / jefa de sección n.22
+* Jefe / jefa de sección n20
+* Jefe / jefa de sección n22
+* Jefe / jefa de sección n22 (u. grandes empresas)
+* Jefe / jefa de sección n24
+* Jefe / jefa de sección normalización n24
+* Jefe / jefa de sección operativa
+* Jefe / jefa de sección responsable de operaciones rpas
+* Jefe / jefa de sección régimen interior
+* Jefe / jefa de sección seguimiento y control de expedientes economicos
+* Jefe / jefa de sección sicop
+* Jefe / jefa de sección siglo de oro
+* Jefe / jefa de sección sistemas informáticos
+* Jefe / jefa de sección tipo 1
+* Jefe / jefa de sección tipo 2
+* Jefe / jefa de sección tipo 4
+* Jefe / jefa de sección tipo 5
+* Jefe / jefa de sección tipo 6
+* Jefe / jefa de sección tipo a
+* Jefe / jefa de sección tipo b
+* Jefe / jefa de sección tipo c
+* Jefe / jefa de sección tipo d
+* Jefe / jefa de sección tipo i
+* Jefe / jefa de sección tipo ii
+* Jefe / jefa de sección tipo iii
+* Jefe / jefa de sección técnica
+* Jefe / jefa de sección técnica (c.s.)
+* Jefe / jefa de sección técnica a.t.s.
+* Jefe / jefa de sección técnica de coordinación
+* Jefe / jefa de sección técnica de metrología
+* Jefe / jefa de sección técnica documentación otan/ue
+* Jefe / jefa de sección técnica dominio público
+* Jefe / jefa de sección técnica explotación
+* Jefe / jefa de sección técnica explotación zona ii
+* Jefe / jefa de sección técnica gestión
+* Jefe / jefa de sección técnica grandes instalaciones
+* Jefe / jefa de sección técnica ii
+* Jefe / jefa de sección técnica industrial
+* Jefe / jefa de sección técnica ingeniería fluvial
+* Jefe / jefa de sección técnica n22
+* Jefe / jefa de sección técnica n24
+* Jefe / jefa de sección técnica obras
+* Jefe / jefa de sección técnica programas internacionales
+* Jefe / jefa de sección técnica proyectos y obras
+* Jefe / jefa de sección técnica riesgo nuclear
+* Jefe / jefa de sección técnico
+* Jefe / jefa de secretaria
+* Jefe / jefa de secretaria comisiones
+* Jefe / jefa de secretaria de centro
+* Jefe / jefa de secretaria de delegado del gobierno
+* Jefe / jefa de secretaria de director de gabinete
+* Jefe / jefa de secretaria de director gabinete presidente del gobierno
+* Jefe / jefa de secretaria de junta coord. y edific. admvas.
+* Jefe / jefa de secretaria de la ministra
+* Jefe / jefa de secretaria de la vicepresidenta
+* Jefe / jefa de secretaria de ministra
+* Jefe / jefa de secretaria de ministro
+* Jefe / jefa de secretaria de presidente
+* Jefe / jefa de secretaria de secretaria de estado
+* Jefe / jefa de secretaria de secretaria general
+* Jefe / jefa de secretaria de secretario de estado
+* Jefe / jefa de secretaria de secretario general
+* Jefe / jefa de secretaria de secretario general de admon. penit.
+* Jefe / jefa de secretaria de subsecretaria
+* Jefe / jefa de secretaria de subsecretario
+* Jefe / jefa de secretaria de unidad de apoyo
+* Jefe / jefa de secretaria de unidad de apoyo al fiscal general del estado
+* Jefe / jefa de secretaria del director
+* Jefe / jefa de secretaria del director del gabinete
+* Jefe / jefa de secretaria del ministro
+* Jefe / jefa de secretaria del secretario de estado
+* Jefe / jefa de secretaria del vicepresidente
+* Jefe / jefa de secretaria director / directora
+* Jefe / jefa de secretaria director gabinete
+* Jefe / jefa de seguridad
+* Jefe / jefa de seguridad de museos estatales
+* Jefe / jefa de seguridad galería de las colecciones reales
+* Jefe / jefa de seguridad real sitio
+* Jefe / jefa de seguridad vuelo
+* Jefe / jefa de servicio
+* Jefe / jefa de servicio 2ª categoría y avances feaga
+* Jefe / jefa de servicio a
+* Jefe / jefa de servicio actuaciones en cauces
+* Jefe / jefa de servicio actuación administrativa
+* Jefe / jefa de servicio adscrito a la subsecretaria
+* Jefe / jefa de servicio agronómico
+* Jefe / jefa de servicio agronómico forestal
+* Jefe / jefa de servicio aguas subterraneas
+* Jefe / jefa de servicio américa sur
+* Jefe / jefa de servicio análisis de aguas
+* Jefe / jefa de servicio aplicaciones forestales
+* Jefe / jefa de servicio apoyo logistico
+* Jefe / jefa de servicio asia continental
+* Jefe / jefa de servicio asuntos administrativos v
+* Jefe / jefa de servicio auditor
+* Jefe / jefa de servicio autorización de vertidos
+* Jefe / jefa de servicio b
+* Jefe / jefa de servicio banco nacional datos climatologicos
+* Jefe / jefa de servicio c
+* Jefe / jefa de servicio caja pagadora
+* Jefe / jefa de servicio cajero pagador general
+* Jefe / jefa de servicio cendar
+* Jefe / jefa de servicio centro coordinación del mantenimiento
+* Jefe / jefa de servicio centro de comunicaciones
+* Jefe / jefa de servicio centro nacional de predicción
+* Jefe / jefa de servicio centro proceso datos
+* Jefe / jefa de servicio cnp de defensa
+* Jefe / jefa de servicio comenius
+* Jefe / jefa de servicio comercial
+* Jefe / jefa de servicio comunidades de usuarios
+* Jefe / jefa de servicio comunidades europeas
+* Jefe / jefa de servicio contra la violencia sobre la mujer
+* Jefe / jefa de servicio control de calidad
+* Jefe / jefa de servicio control y vigilancia de dph
+* Jefe / jefa de servicio creación de empresas e innovación
+* Jefe / jefa de servicio de acceso al documento
+* Jefe / jefa de servicio de acción concertada
+* Jefe / jefa de servicio de acción consular
+* Jefe / jefa de servicio de acción cultural
+* Jefe / jefa de servicio de acción social
+* Jefe / jefa de servicio de acción social y formación interna
+* Jefe / jefa de servicio de acción y recursos
+* Jefe / jefa de servicio de acreditacion
+* Jefe / jefa de servicio de actividad federativa internacional
+* Jefe / jefa de servicio de actividad pesquera aguas u.e.
+* Jefe / jefa de servicio de actividad pesqueras en aguas internacionales
+* Jefe / jefa de servicio de actividades culturales
+* Jefe / jefa de servicio de actividades de alumnos
+* Jefe / jefa de servicio de actividades de lucha contra el dopaje en el deporte
+* Jefe / jefa de servicio de actuac. jurídico administrativa
+* Jefe / jefa de servicio de actuaciones administrativas
+* Jefe / jefa de servicio de actuaciones en cauces
+* Jefe / jefa de servicio de actuaciones especiales
+* Jefe / jefa de servicio de actuación administrativa
+* Jefe / jefa de servicio de actuación jurídico-administrativo
+* Jefe / jefa de servicio de actualizacion normativa
+* Jefe / jefa de servicio de adecuación oferta
+* Jefe / jefa de servicio de administración
+* Jefe / jefa de servicio de administración contable presupuestar
+* Jefe / jefa de servicio de administración de personal funcionario
+* Jefe / jefa de servicio de administración de personal laboral
+* Jefe / jefa de servicio de administración económica y tesorería
+* Jefe / jefa de servicio de administración electrónica
+* Jefe / jefa de servicio de administración financiera
+* Jefe / jefa de servicio de administración financiera y contabilidad
+* Jefe / jefa de servicio de administración gasp
+* Jefe / jefa de servicio de administración general
+* Jefe / jefa de servicio de administración patrimonial
+* Jefe / jefa de servicio de administración patrimonio del estado
+* Jefe / jefa de servicio de administración presupuesto
+* Jefe / jefa de servicio de administración régimen interior y pagaduría
+* Jefe / jefa de servicio de administración y contabilidad
+* Jefe / jefa de servicio de administración y pagos
+* Jefe / jefa de servicio de administración y régimen interior
+* Jefe / jefa de servicio de admon. penit.
+* Jefe / jefa de servicio de adquisiciones
+* Jefe / jefa de servicio de adquisición bienes y asistencia técnica
+* Jefe / jefa de servicio de adquisición bienes y servicios
+* Jefe / jefa de servicio de adquisición de bienes
+* Jefe / jefa de servicio de aforos y control de aprovechamientos
+* Jefe / jefa de servicio de aforos y estadísticas
+* Jefe / jefa de servicio de agricultura ecológica
+* Jefe / jefa de servicio de aguas comunitarias
+* Jefe / jefa de servicio de aguas subterraneas
+* Jefe / jefa de servicio de aguas subterraneas i
+* Jefe / jefa de servicio de aguas subterraneas ii
+* Jefe / jefa de servicio de alertas internacionales
+* Jefe / jefa de servicio de amueblamiento
+* Jefe / jefa de servicio de antena sísmica
+* Jefe / jefa de servicio de antenas y radiación
+* Jefe / jefa de servicio de análisis
+* Jefe / jefa de servicio de análisis auditorias
+* Jefe / jefa de servicio de análisis contratistas y empresas
+* Jefe / jefa de servicio de análisis coste servicio asist.espec.
+* Jefe / jefa de servicio de análisis coste servicio atención prim.
+* Jefe / jefa de servicio de análisis costes y facturación
+* Jefe / jefa de servicio de análisis de aguas
+* Jefe / jefa de servicio de análisis de costes
+* Jefe / jefa de servicio de análisis de creditos
+* Jefe / jefa de servicio de análisis de datos
+* Jefe / jefa de servicio de análisis de información
+* Jefe / jefa de servicio de análisis de mercados
+* Jefe / jefa de servicio de análisis del mercado y estadísticas
+* Jefe / jefa de servicio de análisis documentación e información
+* Jefe / jefa de servicio de análisis e informes juridicos de familias
+* Jefe / jefa de servicio de análisis economicos culturales
+* Jefe / jefa de servicio de análisis economicos oo.aa.
+* Jefe / jefa de servicio de análisis economicos y financieros
+* Jefe / jefa de servicio de análisis económico
+* Jefe / jefa de servicio de análisis económico sociedades estata
+* Jefe / jefa de servicio de análisis epidemiologico
+* Jefe / jefa de servicio de análisis estadístico
+* Jefe / jefa de servicio de análisis financiero
+* Jefe / jefa de servicio de análisis infraest. y serv. loc.
+* Jefe / jefa de servicio de análisis macroeconomico
+* Jefe / jefa de servicio de análisis planificación y evaluación
+* Jefe / jefa de servicio de análisis prensa
+* Jefe / jefa de servicio de análisis presupuestario
+* Jefe / jefa de servicio de análisis procedimientos
+* Jefe / jefa de servicio de análisis recursos y activ. a.e.
+* Jefe / jefa de servicio de análisis socieconomico e integración
+* Jefe / jefa de servicio de análisis socioeconomico
+* Jefe / jefa de servicio de análisis técnico de infracciones
+* Jefe / jefa de servicio de análisis y contab.
+* Jefe / jefa de servicio de análisis y desarrollo
+* Jefe / jefa de servicio de análisis y estudios economicos
+* Jefe / jefa de servicio de análisis y evaluac. de programas
+* Jefe / jefa de servicio de análisis y evaluaciones
+* Jefe / jefa de servicio de análisis y evaluación
+* Jefe / jefa de servicio de análisis y evaluación de costes
+* Jefe / jefa de servicio de análisis y optimizacion de procesos recaudatorios
+* Jefe / jefa de servicio de análisis y programación
+* Jefe / jefa de servicio de análisis y seguimiento de la contratación
+* Jefe / jefa de servicio de análisis y seguimiento legislativo
+* Jefe / jefa de servicio de aplicaciones
+* Jefe / jefa de servicio de aplicaciones aeronauticas
+* Jefe / jefa de servicio de aplicaciones agricolas e hidrologicas
+* Jefe / jefa de servicio de aplicaciones forestales
+* Jefe / jefa de servicio de aplicaciones industriales
+* Jefe / jefa de servicio de aplicaciones informaticas
+* Jefe / jefa de servicio de aplicaciones y aprovechamientos esp.
+* Jefe / jefa de servicio de apoyo
+* Jefe / jefa de servicio de apoyo a empresa
+* Jefe / jefa de servicio de apoyo a la formación ocupacional
+* Jefe / jefa de servicio de apoyo a la gest.económica
+* Jefe / jefa de servicio de apoyo a la inspec. servicios
+* Jefe / jefa de servicio de apoyo a organos de participación
+* Jefe / jefa de servicio de apoyo administrativo
+* Jefe / jefa de servicio de apoyo al gabinete
+* Jefe / jefa de servicio de apoyo informatico
+* Jefe / jefa de servicio de apoyo informatico estadístico
+* Jefe / jefa de servicio de apoyo junta contratación y mesas c.
+* Jefe / jefa de servicio de apoyo jurídico de rrhh
+* Jefe / jefa de servicio de apoyo n26
+* Jefe / jefa de servicio de apoyo oficina del director
+* Jefe / jefa de servicio de apoyo sede electrónica
+* Jefe / jefa de servicio de apoyo tecnológico
+* Jefe / jefa de servicio de apoyo técnico
+* Jefe / jefa de servicio de apoyo técnico a las unidades perifericas
+* Jefe / jefa de servicio de apoyo técnico a oficinas de empleo
+* Jefe / jefa de servicio de apoyo técnico federativo
+* Jefe / jefa de servicio de apoyo técnico y asistencia
+* Jefe / jefa de servicio de apoyo técnico-jurídico
+* Jefe / jefa de servicio de apoyo y atención al usuario red
+* Jefe / jefa de servicio de aprendizaje a lo largo de la vida
+* Jefe / jefa de servicio de archivo
+* Jefe / jefa de servicio de archivo central
+* Jefe / jefa de servicio de archivo y documentación
+* Jefe / jefa de servicio de archivos
+* Jefe / jefa de servicio de arqueología
+* Jefe / jefa de servicio de arquitectura
+* Jefe / jefa de servicio de arquitectura y obras
+* Jefe / jefa de servicio de arquitectura y standares
+* Jefe / jefa de servicio de arrendamientos
+* Jefe / jefa de servicio de asesoramiento
+* Jefe / jefa de servicio de asesoramiento y apoyo
+* Jefe / jefa de servicio de asimilación de datos y sistemas
+* Jefe / jefa de servicio de asistencia a la ingeniería
+* Jefe / jefa de servicio de asistencia farmacéutica
+* Jefe / jefa de servicio de asistencia jurídica
+* Jefe / jefa de servicio de asistencia jurídica área personal
+* Jefe / jefa de servicio de asistencia sanitaria
+* Jefe / jefa de servicio de asistencia sanitaria y farmacéutica de admon. penit.
+* Jefe / jefa de servicio de asistencia técnica
+* Jefe / jefa de servicio de asistencia técnica e informes
+* Jefe / jefa de servicio de asistencia técnica formac.continua.
+* Jefe / jefa de servicio de asistencia técnica y convenios de admon. penit.
+* Jefe / jefa de servicio de asistencial
+* Jefe / jefa de servicio de asociaciones
+* Jefe / jefa de servicio de asociaciones utilidad pública
+* Jefe / jefa de servicio de asuntos administrativos
+* Jefe / jefa de servicio de asuntos administrativos i
+* Jefe / jefa de servicio de asuntos administrativos ii
+* Jefe / jefa de servicio de asuntos administrativos iii
+* Jefe / jefa de servicio de asuntos administrativos iv
+* Jefe / jefa de servicio de asuntos agricolas
+* Jefe / jefa de servicio de asuntos bilaterales
+* Jefe / jefa de servicio de asuntos defensa
+* Jefe / jefa de servicio de asuntos economicos
+* Jefe / jefa de servicio de asuntos financieros
+* Jefe / jefa de servicio de asuntos gener. y gest. patrimonial
+* Jefe / jefa de servicio de asuntos generales
+* Jefe / jefa de servicio de asuntos generales de admon. penit.
+* Jefe / jefa de servicio de asuntos generales y régimen interior
+* Jefe / jefa de servicio de asuntos industriales y energeticos
+* Jefe / jefa de servicio de asuntos internacionales
+* Jefe / jefa de servicio de asuntos judiciales
+* Jefe / jefa de servicio de asuntos juridicos
+* Jefe / jefa de servicio de asuntos juridicos de admon. penit.
+* Jefe / jefa de servicio de asuntos juridicos sociales y h
+* Jefe / jefa de servicio de asuntos laborales marítimos
+* Jefe / jefa de servicio de asuntos regist. not. jurid. y legal.
+* Jefe / jefa de servicio de asuntos técnicos
+* Jefe / jefa de servicio de atención a usuarios
+* Jefe / jefa de servicio de atención al ciudadano
+* Jefe / jefa de servicio de atención al deportista de alto nivel
+* Jefe / jefa de servicio de atención al público
+* Jefe / jefa de servicio de atención alumnado y asuntos grles.
+* Jefe / jefa de servicio de atención ciudadano
+* Jefe / jefa de servicio de atención dependencia
+* Jefe / jefa de servicio de atención detenidos
+* Jefe / jefa de servicio de atención sociosanitaria
+* Jefe / jefa de servicio de audiovisuales
+* Jefe / jefa de servicio de audiovisuales y telefonía móvil
+* Jefe / jefa de servicio de auditoria interna
+* Jefe / jefa de servicio de auditoria sanitaria
+* Jefe / jefa de servicio de automatizacion gestión recaudatoria
+* Jefe / jefa de servicio de autoproteccion corporativa
+* Jefe / jefa de servicio de autorizaciones complementarias circulación
+* Jefe / jefa de servicio de autorizaciones para trabajar
+* Jefe / jefa de servicio de autorizaciones y tráfico eurorregional
+* Jefe / jefa de servicio de autorización vertidos
+* Jefe / jefa de servicio de autorización y reg.med.def.vegetal
+* Jefe / jefa de servicio de auxilio judicial
+* Jefe / jefa de servicio de ayudas de emergencia
+* Jefe / jefa de servicio de bases de datos agroalimentara
+* Jefe / jefa de servicio de becarios y formación
+* Jefe / jefa de servicio de becas
+* Jefe / jefa de servicio de becas y ayudas
+* Jefe / jefa de servicio de biblioteca
+* Jefe / jefa de servicio de biblioteca central
+* Jefe / jefa de servicio de biblioteca general
+* Jefe / jefa de servicio de biblioteca hispánica
+* Jefe / jefa de servicio de biblioteca islámica
+* Jefe / jefa de servicio de biblioteca y documentación
+* Jefe / jefa de servicio de bienes inmuebles
+* Jefe / jefa de servicio de bienes y patrimonio forestal
+* Jefe / jefa de servicio de biotecnologia
+* Jefe / jefa de servicio de biotecnologia y control biológico
+* Jefe / jefa de servicio de busquedas
+* Jefe / jefa de servicio de caducidad
+* Jefe / jefa de servicio de caja
+* Jefe / jefa de servicio de caja pagadora
+* Jefe / jefa de servicio de caja y tesorería
+* Jefe / jefa de servicio de cajas pagadoras
+* Jefe / jefa de servicio de calidad
+* Jefe / jefa de servicio de calidad vino
+* Jefe / jefa de servicio de calidad vinos y bebidas
+* Jefe / jefa de servicio de calidad y resultados
+* Jefe / jefa de servicio de calificación profesional
+* Jefe / jefa de servicio de cartografía
+* Jefe / jefa de servicio de cartografía derivada
+* Jefe / jefa de servicio de cartografía geomorfologica
+* Jefe / jefa de servicio de catalogación
+* Jefe / jefa de servicio de central de pagos
+* Jefe / jefa de servicio de central de tasas y presupuestos
+* Jefe / jefa de servicio de centro nacional de desarrollo curricular
+* Jefe / jefa de servicio de centros alto rendimiento
+* Jefe / jefa de servicio de centros colaboradores
+* Jefe / jefa de servicio de centros de referencia nacional y planificación formativa
+* Jefe / jefa de servicio de centros privados
+* Jefe / jefa de servicio de centros tecnologicos
+* Jefe / jefa de servicio de centros y programas
+* Jefe / jefa de servicio de certificación y promoción agricultura integrada
+* Jefe / jefa de servicio de clasificación
+* Jefe / jefa de servicio de clasificación contratistas de obras
+* Jefe / jefa de servicio de clasificación de admon. penit.
+* Jefe / jefa de servicio de clasificación de contratistas obras
+* Jefe / jefa de servicio de clasificación empresas de servicios
+* Jefe / jefa de servicio de clasificación empresas servicio
+* Jefe / jefa de servicio de colaboración internacional pensiones
+* Jefe / jefa de servicio de colaboración socio-sanitaria
+* Jefe / jefa de servicio de colectivos integrados y regularizacion de ingresos
+* Jefe / jefa de servicio de comisaria aguas
+* Jefe / jefa de servicio de comisiones técnicas
+* Jefe / jefa de servicio de compatibilidad eletromagnetica
+* Jefe / jefa de servicio de competencias
+* Jefe / jefa de servicio de componentes y aditivos
+* Jefe / jefa de servicio de compra
+* Jefe / jefa de servicio de compras y suministros
+* Jefe / jefa de servicio de comunicaciones
+* Jefe / jefa de servicio de comunicaciones y desarrollo
+* Jefe / jefa de servicio de comunicación cultural
+* Jefe / jefa de servicio de comunicación interterritorial
+* Jefe / jefa de servicio de comunidades de usuarios
+* Jefe / jefa de servicio de comunidades usuarios régimen san. y as. juridic.
+* Jefe / jefa de servicio de comunidades y usuarios
+* Jefe / jefa de servicio de concesiones de viajeros
+* Jefe / jefa de servicio de concesiones y autorizaciones
+* Jefe / jefa de servicio de conferencias
+* Jefe / jefa de servicio de conserv. y restaur. obras de arte, patrim. arqueológico y etnográfico
+* Jefe / jefa de servicio de conserv. y restaur. patrim. bibliográfico, documental y obra gráfica
+* Jefe / jefa de servicio de conservación
+* Jefe / jefa de servicio de conservación del patrimonio
+* Jefe / jefa de servicio de conservación genética
+* Jefe / jefa de servicio de conservación integral
+* Jefe / jefa de servicio de conservación y explotación
+* Jefe / jefa de servicio de construcción
+* Jefe / jefa de servicio de consultas e información
+* Jefe / jefa de servicio de contabilidad
+* Jefe / jefa de servicio de contabilidad analítica
+* Jefe / jefa de servicio de contabilidad analítica e inversiones
+* Jefe / jefa de servicio de contabilidad de admon. penit.
+* Jefe / jefa de servicio de contabilidad e ingresos publicos
+* Jefe / jefa de servicio de contabilidad financiera
+* Jefe / jefa de servicio de contabilidad financiera y analítica
+* Jefe / jefa de servicio de contabilidad ingresos
+* Jefe / jefa de servicio de contabilidad presupuestaria
+* Jefe / jefa de servicio de contabilidad y control de ingresos
+* Jefe / jefa de servicio de contabilidad y control del gasto
+* Jefe / jefa de servicio de contabilidad y control gasto
+* Jefe / jefa de servicio de contabilidad y control tesorería
+* Jefe / jefa de servicio de contabilidad y gestión económica
+* Jefe / jefa de servicio de contabilidad y gestión ingresos
+* Jefe / jefa de servicio de contabilidad y presupuestos
+* Jefe / jefa de servicio de contabilidad y tasas
+* Jefe / jefa de servicio de contabilidad y tesorería
+* Jefe / jefa de servicio de contabilidad, habilitación e ingresos
+* Jefe / jefa de servicio de contaminación atmosf.aerosoles
+* Jefe / jefa de servicio de contaminación hidrica
+* Jefe / jefa de servicio de contaminantes
+* Jefe / jefa de servicio de contratación
+* Jefe / jefa de servicio de contratación administración penitenciaria
+* Jefe / jefa de servicio de contratación administrativa
+* Jefe / jefa de servicio de contratación bienes tecnolog. información
+* Jefe / jefa de servicio de contratación de obras
+* Jefe / jefa de servicio de contratación de sistemas logicos
+* Jefe / jefa de servicio de contratación de suministros
+* Jefe / jefa de servicio de contratación de telecomunicaciones
+* Jefe / jefa de servicio de contratación equipamientos
+* Jefe / jefa de servicio de contratación gastos funcionamiento
+* Jefe / jefa de servicio de contratación mobiliario y automocion
+* Jefe / jefa de servicio de contratación y adjudicaciones
+* Jefe / jefa de servicio de contratación y gestión pagos
+* Jefe / jefa de servicio de contratación y normativa
+* Jefe / jefa de servicio de contratación y pagaduría
+* Jefe / jefa de servicio de contratación y presupuestos
+* Jefe / jefa de servicio de contratación y régimen interior
+* Jefe / jefa de servicio de contratación y suministros
+* Jefe / jefa de servicio de contratistas asistencia técnica
+* Jefe / jefa de servicio de contratos
+* Jefe / jefa de servicio de control
+* Jefe / jefa de servicio de control alimentario
+* Jefe / jefa de servicio de control bibliográfico publicaciones seriadas
+* Jefe / jefa de servicio de control calidad
+* Jefe / jefa de servicio de control calidad iii
+* Jefe / jefa de servicio de control calidad prod. origen animal
+* Jefe / jefa de servicio de control centros ense.
+* Jefe / jefa de servicio de control contable y financiero
+* Jefe / jefa de servicio de control de calidad
+* Jefe / jefa de servicio de control de calidad y análisis aguas
+* Jefe / jefa de servicio de control de calidad y vertidos
+* Jefe / jefa de servicio de control de contrataciones
+* Jefe / jefa de servicio de control de gestión
+* Jefe / jefa de servicio de control de ingresos
+* Jefe / jefa de servicio de control de inversiones y patrimonio de admon. penit.
+* Jefe / jefa de servicio de control de la gestión
+* Jefe / jefa de servicio de control de tributos cedidos
+* Jefe / jefa de servicio de control del juego
+* Jefe / jefa de servicio de control económico
+* Jefe / jefa de servicio de control expend.complementarias
+* Jefe / jefa de servicio de control expend.grales.e interiores
+* Jefe / jefa de servicio de control financiero
+* Jefe / jefa de servicio de control higiénico sanitario
+* Jefe / jefa de servicio de control indirecto
+* Jefe / jefa de servicio de control inspección
+* Jefe / jefa de servicio de control presup. y retribución
+* Jefe / jefa de servicio de control presupuestario
+* Jefe / jefa de servicio de control sector público
+* Jefe / jefa de servicio de control subvenc. y ayudas publicas
+* Jefe / jefa de servicio de control subvenc. y contabilidad
+* Jefe / jefa de servicio de control telematico de admon. penit.
+* Jefe / jefa de servicio de control y coord. ingresos
+* Jefe / jefa de servicio de control y coord. pagos
+* Jefe / jefa de servicio de control y gestión
+* Jefe / jefa de servicio de control y gestión de recursos humanos
+* Jefe / jefa de servicio de control y seguimiento
+* Jefe / jefa de servicio de control y seguimiento presupuestario
+* Jefe / jefa de servicio de control y seguimiento programas
+* Jefe / jefa de servicio de control y vigilancia dph
+* Jefe / jefa de servicio de control y vigilancia dph 1
+* Jefe / jefa de servicio de control y vigilancia dph 2
+* Jefe / jefa de servicio de control, ayudas y subv.
+* Jefe / jefa de servicio de controles de alimentación
+* Jefe / jefa de servicio de convenios
+* Jefe / jefa de servicio de convenios aereos
+* Jefe / jefa de servicio de convenios consulares
+* Jefe / jefa de servicio de convenios y acuerdos internac. seg. soc.
+* Jefe / jefa de servicio de convenios y oper.comer.
+* Jefe / jefa de servicio de convocatorias ongd
+* Jefe / jefa de servicio de cooperación
+* Jefe / jefa de servicio de cooperación al desarrollo y cambio climático
+* Jefe / jefa de servicio de cooperación con asociaciones
+* Jefe / jefa de servicio de cooperación electoral
+* Jefe / jefa de servicio de cooperación internac. multilateral
+* Jefe / jefa de servicio de cooperación internacional
+* Jefe / jefa de servicio de cooperación jurídica ínter.
+* Jefe / jefa de servicio de cooperación marítima
+* Jefe / jefa de servicio de cooperación nacional
+* Jefe / jefa de servicio de cooperación nacional y con iberoamerica
+* Jefe / jefa de servicio de cooperación terrestre
+* Jefe / jefa de servicio de cooperación técnica internacional
+* Jefe / jefa de servicio de cooperación universitaria
+* Jefe / jefa de servicio de cooperación y colaboración con ccaa.
+* Jefe / jefa de servicio de cooperación y difusión teatral
+* Jefe / jefa de servicio de cooperación y promoción
+* Jefe / jefa de servicio de coordinación
+* Jefe / jefa de servicio de coordinación actuaciones especiales
+* Jefe / jefa de servicio de coordinación administrativa de admon. penit.
+* Jefe / jefa de servicio de coordinación administrativa y patrimonio
+* Jefe / jefa de servicio de coordinación adminstrativa
+* Jefe / jefa de servicio de coordinación admon. de justicia
+* Jefe / jefa de servicio de coordinación archivística
+* Jefe / jefa de servicio de coordinación asuntos general
+* Jefe / jefa de servicio de coordinación cartográfica
+* Jefe / jefa de servicio de coordinación cc.aa.
+* Jefe / jefa de servicio de coordinación con cc.aa.
+* Jefe / jefa de servicio de coordinación con el exterior
+* Jefe / jefa de servicio de coordinación cooperación
+* Jefe / jefa de servicio de coordinación cultural
+* Jefe / jefa de servicio de coordinación de educación ambiental
+* Jefe / jefa de servicio de coordinación de ense/anzas aeronauti
+* Jefe / jefa de servicio de coordinación de inventarios
+* Jefe / jefa de servicio de coordinación de inversiones
+* Jefe / jefa de servicio de coordinación de niveles asistenciales y programas de salud
+* Jefe / jefa de servicio de coordinación de pagos
+* Jefe / jefa de servicio de coordinación de procesos catastrales
+* Jefe / jefa de servicio de coordinación de transporte de mercancias perecederas
+* Jefe / jefa de servicio de coordinación e informes
+* Jefe / jefa de servicio de coordinación e infraestructuras.
+* Jefe / jefa de servicio de coordinación empresarial
+* Jefe / jefa de servicio de coordinación enseñanzas deportivas
+* Jefe / jefa de servicio de coordinación entidades tuteladas
+* Jefe / jefa de servicio de coordinación estadística
+* Jefe / jefa de servicio de coordinación farmacéutica
+* Jefe / jefa de servicio de coordinación fitosanitaria
+* Jefe / jefa de servicio de coordinación informática
+* Jefe / jefa de servicio de coordinación inmobiliaria
+* Jefe / jefa de servicio de coordinación inspección
+* Jefe / jefa de servicio de coordinación letrados y proced.espec.
+* Jefe / jefa de servicio de coordinación medioambiental
+* Jefe / jefa de servicio de coordinación mobiliaria
+* Jefe / jefa de servicio de coordinación normativa
+* Jefe / jefa de servicio de coordinación organos colegiados
+* Jefe / jefa de servicio de coordinación p3
+* Jefe / jefa de servicio de coordinación patrimonial
+* Jefe / jefa de servicio de coordinación presupuestaria
+* Jefe / jefa de servicio de coordinación procesos castastrales
+* Jefe / jefa de servicio de coordinación procesos catastrales
+* Jefe / jefa de servicio de coordinación prog. europeos
+* Jefe / jefa de servicio de coordinación registros e inscripciones registrales
+* Jefe / jefa de servicio de coordinación técnica
+* Jefe / jefa de servicio de coordinación y act. especiales
+* Jefe / jefa de servicio de coordinación y actuaciones espec.
+* Jefe / jefa de servicio de coordinación y apoyo
+* Jefe / jefa de servicio de coordinación y apoyo administrativo
+* Jefe / jefa de servicio de coordinación y desarrollo normativo u.e.
+* Jefe / jefa de servicio de coordinación y estudios
+* Jefe / jefa de servicio de coordinación y gestión administrativa
+* Jefe / jefa de servicio de coordinación y gestión de inversiones
+* Jefe / jefa de servicio de coordinación y normalización
+* Jefe / jefa de servicio de coordinación y organización
+* Jefe / jefa de servicio de coordinación y promoción calid
+* Jefe / jefa de servicio de coordinación y publicaciones
+* Jefe / jefa de servicio de coordinación y seguimiento
+* Jefe / jefa de servicio de coordinación y tramitación parlamentaria
+* Jefe / jefa de servicio de corrección de terrenos y estructuras
+* Jefe / jefa de servicio de correo diplomático
+* Jefe / jefa de servicio de costes programas asistenciales
+* Jefe / jefa de servicio de cotizaciones y otros ingresos
+* Jefe / jefa de servicio de cotización y recaudación
+* Jefe / jefa de servicio de coyuntura demanda interna
+* Jefe / jefa de servicio de coyuntura mercado trabajo
+* Jefe / jefa de servicio de coyuntura precios
+* Jefe / jefa de servicio de coyuntura producción
+* Jefe / jefa de servicio de coyuntura sector exterior
+* Jefe / jefa de servicio de coyuntura sector financiero
+* Jefe / jefa de servicio de ctrol radiocomunic. fijas y moviles
+* Jefe / jefa de servicio de custodia labores decomisadas
+* Jefe / jefa de servicio de cómite hispano-norteamericano
+* Jefe / jefa de servicio de datos basicos
+* Jefe / jefa de servicio de datos sismicos
+* Jefe / jefa de servicio de defensa contra incendios
+* Jefe / jefa de servicio de defensa del patrimonio
+* Jefe / jefa de servicio de defensas
+* Jefe / jefa de servicio de delimitac.territoriales
+* Jefe / jefa de servicio de deporte escolar
+* Jefe / jefa de servicio de deporte universitario
+* Jefe / jefa de servicio de depósito legal
+* Jefe / jefa de servicio de derecho comunitario
+* Jefe / jefa de servicio de derechos propiedad intelectual
+* Jefe / jefa de servicio de desarrollo
+* Jefe / jefa de servicio de desarrollo alimentario
+* Jefe / jefa de servicio de desarrollo apoyo informatico
+* Jefe / jefa de servicio de desarrollo de la red
+* Jefe / jefa de servicio de desarrollo de modelos macroeconomicos
+* Jefe / jefa de servicio de desarrollo de proyectos
+* Jefe / jefa de servicio de desarrollo de sistemas informáticos
+* Jefe / jefa de servicio de desarrollo informatico
+* Jefe / jefa de servicio de desarrollo normativo
+* Jefe / jefa de servicio de desarrollo normativo aeronáutico
+* Jefe / jefa de servicio de desarrollo sistemas
+* Jefe / jefa de servicio de desarrollo web
+* Jefe / jefa de servicio de desarrollos formativos
+* Jefe / jefa de servicio de desarrollos medioambientales
+* Jefe / jefa de servicio de desarrollos web
+* Jefe / jefa de servicio de deteccion de señales
+* Jefe / jefa de servicio de deteccion y discriminación nuclear
+* Jefe / jefa de servicio de dibujos y grabados
+* Jefe / jefa de servicio de difusión
+* Jefe / jefa de servicio de difusión de contenidos digitales
+* Jefe / jefa de servicio de difusión electrónica y public.
+* Jefe / jefa de servicio de difusión tecnológica
+* Jefe / jefa de servicio de difusión y comunicación
+* Jefe / jefa de servicio de difusión y documentación
+* Jefe / jefa de servicio de difusión y transferencia
+* Jefe / jefa de servicio de difusión y transferencias
+* Jefe / jefa de servicio de digitalizacion consular
+* Jefe / jefa de servicio de diseño aplicaciones
+* Jefe / jefa de servicio de diseños indutriales
+* Jefe / jefa de servicio de distribución y venta
+* Jefe / jefa de servicio de divulgación
+* Jefe / jefa de servicio de divulgación y gestión colección
+* Jefe / jefa de servicio de divulgación y gestión fondo antiguo
+* Jefe / jefa de servicio de documentación
+* Jefe / jefa de servicio de documentación del registro
+* Jefe / jefa de servicio de documentación e información
+* Jefe / jefa de servicio de documentación electoral
+* Jefe / jefa de servicio de documentación geográfica y bibliotec
+* Jefe / jefa de servicio de documentación jurídica
+* Jefe / jefa de servicio de documentación programas internaciona
+* Jefe / jefa de servicio de documentación sanitaria
+* Jefe / jefa de servicio de documentación y biblioteca
+* Jefe / jefa de servicio de documentación y bibliotecas
+* Jefe / jefa de servicio de documentación y coordinación cc.dd.gobierno
+* Jefe / jefa de servicio de documentación y divulgación
+* Jefe / jefa de servicio de documentación y estudios
+* Jefe / jefa de servicio de documentación y normalización
+* Jefe / jefa de servicio de donativo y canje
+* Jefe / jefa de servicio de drogodependencia de admon. penit.
+* Jefe / jefa de servicio de economía de medicamentos y productos sanitarios
+* Jefe / jefa de servicio de ecosistemas hidricos
+* Jefe / jefa de servicio de ediciones especiales
+* Jefe / jefa de servicio de edición
+* Jefe / jefa de servicio de edición de publicaciones periodicas
+* Jefe / jefa de servicio de edición y trazado
+* Jefe / jefa de servicio de editorial
+* Jefe / jefa de servicio de educación escolar y personas adultas
+* Jefe / jefa de servicio de educación sanitaria
+* Jefe / jefa de servicio de educación secundaria
+* Jefe / jefa de servicio de ejecución de pagos
+* Jefe / jefa de servicio de elaboración del presupuesto
+* Jefe / jefa de servicio de empleo público local
+* Jefe / jefa de servicio de empresas
+* Jefe / jefa de servicio de empresas navieras y documentac
+* Jefe / jefa de servicio de enajenaciones
+* Jefe / jefa de servicio de ensenanzas artisticas
+* Jefe / jefa de servicio de entidades religiosas
+* Jefe / jefa de servicio de epidemiologia enfermedades cardiovasculares
+* Jefe / jefa de servicio de equipamiento de admon. penit.
+* Jefe / jefa de servicio de equipamiento informatico
+* Jefe / jefa de servicio de escuelas taller y casas de oficio
+* Jefe / jefa de servicio de espectroscopia
+* Jefe / jefa de servicio de est. edif. y vivienda
+* Jefe / jefa de servicio de est.construcción
+* Jefe / jefa de servicio de estabilidad y francobordo
+* Jefe / jefa de servicio de estad. adm. y de síntesis
+* Jefe / jefa de servicio de estado civil
+* Jefe / jefa de servicio de estadística
+* Jefe / jefa de servicio de estadística actividad hospitalaria
+* Jefe / jefa de servicio de estadística de salud
+* Jefe / jefa de servicio de estadística de vivienda
+* Jefe / jefa de servicio de estadística y análisis de siniestros
+* Jefe / jefa de servicio de estadísticas agrarias
+* Jefe / jefa de servicio de estadísticas de la pesca
+* Jefe / jefa de servicio de estadísticas sobre drogodependencia
+* Jefe / jefa de servicio de estadísticas y estudios
+* Jefe / jefa de servicio de estadísticas y evaluación
+* Jefe / jefa de servicio de estudios
+* Jefe / jefa de servicio de estudios de carreteras
+* Jefe / jefa de servicio de estudios e información
+* Jefe / jefa de servicio de estudios e informes
+* Jefe / jefa de servicio de estudios e invest.cult.herbac.exten.
+* Jefe / jefa de servicio de estudios e invest.cult.herbac.inten.
+* Jefe / jefa de servicio de estudios economicos
+* Jefe / jefa de servicio de estudios economicos financ.
+* Jefe / jefa de servicio de estudios economía y uso agua
+* Jefe / jefa de servicio de estudios hh. ll.
+* Jefe / jefa de servicio de estudios hidrologicos
+* Jefe / jefa de servicio de estudios medioambientales
+* Jefe / jefa de servicio de estudios medioambientales e hidrolog.
+* Jefe / jefa de servicio de estudios técnicos
+* Jefe / jefa de servicio de estudios urbanos
+* Jefe / jefa de servicio de estudios y análisis economicos seguros
+* Jefe / jefa de servicio de estudios y concursos
+* Jefe / jefa de servicio de estudios y coord. documental
+* Jefe / jefa de servicio de estudios y desarrollo
+* Jefe / jefa de servicio de estudios y documentación
+* Jefe / jefa de servicio de estudios y documentación de admon. penit.
+* Jefe / jefa de servicio de estudios y programas
+* Jefe / jefa de servicio de estudios y proyectos
+* Jefe / jefa de servicio de estudios, análisis y planificación antifraude
+* Jefe / jefa de servicio de estupefacientes
+* Jefe / jefa de servicio de evaluación
+* Jefe / jefa de servicio de evaluación clínica medicam.uso humano
+* Jefe / jefa de servicio de evaluación de productos biologicos
+* Jefe / jefa de servicio de evaluación de riesgos biologicos
+* Jefe / jefa de servicio de evaluación de riesgos nutricionales
+* Jefe / jefa de servicio de evaluación de riesgos quimicos
+* Jefe / jefa de servicio de evaluación de área terapéutica clínica
+* Jefe / jefa de servicio de evaluación e insp.inst.
+* Jefe / jefa de servicio de evaluación impacto ambiental
+* Jefe / jefa de servicio de evaluación medicamen.área internacional
+* Jefe / jefa de servicio de evaluación medicamentos
+* Jefe / jefa de servicio de evaluación medicamentos uso veterinario
+* Jefe / jefa de servicio de evaluación prestación farmacéutica
+* Jefe / jefa de servicio de evaluación procedimi.y pract.clinicas
+* Jefe / jefa de servicio de evaluación productos sanitarios
+* Jefe / jefa de servicio de evaluación química medicam.uso humano
+* Jefe / jefa de servicio de evaluación resultados
+* Jefe / jefa de servicio de evaluación riesgos alimentación animal
+* Jefe / jefa de servicio de evaluación sanit. riesgos ambient.
+* Jefe / jefa de servicio de evaluación sanitaria
+* Jefe / jefa de servicio de evaluación y control
+* Jefe / jefa de servicio de evaluación y seguimiento
+* Jefe / jefa de servicio de examen i
+* Jefe / jefa de servicio de examen ii
+* Jefe / jefa de servicio de examen iii
+* Jefe / jefa de servicio de examen iv
+* Jefe / jefa de servicio de examen ix
+* Jefe / jefa de servicio de examen v
+* Jefe / jefa de servicio de examen vi
+* Jefe / jefa de servicio de examen vii
+* Jefe / jefa de servicio de examen viii
+* Jefe / jefa de servicio de examen y forma y clasificación de productos y servicios
+* Jefe / jefa de servicio de expedientes sancionadores
+* Jefe / jefa de servicio de experiencia de usuario
+* Jefe / jefa de servicio de explotación
+* Jefe / jefa de servicio de explotación de sistemas inform.
+* Jefe / jefa de servicio de explotación de sistemas informáticos
+* Jefe / jefa de servicio de explotación sistema eléctrico
+* Jefe / jefa de servicio de explotación y base de datos de admon. penit.
+* Jefe / jefa de servicio de explotación y sistemas informáticos
+* Jefe / jefa de servicio de explotación zona ii
+* Jefe / jefa de servicio de explotación zona iv
+* Jefe / jefa de servicio de exposiciones
+* Jefe / jefa de servicio de expropiaciones
+* Jefe / jefa de servicio de expropiaciones y patrimonio
+* Jefe / jefa de servicio de expropiaciones y proced. admvo.
+* Jefe / jefa de servicio de extradiciones
+* Jefe / jefa de servicio de extranjería
+* Jefe / jefa de servicio de extranjería de admon. penit.
+* Jefe / jefa de servicio de familias
+* Jefe / jefa de servicio de farmacia
+* Jefe / jefa de servicio de farmacovigilancia
+* Jefe / jefa de servicio de feder
+* Jefe / jefa de servicio de ferias
+* Jefe / jefa de servicio de financiacion autonómica
+* Jefe / jefa de servicio de financiacion partidos politicos
+* Jefe / jefa de servicio de flota recreo y equipos marinos
+* Jefe / jefa de servicio de fomento a la investigación
+* Jefe / jefa de servicio de fondo social europeo
+* Jefe / jefa de servicio de fondos bibliográficos impresos antiguos
+* Jefe / jefa de servicio de fondos especiales
+* Jefe / jefa de servicio de form. pers. invest. extran.
+* Jefe / jefa de servicio de formación
+* Jefe / jefa de servicio de formación abierta
+* Jefe / jefa de servicio de formación continua
+* Jefe / jefa de servicio de formación de admon. penit.
+* Jefe / jefa de servicio de formación de bomberos
+* Jefe / jefa de servicio de formación deportiva
+* Jefe / jefa de servicio de formación e inserción laboral de admon. penit.
+* Jefe / jefa de servicio de formación formadores
+* Jefe / jefa de servicio de formación ocupacional de admon. penit.
+* Jefe / jefa de servicio de formación vial
+* Jefe / jefa de servicio de formación y acción social
+* Jefe / jefa de servicio de formación y asistencia técnica
+* Jefe / jefa de servicio de formación y documentación
+* Jefe / jefa de servicio de formación y seguridad vial
+* Jefe / jefa de servicio de formación, estudios y documentación
+* Jefe / jefa de servicio de fotografía y digitalizacion
+* Jefe / jefa de servicio de fraudes y correcciones financ.
+* Jefe / jefa de servicio de fuentes de información
+* Jefe / jefa de servicio de fundaciones
+* Jefe / jefa de servicio de gabinete comunicaciones
+* Jefe / jefa de servicio de gabinete ministro
+* Jefe / jefa de servicio de gabinete técnico
+* Jefe / jefa de servicio de ganadería ecológica
+* Jefe / jefa de servicio de garantía de calidad
+* Jefe / jefa de servicio de gastos generales en exterior
+* Jefe / jefa de servicio de geodesia
+* Jefe / jefa de servicio de geomagnetismo
+* Jefe / jefa de servicio de gestión
+* Jefe / jefa de servicio de gestión (c. s.)
+* Jefe / jefa de servicio de gestión administrativa
+* Jefe / jefa de servicio de gestión administrativa de admon. penit.
+* Jefe / jefa de servicio de gestión administrativa y patrimonio
+* Jefe / jefa de servicio de gestión administrativa y régimen interior
+* Jefe / jefa de servicio de gestión aplicaciones nómina
+* Jefe / jefa de servicio de gestión car y plazas residenciales
+* Jefe / jefa de servicio de gestión catastral
+* Jefe / jefa de servicio de gestión central de observación de admon. penit.
+* Jefe / jefa de servicio de gestión científica
+* Jefe / jefa de servicio de gestión colecciones publicaciones seriadas
+* Jefe / jefa de servicio de gestión colecciones y catalogos
+* Jefe / jefa de servicio de gestión comercial
+* Jefe / jefa de servicio de gestión de ayudas
+* Jefe / jefa de servicio de gestión de bases de datos
+* Jefe / jefa de servicio de gestión de clases pasivas
+* Jefe / jefa de servicio de gestión de contaminantes
+* Jefe / jefa de servicio de gestión de contratos
+* Jefe / jefa de servicio de gestión de creditos
+* Jefe / jefa de servicio de gestión de datos
+* Jefe / jefa de servicio de gestión de dominio público
+* Jefe / jefa de servicio de gestión de evaluación
+* Jefe / jefa de servicio de gestión de expedientes
+* Jefe / jefa de servicio de gestión de gastos
+* Jefe / jefa de servicio de gestión de ingresos
+* Jefe / jefa de servicio de gestión de inmuebles
+* Jefe / jefa de servicio de gestión de la calidad
+* Jefe / jefa de servicio de gestión de la documentación
+* Jefe / jefa de servicio de gestión de la formación
+* Jefe / jefa de servicio de gestión de medios
+* Jefe / jefa de servicio de gestión de obras de admon. penit.
+* Jefe / jefa de servicio de gestión de ofertas
+* Jefe / jefa de servicio de gestión de patrimonio p.g.
+* Jefe / jefa de servicio de gestión de penas y medidas alternativas
+* Jefe / jefa de servicio de gestión de personal
+* Jefe / jefa de servicio de gestión de personal funcionario de admon. penit.
+* Jefe / jefa de servicio de gestión de personal laboral
+* Jefe / jefa de servicio de gestión de personal laboral de admon. penit.
+* Jefe / jefa de servicio de gestión de prestaciones
+* Jefe / jefa de servicio de gestión de programas
+* Jefe / jefa de servicio de gestión de programas sociales
+* Jefe / jefa de servicio de gestión de recursos humanos
+* Jefe / jefa de servicio de gestión de residuos
+* Jefe / jefa de servicio de gestión de riesgos biologicos
+* Jefe / jefa de servicio de gestión de riesgos nutricionales
+* Jefe / jefa de servicio de gestión de servidores y sistemas informáticos
+* Jefe / jefa de servicio de gestión de suministros de admon. penit.
+* Jefe / jefa de servicio de gestión del colectivo
+* Jefe / jefa de servicio de gestión del conocimiento
+* Jefe / jefa de servicio de gestión del presupuesto de recursos
+* Jefe / jefa de servicio de gestión documental
+* Jefe / jefa de servicio de gestión dominio público
+* Jefe / jefa de servicio de gestión e informática
+* Jefe / jefa de servicio de gestión econo.subv.y hábil.material
+* Jefe / jefa de servicio de gestión económica
+* Jefe / jefa de servicio de gestión económica de federaciones
+* Jefe / jefa de servicio de gestión económica de subvenciones
+* Jefe / jefa de servicio de gestión económica fondo de reserva
+* Jefe / jefa de servicio de gestión económica fondo especial
+* Jefe / jefa de servicio de gestión económica fondo general
+* Jefe / jefa de servicio de gestión económica personal y retribuciones
+* Jefe / jefa de servicio de gestión económica y administrativa
+* Jefe / jefa de servicio de gestión económica y asuntos generales
+* Jefe / jefa de servicio de gestión económica y contab.
+* Jefe / jefa de servicio de gestión económica y contabilidad
+* Jefe / jefa de servicio de gestión económica y financiera
+* Jefe / jefa de servicio de gestión económica y habilitación
+* Jefe / jefa de servicio de gestión económica y presupuestaria
+* Jefe / jefa de servicio de gestión económico administrativa de admon. penit.
+* Jefe / jefa de servicio de gestión económico administrativa y rr.hh.
+* Jefe / jefa de servicio de gestión económico-financiera
+* Jefe / jefa de servicio de gestión económico-financiera de consejerias turismo
+* Jefe / jefa de servicio de gestión editorial y difusión
+* Jefe / jefa de servicio de gestión editorial y documental
+* Jefe / jefa de servicio de gestión equipamientos y servicios
+* Jefe / jefa de servicio de gestión escuela nal. protec. civil
+* Jefe / jefa de servicio de gestión estupefacientes y psicotropos
+* Jefe / jefa de servicio de gestión exped. contratación
+* Jefe / jefa de servicio de gestión financiera
+* Jefe / jefa de servicio de gestión formación especial
+* Jefe / jefa de servicio de gestión incap. temporal y maternidad
+* Jefe / jefa de servicio de gestión ingresos
+* Jefe / jefa de servicio de gestión integrada de dpmt
+* Jefe / jefa de servicio de gestión internacional
+* Jefe / jefa de servicio de gestión internacional prestaciones
+* Jefe / jefa de servicio de gestión inversiones en el exterior
+* Jefe / jefa de servicio de gestión investigación
+* Jefe / jefa de servicio de gestión jurídica adva.fondo de reserva
+* Jefe / jefa de servicio de gestión mantenimientos
+* Jefe / jefa de servicio de gestión medicamentos
+* Jefe / jefa de servicio de gestión medios
+* Jefe / jefa de servicio de gestión medios y régimen interior
+* Jefe / jefa de servicio de gestión nominas
+* Jefe / jefa de servicio de gestión obras de emergencia
+* Jefe / jefa de servicio de gestión patrimonial
+* Jefe / jefa de servicio de gestión permiso por puntos
+* Jefe / jefa de servicio de gestión personal
+* Jefe / jefa de servicio de gestión personal bachillerato
+* Jefe / jefa de servicio de gestión personal de formación profesional
+* Jefe / jefa de servicio de gestión personal funcionario
+* Jefe / jefa de servicio de gestión personal laboral
+* Jefe / jefa de servicio de gestión política horizontal comunitaria
+* Jefe / jefa de servicio de gestión prestaciones
+* Jefe / jefa de servicio de gestión prestación farmacéutica
+* Jefe / jefa de servicio de gestión presupuestaria
+* Jefe / jefa de servicio de gestión presupuestaria e indemnizaciones por responsabilidad patrimonial
+* Jefe / jefa de servicio de gestión presupuestaria n26
+* Jefe / jefa de servicio de gestión presupuestaria, gestión económica y contabilidad
+* Jefe / jefa de servicio de gestión procedimientos farmaceuticos
+* Jefe / jefa de servicio de gestión procesos selectivos
+* Jefe / jefa de servicio de gestión puntos de venta con recargo
+* Jefe / jefa de servicio de gestión reaseg. de accidentes de trab.
+* Jefe / jefa de servicio de gestión recursos humanos
+* Jefe / jefa de servicio de gestión rr.hh.y hábil. personal
+* Jefe / jefa de servicio de gestión saih y explotación
+* Jefe / jefa de servicio de gestión sistemas bibliotecarios
+* Jefe / jefa de servicio de gestión técnica
+* Jefe / jefa de servicio de gestión técnica i+d+i
+* Jefe / jefa de servicio de gestión usuarios y apoyo administrativo
+* Jefe / jefa de servicio de gestión y administración
+* Jefe / jefa de servicio de gestión y análisis presupuestario
+* Jefe / jefa de servicio de gestión y control de obras
+* Jefe / jefa de servicio de gestión y documentación técnica
+* Jefe / jefa de servicio de gestión y programación inform.
+* Jefe / jefa de servicio de gestión y seguimiento de contratos
+* Jefe / jefa de servicio de gestor económico-financier
+* Jefe / jefa de servicio de grupos europeos de intercambio de antecedentes
+* Jefe / jefa de servicio de habilitación
+* Jefe / jefa de servicio de habilitación de personal
+* Jefe / jefa de servicio de habilitación de personal y material
+* Jefe / jefa de servicio de habilitación exterior
+* Jefe / jefa de servicio de habilitación general
+* Jefe / jefa de servicio de habilitación personal
+* Jefe / jefa de servicio de habilitación y cajero pagador
+* Jefe / jefa de servicio de habilitación y contabilidad
+* Jefe / jefa de servicio de habilitación y gestión presupuestaria
+* Jefe / jefa de servicio de habilitación y pagaduría
+* Jefe / jefa de servicio de hemoderivados y product. biologicos
+* Jefe / jefa de servicio de hidrogeologia
+* Jefe / jefa de servicio de hidrogeologia profunda y baja permeabilidad
+* Jefe / jefa de servicio de hidrología
+* Jefe / jefa de servicio de hidromorfologia
+* Jefe / jefa de servicio de higiene producción primaria
+* Jefe / jefa de servicio de higiene red alerta alimentación animal
+* Jefe / jefa de servicio de homologación prod.fitosanitarios
+* Jefe / jefa de servicio de implantación rrcc
+* Jefe / jefa de servicio de importación y exportación de productos sanitarios
+* Jefe / jefa de servicio de impresos modernos y publicaciones periodicas
+* Jefe / jefa de servicio de incidencias
+* Jefe / jefa de servicio de indemnizaciones patrimoniales
+* Jefe / jefa de servicio de indicadores
+* Jefe / jefa de servicio de indultos
+* Jefe / jefa de servicio de industrias carnicas y lacteas
+* Jefe / jefa de servicio de industrias forestales
+* Jefe / jefa de servicio de información
+* Jefe / jefa de servicio de información a la ciudadanía
+* Jefe / jefa de servicio de información administrativa
+* Jefe / jefa de servicio de información administrativa y registro
+* Jefe / jefa de servicio de información agroalimentaria
+* Jefe / jefa de servicio de información al ciudadano
+* Jefe / jefa de servicio de información ambiental
+* Jefe / jefa de servicio de información bibliográfica
+* Jefe / jefa de servicio de información económica
+* Jefe / jefa de servicio de información geográfica
+* Jefe / jefa de servicio de información red solvit
+* Jefe / jefa de servicio de información sanitaria
+* Jefe / jefa de servicio de información sanitaria de admon. penit.
+* Jefe / jefa de servicio de información tecnológica
+* Jefe / jefa de servicio de información y asuntos generales
+* Jefe / jefa de servicio de información y atención al ciudadano
+* Jefe / jefa de servicio de información y control operativo
+* Jefe / jefa de servicio de información y movilidad
+* Jefe / jefa de servicio de información y relaciones externas
+* Jefe / jefa de servicio de informatico
+* Jefe / jefa de servicio de informatico a
+* Jefe / jefa de servicio de informatico b
+* Jefe / jefa de servicio de informes
+* Jefe / jefa de servicio de informes financieros y documen
+* Jefe / jefa de servicio de informes juridicos y documentación
+* Jefe / jefa de servicio de informes y asuntos jurid.de personal
+* Jefe / jefa de servicio de informes y coordinación normativa
+* Jefe / jefa de servicio de informes y legislación
+* Jefe / jefa de servicio de informes y seguimiento disposiciones
+* Jefe / jefa de servicio de informática
+* Jefe / jefa de servicio de informática automática
+* Jefe / jefa de servicio de informática de gestión
+* Jefe / jefa de servicio de informática y organización
+* Jefe / jefa de servicio de infraestr.informac. geográfica
+* Jefe / jefa de servicio de infraestructura trasvase
+* Jefe / jefa de servicio de infraestructuras
+* Jefe / jefa de servicio de ing.instal.nucleares
+* Jefe / jefa de servicio de ingeniería fluvial
+* Jefe / jefa de servicio de ingeniería operacional
+* Jefe / jefa de servicio de ingeniería sanitaria
+* Jefe / jefa de servicio de ingresos y tesorería
+* Jefe / jefa de servicio de inmigración
+* Jefe / jefa de servicio de inmuebles
+* Jefe / jefa de servicio de innovación
+* Jefe / jefa de servicio de innovación educativa
+* Jefe / jefa de servicio de inscripción y afiliación
+* Jefe / jefa de servicio de inspección
+* Jefe / jefa de servicio de inspección auditorias
+* Jefe / jefa de servicio de inspección auditorias y s.a.d
+* Jefe / jefa de servicio de inspección comercial
+* Jefe / jefa de servicio de inspección de admon. penit.
+* Jefe / jefa de servicio de inspección de pesca
+* Jefe / jefa de servicio de inspección de proced. de visibilidad reducida en aerodr. de uso público
+* Jefe / jefa de servicio de inspección farmacéutica y control drogas
+* Jefe / jefa de servicio de inspección fiscal federaciones
+* Jefe / jefa de servicio de inspección fiscal subvenciones
+* Jefe / jefa de servicio de inspección instalaciones de productos sanitarios
+* Jefe / jefa de servicio de inspección laboratorios farmaceuticos
+* Jefe / jefa de servicio de inspección pesquera
+* Jefe / jefa de servicio de inspección postal
+* Jefe / jefa de servicio de inspección sanitaria
+* Jefe / jefa de servicio de inspección y certificación
+* Jefe / jefa de servicio de inspección y ordenación normativa
+* Jefe / jefa de servicio de inspección y relac. con usuarios
+* Jefe / jefa de servicio de instalaciones
+* Jefe / jefa de servicio de instalaciones de seguridad
+* Jefe / jefa de servicio de instalaciones propias csd
+* Jefe / jefa de servicio de instalaciones y equipos
+* Jefe / jefa de servicio de instalaciones, proyectos y oficina de supervision de proyectos
+* Jefe / jefa de servicio de instituciones
+* Jefe / jefa de servicio de instrucciones
+* Jefe / jefa de servicio de instrucción
+* Jefe / jefa de servicio de instrucción expedientes
+* Jefe / jefa de servicio de instrucción y tramitación
+* Jefe / jefa de servicio de instrumentación astronómica
+* Jefe / jefa de servicio de instrumentación de ensayos
+* Jefe / jefa de servicio de intercambio información normalizada
+* Jefe / jefa de servicio de interferencias
+* Jefe / jefa de servicio de interferometria y astrometria
+* Jefe / jefa de servicio de internet y nuevas tecnologías
+* Jefe / jefa de servicio de interpretes jurados
+* Jefe / jefa de servicio de intervención
+* Jefe / jefa de servicio de intervención de precios
+* Jefe / jefa de servicio de intervención en patrimonio
+* Jefe / jefa de servicio de intervención y control de centros de admon. penit.
+* Jefe / jefa de servicio de inventario del patrimonio
+* Jefe / jefa de servicio de inventario forestal
+* Jefe / jefa de servicio de inversiones
+* Jefe / jefa de servicio de inversiones y tasas
+* Jefe / jefa de servicio de investigación
+* Jefe / jefa de servicio de investigación del patrimonio
+* Jefe / jefa de servicio de investigación macroeconomica
+* Jefe / jefa de servicio de investigación y divulgación
+* Jefe / jefa de servicio de investigación y tecnología área agrícola
+* Jefe / jefa de servicio de investigación y tecnología área forestal
+* Jefe / jefa de servicio de junta de compras
+* Jefe / jefa de servicio de justificación de subvenciones
+* Jefe / jefa de servicio de ka2
+* Jefe / jefa de servicio de la base topográfica nacional
+* Jefe / jefa de servicio de la unidad central de cajas pagd.
+* Jefe / jefa de servicio de la unidad de inteligencia económica
+* Jefe / jefa de servicio de la unión europea
+* Jefe / jefa de servicio de laboratorio
+* Jefe / jefa de servicio de laboratorio agroalimentario
+* Jefe / jefa de servicio de laboratorio de san.exterior
+* Jefe / jefa de servicio de laboratorio sanidad exterior
+* Jefe / jefa de servicio de legislación
+* Jefe / jefa de servicio de legislación consolidada
+* Jefe / jefa de servicio de legislación veterinaria
+* Jefe / jefa de servicio de legislación y análisis jurídico
+* Jefe / jefa de servicio de levantamiento topográfico
+* Jefe / jefa de servicio de licencias y autorizaciones
+* Jefe / jefa de servicio de licitaciones
+* Jefe / jefa de servicio de liquidación pasivos
+* Jefe / jefa de servicio de línea directa
+* Jefe / jefa de servicio de mantenimiento
+* Jefe / jefa de servicio de mantenimiento de derechos
+* Jefe / jefa de servicio de mantenimiento e instalaciones
+* Jefe / jefa de servicio de mantenimiento y conservación
+* Jefe / jefa de servicio de mantenimiento y obras
+* Jefe / jefa de servicio de mantenimiento y seguridad
+* Jefe / jefa de servicio de manuscritos e incunables
+* Jefe / jefa de servicio de material genético
+* Jefe / jefa de servicio de materiales
+* Jefe / jefa de servicio de materiales y nanotecnologias
+* Jefe / jefa de servicio de mdl y ac
+* Jefe / jefa de servicio de medicamentos biotecnologicos y hemoderivados
+* Jefe / jefa de servicio de medicamentos de uso humano
+* Jefe / jefa de servicio de medicamentos uso publicitario
+* Jefe / jefa de servicio de medicamentos veterinarios
+* Jefe / jefa de servicio de medio abierto de admon. penit.
+* Jefe / jefa de servicio de medios de inspección
+* Jefe / jefa de servicio de medios tecnologicos
+* Jefe / jefa de servicio de mercados
+* Jefe / jefa de servicio de mercancias peligrosas
+* Jefe / jefa de servicio de mercancias peligrosas y perecederas
+* Jefe / jefa de servicio de microbiología alimentaria
+* Jefe / jefa de servicio de migraciones interiores
+* Jefe / jefa de servicio de modelizacion calidad del aire
+* Jefe / jefa de servicio de modelizacion del medio físico marino
+* Jefe / jefa de servicio de modelos de datos geocientificos
+* Jefe / jefa de servicio de modelos mesoescala y especiales
+* Jefe / jefa de servicio de modelos utilidad
+* Jefe / jefa de servicio de modificaciones presupuestarias
+* Jefe / jefa de servicio de montaje y mantenimiento radio
+* Jefe / jefa de servicio de movilidad e información internacional
+* Jefe / jefa de servicio de movilidad erasmus
+* Jefe / jefa de servicio de movilidad leonardo
+* Jefe / jefa de servicio de museo
+* Jefe / jefa de servicio de nacionalidad
+* Jefe / jefa de servicio de necesidades educativas especiales
+* Jefe / jefa de servicio de normalización
+* Jefe / jefa de servicio de normas e informes
+* Jefe / jefa de servicio de normativa
+* Jefe / jefa de servicio de normativa agroalimentaria
+* Jefe / jefa de servicio de normativa comunitaria
+* Jefe / jefa de servicio de normativa técnica
+* Jefe / jefa de servicio de normativa y reg.econom.subvenciones
+* Jefe / jefa de servicio de notificación sucesos
+* Jefe / jefa de servicio de nulidad
+* Jefe / jefa de servicio de objetivos de gestión
+* Jefe / jefa de servicio de obras
+* Jefe / jefa de servicio de obras e instalaciones
+* Jefe / jefa de servicio de obras espec. y activ. medioambientales
+* Jefe / jefa de servicio de observ. polit. inmigrac. y refug.
+* Jefe / jefa de servicio de observación
+* Jefe / jefa de servicio de observatorio ocupacional
+* Jefe / jefa de servicio de ocupación del suelo
+* Jefe / jefa de servicio de oficina de información al mutualista
+* Jefe / jefa de servicio de oficina de supervision de proyectos
+* Jefe / jefa de servicio de oficina del partícipe
+* Jefe / jefa de servicio de oficina destacada
+* Jefe / jefa de servicio de oficina presupuestaria
+* Jefe / jefa de servicio de oficina transf.resultados inves.igme
+* Jefe / jefa de servicio de oficina técnica superv. proy.
+* Jefe / jefa de servicio de ofimatica y redes
+* Jefe / jefa de servicio de ompi y euipo
+* Jefe / jefa de servicio de ong y subvenciones
+* Jefe / jefa de servicio de ong y voluntariado
+* Jefe / jefa de servicio de oo.ii. comerciales
+* Jefe / jefa de servicio de oo.ii. cooperación
+* Jefe / jefa de servicio de oo.ii. desarrollo
+* Jefe / jefa de servicio de oo.ii. y cooperación bilateral
+* Jefe / jefa de servicio de operac. de tesorer. territoriales
+* Jefe / jefa de servicio de operaciones comerciales
+* Jefe / jefa de servicio de optimizacion expendedurias complementarias
+* Jefe / jefa de servicio de optimizacion expendedurias generales
+* Jefe / jefa de servicio de ordenación
+* Jefe / jefa de servicio de ordenación administrativa
+* Jefe / jefa de servicio de ordenación de diarios
+* Jefe / jefa de servicio de ordenación de enseñanzas deportivas
+* Jefe / jefa de servicio de ordenación de prestaciones
+* Jefe / jefa de servicio de ordenación e implantación de oferta de educación a distancia
+* Jefe / jefa de servicio de ordenación enseñanzas deportivas
+* Jefe / jefa de servicio de ordenación farmacéutica
+* Jefe / jefa de servicio de ordenación jurídica de prestaciones
+* Jefe / jefa de servicio de ordenación jurídica sanitaria
+* Jefe / jefa de servicio de ordenación pagos e impuestos
+* Jefe / jefa de servicio de ordenación prestaciones
+* Jefe / jefa de servicio de ordenación sanitaria
+* Jefe / jefa de servicio de ordenación sanitaria de admon. penit.
+* Jefe / jefa de servicio de ordenación técnica y colectivos espe
+* Jefe / jefa de servicio de ordenación y organización
+* Jefe / jefa de servicio de ordenación y seguimiento del contingente
+* Jefe / jefa de servicio de ordenación y vigilancia aliment.
+* Jefe / jefa de servicio de organismo notificado
+* Jefe / jefa de servicio de organización
+* Jefe / jefa de servicio de organización administrativa
+* Jefe / jefa de servicio de organización administrativa y régimen interior
+* Jefe / jefa de servicio de organización de museos estatales
+* Jefe / jefa de servicio de organización rr.hh. y puestos de trabajo
+* Jefe / jefa de servicio de organización y normativa personal
+* Jefe / jefa de servicio de organización y planificación rr.hh.
+* Jefe / jefa de servicio de orientación diagnóstica
+* Jefe / jefa de servicio de orientación educativa
+* Jefe / jefa de servicio de orientación profesional
+* Jefe / jefa de servicio de pagaduría
+* Jefe / jefa de servicio de pagos
+* Jefe / jefa de servicio de pagos centralizados
+* Jefe / jefa de servicio de pagos y mutuas patronales
+* Jefe / jefa de servicio de partenariados exterior e interior
+* Jefe / jefa de servicio de participación
+* Jefe / jefa de servicio de participación en la gestión
+* Jefe / jefa de servicio de participación gestión e informac.
+* Jefe / jefa de servicio de partituras
+* Jefe / jefa de servicio de pasaje doméstico y embarc aux.
+* Jefe / jefa de servicio de pasaportes, documento viaje e informática visados
+* Jefe / jefa de servicio de pat. mecánica gral. y construcción
+* Jefe / jefa de servicio de patente europea y pct
+* Jefe / jefa de servicio de patentes físicas y electricas
+* Jefe / jefa de servicio de patentes químicas
+* Jefe / jefa de servicio de patrimonio
+* Jefe / jefa de servicio de patrimonio adscrito
+* Jefe / jefa de servicio de patrimonio del estado (1)
+* Jefe / jefa de servicio de patrimonio del estado (2)
+* Jefe / jefa de servicio de patrimonio e inventario
+* Jefe / jefa de servicio de patrimonio oo.aa. y s.s.
+* Jefe / jefa de servicio de patrimonio y contratación
+* Jefe / jefa de servicio de patrimonio y régimen interior
+* Jefe / jefa de servicio de pensiones asistenciales
+* Jefe / jefa de servicio de personal
+* Jefe / jefa de servicio de personal funcionario
+* Jefe / jefa de servicio de personal funcionario exterior
+* Jefe / jefa de servicio de personal funcionario y laboral
+* Jefe / jefa de servicio de personal laboral
+* Jefe / jefa de servicio de personal marítimo y pesquero
+* Jefe / jefa de servicio de personal y administración
+* Jefe / jefa de servicio de personal y habilitación de admon. penit.
+* Jefe / jefa de servicio de personal y retribuciones
+* Jefe / jefa de servicio de personal y régimen interior
+* Jefe / jefa de servicio de pesca
+* Jefe / jefa de servicio de planeamiento
+* Jefe / jefa de servicio de planeamiento civil y transportes p.cable
+* Jefe / jefa de servicio de planeamiento proyectos obras expo 92
+* Jefe / jefa de servicio de planeamiento proyectos y obras
+* Jefe / jefa de servicio de planes y estudios
+* Jefe / jefa de servicio de planificación
+* Jefe / jefa de servicio de planificación bibliotecaria
+* Jefe / jefa de servicio de planificación de admon. penit.
+* Jefe / jefa de servicio de planificación económica
+* Jefe / jefa de servicio de planificación hidrológica
+* Jefe / jefa de servicio de planificación informática
+* Jefe / jefa de servicio de planificación personal funcionario
+* Jefe / jefa de servicio de planificación personal laboral
+* Jefe / jefa de servicio de planificación y censo instalaciones
+* Jefe / jefa de servicio de planificación y control de expedientes
+* Jefe / jefa de servicio de planificación y coordinación gestión recaudatoria
+* Jefe / jefa de servicio de planificación y estudios
+* Jefe / jefa de servicio de planificación y gestión de personal
+* Jefe / jefa de servicio de planificación y gestión de producción
+* Jefe / jefa de servicio de planificación y medios
+* Jefe / jefa de servicio de planificación y programación
+* Jefe / jefa de servicio de planificación y retribuciones
+* Jefe / jefa de servicio de planificación y seguimiento de admon. penit.
+* Jefe / jefa de servicio de planificación y seguimiento obras
+* Jefe / jefa de servicio de planificación y selección de rr.hh.
+* Jefe / jefa de servicio de planificación y supervision
+* Jefe / jefa de servicio de policía de aguas y cauces
+* Jefe / jefa de servicio de porcino
+* Jefe / jefa de servicio de poten. y desarrollo
+* Jefe / jefa de servicio de practicaje y seguridad navegac
+* Jefe / jefa de servicio de precios y salarios agrarios
+* Jefe / jefa de servicio de presas
+* Jefe / jefa de servicio de prestaciones
+* Jefe / jefa de servicio de prestaciones económicas
+* Jefe / jefa de servicio de prestaciones sociales
+* Jefe / jefa de servicio de prestación sanitaria
+* Jefe / jefa de servicio de presup.oo.ii.embajadas y admon.cent.
+* Jefe / jefa de servicio de presupuesto
+* Jefe / jefa de servicio de presupuestos
+* Jefe / jefa de servicio de presupuestos contabilidad y gestión i.
+* Jefe / jefa de servicio de presupuestos coop.internac.y cónsul.
+* Jefe / jefa de servicio de presupuestos de admon. penit.
+* Jefe / jefa de servicio de presupuestos y contabilidad
+* Jefe / jefa de servicio de presupuestos y gestión económica
+* Jefe / jefa de servicio de presupuestos y planificación
+* Jefe / jefa de servicio de presupuestos y prog.
+* Jefe / jefa de servicio de presupuestos y programación
+* Jefe / jefa de servicio de presupuestos y programas
+* Jefe / jefa de servicio de presupuestos y retribuciones
+* Jefe / jefa de servicio de presupuestos y tesorería
+* Jefe / jefa de servicio de prevención
+* Jefe / jefa de servicio de prevención a
+* Jefe / jefa de servicio de prevención a de admon. penit.
+* Jefe / jefa de servicio de prevención b
+* Jefe / jefa de servicio de prevención c
+* Jefe / jefa de servicio de prevención de riesgos laborales
+* Jefe / jefa de servicio de prevención desastres
+* Jefe / jefa de servicio de prevención y control fitosanitario
+* Jefe / jefa de servicio de prevención y salud laboral a
+* Jefe / jefa de servicio de prevención y salud laboral b
+* Jefe / jefa de servicio de prevención y salud laboral c
+* Jefe / jefa de servicio de primera infancia y conciliación
+* Jefe / jefa de servicio de procedimiento sancionador
+* Jefe / jefa de servicio de procedimiento sancionador e informes de rec.
+* Jefe / jefa de servicio de procedimientos catastrales
+* Jefe / jefa de servicio de procedimientos concursales
+* Jefe / jefa de servicio de procedimientos de inspecccion
+* Jefe / jefa de servicio de procedimientos informáticos
+* Jefe / jefa de servicio de procedimientos operativos
+* Jefe / jefa de servicio de proceso datos y comunicaciones
+* Jefe / jefa de servicio de procesos
+* Jefe / jefa de servicio de procesos de colocación
+* Jefe / jefa de servicio de procesos integrados
+* Jefe / jefa de servicio de procesos y logistica electoral
+* Jefe / jefa de servicio de producción editorial
+* Jefe / jefa de servicio de producción i
+* Jefe / jefa de servicio de producción i de admon. penit.
+* Jefe / jefa de servicio de producción ii
+* Jefe / jefa de servicio de producción ii de admon. penit.
+* Jefe / jefa de servicio de producción iii de admon. penit.
+* Jefe / jefa de servicio de producción interna
+* Jefe / jefa de servicio de producción iv de admon. penit.
+* Jefe / jefa de servicio de producción y distribución
+* Jefe / jefa de servicio de productos cosmeticos
+* Jefe / jefa de servicio de productos de la vid
+* Jefe / jefa de servicio de productos geograficos
+* Jefe / jefa de servicio de productos zoosanitarios
+* Jefe / jefa de servicio de progr. empleo colectivos desfavoreci
+* Jefe / jefa de servicio de progr. empleo público institucional
+* Jefe / jefa de servicio de progr. instituc. y apoyo al foro
+* Jefe / jefa de servicio de program. y seguimiento in
+* Jefe / jefa de servicio de programa desarrollo gitano
+* Jefe / jefa de servicio de programac. y seguim. técnico
+* Jefe / jefa de servicio de programación
+* Jefe / jefa de servicio de programación actuaciones
+* Jefe / jefa de servicio de programación cultural y deportiva de admon. penit.
+* Jefe / jefa de servicio de programación de control oficial
+* Jefe / jefa de servicio de programación de enseñanzas artisticas
+* Jefe / jefa de servicio de programación económica
+* Jefe / jefa de servicio de programación editorial científica y publicaciones
+* Jefe / jefa de servicio de programación financiera
+* Jefe / jefa de servicio de programación y gestión
+* Jefe / jefa de servicio de programación y seguimiento
+* Jefe / jefa de servicio de programación y seguimiento de la gestión
+* Jefe / jefa de servicio de programas apoyo creación actividad
+* Jefe / jefa de servicio de programas cientificos
+* Jefe / jefa de servicio de programas contra la exclusión social
+* Jefe / jefa de servicio de programas culturales
+* Jefe / jefa de servicio de programas de cooperación
+* Jefe / jefa de servicio de programas de formación
+* Jefe / jefa de servicio de programas de gasto
+* Jefe / jefa de servicio de programas de prevención
+* Jefe / jefa de servicio de programas de procesos prevalentes
+* Jefe / jefa de servicio de programas de tratamiento específico de admon. penit.
+* Jefe / jefa de servicio de programas de vigilancia epidemiol.
+* Jefe / jefa de servicio de programas educativos
+* Jefe / jefa de servicio de programas educativos y talleres de admon. penit.
+* Jefe / jefa de servicio de programas erradicación fitosanitaria
+* Jefe / jefa de servicio de programas especiales
+* Jefe / jefa de servicio de programas europeos
+* Jefe / jefa de servicio de programas formación pers.estatutario
+* Jefe / jefa de servicio de programas formativos
+* Jefe / jefa de servicio de programas geodesicos
+* Jefe / jefa de servicio de programas informáticos
+* Jefe / jefa de servicio de programas operativos comunitarios
+* Jefe / jefa de servicio de programas para refugiados
+* Jefe / jefa de servicio de programas preservación
+* Jefe / jefa de servicio de programas provinciales
+* Jefe / jefa de servicio de programas sanitarios
+* Jefe / jefa de servicio de programas tecnologicos
+* Jefe / jefa de servicio de programas técnicos
+* Jefe / jefa de servicio de programas unión europea
+* Jefe / jefa de servicio de programas y actividades culturales
+* Jefe / jefa de servicio de programas y proyectos ongd
+* Jefe / jefa de servicio de promoción cultural
+* Jefe / jefa de servicio de promoción de la lectura
+* Jefe / jefa de servicio de promoción de las letras
+* Jefe / jefa de servicio de promoción de productos agrarios
+* Jefe / jefa de servicio de promoción del libro
+* Jefe / jefa de servicio de promoción internacionalizacion
+* Jefe / jefa de servicio de promoción y difusión
+* Jefe / jefa de servicio de prospectiva socieconomica
+* Jefe / jefa de servicio de protección
+* Jefe / jefa de servicio de protección ambiente atmosférico
+* Jefe / jefa de servicio de protección de salud de admon. penit.
+* Jefe / jefa de servicio de protección familiar y otras prestaciones
+* Jefe / jefa de servicio de protección marítima
+* Jefe / jefa de servicio de protocolo
+* Jefe / jefa de servicio de protocolo y relaciones publicas
+* Jefe / jefa de servicio de provisión de personal funcionario
+* Jefe / jefa de servicio de provisión de personal laboral
+* Jefe / jefa de servicio de provisión de puestos de personal laboral
+* Jefe / jefa de servicio de provisión de puestos de trabajo
+* Jefe / jefa de servicio de proy. acciones esp. inves.
+* Jefe / jefa de servicio de proyecto de desarrollo de aplicaciones
+* Jefe / jefa de servicio de proyectos
+* Jefe / jefa de servicio de proyectos de administración electrónica
+* Jefe / jefa de servicio de proyectos de desarrollo de aplicaciones
+* Jefe / jefa de servicio de proyectos de seguridad informática de seguridad perimetral
+* Jefe / jefa de servicio de proyectos de seguridad informática de sistemas de seguridad interna
+* Jefe / jefa de servicio de proyectos de transferencias
+* Jefe / jefa de servicio de proyectos digitales
+* Jefe / jefa de servicio de proyectos e inspecciones tecnologicas de la competencia
+* Jefe / jefa de servicio de proyectos generales y administración
+* Jefe / jefa de servicio de proyectos inform. e infraestructura
+* Jefe / jefa de servicio de proyectos informáticos
+* Jefe / jefa de servicio de proyectos internacionales
+* Jefe / jefa de servicio de proyectos normativos
+* Jefe / jefa de servicio de proyectos relacionados con la firma electrónica
+* Jefe / jefa de servicio de proyectos técnicos
+* Jefe / jefa de servicio de proyectos técnicos y obras de admon. penit.
+* Jefe / jefa de servicio de proyectos y desarrollo de nuevas tecnologías p.g.
+* Jefe / jefa de servicio de proyectos y desarrollos bibliotecarios
+* Jefe / jefa de servicio de proyectos y obras
+* Jefe / jefa de servicio de proyectos y obras zona 2
+* Jefe / jefa de servicio de proyectos y sistemas informáticos
+* Jefe / jefa de servicio de proyectos, normas buques pesca
+* Jefe / jefa de servicio de pruebas de aptitud
+* Jefe / jefa de servicio de préstamo interbibliotecario
+* Jefe / jefa de servicio de publicaciones
+* Jefe / jefa de servicio de publicaciones digitales
+* Jefe / jefa de servicio de publicidad
+* Jefe / jefa de servicio de publicidad y comunicación
+* Jefe / jefa de servicio de químicas y productos farmaceuticos
+* Jefe / jefa de servicio de radioastronomia
+* Jefe / jefa de servicio de radiodifusión y tv
+* Jefe / jefa de servicio de radioproteccion
+* Jefe / jefa de servicio de reactivacion
+* Jefe / jefa de servicio de reagrup. familiares
+* Jefe / jefa de servicio de real observatorio astronómico de Madrid
+* Jefe / jefa de servicio de recaudación
+* Jefe / jefa de servicio de recaudación ejecutiva
+* Jefe / jefa de servicio de reclamaciones
+* Jefe / jefa de servicio de reclamaciones económicas
+* Jefe / jefa de servicio de reclamaciones verificación y control
+* Jefe / jefa de servicio de reclutamiento organismos internacionales
+* Jefe / jefa de servicio de recursos
+* Jefe / jefa de servicio de recursos administrativos
+* Jefe / jefa de servicio de recursos documentales y apoyo institucional
+* Jefe / jefa de servicio de recursos economicos
+* Jefe / jefa de servicio de recursos energeticos
+* Jefe / jefa de servicio de recursos financieros
+* Jefe / jefa de servicio de recursos hidricos
+* Jefe / jefa de servicio de recursos humanos
+* Jefe / jefa de servicio de recursos humanos y habilitación
+* Jefe / jefa de servicio de recursos humanos y servicios
+* Jefe / jefa de servicio de recursos juridicos
+* Jefe / jefa de servicio de recursos y contenciosos
+* Jefe / jefa de servicio de recursos y relaciones con los tribunales
+* Jefe / jefa de servicio de recursos zoogeneticos
+* Jefe / jefa de servicio de red alerta sanitaria veterinaria
+* Jefe / jefa de servicio de red cte
+* Jefe / jefa de servicio de red y comunicaciones
+* Jefe / jefa de servicio de redacción cartográfica
+* Jefe / jefa de servicio de redes de riego
+* Jefe / jefa de servicio de redes especiales y vigilancia atmosférica
+* Jefe / jefa de servicio de redes moviles
+* Jefe / jefa de servicio de regadios i
+* Jefe / jefa de servicio de registradores propiedad
+* Jefe / jefa de servicio de registro
+* Jefe / jefa de servicio de registro aguas y rec. hidraulicos
+* Jefe / jefa de servicio de registro cartográfico
+* Jefe / jefa de servicio de registro cit
+* Jefe / jefa de servicio de registro contratos y estadística
+* Jefe / jefa de servicio de registro de aguas y recur. hidraulicos
+* Jefe / jefa de servicio de registro de buques
+* Jefe / jefa de servicio de registro de entidades locales
+* Jefe / jefa de servicio de registro de formación permanente del profesorado
+* Jefe / jefa de servicio de registro especial (rebeca)
+* Jefe / jefa de servicio de registro general
+* Jefe / jefa de servicio de registro general e información
+* Jefe / jefa de servicio de registro partidos politicos
+* Jefe / jefa de servicio de registro ultimas voluntades
+* Jefe / jefa de servicio de registro y asociaciones deportivas
+* Jefe / jefa de servicio de registro y bases de datos
+* Jefe / jefa de servicio de registro y estad.pers.sanitario
+* Jefe / jefa de servicio de registro y publicaciones
+* Jefe / jefa de servicio de registro, sistema interno de información y asistencia al ciudadano
+* Jefe / jefa de servicio de registros aa.cc.
+* Jefe / jefa de servicio de registros sonoros
+* Jefe / jefa de servicio de reglamentación técnica
+* Jefe / jefa de servicio de rel. organismos y progr. i+d
+* Jefe / jefa de servicio de relaciones admon. de justicia
+* Jefe / jefa de servicio de relaciones admon. justicia
+* Jefe / jefa de servicio de relaciones bilaterales
+* Jefe / jefa de servicio de relaciones con admon. territoriales
+* Jefe / jefa de servicio de relaciones con cc.aa. y cc.ll.
+* Jefe / jefa de servicio de relaciones con el parlamento
+* Jefe / jefa de servicio de relaciones con entid. financ. ii
+* Jefe / jefa de servicio de relaciones con entidades financieras
+* Jefe / jefa de servicio de relaciones con la adm de justicia
+* Jefe / jefa de servicio de relaciones con organismos europeos
+* Jefe / jefa de servicio de relaciones con países europeos
+* Jefe / jefa de servicio de relaciones con tribunales
+* Jefe / jefa de servicio de relaciones con u.e.
+* Jefe / jefa de servicio de relaciones econ. asia y pacífico
+* Jefe / jefa de servicio de relaciones econ. áfrica y medio oriente
+* Jefe / jefa de servicio de relaciones econ.efta y países miembros
+* Jefe / jefa de servicio de relaciones econ.países Europa oriental
+* Jefe / jefa de servicio de relaciones económicas américa
+* Jefe / jefa de servicio de relaciones entes territoriales
+* Jefe / jefa de servicio de relaciones europeas
+* Jefe / jefa de servicio de relaciones externas
+* Jefe / jefa de servicio de relaciones externas y formación
+* Jefe / jefa de servicio de relaciones financieras
+* Jefe / jefa de servicio de relaciones institucionales
+* Jefe / jefa de servicio de relaciones institucionales y comunicación ciudadana
+* Jefe / jefa de servicio de relaciones institucionales y convenios
+* Jefe / jefa de servicio de relaciones interinstitucionales
+* Jefe / jefa de servicio de relaciones internacionales
+* Jefe / jefa de servicio de relaciones laborales
+* Jefe / jefa de servicio de relaciones laborales de admon. penit.
+* Jefe / jefa de servicio de relaciones multilaterales
+* Jefe / jefa de servicio de relaciones nacionales
+* Jefe / jefa de servicio de relaciones sindicales
+* Jefe / jefa de servicio de relaciones sociales internacionales
+* Jefe / jefa de servicio de relaciones socio-laborales
+* Jefe / jefa de servicio de relaciones unión europea
+* Jefe / jefa de servicio de renovación de la flota
+* Jefe / jefa de servicio de renta básica de emancipación
+* Jefe / jefa de servicio de repositorio s.n.s.
+* Jefe / jefa de servicio de reserva impresa
+* Jefe / jefa de servicio de retribuciones
+* Jefe / jefa de servicio de retribuciones - habilitado/a general
+* Jefe / jefa de servicio de retribuciones pers. funcionario
+* Jefe / jefa de servicio de retribuciones y habilit. personal
+* Jefe / jefa de servicio de retribuciones y habilitación
+* Jefe / jefa de servicio de retribuciones y habilitación de nominas
+* Jefe / jefa de servicio de retribuciones y plan pensiones
+* Jefe / jefa de servicio de retribuciones-habilitado
+* Jefe / jefa de servicio de riesgo nuclear y radiologico
+* Jefe / jefa de servicio de riesgos quimicos y biologicos
+* Jefe / jefa de servicio de riesgos sismicos y meteorologicos
+* Jefe / jefa de servicio de rpt y concursos
+* Jefe / jefa de servicio de régimen de admon. penit.
+* Jefe / jefa de servicio de régimen económico
+* Jefe / jefa de servicio de régimen económico de conciertos
+* Jefe / jefa de servicio de régimen económico y habilitación de admon. penit.
+* Jefe / jefa de servicio de régimen especial
+* Jefe / jefa de servicio de régimen interior
+* Jefe / jefa de servicio de régimen interior e instalaciones
+* Jefe / jefa de servicio de régimen interior y servicios generales
+* Jefe / jefa de servicio de régimen jurídico
+* Jefe / jefa de servicio de régimen jurídico coord.normat.pesq
+* Jefe / jefa de servicio de régimen jurídico de la propied
+* Jefe / jefa de servicio de régimen jurídico y coordinacio
+* Jefe / jefa de servicio de régimen jurídico y disciplinario de recursos humanos
+* Jefe / jefa de servicio de régimen jurídico y organos colegiados
+* Jefe / jefa de servicio de régimen legal
+* Jefe / jefa de servicio de régimen legal y patrimonio
+* Jefe / jefa de servicio de régimen sancionador
+* Jefe / jefa de servicio de régimen tarifas
+* Jefe / jefa de servicio de salas generales
+* Jefe / jefa de servicio de salud laboral de admon. penit.
+* Jefe / jefa de servicio de salud materno infantil
+* Jefe / jefa de servicio de sanidad animal
+* Jefe / jefa de servicio de sanidad exterior
+* Jefe / jefa de servicio de sanidad marit.y prestaciones sanit.
+* Jefe / jefa de servicio de secretaria
+* Jefe / jefa de servicio de seguim. plan acc. y apoyo cons. e.p.d.
+* Jefe / jefa de servicio de seguimiento
+* Jefe / jefa de servicio de seguimiento actuaciones
+* Jefe / jefa de servicio de seguimiento acuerdos
+* Jefe / jefa de servicio de seguimiento de la gestión
+* Jefe / jefa de servicio de seguimiento de programas de inversi
+* Jefe / jefa de servicio de seguimiento de proyectos
+* Jefe / jefa de servicio de seguimiento del presupuesto
+* Jefe / jefa de servicio de seguimiento económico de convenios
+* Jefe / jefa de servicio de seguimiento económico y presupuestario
+* Jefe / jefa de servicio de seguimiento económico- financiero
+* Jefe / jefa de servicio de seguimiento escuelas taller
+* Jefe / jefa de servicio de seguimiento fondos comunitarios
+* Jefe / jefa de servicio de seguimiento ongd
+* Jefe / jefa de servicio de seguimiento parques
+* Jefe / jefa de servicio de seguimiento presupuestario
+* Jefe / jefa de servicio de seguimiento presupuestario de comunidades autonomas
+* Jefe / jefa de servicio de seguimiento sectorial
+* Jefe / jefa de servicio de seguimiento y control de gastos exterior
+* Jefe / jefa de servicio de seguimiento y control económico-financiero
+* Jefe / jefa de servicio de seguimiento y coord. con otras admon
+* Jefe / jefa de servicio de seguimiento y evaluación
+* Jefe / jefa de servicio de seguridad
+* Jefe / jefa de servicio de seguridad aeroportuaria
+* Jefe / jefa de servicio de seguridad biológica p3
+* Jefe / jefa de servicio de seguridad de las comunicaciones p.g.
+* Jefe / jefa de servicio de seguridad de medicamentos
+* Jefe / jefa de servicio de seguridad de presas
+* Jefe / jefa de servicio de seguridad informática
+* Jefe / jefa de servicio de seguridad informática de admon. penit.
+* Jefe / jefa de servicio de seguridad social
+* Jefe / jefa de servicio de seguridad vial
+* Jefe / jefa de servicio de seguridad y planes de emergencia
+* Jefe / jefa de servicio de seguridad y tt. turisticas
+* Jefe / jefa de servicio de selección y concursos de admon. penit.
+* Jefe / jefa de servicio de selección y provisión de personal
+* Jefe / jefa de servicio de selección y reproducción ganadera
+* Jefe / jefa de servicio de servicios en autoprestaciones
+* Jefe / jefa de servicio de servicios informáticos
+* Jefe / jefa de servicio de servicios sociales
+* Jefe / jefa de servicio de sist.información geográfica agraria
+* Jefe / jefa de servicio de sistemas
+* Jefe / jefa de servicio de sistemas avanzados
+* Jefe / jefa de servicio de sistemas cartograficos
+* Jefe / jefa de servicio de sistemas comunicaciones
+* Jefe / jefa de servicio de sistemas de control
+* Jefe / jefa de servicio de sistemas de información
+* Jefe / jefa de servicio de sistemas de información geográfica
+* Jefe / jefa de servicio de sistemas de información y prestaciones
+* Jefe / jefa de servicio de sistemas e inspecciones tecnologicas de la competencia
+* Jefe / jefa de servicio de sistemas evaluación teórica
+* Jefe / jefa de servicio de sistemas inform. y estadísticas
+* Jefe / jefa de servicio de sistemas información y comunicaciones
+* Jefe / jefa de servicio de sistemas informáticos
+* Jefe / jefa de servicio de sistemas informáticos de admon. penit.
+* Jefe / jefa de servicio de sistemas telefonicos
+* Jefe / jefa de servicio de sistemas técnicos
+* Jefe / jefa de servicio de sistemas y comunicaciones
+* Jefe / jefa de servicio de sistemas y desarrollo informatico
+* Jefe / jefa de servicio de sistemas y explotación
+* Jefe / jefa de servicio de sondeos ii
+* Jefe / jefa de servicio de soporte red sísmica
+* Jefe / jefa de servicio de subsidiacion y subvención
+* Jefe / jefa de servicio de subsistema
+* Jefe / jefa de servicio de subvenc. ingresos y concesiones
+* Jefe / jefa de servicio de subvenciones
+* Jefe / jefa de servicio de subvenciones y ayuda
+* Jefe / jefa de servicio de suministros
+* Jefe / jefa de servicio de suministros medicamentos y p.s.
+* Jefe / jefa de servicio de suministros y adquisiciones
+* Jefe / jefa de servicio de suministros y asuntos generales
+* Jefe / jefa de servicio de supervision
+* Jefe / jefa de servicio de supervision de proyectos i
+* Jefe / jefa de servicio de supervision del juego
+* Jefe / jefa de servicio de supervision e inspección ais
+* Jefe / jefa de servicio de supervision e inspección ats
+* Jefe / jefa de servicio de supervision y normativa
+* Jefe / jefa de servicio de t. radioelectricos telefonicos y t.
+* Jefe / jefa de servicio de talleres cartograficos
+* Jefe / jefa de servicio de tecnología
+* Jefe / jefa de servicio de tecnología del terreno
+* Jefe / jefa de servicio de tecnología farmacéutica
+* Jefe / jefa de servicio de tecnologías de la información
+* Jefe / jefa de servicio de tecnologías medioambientales
+* Jefe / jefa de servicio de tecnologías químicas
+* Jefe / jefa de servicio de teledeteccion
+* Jefe / jefa de servicio de telefonía
+* Jefe / jefa de servicio de telematica
+* Jefe / jefa de servicio de teletipos
+* Jefe / jefa de servicio de termalismo
+* Jefe / jefa de servicio de tesorería
+* Jefe / jefa de servicio de tesorería de admon. penit.
+* Jefe / jefa de servicio de tesorería y retribuciones
+* Jefe / jefa de servicio de titulaciones nauticas recreo
+* Jefe / jefa de servicio de titulaciones profesionales
+* Jefe / jefa de servicio de toxicología alimentaria
+* Jefe / jefa de servicio de toxicología ambiental
+* Jefe / jefa de servicio de tramitación
+* Jefe / jefa de servicio de tramitación ayudas proyectos de empleo
+* Jefe / jefa de servicio de tramitación c. ministros
+* Jefe / jefa de servicio de tramitación congreso
+* Jefe / jefa de servicio de tramitación legislativa senado
+* Jefe / jefa de servicio de tramitación recursos
+* Jefe / jefa de servicio de tramitación solicitudes puntos venta recargo
+* Jefe / jefa de servicio de transporte marítimo
+* Jefe / jefa de servicio de transporte por carretera
+* Jefe / jefa de servicio de traslados de admon. penit.
+* Jefe / jefa de servicio de tratados bilaterales
+* Jefe / jefa de servicio de tratados multilaterales
+* Jefe / jefa de servicio de tratamiento administrativo fondos
+* Jefe / jefa de servicio de tratamiento económico administrativo
+* Jefe / jefa de servicio de tratamiento información
+* Jefe / jefa de servicio de tratamiento y permisos de admon. penit.
+* Jefe / jefa de servicio de tráfico centro comunica
+* Jefe / jefa de servicio de tuneles y seguridad vial
+* Jefe / jefa de servicio de técnica normativa
+* Jefe / jefa de servicio de técnicas de residuos
+* Jefe / jefa de servicio de técnicas hidrogeologicas
+* Jefe / jefa de servicio de técnicas industriales
+* Jefe / jefa de servicio de unidad central cajas pagadoras
+* Jefe / jefa de servicio de unidad central de caja
+* Jefe / jefa de servicio de unidad central de pagos
+* Jefe / jefa de servicio de unidad de enlace
+* Jefe / jefa de servicio de unidad de producción
+* Jefe / jefa de servicio de unidad de recaudación ejecutiva
+* Jefe / jefa de servicio de unidad técnica de admon. penit.
+* Jefe / jefa de servicio de uso racional del medicamento
+* Jefe / jefa de servicio de vacaciones
+* Jefe / jefa de servicio de valoraciones
+* Jefe / jefa de servicio de valoración e incremento patrimonio
+* Jefe / jefa de servicio de variabilidad y técnicas regionalizacion
+* Jefe / jefa de servicio de ventanilla única
+* Jefe / jefa de servicio de vertidos
+* Jefe / jefa de servicio de vertidos y lucha contra la contaminación
+* Jefe / jefa de servicio de vigilancia dominio público hidra.
+* Jefe / jefa de servicio de vigilancia epidemiologica
+* Jefe / jefa de servicio de virologia
+* Jefe / jefa de servicio de visados
+* Jefe / jefa de servicio de vitícola
+* Jefe / jefa de servicio de zona
+* Jefe / jefa de servicio de zona 4
+* Jefe / jefa de servicio de zonas regables
+* Jefe / jefa de servicio del centro de seguimiento de pesca
+* Jefe / jefa de servicio del depósito de publicaciones en línea
+* Jefe / jefa de servicio del medio natural
+* Jefe / jefa de servicio del saih
+* Jefe / jefa de servicio del área de comunicación
+* Jefe / jefa de servicio designación y supervision de organismo notificado
+* Jefe / jefa de servicio dirección técnica
+* Jefe / jefa de servicio directorios estadísticos agroaliment
+* Jefe / jefa de servicio domunentacion, biblioteca y archivo
+* Jefe / jefa de servicio dph zona occidental
+* Jefe / jefa de servicio económico
+* Jefe / jefa de servicio económico administrativo
+* Jefe / jefa de servicio económico de entidades tuteladas
+* Jefe / jefa de servicio económico de fundaciones
+* Jefe / jefa de servicio económico financiero
+* Jefe / jefa de servicio económico presupuestario
+* Jefe / jefa de servicio económico-administrativo
+* Jefe / jefa de servicio especial informática
+* Jefe / jefa de servicio estudios medioambientales
+* Jefe / jefa de servicio europass
+* Jefe / jefa de servicio evaluador especializado
+* Jefe / jefa de servicio explotación
+* Jefe / jefa de servicio feder
+* Jefe / jefa de servicio formación marítima
+* Jefe / jefa de servicio guipuzcoa y Navarra
+* Jefe / jefa de servicio habilitado
+* Jefe / jefa de servicio habilitado cajero pagador general
+* Jefe / jefa de servicio ict y registro de instaladores
+* Jefe / jefa de servicio informatico
+* Jefe / jefa de servicio informatico ii
+* Jefe / jefa de servicio investigación
+* Jefe / jefa de servicio investigador de accidentes marítimos
+* Jefe / jefa de servicio jurado expropiación forzosa
+* Jefe / jefa de servicio jurado provincial de expropiación
+* Jefe / jefa de servicio jurídico
+* Jefe / jefa de servicio jurídico entidades tuteladas
+* Jefe / jefa de servicio monitorizacion, supervision y control
+* Jefe / jefa de servicio médico
+* Jefe / jefa de servicio n26
+* Jefe / jefa de servicio n26 (u. grandes empresas)
+* Jefe / jefa de servicio nivel 26
+* Jefe / jefa de servicio oph
+* Jefe / jefa de servicio orense
+* Jefe / jefa de servicio organ. coord. y gestión
+* Jefe / jefa de servicio organismos europeos
+* Jefe / jefa de servicio organos colegiados
+* Jefe / jefa de servicio p.g.
+* Jefe / jefa de servicio para el plan de acción exterior y estrategias plurianuales
+* Jefe / jefa de servicio países Europa central
+* Jefe / jefa de servicio países caucasicos y asia central
+* Jefe / jefa de servicio periférico
+* Jefe / jefa de servicio prevención a
+* Jefe / jefa de servicio protección civil e instituciones publicas
+* Jefe / jefa de servicio provincial
+* Jefe / jefa de servicio proyectos y estructuras navales
+* Jefe / jefa de servicio proyectos y obras
+* Jefe / jefa de servicio retribuciones y seguridad social
+* Jefe / jefa de servicio s.a.i.h.
+* Jefe / jefa de servicio sectorial
+* Jefe / jefa de servicio sistemas informáticos
+* Jefe / jefa de servicio supervisor/supervisora de proyectos
+* Jefe / jefa de servicio territorial
+* Jefe / jefa de servicio técnico
+* Jefe / jefa de servicio técnico comisaria aguas
+* Jefe / jefa de servicio técnico de dt
+* Jefe / jefa de servicio técnico de impugnaciones
+* Jefe / jefa de servicio técnico de la oph
+* Jefe / jefa de servicio técnico sanit.programas especif.
+* Jefe / jefa de servicio técnico supervision proyectos
+* Jefe / jefa de servicio unidad de transparencia
+* Jefe / jefa de servicio vizcaya
+* Jefe / jefa de servicio áfrica norte
+* Jefe / jefa de servicios
+* Jefe / jefa de servicios cis
+* Jefe / jefa de servicios de explotación de sistemas informáticos
+* Jefe / jefa de servicios de información y control operativo
+* Jefe / jefa de servicios generales
+* Jefe / jefa de sistemas informáticos
+* Jefe / jefa de sistemas informáticos de admon. penit.
+* Jefe / jefa de subdivisión de coordinación y evaluación
+* Jefe / jefa de subdivisión de gestión de ayudas de fondos europeos
+* Jefe / jefa de subdivisión de gestión económica
+* Jefe / jefa de subdivisión de planificación y gestión administrativa
+* Jefe / jefa de subdivisión de programas científico-técnicos transversales, fortalecimiento y excelen
+* Jefe / jefa de subdivisión de programas tematicos científico-técnicos
+* Jefe / jefa de subdivisión de seguimiento y justificación de ayudas
+* Jefe / jefa de subunidad
+* Jefe / jefa de subunidad (otan)
+* Jefe / jefa de taller
+* Jefe / jefa de turno
+* Jefe / jefa de turno adjunto a jefe / jefa explotación
+* Jefe / jefa de turno explotación g-1
+* Jefe / jefa de turno explotación o planificación
+* Jefe / jefa de turno predicción g-1
+* Jefe / jefa de u.r.e
+* Jefe / jefa de u.r.e.
+* Jefe / jefa de unidad
+* Jefe / jefa de unidad a
+* Jefe / jefa de unidad admtva. gestión prestaciones
+* Jefe / jefa de unidad apoyo
+* Jefe / jefa de unidad apoyo auditoria a
+* Jefe / jefa de unidad apoyo contabilidad b
+* Jefe / jefa de unidad apoyo oficina supervision proyectos
+* Jefe / jefa de unidad apoyo técnico
+* Jefe / jefa de unidad b
+* Jefe / jefa de unidad b coordinador
+* Jefe / jefa de unidad c
+* Jefe / jefa de unidad c coordinador
+* Jefe / jefa de unidad catt
+* Jefe / jefa de unidad central de caja
+* Jefe / jefa de unidad contabilidad
+* Jefe / jefa de unidad contra la violencia sobre la mujer
+* Jefe / jefa de unidad coord., inform. e infraestructuras
+* Jefe / jefa de unidad coordinador
+* Jefe / jefa de unidad correspondencia oit
+* Jefe / jefa de unidad d
+* Jefe / jefa de unidad d coordinador
+* Jefe / jefa de unidad de apoyo
+* Jefe / jefa de unidad de asistencia técnica
+* Jefe / jefa de unidad de auxilio judicial
+* Jefe / jefa de unidad de calidad y planificación
+* Jefe / jefa de unidad de contabilidad
+* Jefe / jefa de unidad de control
+* Jefe / jefa de unidad de coordinación
+* Jefe / jefa de unidad de coordinación contra la violencia sobre la mujer
+* Jefe / jefa de unidad de estudios y desarrollos
+* Jefe / jefa de unidad de igualdad
+* Jefe / jefa de unidad de información meteorológica
+* Jefe / jefa de unidad de ingresos
+* Jefe / jefa de unidad de inspección
+* Jefe / jefa de unidad de intervención
+* Jefe / jefa de unidad de lucha contra el fraude
+* Jefe / jefa de unidad de mantenimiento
+* Jefe / jefa de unidad de medios aereos
+* Jefe / jefa de unidad de meteorología aeronáutica
+* Jefe / jefa de unidad de prevención y evaluación
+* Jefe / jefa de unidad de procedimientos
+* Jefe / jefa de unidad de programación operativa
+* Jefe / jefa de unidad de programas educativos
+* Jefe / jefa de unidad de revisión
+* Jefe / jefa de unidad de revisión documental
+* Jefe / jefa de unidad de servicios informáticos
+* Jefe / jefa de unidad de sistemas basicos
+* Jefe / jefa de unidad de tramitación
+* Jefe / jefa de unidad delegada
+* Jefe / jefa de unidad derivación responsabilidad y proyectos especificos
+* Jefe / jefa de unidad e
+* Jefe / jefa de unidad e coordinador
+* Jefe / jefa de unidad económico y financiera
+* Jefe / jefa de unidad equipamiento aeronáutico
+* Jefe / jefa de unidad espec. de insp. en materia de formación prof. para el empleo y otras areas
+* Jefe / jefa de unidad espec.seg.y salud lab.dir.esp. inspección
+* Jefe / jefa de unidad especial de colaboración y apoyo a la lucha contra el fraude
+* Jefe / jefa de unidad especializ.seg.soc.direcc.espec.inspec
+* Jefe / jefa de unidad especializada otras areas
+* Jefe / jefa de unidad especializada segur. y salud laboral
+* Jefe / jefa de unidad especializada seguridad social
+* Jefe / jefa de unidad estimación costes y precios
+* Jefe / jefa de unidad estudios meteorologicos del med
+* Jefe / jefa de unidad estudios técnicos y control
+* Jefe / jefa de unidad información tecnológica
+* Jefe / jefa de unidad informática
+* Jefe / jefa de unidad inspección ayudas económicas
+* Jefe / jefa de unidad inspección centralizada
+* Jefe / jefa de unidad inspección inspecciones
+* Jefe / jefa de unidad instrumentación y calibración
+* Jefe / jefa de unidad intervención
+* Jefe / jefa de unidad inv. y cooperación tecn.
+* Jefe / jefa de unidad nuevas tecnologías
+* Jefe / jefa de unidad operaciones
+* Jefe / jefa de unidad operaciones y centro proceso datos
+* Jefe / jefa de unidad operativa
+* Jefe / jefa de unidad personal subalterno
+* Jefe / jefa de unidad personal subalterno n14
+* Jefe / jefa de unidad procedimientos
+* Jefe / jefa de unidad procedimientos especiales
+* Jefe / jefa de unidad programación y control mantenimiento
+* Jefe / jefa de unidad protección civil
+* Jefe / jefa de unidad provincial de informática
+* Jefe / jefa de unidad proyecto i
+* Jefe / jefa de unidad proyecto indalo
+* Jefe / jefa de unidad recaudación ejecutiva estatal
+* Jefe / jefa de unidad recursos
+* Jefe / jefa de unidad relaciones institucionales
+* Jefe / jefa de unidad revisión documental
+* Jefe / jefa de unidad salud laboral
+* Jefe / jefa de unidad satelites
+* Jefe / jefa de unidad seguridad nuclear
+* Jefe / jefa de unidad suministros
+* Jefe / jefa de unidad teledeteccion terrestre
+* Jefe / jefa de unidad topologia de redes
+* Jefe / jefa de unidad tramitación
+* Jefe / jefa de unidad técnica
+* Jefe / jefa de unidad técnica de contratación
+* Jefe / jefa de unidad técnica de gestión catastral
+* Jefe / jefa de unidad técnica i
+* Jefe / jefa de unidad técnico-facultativa
+* Jefe / jefa de ure
+* Jefe / jefa de utilidad terapéutica
 * Jefe / jefa de área
 * Jefe / jefa de área a
 * Jefe / jefa de área calidad de las aguas
@@ -12778,11 +15880,11 @@ Listado de claves:
 * Jefe / jefa de área de acreditacion y laborat. ensayo y calib.
 * Jefe / jefa de área de actividades culturales
 * Jefe / jefa de área de actividades editoriales
-* Jefe / jefa de área de actuación operativa
 * Jefe / jefa de área de actuaciones administrativas
 * Jefe / jefa de área de actuaciones en zonas regables
 * Jefe / jefa de área de actuaciones hidrológico forestales
 * Jefe / jefa de área de actuaciones singulares en red, centros y fincas
+* Jefe / jefa de área de actuación operativa
 * Jefe / jefa de área de administración
 * Jefe / jefa de área de administración de personal
 * Jefe / jefa de área de administración e informática de admon. penit.
@@ -12795,10 +15897,10 @@ Listado de claves:
 * Jefe / jefa de área de administración y participación pública
 * Jefe / jefa de área de administración y presupuestos
 * Jefe / jefa de área de adquisiciones bienes y servicios inform.
-* Jefe / jefa de área de áfrica occidental
 * Jefe / jefa de área de agua y saneamiento
 * Jefe / jefa de área de américa del norte, asia y pacífico
 * Jefe / jefa de área de américa sur
+* Jefe / jefa de área de anuncios
 * Jefe / jefa de área de análisis consumo
 * Jefe / jefa de área de análisis control y evaluación
 * Jefe / jefa de área de análisis económico financiero
@@ -12814,7 +15916,6 @@ Listado de claves:
 * Jefe / jefa de área de análisis y programación
 * Jefe / jefa de área de análisis y prospectiva
 * Jefe / jefa de área de análisis, informac. formac.y document
-* Jefe / jefa de área de anuncios
 * Jefe / jefa de área de aplicaciones
 * Jefe / jefa de área de aplicaciones isotopicas
 * Jefe / jefa de área de aplicaciones y obras especiales
@@ -12836,8 +15937,8 @@ Listado de claves:
 * Jefe / jefa de área de asunto comunitario
 * Jefe / jefa de área de asuntos comunitarios
 * Jefe / jefa de área de asuntos desarme
-* Jefe / jefa de área de asuntos económico y financieros
 * Jefe / jefa de área de asuntos economicos y finanzas
+* Jefe / jefa de área de asuntos económico y financieros
 * Jefe / jefa de área de asuntos financieros de admon. penit.
 * Jefe / jefa de área de asuntos generales
 * Jefe / jefa de área de asuntos generales y gestión patrimonial
@@ -12884,8 +15985,8 @@ Listado de claves:
 * Jefe / jefa de área de cartografía informatizada
 * Jefe / jefa de área de cartografía temática atlas nal.
 * Jefe / jefa de área de casificacion empresas, consultoria y asistencia
-* Jefe / jefa de área de catálogo colectivo patrimonio bibliográfico
 * Jefe / jefa de área de catastro
+* Jefe / jefa de área de catálogo colectivo patrimonio bibliográfico
 * Jefe / jefa de área de cc.aa. y defensor del pueblo
 * Jefe / jefa de área de certificaciones
 * Jefe / jefa de área de ciberseguridad
@@ -12895,9 +15996,9 @@ Listado de claves:
 * Jefe / jefa de área de climatología y aplicaciones operativas
 * Jefe / jefa de área de colecciones
 * Jefe / jefa de área de comercializacion
-* Jefe / jefa de área de comunicación de riesgos alimentarios
 * Jefe / jefa de área de comunicaciones
 * Jefe / jefa de área de comunicaciones oficiales
+* Jefe / jefa de área de comunicación de riesgos alimentarios
 * Jefe / jefa de área de comunidades autonomas
 * Jefe / jefa de área de concesiones autorizaciones y tasas
 * Jefe / jefa de área de conciertos
@@ -13035,6 +16136,7 @@ Listado de claves:
 * Jefe / jefa de área de equipamiento y asuntos generales de admon. penit.
 * Jefe / jefa de área de escuelas taller
 * Jefe / jefa de área de estabilidad presupuestaria
+* Jefe / jefa de área de estado civil
 * Jefe / jefa de área de estadística agroalimentaria
 * Jefe / jefa de área de estadística de precios
 * Jefe / jefa de área de estadística e investigación
@@ -13043,7 +16145,6 @@ Listado de claves:
 * Jefe / jefa de área de estadísticas delegadas
 * Jefe / jefa de área de estadísticas energeticas
 * Jefe / jefa de área de estadísticas presupuestarias y entidades locales
-* Jefe / jefa de área de estado civil
 * Jefe / jefa de área de estrategia aeroportuaria
 * Jefe / jefa de área de estrategia navegación aérea
 * Jefe / jefa de área de estrategias adaptación
@@ -13091,12 +16192,12 @@ Listado de claves:
 * Jefe / jefa de área de examen signos distintivos i
 * Jefe / jefa de área de examen signos distintivos ii
 * Jefe / jefa de área de expedientes sancionadores
+* Jefe / jefa de área de explotaciones
 * Jefe / jefa de área de explotación
 * Jefe / jefa de área de explotación patrimonial
 * Jefe / jefa de área de explotación regadío tradicional
 * Jefe / jefa de área de explotación y gestión de datos
 * Jefe / jefa de área de explotación y sistemas
-* Jefe / jefa de área de explotaciones
 * Jefe / jefa de área de exportación
 * Jefe / jefa de área de exposiciones
 * Jefe / jefa de área de expropiaciones
@@ -13214,15 +16315,15 @@ Listado de claves:
 * Jefe / jefa de área de información y diseno
 * Jefe / jefa de área de información y documentación
 * Jefe / jefa de área de información y seguimiento
+* Jefe / jefa de área de informes
+* Jefe / jefa de área de informes sectoriales
+* Jefe / jefa de área de informes y asesoramiento jurídico
+* Jefe / jefa de área de informes y relaciones con las cc.aa.
 * Jefe / jefa de área de informática
 * Jefe / jefa de área de informática a
 * Jefe / jefa de área de informática b
 * Jefe / jefa de área de informática de desarrollo
 * Jefe / jefa de área de informática y comunicaciones
-* Jefe / jefa de área de informes
-* Jefe / jefa de área de informes sectoriales
-* Jefe / jefa de área de informes y asesoramiento jurídico
-* Jefe / jefa de área de informes y relaciones con las cc.aa.
 * Jefe / jefa de área de infraestr.informac. geográfica
 * Jefe / jefa de área de infraestructura
 * Jefe / jefa de área de infraestructura tecnológica
@@ -13274,9 +16375,9 @@ Listado de claves:
 * Jefe / jefa de área de la unidad de inteligencia económica
 * Jefe / jefa de área de laboratorio
 * Jefe / jefa de área de laboratorios y servicios
+* Jefe / jefa de área de legislaciones comparadas
 * Jefe / jefa de área de legislación e informes
 * Jefe / jefa de área de legislación y política de pymes
-* Jefe / jefa de área de legislaciones comparadas
 * Jefe / jefa de área de mantenimiento instalaciones
 * Jefe / jefa de área de mantenimiento y obras
 * Jefe / jefa de área de materiales
@@ -13464,14 +16565,6 @@ Listado de claves:
 * Jefe / jefa de área de recursos signos distintivos
 * Jefe / jefa de área de red
 * Jefe / jefa de área de red de centros en el exterior
-* Jefe / jefa de área de régimen de admon. penit.
-* Jefe / jefa de área de régimen de usuarios
-* Jefe / jefa de área de régimen económico personal
-* Jefe / jefa de área de régimen interior e instalaciones
-* Jefe / jefa de área de régimen jurídico
-* Jefe / jefa de área de régimen jurídico y financiero
-* Jefe / jefa de área de régimen jurídico y patrimonio
-* Jefe / jefa de área de régimen usuarios
 * Jefe / jefa de área de registro central de buques
 * Jefe / jefa de área de registro cit
 * Jefe / jefa de área de registro de bienes culturales
@@ -13488,9 +16581,9 @@ Listado de claves:
 * Jefe / jefa de área de relaciones con unión europea
 * Jefe / jefa de área de relaciones contractuales
 * Jefe / jefa de área de relaciones de medios de comunicación
-* Jefe / jefa de área de relaciones econ. áfrica y medio oriente
 * Jefe / jefa de área de relaciones econ. asia y pacífico
 * Jefe / jefa de área de relaciones econ. países europeos
+* Jefe / jefa de área de relaciones econ. áfrica y medio oriente
 * Jefe / jefa de área de relaciones exteriores
 * Jefe / jefa de área de relaciones informativas
 * Jefe / jefa de área de relaciones institucio.europeas
@@ -13510,6 +16603,14 @@ Listado de claves:
 * Jefe / jefa de área de riesgos geologicos
 * Jefe / jefa de área de riesgos naturales
 * Jefe / jefa de área de riesgos tecnologicos
+* Jefe / jefa de área de régimen de admon. penit.
+* Jefe / jefa de área de régimen de usuarios
+* Jefe / jefa de área de régimen económico personal
+* Jefe / jefa de área de régimen interior e instalaciones
+* Jefe / jefa de área de régimen jurídico
+* Jefe / jefa de área de régimen jurídico y financiero
+* Jefe / jefa de área de régimen jurídico y patrimonio
+* Jefe / jefa de área de régimen usuarios
 * Jefe / jefa de área de salud
 * Jefe / jefa de área de salud internacional
 * Jefe / jefa de área de salud laboral
@@ -13585,13 +16686,13 @@ Listado de claves:
 * Jefe / jefa de área de titulaciones
 * Jefe / jefa de área de toxicología ambiental
 * Jefe / jefa de área de traducción
-* Jefe / jefa de área de tráfico y seguridad navegación
-* Jefe / jefa de área de tráfico y seguridad vial
 * Jefe / jefa de área de tramitación
 * Jefe / jefa de área de transporte y distribución
 * Jefe / jefa de área de tratamiento de admon. penit.
 * Jefe / jefa de área de tratamiento de aguas
 * Jefe / jefa de área de tratamiento de datos de la unidad de inteligencia económica
+* Jefe / jefa de área de tráfico y seguridad navegación
+* Jefe / jefa de área de tráfico y seguridad vial
 * Jefe / jefa de área de unidad central de pagos y económico financiera
 * Jefe / jefa de área de unidad ctral.y mantenimiento de aplicac.
 * Jefe / jefa de área de unidad de subvenciones
@@ -13605,6 +16706,7 @@ Listado de claves:
 * Jefe / jefa de área de zona i
 * Jefe / jefa de área de zona ii
 * Jefe / jefa de área de zona iii
+* Jefe / jefa de área de áfrica occidental
 * Jefe / jefa de área director de oficina a cañiza
 * Jefe / jefa de área director de oficina a estrada
 * Jefe / jefa de área director de oficina aguilar de campoo
@@ -13737,6 +16839,8 @@ Listado de claves:
 * Jefe / jefa de área director de oficina puebla de sanabria
 * Jefe / jefa de área director de oficina puebla de trives
 * Jefe / jefa de área director de oficina quintanar de la orden
+* Jefe / jefa de área director de oficina ratel Ceuta
+* Jefe / jefa de área director de oficina ratel Melilla
 * Jefe / jefa de área director de oficina ratel albacete
 * Jefe / jefa de área director de oficina ratel alicante
 * Jefe / jefa de área director de oficina ratel almeria
@@ -13745,10 +16849,9 @@ Listado de claves:
 * Jefe / jefa de área director de oficina ratel caceres
 * Jefe / jefa de área director de oficina ratel cadiz
 * Jefe / jefa de área director de oficina ratel castellon
-* Jefe / jefa de área director de oficina ratel Ceuta
 * Jefe / jefa de área director de oficina ratel ciudad real
-* Jefe / jefa de área director de oficina ratel córdoba
 * Jefe / jefa de área director de oficina ratel cuenca
+* Jefe / jefa de área director de oficina ratel córdoba
 * Jefe / jefa de área director de oficina ratel girona
 * Jefe / jefa de área director de oficina ratel granada
 * Jefe / jefa de área director de oficina ratel guadalajara
@@ -13759,7 +16862,6 @@ Listado de claves:
 * Jefe / jefa de área director de oficina ratel lleida
 * Jefe / jefa de área director de oficina ratel lugo
 * Jefe / jefa de área director de oficina ratel málaga
-* Jefe / jefa de área director de oficina ratel Melilla
 * Jefe / jefa de área director de oficina ratel ourense
 * Jefe / jefa de área director de oficina ratel palencia
 * Jefe / jefa de área director de oficina ratel pontevedra
@@ -13857,16 +16959,17 @@ Listado de claves:
 * Jefe / jefa de área países comunitarios
 * Jefe / jefa de área pesquerias
 * Jefe / jefa de área política comunitaria
-* Jefe / jefa de área política exterior áfrica norte
 * Jefe / jefa de área política exterior medio oriente
+* Jefe / jefa de área política exterior áfrica norte
 * Jefe / jefa de área proyectos y obras
-* Jefe / jefa de área régimen usuarios
 * Jefe / jefa de área regional de coordinación de p.c
 * Jefe / jefa de área regional de coordinación de p.c.
 * Jefe / jefa de área regional de coordinación de procesos catastrales
 * Jefe / jefa de área regional de inspección
 * Jefe / jefa de área responsable de infraestructuras del cpd
 * Jefe / jefa de área rusia y oriente europeo
+* Jefe / jefa de área régimen usuarios
+* Jefe / jefa de área tic
 * Jefe / jefa de área técnica
 * Jefe / jefa de área técnica de estudios
 * Jefe / jefa de área técnica estudios
@@ -13874,3109 +16977,7 @@ Listado de claves:
 * Jefe / jefa de área técnica y de coordinación
 * Jefe / jefa de área técnicas y aplicaciones predicción
 * Jefe / jefa de área técnico
-* Jefe / jefa de área tic
 * Jefe / jefa de área zona iv
-* Jefe / jefa de asesoría de fondos de financiacion de las ee.ll.
-* Jefe / jefa de asesoría jurídica central
-* Jefe / jefa de asesoría presupuestaria de cc.aa
-* Jefe / jefa de concesiones y autorizaciones
-* Jefe / jefa de coordinación de exposiciones
-* Jefe / jefa de coordinación de informática
-* Jefe / jefa de coordinación de los servicios de prevención
-* Jefe / jefa de coordinación de los servicios de prevención de admon. penit.
-* Jefe / jefa de demarcación
-* Jefe / jefa de departamento
-* Jefe / jefa de departamento de análisis
-* Jefe / jefa de departamento de antiguedades egipcias y próximo oriente
-* Jefe / jefa de departamento de antiguedades griegas y romana
-* Jefe / jefa de departamento de antiguedades medievales
-* Jefe / jefa de departamento de biblioteca
-* Jefe / jefa de departamento de biblioteca y centro documentación
-* Jefe / jefa de departamento de conservación
-* Jefe / jefa de departamento de coordinación delegaciones territoriales
-* Jefe / jefa de departamento de coordinación y normalización
-* Jefe / jefa de departamento de coordinación y planificación
-* Jefe / jefa de departamento de desarrollo y aplicaciones
-* Jefe / jefa de departamento de descripción
-* Jefe / jefa de departamento de descripción y conservación
-* Jefe / jefa de departamento de difusión
-* Jefe / jefa de departamento de edad moderna
-* Jefe / jefa de departamento de estudios aeronauticos y reglamentación de servidumbres aeronauticas
-* Jefe / jefa de departamento de estudios y planificación
-* Jefe / jefa de departamento de infraestructura y sistemas
-* Jefe / jefa de departamento de integración fondos historicos
-* Jefe / jefa de departamento de laboratorio
-* Jefe / jefa de departamento de numismática y medalli
-* Jefe / jefa de departamento de prehistoria
-* Jefe / jefa de departamento de producción
-* Jefe / jefa de departamento de programas de defensa
-* Jefe / jefa de departamento de protohistoria y colonizaciones
-* Jefe / jefa de departamento de referencias
-* Jefe / jefa de departamento de registro obras de arte
-* Jefe / jefa de departamento de seguridad y certificación
-* Jefe / jefa de departamento de servicios de información
-* Jefe / jefa de departamento técnico
-* Jefe / jefa de departamento técnico de conservación
-* Jefe / jefa de departamento técnico de documentación
-* Jefe / jefa de dependencia
-* Jefe / jefa de dependencia informática
-* Jefe / jefa de dependencia local
-* Jefe / jefa de dependencia provincial
-* Jefe / jefa de distrito
-* Jefe / jefa de división
-* Jefe / jefa de división de asesoría e informes
-* Jefe / jefa de división de asuntos juridicos
-* Jefe / jefa de división de certificación
-* Jefe / jefa de división de control de seguridad operacional en vuelo
-* Jefe / jefa de división de control financiero permanente
-* Jefe / jefa de división de coordinación, evaluación y seguimiento científico y técnico
-* Jefe / jefa de división de electrónica y aceleradores
-* Jefe / jefa de división de energias renovables
-* Jefe / jefa de división de física de altas energias
-* Jefe / jefa de división de gestión de residuos
-* Jefe / jefa de división de infraestructuras
-* Jefe / jefa de división de materiales estructurales
-* Jefe / jefa de división de medio ambiente radiologico
-* Jefe / jefa de división de programación y gestión económica y administrativa
-* Jefe / jefa de división de tecnologías información
-* Jefe / jefa de equipo
-* Jefe / jefa de equipo atención e información
-* Jefe / jefa de equipo atención e información al ciudadano
-* Jefe / jefa de equipo de aplicaciones
-* Jefe / jefa de equipo de atención al ciudadano
-* Jefe / jefa de equipo de evaluación de proyectos
-* Jefe / jefa de equipo de información
-* Jefe / jefa de equipo de inspección de telecomunicaciones a
-* Jefe / jefa de equipo de inspección de telecomunicaciones b
-* Jefe / jefa de equipo de la unidad de lucha contra la discriminación
-* Jefe / jefa de equipo de taller
-* Jefe / jefa de equipo ensayos
-* Jefe / jefa de equipo información
-* Jefe / jefa de equipo inspección
-* Jefe / jefa de equipo n14
-* Jefe / jefa de equipo n15
-* Jefe / jefa de equipo n18
-* Jefe / jefa de equipo red alerta sanitaria veterinaria
-* Jefe / jefa de estación ensayos semillas y plantas vivero
-* Jefe / jefa de estación mediciones radioeléctricas
-* Jefe / jefa de estudios
-* Jefe / jefa de estudios área ingresos
-* Jefe / jefa de estudios de postgrado en salud laboral
-* Jefe / jefa de estudios de relaciones internacionales
-* Jefe / jefa de estudios enseñanzas especiales
-* Jefe / jefa de estudios formación
-* Jefe / jefa de estudios investigación
-* Jefe / jefa de estudios perfeccionamiento
-* Jefe / jefa de experiencias operativas
-* Jefe / jefa de explot. centro gestión tráfico
-* Jefe / jefa de explotación
-* Jefe / jefa de explotación g-1
-* Jefe / jefa de explotación o planificación
-* Jefe / jefa de gabinete
-* Jefe / jefa de gabinete de arquitectura
-* Jefe / jefa de gabinete de director
-* Jefe / jefa de gabinete de director adjunto
-* Jefe / jefa de gabinete de director de cis
-* Jefe / jefa de gabinete indizacion
-* Jefe / jefa de gabinete información bibliográfica
-* Jefe / jefa de gabinete jurídico agencia de protec. datos
-* Jefe / jefa de gabinete técnico
-* Jefe / jefa de gabinete telegráfico
-* Jefe / jefa de gabinete telegráfico de admon. penit.
-* Jefe / jefa de grupo
-* Jefe / jefa de grupo de inspección de servicios
-* Jefe / jefa de grupo de predicción y vigilancia
-* Jefe / jefa de grupo formación ocupacional
-* Jefe / jefa de grupo n18
-* Jefe / jefa de grupo n20
-* Jefe / jefa de grupo prestaciones
-* Jefe / jefa de habilitación de personal
-* Jefe / jefa de habilitación y pagaduría
-* Jefe / jefa de informática política tributaria
-* Jefe / jefa de infraestructura
-* Jefe / jefa de inspección - jefe / jefa de unidad especializada seguridad social
-* Jefe / jefa de inspección de servicios
-* Jefe / jefa de inspección de telecomunicaciones a
-* Jefe / jefa de inspección de telecomunicaciones b
-* Jefe / jefa de inspección provincial de trabajo y seguridad social
-* Jefe / jefa de inspección provincial de trabajo y seguridad social y unidad espec.s.s.
-* Jefe / jefa de inspección territorial
-* Jefe / jefa de investigación y desarrollo sistemas información geocientifica
-* Jefe / jefa de la inspección operativa
-* Jefe / jefa de la oficina
-* Jefe / jefa de la secretaria de despacho
-* Jefe / jefa de la secretaria del cisns
-* Jefe / jefa de la unidad
-* Jefe / jefa de la unidad de protocolo de la p.g.
-* Jefe / jefa de la unidad de seguridad
-* Jefe / jefa de la unidad operativa
-* Jefe / jefa de la unidad protocolo y ceremon. del estado
-* Jefe / jefa de laboratorio
-* Jefe / jefa de laboratorio calibración
-* Jefe / jefa de laboratorio control de calidad
-* Jefe / jefa de laboratorio metrologico
-* Jefe / jefa de laboratorio técnico de investigación de accidentes
-* Jefe / jefa de mantenimiento
-* Jefe / jefa de negociado
-* Jefe / jefa de negociado (coor.doc.reserv.)
-* Jefe / jefa de negociado (coord. doc. otan)
-* Jefe / jefa de negociado (getafe)
-* Jefe / jefa de negociado (oficina delegada)
-* Jefe / jefa de negociado (otan)
-* Jefe / jefa de negociado (registro auxiliar)
-* Jefe / jefa de negociado (registro general)
-* Jefe / jefa de negociado (san fernando)
-* Jefe / jefa de negociado (telde)
-* Jefe / jefa de negociado (trubia)
-* Jefe / jefa de negociado (u. grandes empresas)
-* Jefe / jefa de negociado 1
-* Jefe / jefa de negociado 1 red local
-* Jefe / jefa de negociado 2 red local
-* Jefe / jefa de negociado 2 red local (c.s.)
-* Jefe / jefa de negociado actos
-* Jefe / jefa de negociado actualizacion información
-* Jefe / jefa de negociado administrador de oficina
-* Jefe / jefa de negociado administrador oficina
-* Jefe / jefa de negociado asesoramiento al público
-* Jefe / jefa de negociado caja
-* Jefe / jefa de negociado ceremonial
-* Jefe / jefa de negociado de administración
-* Jefe / jefa de negociado de administración general crf
-* Jefe / jefa de negociado de admon. penit.
-* Jefe / jefa de negociado de almacén
-* Jefe / jefa de negociado de almacén e inventario
-* Jefe / jefa de negociado de almacén y suministros de admon. penit.
-* Jefe / jefa de negociado de apoyo
-* Jefe / jefa de negociado de apoyo al consejo asesor de sanidad
-* Jefe / jefa de negociado de apoyo cir
-* Jefe / jefa de negociado de apoyo cursos
-* Jefe / jefa de negociado de apoyo de la comisión interministerial de retribuciones
-* Jefe / jefa de negociado de apoyo documental
-* Jefe / jefa de negociado de apoyo documental (disco óptico)
-* Jefe / jefa de negociado de apoyo documental e informatico
-* Jefe / jefa de negociado de apoyo internacional
-* Jefe / jefa de negociado de apoyo n16
-* Jefe / jefa de negociado de apoyo n18
-* Jefe / jefa de negociado de apoyo n18 consejo gral. ISM
-* Jefe / jefa de negociado de apoyo n18 dirección general
-* Jefe / jefa de negociado de archivo
-* Jefe / jefa de negociado de archivo n16
-* Jefe / jefa de negociado de archivo y documentación
-* Jefe / jefa de negociado de archivo y registro general
-* Jefe / jefa de negociado de área jurídica
-* Jefe / jefa de negociado de asuntos generales
-* Jefe / jefa de negociado de atención al público
-* Jefe / jefa de negociado de atención al público en legaliza.
-* Jefe / jefa de negociado de atención al público en legalizaciones
-* Jefe / jefa de negociado de atención al público n15
-* Jefe / jefa de negociado de atención al público n16
-* Jefe / jefa de negociado de base de datos
-* Jefe / jefa de negociado de becas n18
-* Jefe / jefa de negociado de biblioteca
-* Jefe / jefa de negociado de caja
-* Jefe / jefa de negociado de caja - habilitación
-* Jefe / jefa de negociado de caja de admon. penit.
-* Jefe / jefa de negociado de caja fija
-* Jefe / jefa de negociado de caja habilitación
-* Jefe / jefa de negociado de calidad
-* Jefe / jefa de negociado de centro nacional de desarrollo curricular
-* Jefe / jefa de negociado de certificaciones
-* Jefe / jefa de negociado de claves mecanicas
-* Jefe / jefa de negociado de comunicación ciudadana
-* Jefe / jefa de negociado de conferencias
-* Jefe / jefa de negociado de consejo de ministros
-* Jefe / jefa de negociado de contabilidad
-* Jefe / jefa de negociado de contratación
-* Jefe / jefa de negociado de control
-* Jefe / jefa de negociado de cooperación
-* Jefe / jefa de negociado de coord. administrativa
-* Jefe / jefa de negociado de coordinación n16
-* Jefe / jefa de negociado de coordinación n18
-* Jefe / jefa de negociado de cursos para iberoamerica
-* Jefe / jefa de negociado de delineación y cartografía
-* Jefe / jefa de negociado de delineación y cartografía informatizada n17
-* Jefe / jefa de negociado de delineación y cartografía informatizada n18
-* Jefe / jefa de negociado de delineación y cartografía n17
-* Jefe / jefa de negociado de departamento de reprografia
-* Jefe / jefa de negociado de derechos y libertades
-* Jefe / jefa de negociado de distribución
-* Jefe / jefa de negociado de distribución n18
-* Jefe / jefa de negociado de documentación
-* Jefe / jefa de negociado de documentación parlamentaria
-* Jefe / jefa de negociado de documentación y archivo
-* Jefe / jefa de negociado de edición documental
-* Jefe / jefa de negociado de edición documental y publicaciones electronicas
-* Jefe / jefa de negociado de empleo
-* Jefe / jefa de negociado de equipamiento e inventario
-* Jefe / jefa de negociado de equipo técnico central de observación de admon. penit.
-* Jefe / jefa de negociado de estadística
-* Jefe / jefa de negociado de estadística n18
-* Jefe / jefa de negociado de estudio y análisis
-* Jefe / jefa de negociado de expedientes
-* Jefe / jefa de negociado de extranjería
-* Jefe / jefa de negociado de gestión datos control dopaje
-* Jefe / jefa de negociado de gestión de contenidos de la administración del estado
-* Jefe / jefa de negociado de gestión de personal de admon. penit.
-* Jefe / jefa de negociado de gestión de servicios de admon. penit.
-* Jefe / jefa de negociado de gestión económica
-* Jefe / jefa de negociado de gestión n18
-* Jefe / jefa de negociado de gestión penitenciaria de admon. penit.
-* Jefe / jefa de negociado de habilitación
-* Jefe / jefa de negociado de habilitación central
-* Jefe / jefa de negociado de habilitación de personal
-* Jefe / jefa de negociado de habilitación y pagaduría
-* Jefe / jefa de negociado de habilitación y pagaduría n18
-* Jefe / jefa de negociado de habilitación y pagaduría suplente
-* Jefe / jefa de negociado de habilitado
-* Jefe / jefa de negociado de inform.económico-financiera
-* Jefe / jefa de negociado de información
-* Jefe / jefa de negociado de información al público
-* Jefe / jefa de negociado de información al público n18
-* Jefe / jefa de negociado de información meteorológica
-* Jefe / jefa de negociado de información n16
-* Jefe / jefa de negociado de información n17
-* Jefe / jefa de negociado de información n18
-* Jefe / jefa de negociado de información pública
-* Jefe / jefa de negociado de información visitas y reservas
-* Jefe / jefa de negociado de información y atención público
-* Jefe / jefa de negociado de información y registro
-* Jefe / jefa de negociado de información y registro de admon. penit.
-* Jefe / jefa de negociado de inspección
-* Jefe / jefa de negociado de instrucciones
-* Jefe / jefa de negociado de intervención
-* Jefe / jefa de negociado de intervención n16
-* Jefe / jefa de negociado de intervención n17
-* Jefe / jefa de negociado de intervención n18
-* Jefe / jefa de negociado de inventario
-* Jefe / jefa de negociado de laboratorio control dopaje n16
-* Jefe / jefa de negociado de mecanizacion
-* Jefe / jefa de negociado de mecanizacion propuestas
-* Jefe / jefa de negociado de nominas
-* Jefe / jefa de negociado de nominas seguros sociales y habilitación
-* Jefe / jefa de negociado de oficina de información
-* Jefe / jefa de negociado de oficina de información al mutualista
-* Jefe / jefa de negociado de oficina delegada (rcp)
-* Jefe / jefa de negociado de oficina internacional
-* Jefe / jefa de negociado de pagos
-* Jefe / jefa de negociado de pasapor. y documen. viaje
-* Jefe / jefa de negociado de pasaportes
-* Jefe / jefa de negociado de patrimonio
-* Jefe / jefa de negociado de personal
-* Jefe / jefa de negociado de prensa
-* Jefe / jefa de negociado de prestaciones
-* Jefe / jefa de negociado de prestaciones n16
-* Jefe / jefa de negociado de prestaciones n18
-* Jefe / jefa de negociado de producción
-* Jefe / jefa de negociado de protocolo
-* Jefe / jefa de negociado de protocolo n18 p.g.
-* Jefe / jefa de negociado de publicaciones
-* Jefe / jefa de negociado de publicaciones electronicas
-* Jefe / jefa de negociado de reclamaciones
-* Jefe / jefa de negociado de reg. e información
-* Jefe / jefa de negociado de registro
-* Jefe / jefa de negociado de registro de ordenación de diarios
-* Jefe / jefa de negociado de registro e información
-* Jefe / jefa de negociado de registro general
-* Jefe / jefa de negociado de registro n15
-* Jefe / jefa de negociado de registro n18
-* Jefe / jefa de negociado de registro y reclamaciones
-* Jefe / jefa de negociado de relaciones internacionales
-* Jefe / jefa de negociado de relaciones tribunales
-* Jefe / jefa de negociado de reprografia
-* Jefe / jefa de negociado de responsabilidad patrimonial
-* Jefe / jefa de negociado de retribuciones
-* Jefe / jefa de negociado de seguimiento legislativo
-* Jefe / jefa de negociado de seguridad social
-* Jefe / jefa de negociado de sobrevuelos y escalas
-* Jefe / jefa de negociado de tabulacion de encuestas
-* Jefe / jefa de negociado de teletipos
-* Jefe / jefa de negociado de titulos
-* Jefe / jefa de negociado de tramitación
-* Jefe / jefa de negociado de tramitación parlamentaria
-* Jefe / jefa de negociado de tramitación y apoyo administrativo
-* Jefe / jefa de negociado de traslados
-* Jefe / jefa de negociado de unidad de producción
-* Jefe / jefa de negociado de valijas
-* Jefe / jefa de negociado de valijas extraordinarias
-* Jefe / jefa de negociado de ventas y atención al público
-* Jefe / jefa de negociado de visados
-* Jefe / jefa de negociado de visados n18
-* Jefe / jefa de negociado del gis
-* Jefe / jefa de negociado documentación
-* Jefe / jefa de negociado habilitación
-* Jefe / jefa de negociado habilitado-cajero pagador suplente
-* Jefe / jefa de negociado habilitado-personal
-* Jefe / jefa de negociado intervención
-* Jefe / jefa de negociado mesa contratación
-* Jefe / jefa de negociado multimedia
-* Jefe / jefa de negociado n14
-* Jefe / jefa de negociado n15
-* Jefe / jefa de negociado n16
-* Jefe / jefa de negociado n16 (u. grandes empresas)
-* Jefe / jefa de negociado n17
-* Jefe / jefa de negociado n18
-* Jefe / jefa de negociado n18 (u. grandes empresas)
-* Jefe / jefa de negociado n18 p.g.
-* Jefe / jefa de negociado observatorio
-* Jefe / jefa de negociado oficina de información y registro
-* Jefe / jefa de negociado síndrome tóxico
-* Jefe / jefa de negociado técnico
-* Jefe / jefa de negociado tipo 1
-* Jefe / jefa de negociado tipo 2
-* Jefe / jefa de negociado tipo 5
-* Jefe / jefa de negociado tipo i
-* Jefe / jefa de negociado tipo i (c.s.)
-* Jefe / jefa de negociado tipo ii
-* Jefe / jefa de negociado tipo vi
-* Jefe / jefa de negociado tipo5
-* Jefe / jefa de negociado unidad de producción
-* Jefe / jefa de observación c.r.n. g-4
-* Jefe / jefa de oficina
-* Jefe / jefa de oficina de apoyo cis
-* Jefe / jefa de oficina de área mixta
-* Jefe / jefa de oficina de área mixta dos
-* Jefe / jefa de oficina de cis
-* Jefe / jefa de oficina de extranjería
-* Jefe / jefa de oficina de información administrativa
-* Jefe / jefa de oficina de pesca
-* Jefe / jefa de oficina de planificación hidrológica
-* Jefe / jefa de oficina de sanidad animal y vegetal
-* Jefe / jefa de oficina de sanidad vegetal
-* Jefe / jefa de oficina de supervision de proyectos
-* Jefe / jefa de oficina del partícipe
-* Jefe / jefa de oficina delegada
-* Jefe / jefa de oficina delegada especializada
-* Jefe / jefa de oficina delegada técnica
-* Jefe / jefa de oficina enlace
-* Jefe / jefa de oficina estatal de lucha contra la discriminación
-* Jefe / jefa de oficina local
-* Jefe / jefa de oficina planificación
-* Jefe / jefa de oficina planificación hidrológica
-* Jefe / jefa de oficina prensa
-* Jefe / jefa de oficina proyectos
-* Jefe / jefa de oficina seguridad industrial
-* Jefe / jefa de oficina supervision de proyectos
-* Jefe / jefa de oficina técnica y de supervision de proyec
-* Jefe / jefa de oficina tráfico
-* Jefe / jefa de oficinas
-* Jefe / jefa de parque móvil
-* Jefe / jefa de planificación
-* Jefe / jefa de procedimientos concursales
-* Jefe / jefa de programa de expedientes sancionadores
-* Jefe / jefa de programa vag
-* Jefe / jefa de programas seguimiento plan nacional i+d
-* Jefe / jefa de proyecto
-* Jefe / jefa de proyecto - jefe / jefa de servicio de informática
-* Jefe / jefa de proyecto - jefe / jefa de servicio de servicios informáticos
-* Jefe / jefa de proyecto - jefe / jefa de servicio de sistemas informáticos
-* Jefe / jefa de proyecto instalaciones del ciclo y desmantelamiento
-* Jefe / jefa de proyecto servicio sistemas y comunicaciones
-* Jefe / jefa de proyecto sistemas informáticos
-* Jefe / jefa de proyectos - jefe / jefa de servicio de sistemas informáticos
-* Jefe / jefa de proyectos de administración electrónica
-* Jefe / jefa de proyectos informáticos
-* Jefe / jefa de proyectos sistemas informáticos
-* Jefe / jefa de proyectos sistemas informáticos n26
-* Jefe / jefa de proyectos técnicos
-* Jefe / jefa de proyectos técnicos n26
-* Jefe / jefa de red informática periférica
-* Jefe / jefa de red periférica
-* Jefe / jefa de registro
-* Jefe / jefa de registro general
-* Jefe / jefa de registro y archivo
-* Jefe / jefa de relaciones externas y actividades comerciales
-* Jefe / jefa de residencias
-* Jefe / jefa de sala
-* Jefe / jefa de sala cisa
-* Jefe / jefa de sala datos
-* Jefe / jefa de salud pública
-* Jefe / jefa de sección
-* Jefe / jefa de sección (hcm)
-* Jefe / jefa de sección (oficina delegada)
-* Jefe / jefa de sección (otan)
-* Jefe / jefa de sección a
-* Jefe / jefa de sección adjunto de registro general
-* Jefe / jefa de sección administrador de oficina
-* Jefe / jefa de sección administrativa
-* Jefe / jefa de sección administrativa cir
-* Jefe / jefa de sección administrativa de certificación y control
-* Jefe / jefa de sección administrativa de la comisión interministerial de retribuciones
-* Jefe / jefa de sección agronom.
-* Jefe / jefa de sección apoyo logistico
-* Jefe / jefa de sección apoyo técnico
-* Jefe / jefa de sección apoyo técnico informes
-* Jefe / jefa de sección autoridades
-* Jefe / jefa de sección autoridades materias
-* Jefe / jefa de sección b
-* Jefe / jefa de sección c
-* Jefe / jefa de sección caja/habilitación
-* Jefe / jefa de sección centro de comunicaciones
-* Jefe / jefa de sección consejo de ministros
-* Jefe / jefa de sección coordinador especialista de formación vial
-* Jefe / jefa de sección d
-* Jefe / jefa de sección de a
-* Jefe / jefa de sección de acción educativa en el exterior
-* Jefe / jefa de sección de acción exterior
-* Jefe / jefa de sección de acción social
-* Jefe / jefa de sección de acción social de admon. penit.
-* Jefe / jefa de sección de acciones integradas
-* Jefe / jefa de sección de acreditacion
-* Jefe / jefa de sección de actividades culturales
-* Jefe / jefa de sección de actividades inspectoras
-* Jefe / jefa de sección de actuación administrativa
-* Jefe / jefa de sección de actuaciones administrativas
-* Jefe / jefa de sección de administración
-* Jefe / jefa de sección de administración de redes
-* Jefe / jefa de sección de administración red local
-* Jefe / jefa de sección de administración y control
-* Jefe / jefa de sección de administración y programas
-* Jefe / jefa de sección de admon. penit
-* Jefe / jefa de sección de admon. penit.
-* Jefe / jefa de sección de adquisición contratos menores
-* Jefe / jefa de sección de adquisición recursos electronicos
-* Jefe / jefa de sección de adquisición y control contable
-* Jefe / jefa de sección de adquisición y servicios de admon. penit.
-* Jefe / jefa de sección de adquisiciones
-* Jefe / jefa de sección de adquisiciones instalaciones cientificas
-* Jefe / jefa de sección de agronómica
-* Jefe / jefa de sección de aguas superficiales
-* Jefe / jefa de sección de alertas medicamentos uso humano
-* Jefe / jefa de sección de alertas medicamentos uso veterinario
-* Jefe / jefa de sección de almacén obras de arte
-* Jefe / jefa de sección de amueblamiento
-* Jefe / jefa de sección de análisis calidad de las aguas
-* Jefe / jefa de sección de análisis de costes
-* Jefe / jefa de sección de análisis de proyectos
-* Jefe / jefa de sección de análisis de seguridad de helicopteros
-* Jefe / jefa de sección de análisis documental y archivo
-* Jefe / jefa de sección de análisis económico proyectos
-* Jefe / jefa de sección de análisis presupuestario
-* Jefe / jefa de sección de análisis previsión y coordinación
-* Jefe / jefa de sección de análisis programa oper. comunit.
-* Jefe / jefa de sección de análisis proyectos de edición
-* Jefe / jefa de sección de análisis quimicos productos farmaceuticos
-* Jefe / jefa de sección de análisis y desarrollo
-* Jefe / jefa de sección de análisis y estudios de vigilancia
-* Jefe / jefa de sección de análisis y mant. sistemas bibliotecarios
-* Jefe / jefa de sección de análisis y prog.
-* Jefe / jefa de sección de animalario
-* Jefe / jefa de sección de anticipo caja fija
-* Jefe / jefa de sección de anulados
-* Jefe / jefa de sección de anuncios
-* Jefe / jefa de sección de apoyo
-* Jefe / jefa de sección de apoyo a control
-* Jefe / jefa de sección de apoyo a fincas
-* Jefe / jefa de sección de apoyo a formación y documentación
-* Jefe / jefa de sección de apoyo a la gestión
-* Jefe / jefa de sección de apoyo administrativo de admon. penit.
-* Jefe / jefa de sección de apoyo admtvo gestión calidad laboratorio control dopaje
-* Jefe / jefa de sección de apoyo documental
-* Jefe / jefa de sección de apoyo gestión
-* Jefe / jefa de sección de apoyo informatico
-* Jefe / jefa de sección de apoyo inspección de admon. penit.
-* Jefe / jefa de sección de apoyo investigación
-* Jefe / jefa de sección de apoyo n22
-* Jefe / jefa de sección de apoyo n24
-* Jefe / jefa de sección de apoyo parlamentario
-* Jefe / jefa de sección de apoyo técnico
-* Jefe / jefa de sección de apoyo técnico e información
-* Jefe / jefa de sección de apoyo técnico e informes
-* Jefe / jefa de sección de apoyo unidad periférica
-* Jefe / jefa de sección de apoyo y coordinación
-* Jefe / jefa de sección de arbitrajes internacionales
-* Jefe / jefa de sección de archivo
-* Jefe / jefa de sección de archivo de la palabra
-* Jefe / jefa de sección de archivo general
-* Jefe / jefa de sección de archivo inventario y control de material
-* Jefe / jefa de sección de archivo n22
-* Jefe / jefa de sección de archivo y biblioteca
-* Jefe / jefa de sección de archivo y registro
-* Jefe / jefa de sección de archivos
-* Jefe / jefa de sección de archivos y bases de datos
-* Jefe / jefa de sección de arqueología
-* Jefe / jefa de sección de arrendamientos
-* Jefe / jefa de sección de artes aplicadas
-* Jefe / jefa de sección de asesoramiento público n22
-* Jefe / jefa de sección de asesoramiento público n24
-* Jefe / jefa de sección de asistencia técnica
-* Jefe / jefa de sección de asuntos generales
-* Jefe / jefa de sección de asuntos generales n22
-* Jefe / jefa de sección de asuntos juridicos
-* Jefe / jefa de sección de asuntos técnicos de admon. penit.
-* Jefe / jefa de sección de atención al ciudadano
-* Jefe / jefa de sección de atención al ciudadano y registro
-* Jefe / jefa de sección de atención al personal
-* Jefe / jefa de sección de atención al público
-* Jefe / jefa de sección de atención victimas terorismo y apoyo económico
-* Jefe / jefa de sección de audiovisuales
-* Jefe / jefa de sección de automatiz. y estadist. bibiliotecaria
-* Jefe / jefa de sección de autorización pruebas deportivas
-* Jefe / jefa de sección de autorizaciones circulación
-* Jefe / jefa de sección de autorizaciones de pesca
-* Jefe / jefa de sección de auxilio judicial penal
-* Jefe / jefa de sección de aviación civil
-* Jefe / jefa de sección de ayuda humanitaria
-* Jefe / jefa de sección de ayudas de investigación
-* Jefe / jefa de sección de bacteriología alimentaria
-* Jefe / jefa de sección de base de datos
-* Jefe / jefa de sección de bases datos y produc. asoc.
-* Jefe / jefa de sección de bases de datos de personal de admon. penit.
-* Jefe / jefa de sección de bibliografía española
-* Jefe / jefa de sección de biblioteca
-* Jefe / jefa de sección de biblioteca n24
-* Jefe / jefa de sección de biblioteca referencia
-* Jefe / jefa de sección de biblioteca, archivo y documentación
-* Jefe / jefa de sección de bibliotecas
-* Jefe / jefa de sección de bibliotecas n24
-* Jefe / jefa de sección de bienes inmuebles
-* Jefe / jefa de sección de c
-* Jefe / jefa de sección de c.r.m.f.
-* Jefe / jefa de sección de cabotaje y estadística
-* Jefe / jefa de sección de caj pag hab
-* Jefe / jefa de sección de caja
-* Jefe / jefa de sección de caja fija
-* Jefe / jefa de sección de caja fija y facturación electrónica
-* Jefe / jefa de sección de caja habilitación
-* Jefe / jefa de sección de caja n20
-* Jefe / jefa de sección de caja n22
-* Jefe / jefa de sección de caja n24
-* Jefe / jefa de sección de caja pagadora
-* Jefe / jefa de sección de caja pagadora de centros
-* Jefe / jefa de sección de cajas de ahorro
-* Jefe / jefa de sección de cajas pagadoras
-* Jefe / jefa de sección de cajero habilitado
-* Jefe / jefa de sección de cajero pagador
-* Jefe / jefa de sección de cálculo de costes
-* Jefe / jefa de sección de calidad de las aguas
-* Jefe / jefa de sección de calidad, innovación e información centralizada
-* Jefe / jefa de sección de canje
-* Jefe / jefa de sección de cartografía antigua
-* Jefe / jefa de sección de cartográfica
-* Jefe / jefa de sección de catalogación
-* Jefe / jefa de sección de catalogación obras españolas
-* Jefe / jefa de sección de catalogación obras extranjeras
-* Jefe / jefa de sección de catalogación y selección de empresas de admon. penit.
-* Jefe / jefa de sección de catalogos colectiv. public.periodicas
-* Jefe / jefa de sección de catalogos generales
-* Jefe / jefa de sección de censo de la flota pesquera oper
-* Jefe / jefa de sección de centro de información al ciudadano
-* Jefe / jefa de sección de centros hábil.tipo pilotos avión
-* Jefe / jefa de sección de centros tecnologicos
-* Jefe / jefa de sección de certificaciones
-* Jefe / jefa de sección de ciencias sociales
-* Jefe / jefa de sección de clases pasivas
-* Jefe / jefa de sección de clasificación ciencias y tecnología
-* Jefe / jefa de sección de clasificación de admon. penit.
-* Jefe / jefa de sección de clasificación humanidades
-* Jefe / jefa de sección de climatología
-* Jefe / jefa de sección de climatología/usuarios
-* Jefe / jefa de sección de colectivo prestaciones
-* Jefe / jefa de sección de comercializacion
-* Jefe / jefa de sección de componentes y aditivos ii
-* Jefe / jefa de sección de componentes y aditivos iii
-* Jefe / jefa de sección de compras
-* Jefe / jefa de sección de compras p.g.
-* Jefe / jefa de sección de comunicac.espec.gab.comunicaciones p.g.
-* Jefe / jefa de sección de comunicación
-* Jefe / jefa de sección de comunicación ciudadana
-* Jefe / jefa de sección de comunicación de datos
-* Jefe / jefa de sección de comunicaciones y planif. sistemas
-* Jefe / jefa de sección de comunicaciones y redes informaticas
-* Jefe / jefa de sección de comunidades autonomas
-* Jefe / jefa de sección de comunidades de regantes
-* Jefe / jefa de sección de conciertos hospitalarios
-* Jefe / jefa de sección de concursos de admon. penit.
-* Jefe / jefa de sección de consejeros sectoriales
-* Jefe / jefa de sección de conservación
-* Jefe / jefa de sección de conservación de inmuebles
-* Jefe / jefa de sección de conservación de patrimonio
-* Jefe / jefa de sección de consulados honorarios
-* Jefe / jefa de sección de consulta y referencia
-* Jefe / jefa de sección de contabilidad
-* Jefe / jefa de sección de contabilidad de admon. penit.
-* Jefe / jefa de sección de contabilidad de costes
-* Jefe / jefa de sección de contabilidad de las consejerias turismo
-* Jefe / jefa de sección de contabilidad financiera
-* Jefe / jefa de sección de contabilidad presupuestaria
-* Jefe / jefa de sección de contabilidad y presupuestos
-* Jefe / jefa de sección de contenidos web
-* Jefe / jefa de sección de contratación
-* Jefe / jefa de sección de contratación administrativa
-* Jefe / jefa de sección de contratación de admon. penit.
-* Jefe / jefa de sección de contratación de las consejerias turismo
-* Jefe / jefa de sección de contratación de obras
-* Jefe / jefa de sección de contratación n22
-* Jefe / jefa de sección de contratación y gasto
-* Jefe / jefa de sección de contratación y patrimonio
-* Jefe / jefa de sección de contratos seguridad
-* Jefe / jefa de sección de control cuentas de admon. penit.
-* Jefe / jefa de sección de control datos personal funcionario
-* Jefe / jefa de sección de control de facturas y contratos
-* Jefe / jefa de sección de control de gastos
-* Jefe / jefa de sección de control de ingresos
-* Jefe / jefa de sección de control de pagos
-* Jefe / jefa de sección de control de plantillas de admon. penit.
-* Jefe / jefa de sección de control de tráfico
-* Jefe / jefa de sección de control gestión
-* Jefe / jefa de sección de control interno y contabilidad tipo i
-* Jefe / jefa de sección de control interno y contabilidad tipo ii
-* Jefe / jefa de sección de control inversiones
-* Jefe / jefa de sección de control inversiones de admon. penit.
-* Jefe / jefa de sección de control materias primas
-* Jefe / jefa de sección de control presupuestario
-* Jefe / jefa de sección de control programas presupuestarios
-* Jefe / jefa de sección de control proyectos
-* Jefe / jefa de sección de control publicidad
-* Jefe / jefa de sección de control subvenciones
-* Jefe / jefa de sección de control vertidos y derrames
-* Jefe / jefa de sección de control y gestión patrimonial
-* Jefe / jefa de sección de control y seguimiento
-* Jefe / jefa de sección de conv. proy. infr. y acc. esp.
-* Jefe / jefa de sección de convenios
-* Jefe / jefa de sección de convenios colaboración cc.aa.
-* Jefe / jefa de sección de convenios consulares
-* Jefe / jefa de sección de convenios y operaciones comerciales
-* Jefe / jefa de sección de convenios y patentes
-* Jefe / jefa de sección de convocatorias ongd
-* Jefe / jefa de sección de cooperación científica internacional
-* Jefe / jefa de sección de cooperación musical
-* Jefe / jefa de sección de cooperación técnica
-* Jefe / jefa de sección de coordinación
-* Jefe / jefa de sección de coordinación administrativa
-* Jefe / jefa de sección de coordinación centralizada
-* Jefe / jefa de sección de coordinación cursos de admon. penit.
-* Jefe / jefa de sección de coordinación de nominas y creditos
-* Jefe / jefa de sección de coordinación de programación
-* Jefe / jefa de sección de coordinación eval. docente
-* Jefe / jefa de sección de coordinación habilitación periférica
-* Jefe / jefa de sección de coordinación información
-* Jefe / jefa de sección de coordinación medios de control
-* Jefe / jefa de sección de coordinación n20
-* Jefe / jefa de sección de coordinación registros altos cargos
-* Jefe / jefa de sección de coordinación talleres
-* Jefe / jefa de sección de coordinación y archivo de proyectos
-* Jefe / jefa de sección de coordinación y gestión marítima
-* Jefe / jefa de sección de costes de a.p.i.
-* Jefe / jefa de sección de creditos
-* Jefe / jefa de sección de creditos, contratación, planificación y centros
-* Jefe / jefa de sección de cuentas e ingresos
-* Jefe / jefa de sección de cursos
-* Jefe / jefa de sección de declaración utilidad pública
-* Jefe / jefa de sección de delineación cartográfica
-* Jefe / jefa de sección de delineación y cartografía informatizada
-* Jefe / jefa de sección de delineación y cartografía informatizada n20
-* Jefe / jefa de sección de delineación y cartografía informatizada n22
-* Jefe / jefa de sección de depósito legal
-* Jefe / jefa de sección de depositos generales
-* Jefe / jefa de sección de derechos ciudadanos
-* Jefe / jefa de sección de desarrollo
-* Jefe / jefa de sección de desarrollo informatico
-* Jefe / jefa de sección de detenidos
-* Jefe / jefa de sección de dibujos
-* Jefe / jefa de sección de difusión e imagen institucional
-* Jefe / jefa de sección de dioxinas
-* Jefe / jefa de sección de distribución comercial
-* Jefe / jefa de sección de divulgación
-* Jefe / jefa de sección de documentación
-* Jefe / jefa de sección de documentación apoyo al c.s. de fundaciones
-* Jefe / jefa de sección de documentación bibliográfica
-* Jefe / jefa de sección de documentación bibliotecaria
-* Jefe / jefa de sección de documentación científica
-* Jefe / jefa de sección de documentación contable informatizada
-* Jefe / jefa de sección de documentación de admon. penit.
-* Jefe / jefa de sección de documentación de la p.g.
-* Jefe / jefa de sección de documentación internacional
-* Jefe / jefa de sección de documentación jurídica
-* Jefe / jefa de sección de documentación y archivo
-* Jefe / jefa de sección de documentación y gestión
-* Jefe / jefa de sección de dosimetría y radiocontaminacion
-* Jefe / jefa de sección de edición
-* Jefe / jefa de sección de edición y diseño pag. web
-* Jefe / jefa de sección de ejecución económica contr.
-* Jefe / jefa de sección de emergencia consular
-* Jefe / jefa de sección de empleo n22
-* Jefe / jefa de sección de empleo n24
-* Jefe / jefa de sección de empleo y formación
-* Jefe / jefa de sección de ensayos biologicos
-* Jefe / jefa de sección de ensayos de investigación
-* Jefe / jefa de sección de entidades financieras
-* Jefe / jefa de sección de entrada valijas
-* Jefe / jefa de sección de epidemiologia del sida
-* Jefe / jefa de sección de epidemiologia enfermedades infecciosa
-* Jefe / jefa de sección de epizootiologia y diagnóstico p3
-* Jefe / jefa de sección de equipamiento de centros de admon. penit.
-* Jefe / jefa de sección de equipamiento y suministros
-* Jefe / jefa de sección de equipo técnico central de observación de admon. penit.
-* Jefe / jefa de sección de equipos de medida
-* Jefe / jefa de sección de equipos emisores
-* Jefe / jefa de sección de estadística
-* Jefe / jefa de sección de estadística n22
-* Jefe / jefa de sección de estadística n24
-* Jefe / jefa de sección de estadística y coordinación
-* Jefe / jefa de sección de estadística y tránsito explosiv
-* Jefe / jefa de sección de estadísticas web
-* Jefe / jefa de sección de estado civil i
-* Jefe / jefa de sección de estudios
-* Jefe / jefa de sección de estudios basicos
-* Jefe / jefa de sección de estudios de admon. penit.
-* Jefe / jefa de sección de estudios técnicos
-* Jefe / jefa de sección de estudios y evaluación riesgos
-* Jefe / jefa de sección de evaluación de homeopatía
-* Jefe / jefa de sección de examen forma y publicaciones
-* Jefe / jefa de sección de expedientes contratación
-* Jefe / jefa de sección de expedientes expropiaciones
-* Jefe / jefa de sección de expedientes sancionadores
-* Jefe / jefa de sección de explotación
-* Jefe / jefa de sección de exposiciones
-* Jefe / jefa de sección de exposiciones y ferias
-* Jefe / jefa de sección de expropiaciones
-* Jefe / jefa de sección de extradiciones y a. penales
-* Jefe / jefa de sección de extranjería
-* Jefe / jefa de sección de facilitación transporte aéreo
-* Jefe / jefa de sección de farmacovigilancia
-* Jefe / jefa de sección de financiacion
-* Jefe / jefa de sección de fondo de reserva
-* Jefe / jefa de sección de fondo reserva
-* Jefe / jefa de sección de fondos
-* Jefe / jefa de sección de fondos impresos
-* Jefe / jefa de sección de fondos unión europea
-* Jefe / jefa de sección de formación
-* Jefe / jefa de sección de formación aeron. y escuelas
-* Jefe / jefa de sección de formación continuada de admon. penit.
-* Jefe / jefa de sección de formación control.tráfico aéreo
-* Jefe / jefa de sección de formación desp. vuelo e inglés aeron.
-* Jefe / jefa de sección de formación inicial de admon. penit.
-* Jefe / jefa de sección de formación n22
-* Jefe / jefa de sección de formación ocupacional
-* Jefe / jefa de sección de formación ocupacional n24
-* Jefe / jefa de sección de formación profesional e inserción de admon. penit.
-* Jefe / jefa de sección de formación profesional ocupacional de admon. penit.
-* Jefe / jefa de sección de formación trip.cabina pasajeros
-* Jefe / jefa de sección de formación vial
-* Jefe / jefa de sección de formación y acción social
-* Jefe / jefa de sección de fotografía y efímera
-* Jefe / jefa de sección de fotovideo n24
-* Jefe / jefa de sección de gabinete comunicaciones
-* Jefe / jefa de sección de gabinete de comunicaciones p.g.
-* Jefe / jefa de sección de galénica
-* Jefe / jefa de sección de gastos de transporte
-* Jefe / jefa de sección de gastos judiciales
-* Jefe / jefa de sección de gestión
-* Jefe / jefa de sección de gestión administrativa
-* Jefe / jefa de sección de gestión bibliotecaria
-* Jefe / jefa de sección de gestión cartera servicios
-* Jefe / jefa de sección de gestión certif. obras
-* Jefe / jefa de sección de gestión compras
-* Jefe / jefa de sección de gestión comunicaciones informaticas
-* Jefe / jefa de sección de gestión cultural y deportiva de admon. penit.
-* Jefe / jefa de sección de gestión de admon. penit.
-* Jefe / jefa de sección de gestión de becas
-* Jefe / jefa de sección de gestión de creditos
-* Jefe / jefa de sección de gestión de expedientes
-* Jefe / jefa de sección de gestión de personal
-* Jefe / jefa de sección de gestión de programas
-* Jefe / jefa de sección de gestión de recursos
-* Jefe / jefa de sección de gestión dominio público hidráulico
-* Jefe / jefa de sección de gestión e información tributaria
-* Jefe / jefa de sección de gestión económica
-* Jefe / jefa de sección de gestión económica administrativa
-* Jefe / jefa de sección de gestión económica habilitación
-* Jefe / jefa de sección de gestión económica y admon.cisa
-* Jefe / jefa de sección de gestión económica y habili
-* Jefe / jefa de sección de gestión editorial
-* Jefe / jefa de sección de gestión expropiaciones
-* Jefe / jefa de sección de gestión fondos
-* Jefe / jefa de sección de gestión gastos mantenim
-* Jefe / jefa de sección de gestión incompatibilidades
-* Jefe / jefa de sección de gestión incresos
-* Jefe / jefa de sección de gestión institucinal
-* Jefe / jefa de sección de gestión inversiones
-* Jefe / jefa de sección de gestión n22
-* Jefe / jefa de sección de gestión patrimonial
-* Jefe / jefa de sección de gestión penitenciaria de admon. penit.
-* Jefe / jefa de sección de gestión penitenciria de admon. penit.
-* Jefe / jefa de sección de gestión personal
-* Jefe / jefa de sección de gestión presupuestaria de ingresos
-* Jefe / jefa de sección de gestión sicop
-* Jefe / jefa de sección de gestión subvenciones
-* Jefe / jefa de sección de gestión técnica
-* Jefe / jefa de sección de gestión técnica dominio público
-* Jefe / jefa de sección de gestión y compras
-* Jefe / jefa de sección de gestión y consulta
-* Jefe / jefa de sección de gestión y control de obras
-* Jefe / jefa de sección de gestión y distribución
-* Jefe / jefa de sección de gestión y mantenimiento
-* Jefe / jefa de sección de gestión y organización marítima
-* Jefe / jefa de sección de gestión y vigilancia
-* Jefe / jefa de sección de grabacion explotación
-* Jefe / jefa de sección de grabados
-* Jefe / jefa de sección de guardería fluvial
-* Jefe / jefa de sección de guardia cifra
-* Jefe / jefa de sección de habilitación
-* Jefe / jefa de sección de habilitación admon. penit.
-* Jefe / jefa de sección de habilitación consejerias laborales
-* Jefe / jefa de sección de habilitación de personal
-* Jefe / jefa de sección de habilitación gastos personal
-* Jefe / jefa de sección de habilitación n22
-* Jefe / jefa de sección de habilitación nominas exterior
-* Jefe / jefa de sección de habilitación nominas interior
-* Jefe / jefa de sección de habilitación pagaduría
-* Jefe / jefa de sección de habilitación personal
-* Jefe / jefa de sección de habilitación personal de admon. penit.
-* Jefe / jefa de sección de habilitación personal y seguridad social
-* Jefe / jefa de sección de habilitación suplente
-* Jefe / jefa de sección de habilitación y caja
-* Jefe / jefa de sección de habilitación y justificación de cuentas
-* Jefe / jefa de sección de habilitación y pagaduría
-* Jefe / jefa de sección de habilitación y pagaduría n20
-* Jefe / jefa de sección de habilitación y pagaduría n22
-* Jefe / jefa de sección de habilitación y pagaduría n24
-* Jefe / jefa de sección de habilitación, tesorería y contabilidad
-* Jefe / jefa de sección de hap y aminas biogenas
-* Jefe / jefa de sección de hemostasia y trombosis
-* Jefe / jefa de sección de hidrología
-* Jefe / jefa de sección de i.s.b.n.
-* Jefe / jefa de sección de i.s.s.n.
-* Jefe / jefa de sección de identificación de admon. penit.
-* Jefe / jefa de sección de impresos menores
-* Jefe / jefa de sección de incoación
-* Jefe / jefa de sección de indemnizaciones
-* Jefe / jefa de sección de información
-* Jefe / jefa de sección de información administrativa
-* Jefe / jefa de sección de información al ciudadano
-* Jefe / jefa de sección de información bibliográfica
-* Jefe / jefa de sección de información científica
-* Jefe / jefa de sección de información documental
-* Jefe / jefa de sección de información electoral
-* Jefe / jefa de sección de información fotografía aérea
-* Jefe / jefa de sección de información meteorológica
-* Jefe / jefa de sección de información n20
-* Jefe / jefa de sección de información n22
-* Jefe / jefa de sección de información público
-* Jefe / jefa de sección de información registros y archivos
-* Jefe / jefa de sección de información y archivos
-* Jefe / jefa de sección de información y atención al ciudadano de admon. penit.
-* Jefe / jefa de sección de información y atención clientes
-* Jefe / jefa de sección de información y registro
-* Jefe / jefa de sección de información.ss.pp.y legisl. admtva.
-* Jefe / jefa de sección de informática
-* Jefe / jefa de sección de informes
-* Jefe / jefa de sección de informes juridicos
-* Jefe / jefa de sección de informes n24
-* Jefe / jefa de sección de informes y consultas
-* Jefe / jefa de sección de infracciones y denuncias
-* Jefe / jefa de sección de ingeniería fluvial
-* Jefe / jefa de sección de ingreso de publicaciones
-* Jefe / jefa de sección de ingresos
-* Jefe / jefa de sección de ingresos precios publicos
-* Jefe / jefa de sección de ingresos y costes
-* Jefe / jefa de sección de inmunologia bioquímica
-* Jefe / jefa de sección de inmunopatologia y diagnóstico
-* Jefe / jefa de sección de innovación científica y tecnológica
-* Jefe / jefa de sección de innovación didáctica y calidad
-* Jefe / jefa de sección de inspección
-* Jefe / jefa de sección de inspección comercial
-* Jefe / jefa de sección de inspección fammaceutica y control de drogas
-* Jefe / jefa de sección de inspección farmacéutica y control de drogas
-* Jefe / jefa de sección de inspección farmacéutica y control drogas
-* Jefe / jefa de sección de inspección mercado de tabacos n22
-* Jefe / jefa de sección de inspección mercado de tabacos n24
-* Jefe / jefa de sección de inspección producción pesquera
-* Jefe / jefa de sección de inspección y control de medicamentos
-* Jefe / jefa de sección de instalaciones
-* Jefe / jefa de sección de instalaciones seguridad vial
-* Jefe / jefa de sección de instituciones cerradas
-* Jefe / jefa de sección de instrucción de expedientes
-* Jefe / jefa de sección de intendencia general
-* Jefe / jefa de sección de intervención n24
-* Jefe / jefa de sección de inventario
-* Jefe / jefa de sección de inversiones y análisis económico financiero
-* Jefe / jefa de sección de investigación en enfermería
-* Jefe / jefa de sección de investigadores bellas artes y cartografía
-* Jefe / jefa de sección de investigadores fondo antiguo
-* Jefe / jefa de sección de justificación de cuentas
-* Jefe / jefa de sección de laboratorio
-* Jefe / jefa de sección de laboratorio sanidad exterior
-* Jefe / jefa de sección de legalizaciones
-* Jefe / jefa de sección de lineas regulares
-* Jefe / jefa de sección de mantenimiento
-* Jefe / jefa de sección de mantenimiento de admon. penit.
-* Jefe / jefa de sección de mantenimiento equipo
-* Jefe / jefa de sección de mantenimiento n20
-* Jefe / jefa de sección de mantenimiento y explotación
-* Jefe / jefa de sección de manuscritos antiguos
-* Jefe / jefa de sección de mapa topográfico nacional
-* Jefe / jefa de sección de material y suministros
-* Jefe / jefa de sección de materiales de contacto con alimentos
-* Jefe / jefa de sección de mecanizacion
-* Jefe / jefa de sección de mecanizacion y archivo
-* Jefe / jefa de sección de mediateca y fototeca
-* Jefe / jefa de sección de medidas alternativas de admon. penit.
-* Jefe / jefa de sección de medioambiental
-* Jefe / jefa de sección de medios aereos
-* Jefe / jefa de sección de medios audiovisuales
-* Jefe / jefa de sección de medios impresos
-* Jefe / jefa de sección de medios producción agraria
-* Jefe / jefa de sección de metales pesados y elem. tox.
-* Jefe / jefa de sección de metodología química gaseosa
-* Jefe / jefa de sección de micotoxinas
-* Jefe / jefa de sección de microinformática
-* Jefe / jefa de sección de modelos
-* Jefe / jefa de sección de modificaciones
-* Jefe / jefa de sección de monasterio yuste
-* Jefe / jefa de sección de monomeros y aditivos
-* Jefe / jefa de sección de móvil
-* Jefe / jefa de sección de movilidad
-* Jefe / jefa de sección de multimedia
-* Jefe / jefa de sección de museos
-* Jefe / jefa de sección de música antigua
-* Jefe / jefa de sección de nacionalidad i
-* Jefe / jefa de sección de nacionalidad ii
-* Jefe / jefa de sección de nominas
-* Jefe / jefa de sección de nominas funcionario
-* Jefe / jefa de sección de nominas y habilitación
-* Jefe / jefa de sección de nominas y habilitación suplente
-* Jefe / jefa de sección de nominas y seguridad social
-* Jefe / jefa de sección de normalización
-* Jefe / jefa de sección de normas internacionales
-* Jefe / jefa de sección de normativa contable
-* Jefe / jefa de sección de notificación sucesos
-* Jefe / jefa de sección de nuevas tecnologías p.g.
-* Jefe / jefa de sección de obras
-* Jefe / jefa de sección de obras de arte
-* Jefe / jefa de sección de obras e instalaciones invest.
-* Jefe / jefa de sección de obras e inversiones
-* Jefe / jefa de sección de oficina de información
-* Jefe / jefa de sección de oficina de información al mutualista
-* Jefe / jefa de sección de oficina delegada
-* Jefe / jefa de sección de oficina delegada (rcp)
-* Jefe / jefa de sección de oficina extranjeros
-* Jefe / jefa de sección de oficina información
-* Jefe / jefa de sección de oficina reclamaciones administraciones territoriales
-* Jefe / jefa de sección de operaciones comerciales
-* Jefe / jefa de sección de operaciones topograficas
-* Jefe / jefa de sección de ordenación y notificaciones
-* Jefe / jefa de sección de organismo notificado
-* Jefe / jefa de sección de organismos
-* Jefe / jefa de sección de organización
-* Jefe / jefa de sección de organización de depositos
-* Jefe / jefa de sección de organización fondos y normalización
-* Jefe / jefa de sección de pagaduría
-* Jefe / jefa de sección de pagaduría ign
-* Jefe / jefa de sección de pagaduría ss.cc.
-* Jefe / jefa de sección de pagos
-* Jefe / jefa de sección de pagos de admon. penit.
-* Jefe / jefa de sección de pagos e impuestos
-* Jefe / jefa de sección de parasitología y técnicas especiales
-* Jefe / jefa de sección de pasaportes
-* Jefe / jefa de sección de patente europea pct
-* Jefe / jefa de sección de patrimonio
-* Jefe / jefa de sección de patrimonio de admon. penit.
-* Jefe / jefa de sección de patrimonio del estado
-* Jefe / jefa de sección de patrimonio del estado (1)
-* Jefe / jefa de sección de patrimonio del estado (2)
-* Jefe / jefa de sección de patrimonio del estado (3)
-* Jefe / jefa de sección de patrimonio del estado (4)
-* Jefe / jefa de sección de patrulla helicopteros
-* Jefe / jefa de sección de pensiones y asuntos seguridad social
-* Jefe / jefa de sección de periférica
-* Jefe / jefa de sección de permisos y salidas programadas de admon. penit.
-* Jefe / jefa de sección de personal
-* Jefe / jefa de sección de personal de administración periférica
-* Jefe / jefa de sección de personal funcionario
-* Jefe / jefa de sección de personal funcionario uno de admon. penit.
-* Jefe / jefa de sección de personal investigador en formación y de proyectos investigación
-* Jefe / jefa de sección de personal laboral
-* Jefe / jefa de sección de personal laboral de admon. penit.
-* Jefe / jefa de sección de personal y habilitación
-* Jefe / jefa de sección de personal y medios
-* Jefe / jefa de sección de personal y servicios
-* Jefe / jefa de sección de pesca a
-* Jefe / jefa de sección de pesca b
-* Jefe / jefa de sección de planes aeroportuarios
-* Jefe / jefa de sección de planes de obras y servicios
-* Jefe / jefa de sección de planificac. org. en funcionamiento
-* Jefe / jefa de sección de planificación
-* Jefe / jefa de sección de planificación de admon. penit.
-* Jefe / jefa de sección de planificación y coordinación
-* Jefe / jefa de sección de planificación y gestión administrativa
-* Jefe / jefa de sección de planificación y puestos de trabajo
-* Jefe / jefa de sección de plantas medicinales
-* Jefe / jefa de sección de prensa de admon. penit.
-* Jefe / jefa de sección de presidencia consejo
-* Jefe / jefa de sección de prestaciones
-* Jefe / jefa de sección de prestaciones n22
-* Jefe / jefa de sección de prestaciones n24
-* Jefe / jefa de sección de prestaciones sociales
-* Jefe / jefa de sección de prestaciones sociales fondo especial
-* Jefe / jefa de sección de presup. repres.diplomatic. bilateral
-* Jefe / jefa de sección de presupuestaria
-* Jefe / jefa de sección de presupuestaria n24
-* Jefe / jefa de sección de presupuestaria represent.consulares
-* Jefe / jefa de sección de presupuestos
-* Jefe / jefa de sección de presupuestos de la p.g.
-* Jefe / jefa de sección de presupuestos y programación
-* Jefe / jefa de sección de procedimiento visados
-* Jefe / jefa de sección de procedimientos masivos
-* Jefe / jefa de sección de procesos informáticos
-* Jefe / jefa de sección de producción y taquillas
-* Jefe / jefa de sección de producción, gestión y calidad digital
-* Jefe / jefa de sección de producciones artisticas
-* Jefe / jefa de sección de productos
-* Jefe / jefa de sección de productos geograficos
-* Jefe / jefa de sección de programa educativo
-* Jefe / jefa de sección de programación
-* Jefe / jefa de sección de programación académica
-* Jefe / jefa de sección de programación docente
-* Jefe / jefa de sección de programación económica de inversiones de admon. penit.
-* Jefe / jefa de sección de programación efectivos de admon. penit.
-* Jefe / jefa de sección de programación transferencia tecnología
-* Jefe / jefa de sección de programación y seguimiento de inversiones
-* Jefe / jefa de sección de programas
-* Jefe / jefa de sección de programas culturales
-* Jefe / jefa de sección de programas especiales de admon. penit.
-* Jefe / jefa de sección de programas y formación
-* Jefe / jefa de sección de promoción de la lectura
-* Jefe / jefa de sección de promoción web
-* Jefe / jefa de sección de promoción y difusión
-* Jefe / jefa de sección de protocolo
-* Jefe / jefa de sección de protocolo n20
-* Jefe / jefa de sección de protocolo n20 p.g.
-* Jefe / jefa de sección de provincial
-* Jefe / jefa de sección de proyectos de digitalizacion
-* Jefe / jefa de sección de proyectos p.g.
-* Jefe / jefa de sección de proyectos y estudios bibliotecarios
-* Jefe / jefa de sección de proyectos y obras
-* Jefe / jefa de sección de publicaciones
-* Jefe / jefa de sección de publicaciones electronicas
-* Jefe / jefa de sección de publicaciones periodicas
-* Jefe / jefa de sección de quejas y reclamaciones
-* Jefe / jefa de sección de quejas, sugerencias y divulgación
-* Jefe / jefa de sección de realizaciones
-* Jefe / jefa de sección de recaudación
-* Jefe / jefa de sección de reclamaciones
-* Jefe / jefa de sección de reclamaciones y procedimientos
-* Jefe / jefa de sección de reclamaciones y sanciones
-* Jefe / jefa de sección de recursos
-* Jefe / jefa de sección de recursos electronicos
-* Jefe / jefa de sección de recursos humanos
-* Jefe / jefa de sección de recursos humanos y habilitación
-* Jefe / jefa de sección de recursos reclamaciones
-* Jefe / jefa de sección de red sicop
-* Jefe / jefa de sección de red sísmica
-* Jefe / jefa de sección de régimen dos de admon. penit.
-* Jefe / jefa de sección de régimen económico
-* Jefe / jefa de sección de régimen interior
-* Jefe / jefa de sección de régimen interior y personal
-* Jefe / jefa de sección de régimen jurídico de personal sanitario
-* Jefe / jefa de sección de régimen legal
-* Jefe / jefa de sección de régimen sancionador
-* Jefe / jefa de sección de régimen uno de admon. penit.
-* Jefe / jefa de sección de regional
-* Jefe / jefa de sección de registradores propiedad
-* Jefe / jefa de sección de registro
-* Jefe / jefa de sección de registro aguas
-* Jefe / jefa de sección de registro de admon. penit.
-* Jefe / jefa de sección de registro de ordenación de diarios
-* Jefe / jefa de sección de registro e información
-* Jefe / jefa de sección de registro general
-* Jefe / jefa de sección de registro o.n.g.
-* Jefe / jefa de sección de registro servicios centrales
-* Jefe / jefa de sección de registro ultimas voluntades
-* Jefe / jefa de sección de registro y acreditacion
-* Jefe / jefa de sección de registro y asuntos generales
-* Jefe / jefa de sección de registro y comunicaciones
-* Jefe / jefa de sección de registro y distribución
-* Jefe / jefa de sección de registro y estadística
-* Jefe / jefa de sección de reingresos
-* Jefe / jefa de sección de relaciones con las administración es territoriales
-* Jefe / jefa de sección de relaciones con usuarios
-* Jefe / jefa de sección de relaciones cortés
-* Jefe / jefa de sección de relaciones internacionales
-* Jefe / jefa de sección de relaciones laborales
-* Jefe / jefa de sección de relaciones publicas
-* Jefe / jefa de sección de relaciones sindicales
-* Jefe / jefa de sección de relaciones sindicales de admon. penit.
-* Jefe / jefa de sección de renovaciones
-* Jefe / jefa de sección de reprografia y distribución
-* Jefe / jefa de sección de residuos fitosanitarios ii
-* Jefe / jefa de sección de retribuciones
-* Jefe / jefa de sección de retribuciones de admon. penit.
-* Jefe / jefa de sección de retribuciones funcionarios
-* Jefe / jefa de sección de retribuciones n22
-* Jefe / jefa de sección de revalidación de titulos
-* Jefe / jefa de sección de revisión ayudas
-* Jefe / jefa de sección de revisión y aprobación cuentas
-* Jefe / jefa de sección de revisión y control de programas
-* Jefe / jefa de sección de rpt
-* Jefe / jefa de sección de s.i.c.o.p.
-* Jefe / jefa de sección de sala barbieri
-* Jefe / jefa de sección de salas generales
-* Jefe / jefa de sección de salida valijas
-* Jefe / jefa de sección de sanciones
-* Jefe / jefa de sección de sanidad exterior
-* Jefe / jefa de sección de secr. gr. com. as. v. del.
-* Jefe / jefa de sección de secretaria
-* Jefe / jefa de sección de secretaria general
-* Jefe / jefa de sección de seguimiento
-* Jefe / jefa de sección de seguimiento de admon. penit.
-* Jefe / jefa de sección de seguimiento de politicas industriales
-* Jefe / jefa de sección de seguimiento libertad condicional de admon. penit.
-* Jefe / jefa de sección de seguimiento normativa
-* Jefe / jefa de sección de seguimiento ongd
-* Jefe / jefa de sección de seguimiento presupuestario
-* Jefe / jefa de sección de seguimiento presupuestario y asuntos generales
-* Jefe / jefa de sección de seguimiento resultados
-* Jefe / jefa de sección de seguimiento y control
-* Jefe / jefa de sección de seguimiento y control de admon. penit.
-* Jefe / jefa de sección de seguimiento y coordinación
-* Jefe / jefa de sección de seguridad
-* Jefe / jefa de sección de seguridad social
-* Jefe / jefa de sección de seguridad vial
-* Jefe / jefa de sección de seguridad y control
-* Jefe / jefa de sección de seguros
-* Jefe / jefa de sección de seguros sociales y habilitación
-* Jefe / jefa de sección de selección
-* Jefe / jefa de sección de selección de admon. penit.
-* Jefe / jefa de sección de selección de personal
-* Jefe / jefa de sección de selección personal no facultativo
-* Jefe / jefa de sección de servicios informáticos
-* Jefe / jefa de sección de servicios valor añadido
-* Jefe / jefa de sección de síndrome tóxico n22
-* Jefe / jefa de sección de síndrome tóxico n24
-* Jefe / jefa de sección de sistema de información y planificación de rrhh
-* Jefe / jefa de sección de sistema de localización buques
-* Jefe / jefa de sección de sistema información microbiolog.
-* Jefe / jefa de sección de sistema informáticos
-* Jefe / jefa de sección de sistemas
-* Jefe / jefa de sección de sistemas de captación de datos
-* Jefe / jefa de sección de sistemas de intercambio de informac.
-* Jefe / jefa de sección de sistemas informac. y coord. medioamb.
-* Jefe / jefa de sección de sistemas informáticos
-* Jefe / jefa de sección de sistemas informáticos de admon. penit.
-* Jefe / jefa de sección de sistemas informáticos de gestión
-* Jefe / jefa de sección de sistemas informáticos y gestión de nominas
-* Jefe / jefa de sección de sistemas integrados comunicaciones especiales
-* Jefe / jefa de sección de sistemas telecomunicaciones
-* Jefe / jefa de sección de sistemas telefonicos
-* Jefe / jefa de sección de situación de salud
-* Jefe / jefa de sección de subregistro principal otan/ue
-* Jefe / jefa de sección de subsidiacion
-* Jefe / jefa de sección de suministros
-* Jefe / jefa de sección de suministros homologados de admon. penit.
-* Jefe / jefa de sección de suministros no homologados de admon. penit.
-* Jefe / jefa de sección de suministros y patrimonio
-* Jefe / jefa de sección de supervision
-* Jefe / jefa de sección de supervision equipos instal.e infraest.
-* Jefe / jefa de sección de taller cartográfico
-* Jefe / jefa de sección de tarifas
-* Jefe / jefa de sección de tasas
-* Jefe / jefa de sección de tecnologías de la información
-* Jefe / jefa de sección de teletipos
-* Jefe / jefa de sección de tesorería
-* Jefe / jefa de sección de tesorería habilitado pagador
-* Jefe / jefa de sección de tesorería n22
-* Jefe / jefa de sección de tesorería y bancos
-* Jefe / jefa de sección de tesoro
-* Jefe / jefa de sección de titulaciones deportivas
-* Jefe / jefa de sección de toxicología celular
-* Jefe / jefa de sección de toxicología experimental
-* Jefe / jefa de sección de tramitación
-* Jefe / jefa de sección de tramitación administrativa
-* Jefe / jefa de sección de tramitación de subvenciones
-* Jefe / jefa de sección de tramitación expedientes
-* Jefe / jefa de sección de tramitación modif. presupuestarias
-* Jefe / jefa de sección de tramitación recursos e informes
-* Jefe / jefa de sección de tramitación subv. electorales
-* Jefe / jefa de sección de tramitación transferencias y li
-* Jefe / jefa de sección de tramitación tratados
-* Jefe / jefa de sección de tramitación y control
-* Jefe / jefa de sección de tramitación y control gasto
-* Jefe / jefa de sección de tramitación y seguimiento mod.presup.
-* Jefe / jefa de sección de trámite de autorizaciones
-* Jefe / jefa de sección de trámite subvenciones
-* Jefe / jefa de sección de transporte internacional mercancias
-* Jefe / jefa de sección de transporte internacional viajeros
-* Jefe / jefa de sección de traslado personas condenadas
-* Jefe / jefa de sección de traslados de admon. penit.
-* Jefe / jefa de sección de tratamiento dos de admon. penit.
-* Jefe / jefa de sección de tratamiento tres de admon. penit.
-* Jefe / jefa de sección de tratamiento uno de admon. penit.
-* Jefe / jefa de sección de unidad
-* Jefe / jefa de sección de unidad central
-* Jefe / jefa de sección de unidad de producción
-* Jefe / jefa de sección de unidad técnica
-* Jefe / jefa de sección de unión europea
-* Jefe / jefa de sección de valoración
-* Jefe / jefa de sección de vigilancia enferm.inmunoprevenib.
-* Jefe / jefa de sección de virologia
-* Jefe / jefa de sección de visados cuenta ajena
-* Jefe / jefa de sección de zoosanitarios iv
-* Jefe / jefa de sección del plan cartográfico nacional
-* Jefe / jefa de sección delineación y cartografía
-* Jefe / jefa de sección documentación
-* Jefe / jefa de sección económica
-* Jefe / jefa de sección económico-administrativa
-* Jefe / jefa de sección el escorial
-* Jefe / jefa de sección escala a
-* Jefe / jefa de sección especializada
-* Jefe / jefa de sección especializada n22
-* Jefe / jefa de sección especializada n24
-* Jefe / jefa de sección explotación
-* Jefe / jefa de sección habilitación
-* Jefe / jefa de sección habilitado cajero pagador
-* Jefe / jefa de sección intervención
-* Jefe / jefa de sección la granja
-* Jefe / jefa de sección médica
-* Jefe / jefa de sección n.20
-* Jefe / jefa de sección n.22
-* Jefe / jefa de sección n20
-* Jefe / jefa de sección n22
-* Jefe / jefa de sección n22 (u. grandes empresas)
-* Jefe / jefa de sección n24
-* Jefe / jefa de sección normalización n24
-* Jefe / jefa de sección operativa
-* Jefe / jefa de sección régimen interior
-* Jefe / jefa de sección responsable de operaciones rpas
-* Jefe / jefa de sección seguimiento y control de expedientes economicos
-* Jefe / jefa de sección sicop
-* Jefe / jefa de sección siglo de oro
-* Jefe / jefa de sección sistemas informáticos
-* Jefe / jefa de sección técnica
-* Jefe / jefa de sección técnica (c.s.)
-* Jefe / jefa de sección técnica a.t.s.
-* Jefe / jefa de sección técnica de coordinación
-* Jefe / jefa de sección técnica de metrología
-* Jefe / jefa de sección técnica documentación otan/ue
-* Jefe / jefa de sección técnica dominio público
-* Jefe / jefa de sección técnica explotación
-* Jefe / jefa de sección técnica explotación zona ii
-* Jefe / jefa de sección técnica gestión
-* Jefe / jefa de sección técnica grandes instalaciones
-* Jefe / jefa de sección técnica ii
-* Jefe / jefa de sección técnica industrial
-* Jefe / jefa de sección técnica ingeniería fluvial
-* Jefe / jefa de sección técnica n22
-* Jefe / jefa de sección técnica n24
-* Jefe / jefa de sección técnica obras
-* Jefe / jefa de sección técnica programas internacionales
-* Jefe / jefa de sección técnica proyectos y obras
-* Jefe / jefa de sección técnica riesgo nuclear
-* Jefe / jefa de sección técnico
-* Jefe / jefa de sección tipo 1
-* Jefe / jefa de sección tipo 2
-* Jefe / jefa de sección tipo 4
-* Jefe / jefa de sección tipo 5
-* Jefe / jefa de sección tipo 6
-* Jefe / jefa de sección tipo a
-* Jefe / jefa de sección tipo b
-* Jefe / jefa de sección tipo c
-* Jefe / jefa de sección tipo d
-* Jefe / jefa de sección tipo i
-* Jefe / jefa de sección tipo ii
-* Jefe / jefa de sección tipo iii
-* Jefe / jefa de secretaria
-* Jefe / jefa de secretaria comisiones
-* Jefe / jefa de secretaria de centro
-* Jefe / jefa de secretaria de delegado del gobierno
-* Jefe / jefa de secretaria de director de gabinete
-* Jefe / jefa de secretaria de director gabinete presidente del gobierno
-* Jefe / jefa de secretaria de junta coord. y edific. admvas.
-* Jefe / jefa de secretaria de la ministra
-* Jefe / jefa de secretaria de la vicepresidenta
-* Jefe / jefa de secretaria de ministra
-* Jefe / jefa de secretaria de ministro
-* Jefe / jefa de secretaria de presidente
-* Jefe / jefa de secretaria de secretaria de estado
-* Jefe / jefa de secretaria de secretaria general
-* Jefe / jefa de secretaria de secretario de estado
-* Jefe / jefa de secretaria de secretario general
-* Jefe / jefa de secretaria de secretario general de admon. penit.
-* Jefe / jefa de secretaria de subsecretaria
-* Jefe / jefa de secretaria de subsecretario
-* Jefe / jefa de secretaria de unidad de apoyo
-* Jefe / jefa de secretaria de unidad de apoyo al fiscal general del estado
-* Jefe / jefa de secretaria del director
-* Jefe / jefa de secretaria del director del gabinete
-* Jefe / jefa de secretaria del ministro
-* Jefe / jefa de secretaria del secretario de estado
-* Jefe / jefa de secretaria del vicepresidente
-* Jefe / jefa de secretaria director / directora
-* Jefe / jefa de secretaria director gabinete
-* Jefe / jefa de seguridad
-* Jefe / jefa de seguridad de museos estatales
-* Jefe / jefa de seguridad galería de las colecciones reales
-* Jefe / jefa de seguridad real sitio
-* Jefe / jefa de seguridad vuelo
-* Jefe / jefa de servicio
-* Jefe / jefa de servicio 2ª categoría y avances feaga
-* Jefe / jefa de servicio a
-* Jefe / jefa de servicio actuación administrativa
-* Jefe / jefa de servicio actuaciones en cauces
-* Jefe / jefa de servicio adscrito a la subsecretaria
-* Jefe / jefa de servicio áfrica norte
-* Jefe / jefa de servicio agronómico
-* Jefe / jefa de servicio agronómico forestal
-* Jefe / jefa de servicio aguas subterraneas
-* Jefe / jefa de servicio américa sur
-* Jefe / jefa de servicio análisis de aguas
-* Jefe / jefa de servicio aplicaciones forestales
-* Jefe / jefa de servicio apoyo logistico
-* Jefe / jefa de servicio asia continental
-* Jefe / jefa de servicio asuntos administrativos v
-* Jefe / jefa de servicio auditor
-* Jefe / jefa de servicio autorización de vertidos
-* Jefe / jefa de servicio b
-* Jefe / jefa de servicio banco nacional datos climatologicos
-* Jefe / jefa de servicio c
-* Jefe / jefa de servicio caja pagadora
-* Jefe / jefa de servicio cajero pagador general
-* Jefe / jefa de servicio cendar
-* Jefe / jefa de servicio centro coordinación del mantenimiento
-* Jefe / jefa de servicio centro de comunicaciones
-* Jefe / jefa de servicio centro nacional de predicción
-* Jefe / jefa de servicio centro proceso datos
-* Jefe / jefa de servicio cnp de defensa
-* Jefe / jefa de servicio comenius
-* Jefe / jefa de servicio comercial
-* Jefe / jefa de servicio comunidades de usuarios
-* Jefe / jefa de servicio comunidades europeas
-* Jefe / jefa de servicio contra la violencia sobre la mujer
-* Jefe / jefa de servicio control de calidad
-* Jefe / jefa de servicio control y vigilancia de dph
-* Jefe / jefa de servicio creación de empresas e innovación
-* Jefe / jefa de servicio de acceso al documento
-* Jefe / jefa de servicio de acción concertada
-* Jefe / jefa de servicio de acción consular
-* Jefe / jefa de servicio de acción cultural
-* Jefe / jefa de servicio de acción social
-* Jefe / jefa de servicio de acción social y formación interna
-* Jefe / jefa de servicio de acción y recursos
-* Jefe / jefa de servicio de acreditacion
-* Jefe / jefa de servicio de actividad federativa internacional
-* Jefe / jefa de servicio de actividad pesquera aguas u.e.
-* Jefe / jefa de servicio de actividad pesqueras en aguas internacionales
-* Jefe / jefa de servicio de actividades culturales
-* Jefe / jefa de servicio de actividades de alumnos
-* Jefe / jefa de servicio de actividades de lucha contra el dopaje en el deporte
-* Jefe / jefa de servicio de actuac. jurídico administrativa
-* Jefe / jefa de servicio de actuación administrativa
-* Jefe / jefa de servicio de actuación jurídico-administrativo
-* Jefe / jefa de servicio de actuaciones administrativas
-* Jefe / jefa de servicio de actuaciones en cauces
-* Jefe / jefa de servicio de actuaciones especiales
-* Jefe / jefa de servicio de actualizacion normativa
-* Jefe / jefa de servicio de adecuación oferta
-* Jefe / jefa de servicio de administración
-* Jefe / jefa de servicio de administración contable presupuestar
-* Jefe / jefa de servicio de administración de personal funcionario
-* Jefe / jefa de servicio de administración de personal laboral
-* Jefe / jefa de servicio de administración económica y tesorería
-* Jefe / jefa de servicio de administración electrónica
-* Jefe / jefa de servicio de administración financiera
-* Jefe / jefa de servicio de administración financiera y contabilidad
-* Jefe / jefa de servicio de administración gasp
-* Jefe / jefa de servicio de administración general
-* Jefe / jefa de servicio de administración patrimonial
-* Jefe / jefa de servicio de administración patrimonio del estado
-* Jefe / jefa de servicio de administración presupuesto
-* Jefe / jefa de servicio de administración régimen interior y pagaduría
-* Jefe / jefa de servicio de administración y contabilidad
-* Jefe / jefa de servicio de administración y pagos
-* Jefe / jefa de servicio de administración y régimen interior
-* Jefe / jefa de servicio de admon. penit.
-* Jefe / jefa de servicio de adquisición bienes y asistencia técnica
-* Jefe / jefa de servicio de adquisición bienes y servicios
-* Jefe / jefa de servicio de adquisición de bienes
-* Jefe / jefa de servicio de adquisiciones
-* Jefe / jefa de servicio de aforos y control de aprovechamientos
-* Jefe / jefa de servicio de aforos y estadísticas
-* Jefe / jefa de servicio de agricultura ecológica
-* Jefe / jefa de servicio de aguas comunitarias
-* Jefe / jefa de servicio de aguas subterraneas
-* Jefe / jefa de servicio de aguas subterraneas i
-* Jefe / jefa de servicio de aguas subterraneas ii
-* Jefe / jefa de servicio de alertas internacionales
-* Jefe / jefa de servicio de amueblamiento
-* Jefe / jefa de servicio de análisis
-* Jefe / jefa de servicio de análisis auditorias
-* Jefe / jefa de servicio de análisis contratistas y empresas
-* Jefe / jefa de servicio de análisis coste servicio asist.espec.
-* Jefe / jefa de servicio de análisis coste servicio atención prim.
-* Jefe / jefa de servicio de análisis costes y facturación
-* Jefe / jefa de servicio de análisis de aguas
-* Jefe / jefa de servicio de análisis de costes
-* Jefe / jefa de servicio de análisis de creditos
-* Jefe / jefa de servicio de análisis de datos
-* Jefe / jefa de servicio de análisis de información
-* Jefe / jefa de servicio de análisis de mercados
-* Jefe / jefa de servicio de análisis del mercado y estadísticas
-* Jefe / jefa de servicio de análisis documentación e información
-* Jefe / jefa de servicio de análisis e informes juridicos de familias
-* Jefe / jefa de servicio de análisis económico
-* Jefe / jefa de servicio de análisis económico sociedades estata
-* Jefe / jefa de servicio de análisis economicos culturales
-* Jefe / jefa de servicio de análisis economicos oo.aa.
-* Jefe / jefa de servicio de análisis economicos y financieros
-* Jefe / jefa de servicio de análisis epidemiologico
-* Jefe / jefa de servicio de análisis estadístico
-* Jefe / jefa de servicio de análisis financiero
-* Jefe / jefa de servicio de análisis infraest. y serv. loc.
-* Jefe / jefa de servicio de análisis macroeconomico
-* Jefe / jefa de servicio de análisis planificación y evaluación
-* Jefe / jefa de servicio de análisis prensa
-* Jefe / jefa de servicio de análisis presupuestario
-* Jefe / jefa de servicio de análisis procedimientos
-* Jefe / jefa de servicio de análisis recursos y activ. a.e.
-* Jefe / jefa de servicio de análisis socieconomico e integración
-* Jefe / jefa de servicio de análisis socioeconomico
-* Jefe / jefa de servicio de análisis técnico de infracciones
-* Jefe / jefa de servicio de análisis y contab.
-* Jefe / jefa de servicio de análisis y desarrollo
-* Jefe / jefa de servicio de análisis y estudios economicos
-* Jefe / jefa de servicio de análisis y evaluac. de programas
-* Jefe / jefa de servicio de análisis y evaluación
-* Jefe / jefa de servicio de análisis y evaluación de costes
-* Jefe / jefa de servicio de análisis y evaluaciones
-* Jefe / jefa de servicio de análisis y optimizacion de procesos recaudatorios
-* Jefe / jefa de servicio de análisis y programación
-* Jefe / jefa de servicio de análisis y seguimiento de la contratación
-* Jefe / jefa de servicio de análisis y seguimiento legislativo
-* Jefe / jefa de servicio de antena sísmica
-* Jefe / jefa de servicio de antenas y radiación
-* Jefe / jefa de servicio de aplicaciones
-* Jefe / jefa de servicio de aplicaciones aeronauticas
-* Jefe / jefa de servicio de aplicaciones agricolas e hidrologicas
-* Jefe / jefa de servicio de aplicaciones forestales
-* Jefe / jefa de servicio de aplicaciones industriales
-* Jefe / jefa de servicio de aplicaciones informaticas
-* Jefe / jefa de servicio de aplicaciones y aprovechamientos esp.
-* Jefe / jefa de servicio de apoyo
-* Jefe / jefa de servicio de apoyo a empresa
-* Jefe / jefa de servicio de apoyo a la formación ocupacional
-* Jefe / jefa de servicio de apoyo a la gest.económica
-* Jefe / jefa de servicio de apoyo a la inspec. servicios
-* Jefe / jefa de servicio de apoyo a organos de participación
-* Jefe / jefa de servicio de apoyo administrativo
-* Jefe / jefa de servicio de apoyo al gabinete
-* Jefe / jefa de servicio de apoyo informatico
-* Jefe / jefa de servicio de apoyo informatico estadístico
-* Jefe / jefa de servicio de apoyo junta contratación y mesas c.
-* Jefe / jefa de servicio de apoyo jurídico de rrhh
-* Jefe / jefa de servicio de apoyo n26
-* Jefe / jefa de servicio de apoyo oficina del director
-* Jefe / jefa de servicio de apoyo sede electrónica
-* Jefe / jefa de servicio de apoyo técnico
-* Jefe / jefa de servicio de apoyo técnico a las unidades perifericas
-* Jefe / jefa de servicio de apoyo técnico a oficinas de empleo
-* Jefe / jefa de servicio de apoyo técnico federativo
-* Jefe / jefa de servicio de apoyo técnico y asistencia
-* Jefe / jefa de servicio de apoyo técnico-jurídico
-* Jefe / jefa de servicio de apoyo tecnológico
-* Jefe / jefa de servicio de apoyo y atención al usuario red
-* Jefe / jefa de servicio de aprendizaje a lo largo de la vida
-* Jefe / jefa de servicio de archivo
-* Jefe / jefa de servicio de archivo central
-* Jefe / jefa de servicio de archivo y documentación
-* Jefe / jefa de servicio de archivos
-* Jefe / jefa de servicio de arqueología
-* Jefe / jefa de servicio de arquitectura
-* Jefe / jefa de servicio de arquitectura y obras
-* Jefe / jefa de servicio de arquitectura y standares
-* Jefe / jefa de servicio de arrendamientos
-* Jefe / jefa de servicio de asesoramiento
-* Jefe / jefa de servicio de asesoramiento y apoyo
-* Jefe / jefa de servicio de asimilación de datos y sistemas
-* Jefe / jefa de servicio de asistencia a la ingeniería
-* Jefe / jefa de servicio de asistencia farmacéutica
-* Jefe / jefa de servicio de asistencia jurídica
-* Jefe / jefa de servicio de asistencia jurídica área personal
-* Jefe / jefa de servicio de asistencia sanitaria
-* Jefe / jefa de servicio de asistencia sanitaria y farmacéutica de admon. penit.
-* Jefe / jefa de servicio de asistencia técnica
-* Jefe / jefa de servicio de asistencia técnica e informes
-* Jefe / jefa de servicio de asistencia técnica formac.continua.
-* Jefe / jefa de servicio de asistencia técnica y convenios de admon. penit.
-* Jefe / jefa de servicio de asistencial
-* Jefe / jefa de servicio de asociaciones
-* Jefe / jefa de servicio de asociaciones utilidad pública
-* Jefe / jefa de servicio de asuntos administrativos
-* Jefe / jefa de servicio de asuntos administrativos i
-* Jefe / jefa de servicio de asuntos administrativos ii
-* Jefe / jefa de servicio de asuntos administrativos iii
-* Jefe / jefa de servicio de asuntos administrativos iv
-* Jefe / jefa de servicio de asuntos agricolas
-* Jefe / jefa de servicio de asuntos bilaterales
-* Jefe / jefa de servicio de asuntos defensa
-* Jefe / jefa de servicio de asuntos economicos
-* Jefe / jefa de servicio de asuntos financieros
-* Jefe / jefa de servicio de asuntos gener. y gest. patrimonial
-* Jefe / jefa de servicio de asuntos generales
-* Jefe / jefa de servicio de asuntos generales de admon. penit.
-* Jefe / jefa de servicio de asuntos generales y régimen interior
-* Jefe / jefa de servicio de asuntos industriales y energeticos
-* Jefe / jefa de servicio de asuntos internacionales
-* Jefe / jefa de servicio de asuntos judiciales
-* Jefe / jefa de servicio de asuntos juridicos
-* Jefe / jefa de servicio de asuntos juridicos de admon. penit.
-* Jefe / jefa de servicio de asuntos juridicos sociales y h
-* Jefe / jefa de servicio de asuntos laborales marítimos
-* Jefe / jefa de servicio de asuntos regist. not. jurid. y legal.
-* Jefe / jefa de servicio de asuntos técnicos
-* Jefe / jefa de servicio de atención a usuarios
-* Jefe / jefa de servicio de atención al ciudadano
-* Jefe / jefa de servicio de atención al deportista de alto nivel
-* Jefe / jefa de servicio de atención al público
-* Jefe / jefa de servicio de atención alumnado y asuntos grles.
-* Jefe / jefa de servicio de atención ciudadano
-* Jefe / jefa de servicio de atención dependencia
-* Jefe / jefa de servicio de atención detenidos
-* Jefe / jefa de servicio de atención sociosanitaria
-* Jefe / jefa de servicio de audiovisuales
-* Jefe / jefa de servicio de audiovisuales y telefonía móvil
-* Jefe / jefa de servicio de auditoria interna
-* Jefe / jefa de servicio de auditoria sanitaria
-* Jefe / jefa de servicio de automatizacion gestión recaudatoria
-* Jefe / jefa de servicio de autoproteccion corporativa
-* Jefe / jefa de servicio de autorización vertidos
-* Jefe / jefa de servicio de autorización y reg.med.def.vegetal
-* Jefe / jefa de servicio de autorizaciones complementarias circulación
-* Jefe / jefa de servicio de autorizaciones para trabajar
-* Jefe / jefa de servicio de autorizaciones y tráfico eurorregional
-* Jefe / jefa de servicio de auxilio judicial
-* Jefe / jefa de servicio de ayudas de emergencia
-* Jefe / jefa de servicio de bases de datos agroalimentara
-* Jefe / jefa de servicio de becarios y formación
-* Jefe / jefa de servicio de becas
-* Jefe / jefa de servicio de becas y ayudas
-* Jefe / jefa de servicio de biblioteca
-* Jefe / jefa de servicio de biblioteca central
-* Jefe / jefa de servicio de biblioteca general
-* Jefe / jefa de servicio de biblioteca hispánica
-* Jefe / jefa de servicio de biblioteca islámica
-* Jefe / jefa de servicio de biblioteca y documentación
-* Jefe / jefa de servicio de bienes inmuebles
-* Jefe / jefa de servicio de bienes y patrimonio forestal
-* Jefe / jefa de servicio de biotecnologia
-* Jefe / jefa de servicio de biotecnologia y control biológico
-* Jefe / jefa de servicio de busquedas
-* Jefe / jefa de servicio de caducidad
-* Jefe / jefa de servicio de caja
-* Jefe / jefa de servicio de caja pagadora
-* Jefe / jefa de servicio de caja y tesorería
-* Jefe / jefa de servicio de cajas pagadoras
-* Jefe / jefa de servicio de calidad
-* Jefe / jefa de servicio de calidad vino
-* Jefe / jefa de servicio de calidad vinos y bebidas
-* Jefe / jefa de servicio de calidad y resultados
-* Jefe / jefa de servicio de calificación profesional
-* Jefe / jefa de servicio de cartografía
-* Jefe / jefa de servicio de cartografía derivada
-* Jefe / jefa de servicio de cartografía geomorfologica
-* Jefe / jefa de servicio de catalogación
-* Jefe / jefa de servicio de central de pagos
-* Jefe / jefa de servicio de central de tasas y presupuestos
-* Jefe / jefa de servicio de centro nacional de desarrollo curricular
-* Jefe / jefa de servicio de centros alto rendimiento
-* Jefe / jefa de servicio de centros colaboradores
-* Jefe / jefa de servicio de centros de referencia nacional y planificación formativa
-* Jefe / jefa de servicio de centros privados
-* Jefe / jefa de servicio de centros tecnologicos
-* Jefe / jefa de servicio de centros y programas
-* Jefe / jefa de servicio de certificación y promoción agricultura integrada
-* Jefe / jefa de servicio de clasificación
-* Jefe / jefa de servicio de clasificación contratistas de obras
-* Jefe / jefa de servicio de clasificación de admon. penit.
-* Jefe / jefa de servicio de clasificación de contratistas obras
-* Jefe / jefa de servicio de clasificación empresas de servicios
-* Jefe / jefa de servicio de clasificación empresas servicio
-* Jefe / jefa de servicio de colaboración internacional pensiones
-* Jefe / jefa de servicio de colaboración socio-sanitaria
-* Jefe / jefa de servicio de colectivos integrados y regularizacion de ingresos
-* Jefe / jefa de servicio de comisaria aguas
-* Jefe / jefa de servicio de comisiones técnicas
-* Jefe / jefa de servicio de cómite hispano-norteamericano
-* Jefe / jefa de servicio de compatibilidad eletromagnetica
-* Jefe / jefa de servicio de competencias
-* Jefe / jefa de servicio de componentes y aditivos
-* Jefe / jefa de servicio de compra
-* Jefe / jefa de servicio de compras y suministros
-* Jefe / jefa de servicio de comunicación cultural
-* Jefe / jefa de servicio de comunicación interterritorial
-* Jefe / jefa de servicio de comunicaciones
-* Jefe / jefa de servicio de comunicaciones y desarrollo
-* Jefe / jefa de servicio de comunidades de usuarios
-* Jefe / jefa de servicio de comunidades usuarios régimen san. y as. juridic.
-* Jefe / jefa de servicio de comunidades y usuarios
-* Jefe / jefa de servicio de concesiones de viajeros
-* Jefe / jefa de servicio de concesiones y autorizaciones
-* Jefe / jefa de servicio de conferencias
-* Jefe / jefa de servicio de conserv. y restaur. obras de arte, patrim. arqueológico y etnográfico
-* Jefe / jefa de servicio de conserv. y restaur. patrim. bibliográfico, documental y obra gráfica
-* Jefe / jefa de servicio de conservación
-* Jefe / jefa de servicio de conservación del patrimonio
-* Jefe / jefa de servicio de conservación genética
-* Jefe / jefa de servicio de conservación integral
-* Jefe / jefa de servicio de conservación y explotación
-* Jefe / jefa de servicio de construcción
-* Jefe / jefa de servicio de consultas e información
-* Jefe / jefa de servicio de contabilidad
-* Jefe / jefa de servicio de contabilidad analítica
-* Jefe / jefa de servicio de contabilidad analítica e inversiones
-* Jefe / jefa de servicio de contabilidad de admon. penit.
-* Jefe / jefa de servicio de contabilidad e ingresos publicos
-* Jefe / jefa de servicio de contabilidad financiera
-* Jefe / jefa de servicio de contabilidad financiera y analítica
-* Jefe / jefa de servicio de contabilidad ingresos
-* Jefe / jefa de servicio de contabilidad presupuestaria
-* Jefe / jefa de servicio de contabilidad y control de ingresos
-* Jefe / jefa de servicio de contabilidad y control del gasto
-* Jefe / jefa de servicio de contabilidad y control gasto
-* Jefe / jefa de servicio de contabilidad y control tesorería
-* Jefe / jefa de servicio de contabilidad y gestión económica
-* Jefe / jefa de servicio de contabilidad y gestión ingresos
-* Jefe / jefa de servicio de contabilidad y presupuestos
-* Jefe / jefa de servicio de contabilidad y tasas
-* Jefe / jefa de servicio de contabilidad y tesorería
-* Jefe / jefa de servicio de contabilidad, habilitación e ingresos
-* Jefe / jefa de servicio de contaminación atmosf.aerosoles
-* Jefe / jefa de servicio de contaminación hidrica
-* Jefe / jefa de servicio de contaminantes
-* Jefe / jefa de servicio de contratación
-* Jefe / jefa de servicio de contratación administración penitenciaria
-* Jefe / jefa de servicio de contratación administrativa
-* Jefe / jefa de servicio de contratación bienes tecnolog. información
-* Jefe / jefa de servicio de contratación de obras
-* Jefe / jefa de servicio de contratación de sistemas logicos
-* Jefe / jefa de servicio de contratación de suministros
-* Jefe / jefa de servicio de contratación de telecomunicaciones
-* Jefe / jefa de servicio de contratación equipamientos
-* Jefe / jefa de servicio de contratación gastos funcionamiento
-* Jefe / jefa de servicio de contratación mobiliario y automocion
-* Jefe / jefa de servicio de contratación y adjudicaciones
-* Jefe / jefa de servicio de contratación y gestión pagos
-* Jefe / jefa de servicio de contratación y normativa
-* Jefe / jefa de servicio de contratación y pagaduría
-* Jefe / jefa de servicio de contratación y presupuestos
-* Jefe / jefa de servicio de contratación y régimen interior
-* Jefe / jefa de servicio de contratación y suministros
-* Jefe / jefa de servicio de contratistas asistencia técnica
-* Jefe / jefa de servicio de contratos
-* Jefe / jefa de servicio de control
-* Jefe / jefa de servicio de control alimentario
-* Jefe / jefa de servicio de control bibliográfico publicaciones seriadas
-* Jefe / jefa de servicio de control calidad
-* Jefe / jefa de servicio de control calidad iii
-* Jefe / jefa de servicio de control calidad prod. origen animal
-* Jefe / jefa de servicio de control centros ense.
-* Jefe / jefa de servicio de control contable y financiero
-* Jefe / jefa de servicio de control de calidad
-* Jefe / jefa de servicio de control de calidad y análisis aguas
-* Jefe / jefa de servicio de control de calidad y vertidos
-* Jefe / jefa de servicio de control de contrataciones
-* Jefe / jefa de servicio de control de gestión
-* Jefe / jefa de servicio de control de ingresos
-* Jefe / jefa de servicio de control de inversiones y patrimonio de admon. penit.
-* Jefe / jefa de servicio de control de la gestión
-* Jefe / jefa de servicio de control de tributos cedidos
-* Jefe / jefa de servicio de control del juego
-* Jefe / jefa de servicio de control económico
-* Jefe / jefa de servicio de control expend.complementarias
-* Jefe / jefa de servicio de control expend.grales.e interiores
-* Jefe / jefa de servicio de control financiero
-* Jefe / jefa de servicio de control higiénico sanitario
-* Jefe / jefa de servicio de control indirecto
-* Jefe / jefa de servicio de control inspección
-* Jefe / jefa de servicio de control presup. y retribución
-* Jefe / jefa de servicio de control presupuestario
-* Jefe / jefa de servicio de control sector público
-* Jefe / jefa de servicio de control subvenc. y ayudas publicas
-* Jefe / jefa de servicio de control subvenc. y contabilidad
-* Jefe / jefa de servicio de control telematico de admon. penit.
-* Jefe / jefa de servicio de control y coord. ingresos
-* Jefe / jefa de servicio de control y coord. pagos
-* Jefe / jefa de servicio de control y gestión
-* Jefe / jefa de servicio de control y gestión de recursos humanos
-* Jefe / jefa de servicio de control y seguimiento
-* Jefe / jefa de servicio de control y seguimiento presupuestario
-* Jefe / jefa de servicio de control y seguimiento programas
-* Jefe / jefa de servicio de control y vigilancia dph
-* Jefe / jefa de servicio de control y vigilancia dph 1
-* Jefe / jefa de servicio de control y vigilancia dph 2
-* Jefe / jefa de servicio de control, ayudas y subv.
-* Jefe / jefa de servicio de controles de alimentación
-* Jefe / jefa de servicio de convenios
-* Jefe / jefa de servicio de convenios aereos
-* Jefe / jefa de servicio de convenios consulares
-* Jefe / jefa de servicio de convenios y acuerdos internac. seg. soc.
-* Jefe / jefa de servicio de convenios y oper.comer.
-* Jefe / jefa de servicio de convocatorias ongd
-* Jefe / jefa de servicio de cooperación
-* Jefe / jefa de servicio de cooperación al desarrollo y cambio climático
-* Jefe / jefa de servicio de cooperación con asociaciones
-* Jefe / jefa de servicio de cooperación electoral
-* Jefe / jefa de servicio de cooperación internac. multilateral
-* Jefe / jefa de servicio de cooperación internacional
-* Jefe / jefa de servicio de cooperación jurídica ínter.
-* Jefe / jefa de servicio de cooperación marítima
-* Jefe / jefa de servicio de cooperación nacional
-* Jefe / jefa de servicio de cooperación nacional y con iberoamerica
-* Jefe / jefa de servicio de cooperación técnica internacional
-* Jefe / jefa de servicio de cooperación terrestre
-* Jefe / jefa de servicio de cooperación universitaria
-* Jefe / jefa de servicio de cooperación y colaboración con ccaa.
-* Jefe / jefa de servicio de cooperación y difusión teatral
-* Jefe / jefa de servicio de cooperación y promoción
-* Jefe / jefa de servicio de coordinación
-* Jefe / jefa de servicio de coordinación actuaciones especiales
-* Jefe / jefa de servicio de coordinación administrativa de admon. penit.
-* Jefe / jefa de servicio de coordinación administrativa y patrimonio
-* Jefe / jefa de servicio de coordinación adminstrativa
-* Jefe / jefa de servicio de coordinación admon. de justicia
-* Jefe / jefa de servicio de coordinación archivística
-* Jefe / jefa de servicio de coordinación asuntos general
-* Jefe / jefa de servicio de coordinación cartográfica
-* Jefe / jefa de servicio de coordinación cc.aa.
-* Jefe / jefa de servicio de coordinación con cc.aa.
-* Jefe / jefa de servicio de coordinación con el exterior
-* Jefe / jefa de servicio de coordinación cooperación
-* Jefe / jefa de servicio de coordinación cultural
-* Jefe / jefa de servicio de coordinación de educación ambiental
-* Jefe / jefa de servicio de coordinación de ense/anzas aeronauti
-* Jefe / jefa de servicio de coordinación de inventarios
-* Jefe / jefa de servicio de coordinación de inversiones
-* Jefe / jefa de servicio de coordinación de niveles asistenciales y programas de salud
-* Jefe / jefa de servicio de coordinación de pagos
-* Jefe / jefa de servicio de coordinación de procesos catastrales
-* Jefe / jefa de servicio de coordinación de transporte de mercancias perecederas
-* Jefe / jefa de servicio de coordinación e informes
-* Jefe / jefa de servicio de coordinación e infraestructuras.
-* Jefe / jefa de servicio de coordinación empresarial
-* Jefe / jefa de servicio de coordinación enseñanzas deportivas
-* Jefe / jefa de servicio de coordinación entidades tuteladas
-* Jefe / jefa de servicio de coordinación estadística
-* Jefe / jefa de servicio de coordinación farmacéutica
-* Jefe / jefa de servicio de coordinación fitosanitaria
-* Jefe / jefa de servicio de coordinación informática
-* Jefe / jefa de servicio de coordinación inmobiliaria
-* Jefe / jefa de servicio de coordinación inspección
-* Jefe / jefa de servicio de coordinación letrados y proced.espec.
-* Jefe / jefa de servicio de coordinación medioambiental
-* Jefe / jefa de servicio de coordinación mobiliaria
-* Jefe / jefa de servicio de coordinación normativa
-* Jefe / jefa de servicio de coordinación organos colegiados
-* Jefe / jefa de servicio de coordinación p3
-* Jefe / jefa de servicio de coordinación patrimonial
-* Jefe / jefa de servicio de coordinación presupuestaria
-* Jefe / jefa de servicio de coordinación procesos castastrales
-* Jefe / jefa de servicio de coordinación procesos catastrales
-* Jefe / jefa de servicio de coordinación prog. europeos
-* Jefe / jefa de servicio de coordinación registros e inscripciones registrales
-* Jefe / jefa de servicio de coordinación técnica
-* Jefe / jefa de servicio de coordinación y act. especiales
-* Jefe / jefa de servicio de coordinación y actuaciones espec.
-* Jefe / jefa de servicio de coordinación y apoyo
-* Jefe / jefa de servicio de coordinación y apoyo administrativo
-* Jefe / jefa de servicio de coordinación y desarrollo normativo u.e.
-* Jefe / jefa de servicio de coordinación y estudios
-* Jefe / jefa de servicio de coordinación y gestión administrativa
-* Jefe / jefa de servicio de coordinación y gestión de inversiones
-* Jefe / jefa de servicio de coordinación y normalización
-* Jefe / jefa de servicio de coordinación y organización
-* Jefe / jefa de servicio de coordinación y promoción calid
-* Jefe / jefa de servicio de coordinación y publicaciones
-* Jefe / jefa de servicio de coordinación y seguimiento
-* Jefe / jefa de servicio de coordinación y tramitación parlamentaria
-* Jefe / jefa de servicio de corrección de terrenos y estructuras
-* Jefe / jefa de servicio de correo diplomático
-* Jefe / jefa de servicio de costes programas asistenciales
-* Jefe / jefa de servicio de cotización y recaudación
-* Jefe / jefa de servicio de cotizaciones y otros ingresos
-* Jefe / jefa de servicio de coyuntura demanda interna
-* Jefe / jefa de servicio de coyuntura mercado trabajo
-* Jefe / jefa de servicio de coyuntura precios
-* Jefe / jefa de servicio de coyuntura producción
-* Jefe / jefa de servicio de coyuntura sector exterior
-* Jefe / jefa de servicio de coyuntura sector financiero
-* Jefe / jefa de servicio de ctrol radiocomunic. fijas y moviles
-* Jefe / jefa de servicio de custodia labores decomisadas
-* Jefe / jefa de servicio de datos basicos
-* Jefe / jefa de servicio de datos sismicos
-* Jefe / jefa de servicio de defensa contra incendios
-* Jefe / jefa de servicio de defensa del patrimonio
-* Jefe / jefa de servicio de defensas
-* Jefe / jefa de servicio de delimitac.territoriales
-* Jefe / jefa de servicio de deporte escolar
-* Jefe / jefa de servicio de deporte universitario
-* Jefe / jefa de servicio de depósito legal
-* Jefe / jefa de servicio de derecho comunitario
-* Jefe / jefa de servicio de derechos propiedad intelectual
-* Jefe / jefa de servicio de desarrollo
-* Jefe / jefa de servicio de desarrollo alimentario
-* Jefe / jefa de servicio de desarrollo apoyo informatico
-* Jefe / jefa de servicio de desarrollo de la red
-* Jefe / jefa de servicio de desarrollo de modelos macroeconomicos
-* Jefe / jefa de servicio de desarrollo de proyectos
-* Jefe / jefa de servicio de desarrollo de sistemas informáticos
-* Jefe / jefa de servicio de desarrollo informatico
-* Jefe / jefa de servicio de desarrollo normativo
-* Jefe / jefa de servicio de desarrollo normativo aeronáutico
-* Jefe / jefa de servicio de desarrollo sistemas
-* Jefe / jefa de servicio de desarrollo web
-* Jefe / jefa de servicio de desarrollos formativos
-* Jefe / jefa de servicio de desarrollos medioambientales
-* Jefe / jefa de servicio de desarrollos web
-* Jefe / jefa de servicio de deteccion de señales
-* Jefe / jefa de servicio de deteccion y discriminación nuclear
-* Jefe / jefa de servicio de dibujos y grabados
-* Jefe / jefa de servicio de difusión
-* Jefe / jefa de servicio de difusión de contenidos digitales
-* Jefe / jefa de servicio de difusión electrónica y public.
-* Jefe / jefa de servicio de difusión tecnológica
-* Jefe / jefa de servicio de difusión y comunicación
-* Jefe / jefa de servicio de difusión y documentación
-* Jefe / jefa de servicio de difusión y transferencia
-* Jefe / jefa de servicio de difusión y transferencias
-* Jefe / jefa de servicio de digitalizacion consular
-* Jefe / jefa de servicio de diseño aplicaciones
-* Jefe / jefa de servicio de diseños indutriales
-* Jefe / jefa de servicio de distribución y venta
-* Jefe / jefa de servicio de divulgación
-* Jefe / jefa de servicio de divulgación y gestión colección
-* Jefe / jefa de servicio de divulgación y gestión fondo antiguo
-* Jefe / jefa de servicio de documentación
-* Jefe / jefa de servicio de documentación del registro
-* Jefe / jefa de servicio de documentación e información
-* Jefe / jefa de servicio de documentación electoral
-* Jefe / jefa de servicio de documentación geográfica y bibliotec
-* Jefe / jefa de servicio de documentación jurídica
-* Jefe / jefa de servicio de documentación programas internaciona
-* Jefe / jefa de servicio de documentación sanitaria
-* Jefe / jefa de servicio de documentación y biblioteca
-* Jefe / jefa de servicio de documentación y bibliotecas
-* Jefe / jefa de servicio de documentación y coordinación cc.dd.gobierno
-* Jefe / jefa de servicio de documentación y divulgación
-* Jefe / jefa de servicio de documentación y estudios
-* Jefe / jefa de servicio de documentación y normalización
-* Jefe / jefa de servicio de donativo y canje
-* Jefe / jefa de servicio de drogodependencia de admon. penit.
-* Jefe / jefa de servicio de economía de medicamentos y productos sanitarios
-* Jefe / jefa de servicio de ecosistemas hidricos
-* Jefe / jefa de servicio de edición
-* Jefe / jefa de servicio de edición de publicaciones periodicas
-* Jefe / jefa de servicio de edición y trazado
-* Jefe / jefa de servicio de ediciones especiales
-* Jefe / jefa de servicio de editorial
-* Jefe / jefa de servicio de educación escolar y personas adultas
-* Jefe / jefa de servicio de educación sanitaria
-* Jefe / jefa de servicio de educación secundaria
-* Jefe / jefa de servicio de ejecución de pagos
-* Jefe / jefa de servicio de elaboración del presupuesto
-* Jefe / jefa de servicio de empleo público local
-* Jefe / jefa de servicio de empresas
-* Jefe / jefa de servicio de empresas navieras y documentac
-* Jefe / jefa de servicio de enajenaciones
-* Jefe / jefa de servicio de ensenanzas artisticas
-* Jefe / jefa de servicio de entidades religiosas
-* Jefe / jefa de servicio de epidemiologia enfermedades cardiovasculares
-* Jefe / jefa de servicio de equipamiento de admon. penit.
-* Jefe / jefa de servicio de equipamiento informatico
-* Jefe / jefa de servicio de escuelas taller y casas de oficio
-* Jefe / jefa de servicio de espectroscopia
-* Jefe / jefa de servicio de est. edif. y vivienda
-* Jefe / jefa de servicio de est.construcción
-* Jefe / jefa de servicio de estabilidad y francobordo
-* Jefe / jefa de servicio de estad. adm. y de síntesis
-* Jefe / jefa de servicio de estadística
-* Jefe / jefa de servicio de estadística actividad hospitalaria
-* Jefe / jefa de servicio de estadística de salud
-* Jefe / jefa de servicio de estadística de vivienda
-* Jefe / jefa de servicio de estadística y análisis de siniestros
-* Jefe / jefa de servicio de estadísticas agrarias
-* Jefe / jefa de servicio de estadísticas de la pesca
-* Jefe / jefa de servicio de estadísticas sobre drogodependencia
-* Jefe / jefa de servicio de estadísticas y estudios
-* Jefe / jefa de servicio de estadísticas y evaluación
-* Jefe / jefa de servicio de estado civil
-* Jefe / jefa de servicio de estudios
-* Jefe / jefa de servicio de estudios de carreteras
-* Jefe / jefa de servicio de estudios e información
-* Jefe / jefa de servicio de estudios e informes
-* Jefe / jefa de servicio de estudios e invest.cult.herbac.exten.
-* Jefe / jefa de servicio de estudios e invest.cult.herbac.inten.
-* Jefe / jefa de servicio de estudios economía y uso agua
-* Jefe / jefa de servicio de estudios economicos
-* Jefe / jefa de servicio de estudios economicos financ.
-* Jefe / jefa de servicio de estudios hh. ll.
-* Jefe / jefa de servicio de estudios hidrologicos
-* Jefe / jefa de servicio de estudios medioambientales
-* Jefe / jefa de servicio de estudios medioambientales e hidrolog.
-* Jefe / jefa de servicio de estudios técnicos
-* Jefe / jefa de servicio de estudios urbanos
-* Jefe / jefa de servicio de estudios y análisis economicos seguros
-* Jefe / jefa de servicio de estudios y concursos
-* Jefe / jefa de servicio de estudios y coord. documental
-* Jefe / jefa de servicio de estudios y desarrollo
-* Jefe / jefa de servicio de estudios y documentación
-* Jefe / jefa de servicio de estudios y documentación de admon. penit.
-* Jefe / jefa de servicio de estudios y programas
-* Jefe / jefa de servicio de estudios y proyectos
-* Jefe / jefa de servicio de estudios, análisis y planificación antifraude
-* Jefe / jefa de servicio de estupefacientes
-* Jefe / jefa de servicio de evaluación
-* Jefe / jefa de servicio de evaluación clínica medicam.uso humano
-* Jefe / jefa de servicio de evaluación de área terapéutica clínica
-* Jefe / jefa de servicio de evaluación de productos biologicos
-* Jefe / jefa de servicio de evaluación de riesgos biologicos
-* Jefe / jefa de servicio de evaluación de riesgos nutricionales
-* Jefe / jefa de servicio de evaluación de riesgos quimicos
-* Jefe / jefa de servicio de evaluación e insp.inst.
-* Jefe / jefa de servicio de evaluación impacto ambiental
-* Jefe / jefa de servicio de evaluación medicamen.área internacional
-* Jefe / jefa de servicio de evaluación medicamentos
-* Jefe / jefa de servicio de evaluación medicamentos uso veterinario
-* Jefe / jefa de servicio de evaluación prestación farmacéutica
-* Jefe / jefa de servicio de evaluación procedimi.y pract.clinicas
-* Jefe / jefa de servicio de evaluación productos sanitarios
-* Jefe / jefa de servicio de evaluación química medicam.uso humano
-* Jefe / jefa de servicio de evaluación resultados
-* Jefe / jefa de servicio de evaluación riesgos alimentación animal
-* Jefe / jefa de servicio de evaluación sanit. riesgos ambient.
-* Jefe / jefa de servicio de evaluación sanitaria
-* Jefe / jefa de servicio de evaluación y control
-* Jefe / jefa de servicio de evaluación y seguimiento
-* Jefe / jefa de servicio de examen i
-* Jefe / jefa de servicio de examen ii
-* Jefe / jefa de servicio de examen iii
-* Jefe / jefa de servicio de examen iv
-* Jefe / jefa de servicio de examen ix
-* Jefe / jefa de servicio de examen v
-* Jefe / jefa de servicio de examen vi
-* Jefe / jefa de servicio de examen vii
-* Jefe / jefa de servicio de examen viii
-* Jefe / jefa de servicio de examen y forma y clasificación de productos y servicios
-* Jefe / jefa de servicio de expedientes sancionadores
-* Jefe / jefa de servicio de experiencia de usuario
-* Jefe / jefa de servicio de explotación
-* Jefe / jefa de servicio de explotación de sistemas inform.
-* Jefe / jefa de servicio de explotación de sistemas informáticos
-* Jefe / jefa de servicio de explotación sistema eléctrico
-* Jefe / jefa de servicio de explotación y base de datos de admon. penit.
-* Jefe / jefa de servicio de explotación y sistemas informáticos
-* Jefe / jefa de servicio de explotación zona ii
-* Jefe / jefa de servicio de explotación zona iv
-* Jefe / jefa de servicio de exposiciones
-* Jefe / jefa de servicio de expropiaciones
-* Jefe / jefa de servicio de expropiaciones y patrimonio
-* Jefe / jefa de servicio de expropiaciones y proced. admvo.
-* Jefe / jefa de servicio de extradiciones
-* Jefe / jefa de servicio de extranjería
-* Jefe / jefa de servicio de extranjería de admon. penit.
-* Jefe / jefa de servicio de familias
-* Jefe / jefa de servicio de farmacia
-* Jefe / jefa de servicio de farmacovigilancia
-* Jefe / jefa de servicio de feder
-* Jefe / jefa de servicio de ferias
-* Jefe / jefa de servicio de financiacion autonómica
-* Jefe / jefa de servicio de financiacion partidos politicos
-* Jefe / jefa de servicio de flota recreo y equipos marinos
-* Jefe / jefa de servicio de fomento a la investigación
-* Jefe / jefa de servicio de fondo social europeo
-* Jefe / jefa de servicio de fondos bibliográficos impresos antiguos
-* Jefe / jefa de servicio de fondos especiales
-* Jefe / jefa de servicio de form. pers. invest. extran.
-* Jefe / jefa de servicio de formación
-* Jefe / jefa de servicio de formación abierta
-* Jefe / jefa de servicio de formación continua
-* Jefe / jefa de servicio de formación de admon. penit.
-* Jefe / jefa de servicio de formación de bomberos
-* Jefe / jefa de servicio de formación deportiva
-* Jefe / jefa de servicio de formación e inserción laboral de admon. penit.
-* Jefe / jefa de servicio de formación formadores
-* Jefe / jefa de servicio de formación ocupacional de admon. penit.
-* Jefe / jefa de servicio de formación vial
-* Jefe / jefa de servicio de formación y acción social
-* Jefe / jefa de servicio de formación y asistencia técnica
-* Jefe / jefa de servicio de formación y documentación
-* Jefe / jefa de servicio de formación y seguridad vial
-* Jefe / jefa de servicio de formación, estudios y documentación
-* Jefe / jefa de servicio de fotografía y digitalizacion
-* Jefe / jefa de servicio de fraudes y correcciones financ.
-* Jefe / jefa de servicio de fuentes de información
-* Jefe / jefa de servicio de fundaciones
-* Jefe / jefa de servicio de gabinete comunicaciones
-* Jefe / jefa de servicio de gabinete ministro
-* Jefe / jefa de servicio de gabinete técnico
-* Jefe / jefa de servicio de ganadería ecológica
-* Jefe / jefa de servicio de garantía de calidad
-* Jefe / jefa de servicio de gastos generales en exterior
-* Jefe / jefa de servicio de geodesia
-* Jefe / jefa de servicio de geomagnetismo
-* Jefe / jefa de servicio de gestión
-* Jefe / jefa de servicio de gestión (c. s.)
-* Jefe / jefa de servicio de gestión administrativa
-* Jefe / jefa de servicio de gestión administrativa de admon. penit.
-* Jefe / jefa de servicio de gestión administrativa y patrimonio
-* Jefe / jefa de servicio de gestión administrativa y régimen interior
-* Jefe / jefa de servicio de gestión aplicaciones nómina
-* Jefe / jefa de servicio de gestión car y plazas residenciales
-* Jefe / jefa de servicio de gestión catastral
-* Jefe / jefa de servicio de gestión central de observación de admon. penit.
-* Jefe / jefa de servicio de gestión científica
-* Jefe / jefa de servicio de gestión colecciones publicaciones seriadas
-* Jefe / jefa de servicio de gestión colecciones y catalogos
-* Jefe / jefa de servicio de gestión comercial
-* Jefe / jefa de servicio de gestión de ayudas
-* Jefe / jefa de servicio de gestión de bases de datos
-* Jefe / jefa de servicio de gestión de clases pasivas
-* Jefe / jefa de servicio de gestión de contaminantes
-* Jefe / jefa de servicio de gestión de contratos
-* Jefe / jefa de servicio de gestión de creditos
-* Jefe / jefa de servicio de gestión de datos
-* Jefe / jefa de servicio de gestión de dominio público
-* Jefe / jefa de servicio de gestión de evaluación
-* Jefe / jefa de servicio de gestión de expedientes
-* Jefe / jefa de servicio de gestión de gastos
-* Jefe / jefa de servicio de gestión de ingresos
-* Jefe / jefa de servicio de gestión de inmuebles
-* Jefe / jefa de servicio de gestión de la calidad
-* Jefe / jefa de servicio de gestión de la documentación
-* Jefe / jefa de servicio de gestión de la formación
-* Jefe / jefa de servicio de gestión de medios
-* Jefe / jefa de servicio de gestión de obras de admon. penit.
-* Jefe / jefa de servicio de gestión de ofertas
-* Jefe / jefa de servicio de gestión de patrimonio p.g.
-* Jefe / jefa de servicio de gestión de penas y medidas alternativas
-* Jefe / jefa de servicio de gestión de personal
-* Jefe / jefa de servicio de gestión de personal funcionario de admon. penit.
-* Jefe / jefa de servicio de gestión de personal laboral
-* Jefe / jefa de servicio de gestión de personal laboral de admon. penit.
-* Jefe / jefa de servicio de gestión de prestaciones
-* Jefe / jefa de servicio de gestión de programas
-* Jefe / jefa de servicio de gestión de programas sociales
-* Jefe / jefa de servicio de gestión de recursos humanos
-* Jefe / jefa de servicio de gestión de residuos
-* Jefe / jefa de servicio de gestión de riesgos biologicos
-* Jefe / jefa de servicio de gestión de riesgos nutricionales
-* Jefe / jefa de servicio de gestión de servidores y sistemas informáticos
-* Jefe / jefa de servicio de gestión de suministros de admon. penit.
-* Jefe / jefa de servicio de gestión del colectivo
-* Jefe / jefa de servicio de gestión del conocimiento
-* Jefe / jefa de servicio de gestión del presupuesto de recursos
-* Jefe / jefa de servicio de gestión documental
-* Jefe / jefa de servicio de gestión dominio público
-* Jefe / jefa de servicio de gestión e informática
-* Jefe / jefa de servicio de gestión econo.subv.y hábil.material
-* Jefe / jefa de servicio de gestión económica
-* Jefe / jefa de servicio de gestión económica de federaciones
-* Jefe / jefa de servicio de gestión económica de subvenciones
-* Jefe / jefa de servicio de gestión económica fondo de reserva
-* Jefe / jefa de servicio de gestión económica fondo especial
-* Jefe / jefa de servicio de gestión económica fondo general
-* Jefe / jefa de servicio de gestión económica personal y retribuciones
-* Jefe / jefa de servicio de gestión económica y administrativa
-* Jefe / jefa de servicio de gestión económica y asuntos generales
-* Jefe / jefa de servicio de gestión económica y contab.
-* Jefe / jefa de servicio de gestión económica y contabilidad
-* Jefe / jefa de servicio de gestión económica y financiera
-* Jefe / jefa de servicio de gestión económica y habilitación
-* Jefe / jefa de servicio de gestión económica y presupuestaria
-* Jefe / jefa de servicio de gestión económico administrativa de admon. penit.
-* Jefe / jefa de servicio de gestión económico administrativa y rr.hh.
-* Jefe / jefa de servicio de gestión económico-financiera
-* Jefe / jefa de servicio de gestión económico-financiera de consejerias turismo
-* Jefe / jefa de servicio de gestión editorial y difusión
-* Jefe / jefa de servicio de gestión editorial y documental
-* Jefe / jefa de servicio de gestión equipamientos y servicios
-* Jefe / jefa de servicio de gestión escuela nal. protec. civil
-* Jefe / jefa de servicio de gestión estupefacientes y psicotropos
-* Jefe / jefa de servicio de gestión exped. contratación
-* Jefe / jefa de servicio de gestión financiera
-* Jefe / jefa de servicio de gestión formación especial
-* Jefe / jefa de servicio de gestión incap. temporal y maternidad
-* Jefe / jefa de servicio de gestión ingresos
-* Jefe / jefa de servicio de gestión integrada de dpmt
-* Jefe / jefa de servicio de gestión internacional
-* Jefe / jefa de servicio de gestión internacional prestaciones
-* Jefe / jefa de servicio de gestión inversiones en el exterior
-* Jefe / jefa de servicio de gestión investigación
-* Jefe / jefa de servicio de gestión jurídica adva.fondo de reserva
-* Jefe / jefa de servicio de gestión mantenimientos
-* Jefe / jefa de servicio de gestión medicamentos
-* Jefe / jefa de servicio de gestión medios
-* Jefe / jefa de servicio de gestión medios y régimen interior
-* Jefe / jefa de servicio de gestión nominas
-* Jefe / jefa de servicio de gestión obras de emergencia
-* Jefe / jefa de servicio de gestión patrimonial
-* Jefe / jefa de servicio de gestión permiso por puntos
-* Jefe / jefa de servicio de gestión personal
-* Jefe / jefa de servicio de gestión personal bachillerato
-* Jefe / jefa de servicio de gestión personal de formación profesional
-* Jefe / jefa de servicio de gestión personal funcionario
-* Jefe / jefa de servicio de gestión personal laboral
-* Jefe / jefa de servicio de gestión política horizontal comunitaria
-* Jefe / jefa de servicio de gestión prestación farmacéutica
-* Jefe / jefa de servicio de gestión prestaciones
-* Jefe / jefa de servicio de gestión presupuestaria
-* Jefe / jefa de servicio de gestión presupuestaria e indemnizaciones por responsabilidad patrimonial
-* Jefe / jefa de servicio de gestión presupuestaria n26
-* Jefe / jefa de servicio de gestión presupuestaria, gestión económica y contabilidad
-* Jefe / jefa de servicio de gestión procedimientos farmaceuticos
-* Jefe / jefa de servicio de gestión procesos selectivos
-* Jefe / jefa de servicio de gestión puntos de venta con recargo
-* Jefe / jefa de servicio de gestión reaseg. de accidentes de trab.
-* Jefe / jefa de servicio de gestión recursos humanos
-* Jefe / jefa de servicio de gestión rr.hh.y hábil. personal
-* Jefe / jefa de servicio de gestión saih y explotación
-* Jefe / jefa de servicio de gestión sistemas bibliotecarios
-* Jefe / jefa de servicio de gestión técnica
-* Jefe / jefa de servicio de gestión técnica i+d+i
-* Jefe / jefa de servicio de gestión usuarios y apoyo administrativo
-* Jefe / jefa de servicio de gestión y administración
-* Jefe / jefa de servicio de gestión y análisis presupuestario
-* Jefe / jefa de servicio de gestión y control de obras
-* Jefe / jefa de servicio de gestión y documentación técnica
-* Jefe / jefa de servicio de gestión y programación inform.
-* Jefe / jefa de servicio de gestión y seguimiento de contratos
-* Jefe / jefa de servicio de gestor económico-financier
-* Jefe / jefa de servicio de grupos europeos de intercambio de antecedentes
-* Jefe / jefa de servicio de habilitación
-* Jefe / jefa de servicio de habilitación de personal
-* Jefe / jefa de servicio de habilitación de personal y material
-* Jefe / jefa de servicio de habilitación exterior
-* Jefe / jefa de servicio de habilitación general
-* Jefe / jefa de servicio de habilitación personal
-* Jefe / jefa de servicio de habilitación y cajero pagador
-* Jefe / jefa de servicio de habilitación y contabilidad
-* Jefe / jefa de servicio de habilitación y gestión presupuestaria
-* Jefe / jefa de servicio de habilitación y pagaduría
-* Jefe / jefa de servicio de hemoderivados y product. biologicos
-* Jefe / jefa de servicio de hidrogeologia
-* Jefe / jefa de servicio de hidrogeologia profunda y baja permeabilidad
-* Jefe / jefa de servicio de hidrología
-* Jefe / jefa de servicio de hidromorfologia
-* Jefe / jefa de servicio de higiene producción primaria
-* Jefe / jefa de servicio de higiene red alerta alimentación animal
-* Jefe / jefa de servicio de homologación prod.fitosanitarios
-* Jefe / jefa de servicio de implantación rrcc
-* Jefe / jefa de servicio de importación y exportación de productos sanitarios
-* Jefe / jefa de servicio de impresos modernos y publicaciones periodicas
-* Jefe / jefa de servicio de incidencias
-* Jefe / jefa de servicio de indemnizaciones patrimoniales
-* Jefe / jefa de servicio de indicadores
-* Jefe / jefa de servicio de indultos
-* Jefe / jefa de servicio de industrias carnicas y lacteas
-* Jefe / jefa de servicio de industrias forestales
-* Jefe / jefa de servicio de información
-* Jefe / jefa de servicio de información a la ciudadanía
-* Jefe / jefa de servicio de información administrativa
-* Jefe / jefa de servicio de información administrativa y registro
-* Jefe / jefa de servicio de información agroalimentaria
-* Jefe / jefa de servicio de información al ciudadano
-* Jefe / jefa de servicio de información ambiental
-* Jefe / jefa de servicio de información bibliográfica
-* Jefe / jefa de servicio de información económica
-* Jefe / jefa de servicio de información geográfica
-* Jefe / jefa de servicio de información red solvit
-* Jefe / jefa de servicio de información sanitaria
-* Jefe / jefa de servicio de información sanitaria de admon. penit.
-* Jefe / jefa de servicio de información tecnológica
-* Jefe / jefa de servicio de información y asuntos generales
-* Jefe / jefa de servicio de información y atención al ciudadano
-* Jefe / jefa de servicio de información y control operativo
-* Jefe / jefa de servicio de información y movilidad
-* Jefe / jefa de servicio de información y relaciones externas
-* Jefe / jefa de servicio de informática
-* Jefe / jefa de servicio de informática automática
-* Jefe / jefa de servicio de informática de gestión
-* Jefe / jefa de servicio de informática y organización
-* Jefe / jefa de servicio de informatico
-* Jefe / jefa de servicio de informatico a
-* Jefe / jefa de servicio de informatico b
-* Jefe / jefa de servicio de informes
-* Jefe / jefa de servicio de informes financieros y documen
-* Jefe / jefa de servicio de informes juridicos y documentación
-* Jefe / jefa de servicio de informes y asuntos jurid.de personal
-* Jefe / jefa de servicio de informes y coordinación normativa
-* Jefe / jefa de servicio de informes y legislación
-* Jefe / jefa de servicio de informes y seguimiento disposiciones
-* Jefe / jefa de servicio de infraestr.informac. geográfica
-* Jefe / jefa de servicio de infraestructura trasvase
-* Jefe / jefa de servicio de infraestructuras
-* Jefe / jefa de servicio de ing.instal.nucleares
-* Jefe / jefa de servicio de ingeniería fluvial
-* Jefe / jefa de servicio de ingeniería operacional
-* Jefe / jefa de servicio de ingeniería sanitaria
-* Jefe / jefa de servicio de ingresos y tesorería
-* Jefe / jefa de servicio de inmigración
-* Jefe / jefa de servicio de inmuebles
-* Jefe / jefa de servicio de innovación
-* Jefe / jefa de servicio de innovación educativa
-* Jefe / jefa de servicio de inscripción y afiliación
-* Jefe / jefa de servicio de inspección
-* Jefe / jefa de servicio de inspección auditorias
-* Jefe / jefa de servicio de inspección auditorias y s.a.d
-* Jefe / jefa de servicio de inspección comercial
-* Jefe / jefa de servicio de inspección de admon. penit.
-* Jefe / jefa de servicio de inspección de pesca
-* Jefe / jefa de servicio de inspección de proced. de visibilidad reducida en aerodr. de uso público
-* Jefe / jefa de servicio de inspección farmacéutica y control drogas
-* Jefe / jefa de servicio de inspección fiscal federaciones
-* Jefe / jefa de servicio de inspección fiscal subvenciones
-* Jefe / jefa de servicio de inspección instalaciones de productos sanitarios
-* Jefe / jefa de servicio de inspección laboratorios farmaceuticos
-* Jefe / jefa de servicio de inspección pesquera
-* Jefe / jefa de servicio de inspección postal
-* Jefe / jefa de servicio de inspección sanitaria
-* Jefe / jefa de servicio de inspección y certificación
-* Jefe / jefa de servicio de inspección y ordenación normativa
-* Jefe / jefa de servicio de inspección y relac. con usuarios
-* Jefe / jefa de servicio de instalaciones
-* Jefe / jefa de servicio de instalaciones de seguridad
-* Jefe / jefa de servicio de instalaciones propias csd
-* Jefe / jefa de servicio de instalaciones y equipos
-* Jefe / jefa de servicio de instalaciones, proyectos y oficina de supervision de proyectos
-* Jefe / jefa de servicio de instituciones
-* Jefe / jefa de servicio de instrucción
-* Jefe / jefa de servicio de instrucción expedientes
-* Jefe / jefa de servicio de instrucción y tramitación
-* Jefe / jefa de servicio de instrucciones
-* Jefe / jefa de servicio de instrumentación astronómica
-* Jefe / jefa de servicio de instrumentación de ensayos
-* Jefe / jefa de servicio de intercambio información normalizada
-* Jefe / jefa de servicio de interferencias
-* Jefe / jefa de servicio de interferometria y astrometria
-* Jefe / jefa de servicio de internet y nuevas tecnologías
-* Jefe / jefa de servicio de interpretes jurados
-* Jefe / jefa de servicio de intervención
-* Jefe / jefa de servicio de intervención de precios
-* Jefe / jefa de servicio de intervención en patrimonio
-* Jefe / jefa de servicio de intervención y control de centros de admon. penit.
-* Jefe / jefa de servicio de inventario del patrimonio
-* Jefe / jefa de servicio de inventario forestal
-* Jefe / jefa de servicio de inversiones
-* Jefe / jefa de servicio de inversiones y tasas
-* Jefe / jefa de servicio de investigación
-* Jefe / jefa de servicio de investigación del patrimonio
-* Jefe / jefa de servicio de investigación macroeconomica
-* Jefe / jefa de servicio de investigación y divulgación
-* Jefe / jefa de servicio de investigación y tecnología área agrícola
-* Jefe / jefa de servicio de investigación y tecnología área forestal
-* Jefe / jefa de servicio de junta de compras
-* Jefe / jefa de servicio de justificación de subvenciones
-* Jefe / jefa de servicio de ka2
-* Jefe / jefa de servicio de la base topográfica nacional
-* Jefe / jefa de servicio de la unidad central de cajas pagd.
-* Jefe / jefa de servicio de la unidad de inteligencia económica
-* Jefe / jefa de servicio de la unión europea
-* Jefe / jefa de servicio de laboratorio
-* Jefe / jefa de servicio de laboratorio agroalimentario
-* Jefe / jefa de servicio de laboratorio de san.exterior
-* Jefe / jefa de servicio de laboratorio sanidad exterior
-* Jefe / jefa de servicio de legislación
-* Jefe / jefa de servicio de legislación consolidada
-* Jefe / jefa de servicio de legislación veterinaria
-* Jefe / jefa de servicio de legislación y análisis jurídico
-* Jefe / jefa de servicio de levantamiento topográfico
-* Jefe / jefa de servicio de licencias y autorizaciones
-* Jefe / jefa de servicio de licitaciones
-* Jefe / jefa de servicio de línea directa
-* Jefe / jefa de servicio de liquidación pasivos
-* Jefe / jefa de servicio de mantenimiento
-* Jefe / jefa de servicio de mantenimiento de derechos
-* Jefe / jefa de servicio de mantenimiento e instalaciones
-* Jefe / jefa de servicio de mantenimiento y conservación
-* Jefe / jefa de servicio de mantenimiento y obras
-* Jefe / jefa de servicio de mantenimiento y seguridad
-* Jefe / jefa de servicio de manuscritos e incunables
-* Jefe / jefa de servicio de material genético
-* Jefe / jefa de servicio de materiales
-* Jefe / jefa de servicio de materiales y nanotecnologias
-* Jefe / jefa de servicio de mdl y ac
-* Jefe / jefa de servicio de medicamentos biotecnologicos y hemoderivados
-* Jefe / jefa de servicio de medicamentos de uso humano
-* Jefe / jefa de servicio de medicamentos uso publicitario
-* Jefe / jefa de servicio de medicamentos veterinarios
-* Jefe / jefa de servicio de medio abierto de admon. penit.
-* Jefe / jefa de servicio de medios de inspección
-* Jefe / jefa de servicio de medios tecnologicos
-* Jefe / jefa de servicio de mercados
-* Jefe / jefa de servicio de mercancias peligrosas
-* Jefe / jefa de servicio de mercancias peligrosas y perecederas
-* Jefe / jefa de servicio de microbiología alimentaria
-* Jefe / jefa de servicio de migraciones interiores
-* Jefe / jefa de servicio de modelizacion calidad del aire
-* Jefe / jefa de servicio de modelizacion del medio físico marino
-* Jefe / jefa de servicio de modelos de datos geocientificos
-* Jefe / jefa de servicio de modelos mesoescala y especiales
-* Jefe / jefa de servicio de modelos utilidad
-* Jefe / jefa de servicio de modificaciones presupuestarias
-* Jefe / jefa de servicio de montaje y mantenimiento radio
-* Jefe / jefa de servicio de movilidad e información internacional
-* Jefe / jefa de servicio de movilidad erasmus
-* Jefe / jefa de servicio de movilidad leonardo
-* Jefe / jefa de servicio de museo
-* Jefe / jefa de servicio de nacionalidad
-* Jefe / jefa de servicio de necesidades educativas especiales
-* Jefe / jefa de servicio de normalización
-* Jefe / jefa de servicio de normas e informes
-* Jefe / jefa de servicio de normativa
-* Jefe / jefa de servicio de normativa agroalimentaria
-* Jefe / jefa de servicio de normativa comunitaria
-* Jefe / jefa de servicio de normativa técnica
-* Jefe / jefa de servicio de normativa y reg.econom.subvenciones
-* Jefe / jefa de servicio de notificación sucesos
-* Jefe / jefa de servicio de nulidad
-* Jefe / jefa de servicio de objetivos de gestión
-* Jefe / jefa de servicio de obras
-* Jefe / jefa de servicio de obras e instalaciones
-* Jefe / jefa de servicio de obras espec. y activ. medioambientales
-* Jefe / jefa de servicio de observ. polit. inmigrac. y refug.
-* Jefe / jefa de servicio de observación
-* Jefe / jefa de servicio de observatorio ocupacional
-* Jefe / jefa de servicio de ocupación del suelo
-* Jefe / jefa de servicio de oficina de información al mutualista
-* Jefe / jefa de servicio de oficina de supervision de proyectos
-* Jefe / jefa de servicio de oficina del partícipe
-* Jefe / jefa de servicio de oficina destacada
-* Jefe / jefa de servicio de oficina presupuestaria
-* Jefe / jefa de servicio de oficina técnica superv. proy.
-* Jefe / jefa de servicio de oficina transf.resultados inves.igme
-* Jefe / jefa de servicio de ofimatica y redes
-* Jefe / jefa de servicio de ompi y euipo
-* Jefe / jefa de servicio de ong y subvenciones
-* Jefe / jefa de servicio de ong y voluntariado
-* Jefe / jefa de servicio de oo.ii. comerciales
-* Jefe / jefa de servicio de oo.ii. cooperación
-* Jefe / jefa de servicio de oo.ii. desarrollo
-* Jefe / jefa de servicio de oo.ii. y cooperación bilateral
-* Jefe / jefa de servicio de operac. de tesorer. territoriales
-* Jefe / jefa de servicio de operaciones comerciales
-* Jefe / jefa de servicio de optimizacion expendedurias complementarias
-* Jefe / jefa de servicio de optimizacion expendedurias generales
-* Jefe / jefa de servicio de ordenación
-* Jefe / jefa de servicio de ordenación administrativa
-* Jefe / jefa de servicio de ordenación de diarios
-* Jefe / jefa de servicio de ordenación de enseñanzas deportivas
-* Jefe / jefa de servicio de ordenación de prestaciones
-* Jefe / jefa de servicio de ordenación e implantación de oferta de educación a distancia
-* Jefe / jefa de servicio de ordenación enseñanzas deportivas
-* Jefe / jefa de servicio de ordenación farmacéutica
-* Jefe / jefa de servicio de ordenación jurídica de prestaciones
-* Jefe / jefa de servicio de ordenación jurídica sanitaria
-* Jefe / jefa de servicio de ordenación pagos e impuestos
-* Jefe / jefa de servicio de ordenación prestaciones
-* Jefe / jefa de servicio de ordenación sanitaria
-* Jefe / jefa de servicio de ordenación sanitaria de admon. penit.
-* Jefe / jefa de servicio de ordenación técnica y colectivos espe
-* Jefe / jefa de servicio de ordenación y organización
-* Jefe / jefa de servicio de ordenación y seguimiento del contingente
-* Jefe / jefa de servicio de ordenación y vigilancia aliment.
-* Jefe / jefa de servicio de organismo notificado
-* Jefe / jefa de servicio de organización
-* Jefe / jefa de servicio de organización administrativa
-* Jefe / jefa de servicio de organización administrativa y régimen interior
-* Jefe / jefa de servicio de organización de museos estatales
-* Jefe / jefa de servicio de organización rr.hh. y puestos de trabajo
-* Jefe / jefa de servicio de organización y normativa personal
-* Jefe / jefa de servicio de organización y planificación rr.hh.
-* Jefe / jefa de servicio de orientación diagnóstica
-* Jefe / jefa de servicio de orientación educativa
-* Jefe / jefa de servicio de orientación profesional
-* Jefe / jefa de servicio de pagaduría
-* Jefe / jefa de servicio de pagos
-* Jefe / jefa de servicio de pagos centralizados
-* Jefe / jefa de servicio de pagos y mutuas patronales
-* Jefe / jefa de servicio de partenariados exterior e interior
-* Jefe / jefa de servicio de participación
-* Jefe / jefa de servicio de participación en la gestión
-* Jefe / jefa de servicio de participación gestión e informac.
-* Jefe / jefa de servicio de partituras
-* Jefe / jefa de servicio de pasaje doméstico y embarc aux.
-* Jefe / jefa de servicio de pasaportes, documento viaje e informática visados
-* Jefe / jefa de servicio de pat. mecánica gral. y construcción
-* Jefe / jefa de servicio de patente europea y pct
-* Jefe / jefa de servicio de patentes físicas y electricas
-* Jefe / jefa de servicio de patentes químicas
-* Jefe / jefa de servicio de patrimonio
-* Jefe / jefa de servicio de patrimonio adscrito
-* Jefe / jefa de servicio de patrimonio del estado (1)
-* Jefe / jefa de servicio de patrimonio del estado (2)
-* Jefe / jefa de servicio de patrimonio e inventario
-* Jefe / jefa de servicio de patrimonio oo.aa. y s.s.
-* Jefe / jefa de servicio de patrimonio y contratación
-* Jefe / jefa de servicio de patrimonio y régimen interior
-* Jefe / jefa de servicio de pensiones asistenciales
-* Jefe / jefa de servicio de personal
-* Jefe / jefa de servicio de personal funcionario
-* Jefe / jefa de servicio de personal funcionario exterior
-* Jefe / jefa de servicio de personal funcionario y laboral
-* Jefe / jefa de servicio de personal laboral
-* Jefe / jefa de servicio de personal marítimo y pesquero
-* Jefe / jefa de servicio de personal y administración
-* Jefe / jefa de servicio de personal y habilitación de admon. penit.
-* Jefe / jefa de servicio de personal y régimen interior
-* Jefe / jefa de servicio de personal y retribuciones
-* Jefe / jefa de servicio de pesca
-* Jefe / jefa de servicio de planeamiento
-* Jefe / jefa de servicio de planeamiento civil y transportes p.cable
-* Jefe / jefa de servicio de planeamiento proyectos obras expo 92
-* Jefe / jefa de servicio de planeamiento proyectos y obras
-* Jefe / jefa de servicio de planes y estudios
-* Jefe / jefa de servicio de planificación
-* Jefe / jefa de servicio de planificación bibliotecaria
-* Jefe / jefa de servicio de planificación de admon. penit.
-* Jefe / jefa de servicio de planificación económica
-* Jefe / jefa de servicio de planificación hidrológica
-* Jefe / jefa de servicio de planificación informática
-* Jefe / jefa de servicio de planificación personal funcionario
-* Jefe / jefa de servicio de planificación personal laboral
-* Jefe / jefa de servicio de planificación y censo instalaciones
-* Jefe / jefa de servicio de planificación y control de expedientes
-* Jefe / jefa de servicio de planificación y coordinación gestión recaudatoria
-* Jefe / jefa de servicio de planificación y estudios
-* Jefe / jefa de servicio de planificación y gestión de personal
-* Jefe / jefa de servicio de planificación y gestión de producción
-* Jefe / jefa de servicio de planificación y medios
-* Jefe / jefa de servicio de planificación y programación
-* Jefe / jefa de servicio de planificación y retribuciones
-* Jefe / jefa de servicio de planificación y seguimiento de admon. penit.
-* Jefe / jefa de servicio de planificación y seguimiento obras
-* Jefe / jefa de servicio de planificación y selección de rr.hh.
-* Jefe / jefa de servicio de planificación y supervision
-* Jefe / jefa de servicio de policía de aguas y cauces
-* Jefe / jefa de servicio de porcino
-* Jefe / jefa de servicio de poten. y desarrollo
-* Jefe / jefa de servicio de practicaje y seguridad navegac
-* Jefe / jefa de servicio de precios y salarios agrarios
-* Jefe / jefa de servicio de presas
-* Jefe / jefa de servicio de prestación sanitaria
-* Jefe / jefa de servicio de prestaciones
-* Jefe / jefa de servicio de prestaciones económicas
-* Jefe / jefa de servicio de prestaciones sociales
-* Jefe / jefa de servicio de préstamo interbibliotecario
-* Jefe / jefa de servicio de presup.oo.ii.embajadas y admon.cent.
-* Jefe / jefa de servicio de presupuesto
-* Jefe / jefa de servicio de presupuestos
-* Jefe / jefa de servicio de presupuestos contabilidad y gestión i.
-* Jefe / jefa de servicio de presupuestos coop.internac.y cónsul.
-* Jefe / jefa de servicio de presupuestos de admon. penit.
-* Jefe / jefa de servicio de presupuestos y contabilidad
-* Jefe / jefa de servicio de presupuestos y gestión económica
-* Jefe / jefa de servicio de presupuestos y planificación
-* Jefe / jefa de servicio de presupuestos y prog.
-* Jefe / jefa de servicio de presupuestos y programación
-* Jefe / jefa de servicio de presupuestos y programas
-* Jefe / jefa de servicio de presupuestos y retribuciones
-* Jefe / jefa de servicio de presupuestos y tesorería
-* Jefe / jefa de servicio de prevención
-* Jefe / jefa de servicio de prevención a
-* Jefe / jefa de servicio de prevención a de admon. penit.
-* Jefe / jefa de servicio de prevención b
-* Jefe / jefa de servicio de prevención c
-* Jefe / jefa de servicio de prevención de riesgos laborales
-* Jefe / jefa de servicio de prevención desastres
-* Jefe / jefa de servicio de prevención y control fitosanitario
-* Jefe / jefa de servicio de prevención y salud laboral a
-* Jefe / jefa de servicio de prevención y salud laboral b
-* Jefe / jefa de servicio de prevención y salud laboral c
-* Jefe / jefa de servicio de primera infancia y conciliación
-* Jefe / jefa de servicio de procedimiento sancionador
-* Jefe / jefa de servicio de procedimiento sancionador e informes de rec.
-* Jefe / jefa de servicio de procedimientos catastrales
-* Jefe / jefa de servicio de procedimientos concursales
-* Jefe / jefa de servicio de procedimientos de inspecccion
-* Jefe / jefa de servicio de procedimientos informáticos
-* Jefe / jefa de servicio de procedimientos operativos
-* Jefe / jefa de servicio de proceso datos y comunicaciones
-* Jefe / jefa de servicio de procesos
-* Jefe / jefa de servicio de procesos de colocación
-* Jefe / jefa de servicio de procesos integrados
-* Jefe / jefa de servicio de procesos y logistica electoral
-* Jefe / jefa de servicio de producción editorial
-* Jefe / jefa de servicio de producción i
-* Jefe / jefa de servicio de producción i de admon. penit.
-* Jefe / jefa de servicio de producción ii
-* Jefe / jefa de servicio de producción ii de admon. penit.
-* Jefe / jefa de servicio de producción iii de admon. penit.
-* Jefe / jefa de servicio de producción interna
-* Jefe / jefa de servicio de producción iv de admon. penit.
-* Jefe / jefa de servicio de producción y distribución
-* Jefe / jefa de servicio de productos cosmeticos
-* Jefe / jefa de servicio de productos de la vid
-* Jefe / jefa de servicio de productos geograficos
-* Jefe / jefa de servicio de productos zoosanitarios
-* Jefe / jefa de servicio de progr. empleo colectivos desfavoreci
-* Jefe / jefa de servicio de progr. empleo público institucional
-* Jefe / jefa de servicio de progr. instituc. y apoyo al foro
-* Jefe / jefa de servicio de program. y seguimiento in
-* Jefe / jefa de servicio de programa desarrollo gitano
-* Jefe / jefa de servicio de programac. y seguim. técnico
-* Jefe / jefa de servicio de programación
-* Jefe / jefa de servicio de programación actuaciones
-* Jefe / jefa de servicio de programación cultural y deportiva de admon. penit.
-* Jefe / jefa de servicio de programación de control oficial
-* Jefe / jefa de servicio de programación de enseñanzas artisticas
-* Jefe / jefa de servicio de programación económica
-* Jefe / jefa de servicio de programación editorial científica y publicaciones
-* Jefe / jefa de servicio de programación financiera
-* Jefe / jefa de servicio de programación y gestión
-* Jefe / jefa de servicio de programación y seguimiento
-* Jefe / jefa de servicio de programación y seguimiento de la gestión
-* Jefe / jefa de servicio de programas apoyo creación actividad
-* Jefe / jefa de servicio de programas cientificos
-* Jefe / jefa de servicio de programas contra la exclusión social
-* Jefe / jefa de servicio de programas culturales
-* Jefe / jefa de servicio de programas de cooperación
-* Jefe / jefa de servicio de programas de formación
-* Jefe / jefa de servicio de programas de gasto
-* Jefe / jefa de servicio de programas de prevención
-* Jefe / jefa de servicio de programas de procesos prevalentes
-* Jefe / jefa de servicio de programas de tratamiento específico de admon. penit.
-* Jefe / jefa de servicio de programas de vigilancia epidemiol.
-* Jefe / jefa de servicio de programas educativos
-* Jefe / jefa de servicio de programas educativos y talleres de admon. penit.
-* Jefe / jefa de servicio de programas erradicación fitosanitaria
-* Jefe / jefa de servicio de programas especiales
-* Jefe / jefa de servicio de programas europeos
-* Jefe / jefa de servicio de programas formación pers.estatutario
-* Jefe / jefa de servicio de programas formativos
-* Jefe / jefa de servicio de programas geodesicos
-* Jefe / jefa de servicio de programas informáticos
-* Jefe / jefa de servicio de programas operativos comunitarios
-* Jefe / jefa de servicio de programas para refugiados
-* Jefe / jefa de servicio de programas preservación
-* Jefe / jefa de servicio de programas provinciales
-* Jefe / jefa de servicio de programas sanitarios
-* Jefe / jefa de servicio de programas técnicos
-* Jefe / jefa de servicio de programas tecnologicos
-* Jefe / jefa de servicio de programas unión europea
-* Jefe / jefa de servicio de programas y actividades culturales
-* Jefe / jefa de servicio de programas y proyectos ongd
-* Jefe / jefa de servicio de promoción cultural
-* Jefe / jefa de servicio de promoción de la lectura
-* Jefe / jefa de servicio de promoción de las letras
-* Jefe / jefa de servicio de promoción de productos agrarios
-* Jefe / jefa de servicio de promoción del libro
-* Jefe / jefa de servicio de promoción internacionalizacion
-* Jefe / jefa de servicio de promoción y difusión
-* Jefe / jefa de servicio de prospectiva socieconomica
-* Jefe / jefa de servicio de protección
-* Jefe / jefa de servicio de protección ambiente atmosférico
-* Jefe / jefa de servicio de protección de salud de admon. penit.
-* Jefe / jefa de servicio de protección familiar y otras prestaciones
-* Jefe / jefa de servicio de protección marítima
-* Jefe / jefa de servicio de protocolo
-* Jefe / jefa de servicio de protocolo y relaciones publicas
-* Jefe / jefa de servicio de provisión de personal funcionario
-* Jefe / jefa de servicio de provisión de personal laboral
-* Jefe / jefa de servicio de provisión de puestos de personal laboral
-* Jefe / jefa de servicio de provisión de puestos de trabajo
-* Jefe / jefa de servicio de proy. acciones esp. inves.
-* Jefe / jefa de servicio de proyecto de desarrollo de aplicaciones
-* Jefe / jefa de servicio de proyectos
-* Jefe / jefa de servicio de proyectos de administración electrónica
-* Jefe / jefa de servicio de proyectos de desarrollo de aplicaciones
-* Jefe / jefa de servicio de proyectos de seguridad informática de seguridad perimetral
-* Jefe / jefa de servicio de proyectos de seguridad informática de sistemas de seguridad interna
-* Jefe / jefa de servicio de proyectos de transferencias
-* Jefe / jefa de servicio de proyectos digitales
-* Jefe / jefa de servicio de proyectos e inspecciones tecnologicas de la competencia
-* Jefe / jefa de servicio de proyectos generales y administración
-* Jefe / jefa de servicio de proyectos inform. e infraestructura
-* Jefe / jefa de servicio de proyectos informáticos
-* Jefe / jefa de servicio de proyectos internacionales
-* Jefe / jefa de servicio de proyectos normativos
-* Jefe / jefa de servicio de proyectos relacionados con la firma electrónica
-* Jefe / jefa de servicio de proyectos técnicos
-* Jefe / jefa de servicio de proyectos técnicos y obras de admon. penit.
-* Jefe / jefa de servicio de proyectos y desarrollo de nuevas tecnologías p.g.
-* Jefe / jefa de servicio de proyectos y desarrollos bibliotecarios
-* Jefe / jefa de servicio de proyectos y obras
-* Jefe / jefa de servicio de proyectos y obras zona 2
-* Jefe / jefa de servicio de proyectos y sistemas informáticos
-* Jefe / jefa de servicio de proyectos, normas buques pesca
-* Jefe / jefa de servicio de pruebas de aptitud
-* Jefe / jefa de servicio de publicaciones
-* Jefe / jefa de servicio de publicaciones digitales
-* Jefe / jefa de servicio de publicidad
-* Jefe / jefa de servicio de publicidad y comunicación
-* Jefe / jefa de servicio de químicas y productos farmaceuticos
-* Jefe / jefa de servicio de radioastronomia
-* Jefe / jefa de servicio de radiodifusión y tv
-* Jefe / jefa de servicio de radioproteccion
-* Jefe / jefa de servicio de reactivacion
-* Jefe / jefa de servicio de reagrup. familiares
-* Jefe / jefa de servicio de real observatorio astronómico de Madrid
-* Jefe / jefa de servicio de recaudación
-* Jefe / jefa de servicio de recaudación ejecutiva
-* Jefe / jefa de servicio de reclamaciones
-* Jefe / jefa de servicio de reclamaciones económicas
-* Jefe / jefa de servicio de reclamaciones verificación y control
-* Jefe / jefa de servicio de reclutamiento organismos internacionales
-* Jefe / jefa de servicio de recursos
-* Jefe / jefa de servicio de recursos administrativos
-* Jefe / jefa de servicio de recursos documentales y apoyo institucional
-* Jefe / jefa de servicio de recursos economicos
-* Jefe / jefa de servicio de recursos energeticos
-* Jefe / jefa de servicio de recursos financieros
-* Jefe / jefa de servicio de recursos hidricos
-* Jefe / jefa de servicio de recursos humanos
-* Jefe / jefa de servicio de recursos humanos y habilitación
-* Jefe / jefa de servicio de recursos humanos y servicios
-* Jefe / jefa de servicio de recursos juridicos
-* Jefe / jefa de servicio de recursos y contenciosos
-* Jefe / jefa de servicio de recursos y relaciones con los tribunales
-* Jefe / jefa de servicio de recursos zoogeneticos
-* Jefe / jefa de servicio de red alerta sanitaria veterinaria
-* Jefe / jefa de servicio de red cte
-* Jefe / jefa de servicio de red y comunicaciones
-* Jefe / jefa de servicio de redacción cartográfica
-* Jefe / jefa de servicio de redes de riego
-* Jefe / jefa de servicio de redes especiales y vigilancia atmosférica
-* Jefe / jefa de servicio de redes moviles
-* Jefe / jefa de servicio de regadios i
-* Jefe / jefa de servicio de régimen de admon. penit.
-* Jefe / jefa de servicio de régimen económico
-* Jefe / jefa de servicio de régimen económico de conciertos
-* Jefe / jefa de servicio de régimen económico y habilitación de admon. penit.
-* Jefe / jefa de servicio de régimen especial
-* Jefe / jefa de servicio de régimen interior
-* Jefe / jefa de servicio de régimen interior e instalaciones
-* Jefe / jefa de servicio de régimen interior y servicios generales
-* Jefe / jefa de servicio de régimen jurídico
-* Jefe / jefa de servicio de régimen jurídico coord.normat.pesq
-* Jefe / jefa de servicio de régimen jurídico de la propied
-* Jefe / jefa de servicio de régimen jurídico y coordinacio
-* Jefe / jefa de servicio de régimen jurídico y disciplinario de recursos humanos
-* Jefe / jefa de servicio de régimen jurídico y organos colegiados
-* Jefe / jefa de servicio de régimen legal
-* Jefe / jefa de servicio de régimen legal y patrimonio
-* Jefe / jefa de servicio de régimen sancionador
-* Jefe / jefa de servicio de régimen tarifas
-* Jefe / jefa de servicio de registradores propiedad
-* Jefe / jefa de servicio de registro
-* Jefe / jefa de servicio de registro aguas y rec. hidraulicos
-* Jefe / jefa de servicio de registro cartográfico
-* Jefe / jefa de servicio de registro cit
-* Jefe / jefa de servicio de registro contratos y estadística
-* Jefe / jefa de servicio de registro de aguas y recur. hidraulicos
-* Jefe / jefa de servicio de registro de buques
-* Jefe / jefa de servicio de registro de entidades locales
-* Jefe / jefa de servicio de registro de formación permanente del profesorado
-* Jefe / jefa de servicio de registro especial (rebeca)
-* Jefe / jefa de servicio de registro general
-* Jefe / jefa de servicio de registro general e información
-* Jefe / jefa de servicio de registro partidos politicos
-* Jefe / jefa de servicio de registro ultimas voluntades
-* Jefe / jefa de servicio de registro y asociaciones deportivas
-* Jefe / jefa de servicio de registro y bases de datos
-* Jefe / jefa de servicio de registro y estad.pers.sanitario
-* Jefe / jefa de servicio de registro y publicaciones
-* Jefe / jefa de servicio de registro, sistema interno de información y asistencia al ciudadano
-* Jefe / jefa de servicio de registros aa.cc.
-* Jefe / jefa de servicio de registros sonoros
-* Jefe / jefa de servicio de reglamentación técnica
-* Jefe / jefa de servicio de rel. organismos y progr. i+d
-* Jefe / jefa de servicio de relaciones admon. de justicia
-* Jefe / jefa de servicio de relaciones admon. justicia
-* Jefe / jefa de servicio de relaciones bilaterales
-* Jefe / jefa de servicio de relaciones con admon. territoriales
-* Jefe / jefa de servicio de relaciones con cc.aa. y cc.ll.
-* Jefe / jefa de servicio de relaciones con el parlamento
-* Jefe / jefa de servicio de relaciones con entid. financ. ii
-* Jefe / jefa de servicio de relaciones con entidades financieras
-* Jefe / jefa de servicio de relaciones con la adm de justicia
-* Jefe / jefa de servicio de relaciones con organismos europeos
-* Jefe / jefa de servicio de relaciones con países europeos
-* Jefe / jefa de servicio de relaciones con tribunales
-* Jefe / jefa de servicio de relaciones con u.e.
-* Jefe / jefa de servicio de relaciones econ. áfrica y medio oriente
-* Jefe / jefa de servicio de relaciones econ. asia y pacífico
-* Jefe / jefa de servicio de relaciones econ.efta y países miembros
-* Jefe / jefa de servicio de relaciones econ.países Europa oriental
-* Jefe / jefa de servicio de relaciones económicas américa
-* Jefe / jefa de servicio de relaciones entes territoriales
-* Jefe / jefa de servicio de relaciones europeas
-* Jefe / jefa de servicio de relaciones externas
-* Jefe / jefa de servicio de relaciones externas y formación
-* Jefe / jefa de servicio de relaciones financieras
-* Jefe / jefa de servicio de relaciones institucionales
-* Jefe / jefa de servicio de relaciones institucionales y comunicación ciudadana
-* Jefe / jefa de servicio de relaciones institucionales y convenios
-* Jefe / jefa de servicio de relaciones interinstitucionales
-* Jefe / jefa de servicio de relaciones internacionales
-* Jefe / jefa de servicio de relaciones laborales
-* Jefe / jefa de servicio de relaciones laborales de admon. penit.
-* Jefe / jefa de servicio de relaciones multilaterales
-* Jefe / jefa de servicio de relaciones nacionales
-* Jefe / jefa de servicio de relaciones sindicales
-* Jefe / jefa de servicio de relaciones sociales internacionales
-* Jefe / jefa de servicio de relaciones socio-laborales
-* Jefe / jefa de servicio de relaciones unión europea
-* Jefe / jefa de servicio de renovación de la flota
-* Jefe / jefa de servicio de renta básica de emancipación
-* Jefe / jefa de servicio de repositorio s.n.s.
-* Jefe / jefa de servicio de reserva impresa
-* Jefe / jefa de servicio de retribuciones
-* Jefe / jefa de servicio de retribuciones - habilitado/a general
-* Jefe / jefa de servicio de retribuciones pers. funcionario
-* Jefe / jefa de servicio de retribuciones y habilit. personal
-* Jefe / jefa de servicio de retribuciones y habilitación
-* Jefe / jefa de servicio de retribuciones y habilitación de nominas
-* Jefe / jefa de servicio de retribuciones y plan pensiones
-* Jefe / jefa de servicio de retribuciones-habilitado
-* Jefe / jefa de servicio de riesgo nuclear y radiologico
-* Jefe / jefa de servicio de riesgos quimicos y biologicos
-* Jefe / jefa de servicio de riesgos sismicos y meteorologicos
-* Jefe / jefa de servicio de rpt y concursos
-* Jefe / jefa de servicio de salas generales
-* Jefe / jefa de servicio de salud laboral de admon. penit.
-* Jefe / jefa de servicio de salud materno infantil
-* Jefe / jefa de servicio de sanidad animal
-* Jefe / jefa de servicio de sanidad exterior
-* Jefe / jefa de servicio de sanidad marit.y prestaciones sanit.
-* Jefe / jefa de servicio de secretaria
-* Jefe / jefa de servicio de seguim. plan acc. y apoyo cons. e.p.d.
-* Jefe / jefa de servicio de seguimiento
-* Jefe / jefa de servicio de seguimiento actuaciones
-* Jefe / jefa de servicio de seguimiento acuerdos
-* Jefe / jefa de servicio de seguimiento de la gestión
-* Jefe / jefa de servicio de seguimiento de programas de inversi
-* Jefe / jefa de servicio de seguimiento de proyectos
-* Jefe / jefa de servicio de seguimiento del presupuesto
-* Jefe / jefa de servicio de seguimiento económico de convenios
-* Jefe / jefa de servicio de seguimiento económico y presupuestario
-* Jefe / jefa de servicio de seguimiento económico- financiero
-* Jefe / jefa de servicio de seguimiento escuelas taller
-* Jefe / jefa de servicio de seguimiento fondos comunitarios
-* Jefe / jefa de servicio de seguimiento ongd
-* Jefe / jefa de servicio de seguimiento parques
-* Jefe / jefa de servicio de seguimiento presupuestario
-* Jefe / jefa de servicio de seguimiento presupuestario de comunidades autonomas
-* Jefe / jefa de servicio de seguimiento sectorial
-* Jefe / jefa de servicio de seguimiento y control de gastos exterior
-* Jefe / jefa de servicio de seguimiento y control económico-financiero
-* Jefe / jefa de servicio de seguimiento y coord. con otras admon
-* Jefe / jefa de servicio de seguimiento y evaluación
-* Jefe / jefa de servicio de seguridad
-* Jefe / jefa de servicio de seguridad aeroportuaria
-* Jefe / jefa de servicio de seguridad biológica p3
-* Jefe / jefa de servicio de seguridad de las comunicaciones p.g.
-* Jefe / jefa de servicio de seguridad de medicamentos
-* Jefe / jefa de servicio de seguridad de presas
-* Jefe / jefa de servicio de seguridad informática
-* Jefe / jefa de servicio de seguridad informática de admon. penit.
-* Jefe / jefa de servicio de seguridad social
-* Jefe / jefa de servicio de seguridad vial
-* Jefe / jefa de servicio de seguridad y planes de emergencia
-* Jefe / jefa de servicio de seguridad y tt. turisticas
-* Jefe / jefa de servicio de selección y concursos de admon. penit.
-* Jefe / jefa de servicio de selección y provisión de personal
-* Jefe / jefa de servicio de selección y reproducción ganadera
-* Jefe / jefa de servicio de servicios en autoprestaciones
-* Jefe / jefa de servicio de servicios informáticos
-* Jefe / jefa de servicio de servicios sociales
-* Jefe / jefa de servicio de sist.información geográfica agraria
-* Jefe / jefa de servicio de sistemas
-* Jefe / jefa de servicio de sistemas avanzados
-* Jefe / jefa de servicio de sistemas cartograficos
-* Jefe / jefa de servicio de sistemas comunicaciones
-* Jefe / jefa de servicio de sistemas de control
-* Jefe / jefa de servicio de sistemas de información
-* Jefe / jefa de servicio de sistemas de información geográfica
-* Jefe / jefa de servicio de sistemas de información y prestaciones
-* Jefe / jefa de servicio de sistemas e inspecciones tecnologicas de la competencia
-* Jefe / jefa de servicio de sistemas evaluación teórica
-* Jefe / jefa de servicio de sistemas inform. y estadísticas
-* Jefe / jefa de servicio de sistemas información y comunicaciones
-* Jefe / jefa de servicio de sistemas informáticos
-* Jefe / jefa de servicio de sistemas informáticos de admon. penit.
-* Jefe / jefa de servicio de sistemas técnicos
-* Jefe / jefa de servicio de sistemas telefonicos
-* Jefe / jefa de servicio de sistemas y comunicaciones
-* Jefe / jefa de servicio de sistemas y desarrollo informatico
-* Jefe / jefa de servicio de sistemas y explotación
-* Jefe / jefa de servicio de sondeos ii
-* Jefe / jefa de servicio de soporte red sísmica
-* Jefe / jefa de servicio de subsidiacion y subvención
-* Jefe / jefa de servicio de subsistema
-* Jefe / jefa de servicio de subvenc. ingresos y concesiones
-* Jefe / jefa de servicio de subvenciones
-* Jefe / jefa de servicio de subvenciones y ayuda
-* Jefe / jefa de servicio de suministros
-* Jefe / jefa de servicio de suministros medicamentos y p.s.
-* Jefe / jefa de servicio de suministros y adquisiciones
-* Jefe / jefa de servicio de suministros y asuntos generales
-* Jefe / jefa de servicio de supervision
-* Jefe / jefa de servicio de supervision de proyectos i
-* Jefe / jefa de servicio de supervision del juego
-* Jefe / jefa de servicio de supervision e inspección ais
-* Jefe / jefa de servicio de supervision e inspección ats
-* Jefe / jefa de servicio de supervision y normativa
-* Jefe / jefa de servicio de t. radioelectricos telefonicos y t.
-* Jefe / jefa de servicio de talleres cartograficos
-* Jefe / jefa de servicio de técnica normativa
-* Jefe / jefa de servicio de técnicas de residuos
-* Jefe / jefa de servicio de técnicas hidrogeologicas
-* Jefe / jefa de servicio de técnicas industriales
-* Jefe / jefa de servicio de tecnología
-* Jefe / jefa de servicio de tecnología del terreno
-* Jefe / jefa de servicio de tecnología farmacéutica
-* Jefe / jefa de servicio de tecnologías de la información
-* Jefe / jefa de servicio de tecnologías medioambientales
-* Jefe / jefa de servicio de tecnologías químicas
-* Jefe / jefa de servicio de teledeteccion
-* Jefe / jefa de servicio de telefonía
-* Jefe / jefa de servicio de telematica
-* Jefe / jefa de servicio de teletipos
-* Jefe / jefa de servicio de termalismo
-* Jefe / jefa de servicio de tesorería
-* Jefe / jefa de servicio de tesorería de admon. penit.
-* Jefe / jefa de servicio de tesorería y retribuciones
-* Jefe / jefa de servicio de titulaciones nauticas recreo
-* Jefe / jefa de servicio de titulaciones profesionales
-* Jefe / jefa de servicio de toxicología alimentaria
-* Jefe / jefa de servicio de toxicología ambiental
-* Jefe / jefa de servicio de tráfico centro comunica
-* Jefe / jefa de servicio de tramitación
-* Jefe / jefa de servicio de tramitación ayudas proyectos de empleo
-* Jefe / jefa de servicio de tramitación c. ministros
-* Jefe / jefa de servicio de tramitación congreso
-* Jefe / jefa de servicio de tramitación legislativa senado
-* Jefe / jefa de servicio de tramitación recursos
-* Jefe / jefa de servicio de tramitación solicitudes puntos venta recargo
-* Jefe / jefa de servicio de transporte marítimo
-* Jefe / jefa de servicio de transporte por carretera
-* Jefe / jefa de servicio de traslados de admon. penit.
-* Jefe / jefa de servicio de tratados bilaterales
-* Jefe / jefa de servicio de tratados multilaterales
-* Jefe / jefa de servicio de tratamiento administrativo fondos
-* Jefe / jefa de servicio de tratamiento económico administrativo
-* Jefe / jefa de servicio de tratamiento información
-* Jefe / jefa de servicio de tratamiento y permisos de admon. penit.
-* Jefe / jefa de servicio de tuneles y seguridad vial
-* Jefe / jefa de servicio de unidad central cajas pagadoras
-* Jefe / jefa de servicio de unidad central de caja
-* Jefe / jefa de servicio de unidad central de pagos
-* Jefe / jefa de servicio de unidad de enlace
-* Jefe / jefa de servicio de unidad de producción
-* Jefe / jefa de servicio de unidad de recaudación ejecutiva
-* Jefe / jefa de servicio de unidad técnica de admon. penit.
-* Jefe / jefa de servicio de uso racional del medicamento
-* Jefe / jefa de servicio de vacaciones
-* Jefe / jefa de servicio de valoración e incremento patrimonio
-* Jefe / jefa de servicio de valoraciones
-* Jefe / jefa de servicio de variabilidad y técnicas regionalizacion
-* Jefe / jefa de servicio de ventanilla única
-* Jefe / jefa de servicio de vertidos
-* Jefe / jefa de servicio de vertidos y lucha contra la contaminación
-* Jefe / jefa de servicio de vigilancia dominio público hidra.
-* Jefe / jefa de servicio de vigilancia epidemiologica
-* Jefe / jefa de servicio de virologia
-* Jefe / jefa de servicio de visados
-* Jefe / jefa de servicio de vitícola
-* Jefe / jefa de servicio de zona
-* Jefe / jefa de servicio de zona 4
-* Jefe / jefa de servicio de zonas regables
-* Jefe / jefa de servicio del área de comunicación
-* Jefe / jefa de servicio del centro de seguimiento de pesca
-* Jefe / jefa de servicio del depósito de publicaciones en línea
-* Jefe / jefa de servicio del medio natural
-* Jefe / jefa de servicio del saih
-* Jefe / jefa de servicio designación y supervision de organismo notificado
-* Jefe / jefa de servicio dirección técnica
-* Jefe / jefa de servicio directorios estadísticos agroaliment
-* Jefe / jefa de servicio domunentacion, biblioteca y archivo
-* Jefe / jefa de servicio dph zona occidental
-* Jefe / jefa de servicio económico
-* Jefe / jefa de servicio económico administrativo
-* Jefe / jefa de servicio económico de entidades tuteladas
-* Jefe / jefa de servicio económico de fundaciones
-* Jefe / jefa de servicio económico financiero
-* Jefe / jefa de servicio económico presupuestario
-* Jefe / jefa de servicio económico-administrativo
-* Jefe / jefa de servicio especial informática
-* Jefe / jefa de servicio estudios medioambientales
-* Jefe / jefa de servicio europass
-* Jefe / jefa de servicio evaluador especializado
-* Jefe / jefa de servicio explotación
-* Jefe / jefa de servicio feder
-* Jefe / jefa de servicio formación marítima
-* Jefe / jefa de servicio guipuzcoa y Navarra
-* Jefe / jefa de servicio habilitado
-* Jefe / jefa de servicio habilitado cajero pagador general
-* Jefe / jefa de servicio ict y registro de instaladores
-* Jefe / jefa de servicio informatico
-* Jefe / jefa de servicio informatico ii
-* Jefe / jefa de servicio investigación
-* Jefe / jefa de servicio investigador de accidentes marítimos
-* Jefe / jefa de servicio jurado expropiación forzosa
-* Jefe / jefa de servicio jurado provincial de expropiación
-* Jefe / jefa de servicio jurídico
-* Jefe / jefa de servicio jurídico entidades tuteladas
-* Jefe / jefa de servicio médico
-* Jefe / jefa de servicio monitorizacion, supervision y control
-* Jefe / jefa de servicio n26
-* Jefe / jefa de servicio n26 (u. grandes empresas)
-* Jefe / jefa de servicio nivel 26
-* Jefe / jefa de servicio oph
-* Jefe / jefa de servicio orense
-* Jefe / jefa de servicio organ. coord. y gestión
-* Jefe / jefa de servicio organismos europeos
-* Jefe / jefa de servicio organos colegiados
-* Jefe / jefa de servicio p.g.
-* Jefe / jefa de servicio países caucasicos y asia central
-* Jefe / jefa de servicio países Europa central
-* Jefe / jefa de servicio para el plan de acción exterior y estrategias plurianuales
-* Jefe / jefa de servicio periférico
-* Jefe / jefa de servicio prevención a
-* Jefe / jefa de servicio protección civil e instituciones publicas
-* Jefe / jefa de servicio provincial
-* Jefe / jefa de servicio proyectos y estructuras navales
-* Jefe / jefa de servicio proyectos y obras
-* Jefe / jefa de servicio retribuciones y seguridad social
-* Jefe / jefa de servicio s.a.i.h.
-* Jefe / jefa de servicio sectorial
-* Jefe / jefa de servicio sistemas informáticos
-* Jefe / jefa de servicio supervisor/supervisora de proyectos
-* Jefe / jefa de servicio técnico
-* Jefe / jefa de servicio técnico comisaria aguas
-* Jefe / jefa de servicio técnico de dt
-* Jefe / jefa de servicio técnico de impugnaciones
-* Jefe / jefa de servicio técnico de la oph
-* Jefe / jefa de servicio técnico sanit.programas especif.
-* Jefe / jefa de servicio técnico supervision proyectos
-* Jefe / jefa de servicio territorial
-* Jefe / jefa de servicio unidad de transparencia
-* Jefe / jefa de servicio vizcaya
-* Jefe / jefa de servicios
-* Jefe / jefa de servicios cis
-* Jefe / jefa de servicios de explotación de sistemas informáticos
-* Jefe / jefa de servicios de información y control operativo
-* Jefe / jefa de servicios generales
-* Jefe / jefa de sistemas informáticos
-* Jefe / jefa de sistemas informáticos de admon. penit.
-* Jefe / jefa de subdivisión de coordinación y evaluación
-* Jefe / jefa de subdivisión de gestión de ayudas de fondos europeos
-* Jefe / jefa de subdivisión de gestión económica
-* Jefe / jefa de subdivisión de planificación y gestión administrativa
-* Jefe / jefa de subdivisión de programas científico-técnicos transversales, fortalecimiento y excelen
-* Jefe / jefa de subdivisión de programas tematicos científico-técnicos
-* Jefe / jefa de subdivisión de seguimiento y justificación de ayudas
-* Jefe / jefa de subunidad
-* Jefe / jefa de subunidad (otan)
-* Jefe / jefa de taller
-* Jefe / jefa de turno
-* Jefe / jefa de turno adjunto a jefe / jefa explotación
-* Jefe / jefa de turno explotación g-1
-* Jefe / jefa de turno explotación o planificación
-* Jefe / jefa de turno predicción g-1
-* Jefe / jefa de u.r.e
-* Jefe / jefa de u.r.e.
-* Jefe / jefa de unidad
-* Jefe / jefa de unidad a
-* Jefe / jefa de unidad admtva. gestión prestaciones
-* Jefe / jefa de unidad apoyo
-* Jefe / jefa de unidad apoyo auditoria a
-* Jefe / jefa de unidad apoyo contabilidad b
-* Jefe / jefa de unidad apoyo oficina supervision proyectos
-* Jefe / jefa de unidad apoyo técnico
-* Jefe / jefa de unidad b
-* Jefe / jefa de unidad b coordinador
-* Jefe / jefa de unidad c
-* Jefe / jefa de unidad c coordinador
-* Jefe / jefa de unidad catt
-* Jefe / jefa de unidad central de caja
-* Jefe / jefa de unidad contabilidad
-* Jefe / jefa de unidad contra la violencia sobre la mujer
-* Jefe / jefa de unidad coord., inform. e infraestructuras
-* Jefe / jefa de unidad coordinador
-* Jefe / jefa de unidad correspondencia oit
-* Jefe / jefa de unidad d
-* Jefe / jefa de unidad d coordinador
-* Jefe / jefa de unidad de apoyo
-* Jefe / jefa de unidad de asistencia técnica
-* Jefe / jefa de unidad de auxilio judicial
-* Jefe / jefa de unidad de calidad y planificación
-* Jefe / jefa de unidad de contabilidad
-* Jefe / jefa de unidad de control
-* Jefe / jefa de unidad de coordinación
-* Jefe / jefa de unidad de coordinación contra la violencia sobre la mujer
-* Jefe / jefa de unidad de estudios y desarrollos
-* Jefe / jefa de unidad de igualdad
-* Jefe / jefa de unidad de información meteorológica
-* Jefe / jefa de unidad de ingresos
-* Jefe / jefa de unidad de inspección
-* Jefe / jefa de unidad de intervención
-* Jefe / jefa de unidad de lucha contra el fraude
-* Jefe / jefa de unidad de mantenimiento
-* Jefe / jefa de unidad de medios aereos
-* Jefe / jefa de unidad de meteorología aeronáutica
-* Jefe / jefa de unidad de prevención y evaluación
-* Jefe / jefa de unidad de procedimientos
-* Jefe / jefa de unidad de programación operativa
-* Jefe / jefa de unidad de programas educativos
-* Jefe / jefa de unidad de revisión
-* Jefe / jefa de unidad de revisión documental
-* Jefe / jefa de unidad de servicios informáticos
-* Jefe / jefa de unidad de sistemas basicos
-* Jefe / jefa de unidad de tramitación
-* Jefe / jefa de unidad delegada
-* Jefe / jefa de unidad derivación responsabilidad y proyectos especificos
-* Jefe / jefa de unidad e
-* Jefe / jefa de unidad e coordinador
-* Jefe / jefa de unidad económico y financiera
-* Jefe / jefa de unidad equipamiento aeronáutico
-* Jefe / jefa de unidad espec. de insp. en materia de formación prof. para el empleo y otras areas
-* Jefe / jefa de unidad espec.seg.y salud lab.dir.esp. inspección
-* Jefe / jefa de unidad especial de colaboración y apoyo a la lucha contra el fraude
-* Jefe / jefa de unidad especializ.seg.soc.direcc.espec.inspec
-* Jefe / jefa de unidad especializada otras areas
-* Jefe / jefa de unidad especializada segur. y salud laboral
-* Jefe / jefa de unidad especializada seguridad social
-* Jefe / jefa de unidad estimación costes y precios
-* Jefe / jefa de unidad estudios meteorologicos del med
-* Jefe / jefa de unidad estudios técnicos y control
-* Jefe / jefa de unidad información tecnológica
-* Jefe / jefa de unidad informática
-* Jefe / jefa de unidad inspección ayudas económicas
-* Jefe / jefa de unidad inspección centralizada
-* Jefe / jefa de unidad inspección inspecciones
-* Jefe / jefa de unidad instrumentación y calibración
-* Jefe / jefa de unidad intervención
-* Jefe / jefa de unidad inv. y cooperación tecn.
-* Jefe / jefa de unidad nuevas tecnologías
-* Jefe / jefa de unidad operaciones
-* Jefe / jefa de unidad operaciones y centro proceso datos
-* Jefe / jefa de unidad operativa
-* Jefe / jefa de unidad personal subalterno
-* Jefe / jefa de unidad personal subalterno n14
-* Jefe / jefa de unidad procedimientos
-* Jefe / jefa de unidad procedimientos especiales
-* Jefe / jefa de unidad programación y control mantenimiento
-* Jefe / jefa de unidad protección civil
-* Jefe / jefa de unidad provincial de informática
-* Jefe / jefa de unidad proyecto i
-* Jefe / jefa de unidad proyecto indalo
-* Jefe / jefa de unidad recaudación ejecutiva estatal
-* Jefe / jefa de unidad recursos
-* Jefe / jefa de unidad relaciones institucionales
-* Jefe / jefa de unidad revisión documental
-* Jefe / jefa de unidad salud laboral
-* Jefe / jefa de unidad satelites
-* Jefe / jefa de unidad seguridad nuclear
-* Jefe / jefa de unidad suministros
-* Jefe / jefa de unidad técnica
-* Jefe / jefa de unidad técnica de contratación
-* Jefe / jefa de unidad técnica de gestión catastral
-* Jefe / jefa de unidad técnica i
-* Jefe / jefa de unidad técnico-facultativa
-* Jefe / jefa de unidad teledeteccion terrestre
-* Jefe / jefa de unidad topologia de redes
-* Jefe / jefa de unidad tramitación
-* Jefe / jefa de ure
-* Jefe / jefa de utilidad terapéutica
 * Jefe / jefa del centro de documentación e información
 * Jefe / jefa del gabinete técnico
 * Jefe / jefa del servicio de trazabilidad
@@ -17049,29 +17050,6 @@ Listado de claves:
 * Jefe adjunto / jefa adjunta unidad protocolo p.g.
 * Jefe adjunto secretaria consejero
 * Jefe adjunto secretaria presidente
-* Jefe área de licencias y formación
-* Jefe área de p.r. de los trabajadores
-* Jefe área de residuos de media y baja actividad
-* Jefe área instalaciones radiactivas y exposiciones medicas
-* Jefe área residuos de alta actividad
-* Jefe área vigilancia radiologica ambiental
-* Jefe de área de análisis probabilista de seguridad
-* Jefe de área de ciencias de la tierra
-* Jefe de área de coordinacon y asuntos generales
-* Jefe de área de desarrollo de aplicaciones
-* Jefe de área de experiencia operativa y normativa
-* Jefe de área de gestión de calidad
-* Jefe de área de gestión de vida y mantenimiento
-* Jefe de área de ingeniería mecánica y estructural
-* Jefe de área de instalaciones del ciclo y desmantelamiento
-* Jefe de área de modelizacion y simulación
-* Jefe de área de organización, factores humanos y formación
-* Jefe de área de radiación natural
-* Jefe de área de seguridad física
-* Jefe de área de servicios de protección radiologica
-* Jefe de área de sistemas electricos e i+c
-* Jefe de área de sistemas y comunicaciones
-* Jefe de área de transporte de material radiactivo
 * Jefe de la unidad de apoyo
 * Jefe de negociado n. 18
 * Jefe de negociado n.18
@@ -17089,6 +17067,23 @@ Listado de claves:
 * Jefe de servicio de prevención b
 * Jefe de servicio de redes y comunicaciones
 * Jefe de unidad
+* Jefe de área de análisis probabilista de seguridad
+* Jefe de área de ciencias de la tierra
+* Jefe de área de coordinacon y asuntos generales
+* Jefe de área de desarrollo de aplicaciones
+* Jefe de área de experiencia operativa y normativa
+* Jefe de área de gestión de calidad
+* Jefe de área de gestión de vida y mantenimiento
+* Jefe de área de ingeniería mecánica y estructural
+* Jefe de área de instalaciones del ciclo y desmantelamiento
+* Jefe de área de modelizacion y simulación
+* Jefe de área de organización, factores humanos y formación
+* Jefe de área de radiación natural
+* Jefe de área de seguridad física
+* Jefe de área de servicios de protección radiologica
+* Jefe de área de sistemas electricos e i+c
+* Jefe de área de sistemas y comunicaciones
+* Jefe de área de transporte de material radiactivo
 * Jefe negociado de retribuciones
 * Jefe negociado n 18
 * Jefe negociado n.18
@@ -17101,8 +17096,8 @@ Listado de claves:
 * Jefe sección de documentación y archivo
 * Jefe sección de gestión de personal
 * Jefe sección de presupuestos
-* Jefe sección de régimen interior
 * Jefe sección de registro e información
+* Jefe sección de régimen interior
 * Jefe sección de tramitación
 * Jefe sección gestión ingresos
 * Jefe sección n 22
@@ -17121,39 +17116,17 @@ Listado de claves:
 * Jefe servicio gestión de recursos humanos
 * Jefe servicio presupuestos y gestión económica
 * Jefe servicio tasas y otros ingresos
+* Jefe área de licencias y formación
+* Jefe área de p.r. de los trabajadores
+* Jefe área de residuos de media y baja actividad
+* Jefe área instalaciones radiactivas y exposiciones medicas
+* Jefe área residuos de alta actividad
+* Jefe área vigilancia radiologica ambiental
 * Jefe/a adjunto/a c.i.e.
 * Jefe/a adjunto/a o.n.f.i.
 * Jefe/a adjunto/a oficina nacional
 * Jefe/a adjunto/a oficina técnica
 * Jefe/a adjunto/a unidad de selección
-* Jefe/a área
-* Jefe/a área (di)
-* Jefe/a área adj decls informativs y rets
-* Jefe/a área adjunto análisis de datos
-* Jefe/a área análisis de datos
-* Jefe/a área análisis de riesgos
-* Jefe/a área apoyo procesal
-* Jefe/a área c.i.e.
-* Jefe/a área coord. despacho nacional
-* Jefe/a área coordinación y apoyo
-* Jefe/a área ctrol.y a.riesgos com.ext.
-* Jefe/a área ctrol.y a.riesgos iiee y ma
-* Jefe/a área d.o.c.s de inf y asistenc np
-* Jefe/a área de comercio exterior
-* Jefe/a área de gestión de riesgos
-* Jefe/a área de información
-* Jefe/a área decls.informativas y retencs
-* Jefe/a área diseñ y mant herrs asist.dig
-* Jefe/a área ejecutiva
-* Jefe/a área fisc. no resid y proy intern
-* Jefe/a área gestión centralizada
-* Jefe/a área ii.ee.y medioambientales
-* Jefe/a área irnr
-* Jefe/a área logistica
-* Jefe/a área notificaciones y sanciones
-* Jefe/a área operaciones
-* Jefe/a área prevención riesgos lab.
-* Jefe/a área procs. y liquidaciones trib.
 * Jefe/a base 1
 * Jefe/a base 2
 * Jefe/a centro cibersegur y protec. datos
@@ -17166,11 +17139,11 @@ Listado de claves:
 * Jefe/a dep.adjunto/a gest.medios y rec.
 * Jefe/a dep.reg.adj.rrhh y gestión econ.
 * Jefe/a dep.reg.adjunto/a aduanas ii.ee.
-* Jefe/a dep.reg.adjunto/a área quim.tecn
-* Jefe/a dep.reg.adjunto/a área vig.aduan
 * Jefe/a dep.reg.adjunto/a inform.trib.
 * Jefe/a dep.reg.adjunto/a recaudación
 * Jefe/a dep.reg.adjunto/a relac.instituc.
+* Jefe/a dep.reg.adjunto/a área quim.tecn
+* Jefe/a dep.reg.adjunto/a área vig.aduan
 * Jefe/a dep.reg.relac.instituc.
 * Jefe/a dep.reg.rrhh y gestión económica
 * Jefe/a dependencia asist. y serv.trib.
@@ -17184,9 +17157,9 @@ Listado de claves:
 * Jefe/a dependencia reg.inform.trib.
 * Jefe/a dependencia reg.recaudación
 * Jefe/a dependencia secretaria general
-* Jefe/a división área técnico jurídica
 * Jefe/a división gestión del conocimiento
 * Jefe/a división logistica
+* Jefe/a división área técnico jurídica
 * Jefe/a embarcación instructor/a o.e.
 * Jefe/a embarcación o.e.
 * Jefe/a eni
@@ -17304,6 +17277,34 @@ Listado de claves:
 * Jefe/a unidad reg.operativa b
 * Jefe/a unidad reg.operativa c
 * Jefe/a unidad reg.operativa d
+* Jefe/a área
+* Jefe/a área (di)
+* Jefe/a área adj decls informativs y rets
+* Jefe/a área adjunto análisis de datos
+* Jefe/a área análisis de datos
+* Jefe/a área análisis de riesgos
+* Jefe/a área apoyo procesal
+* Jefe/a área c.i.e.
+* Jefe/a área coord. despacho nacional
+* Jefe/a área coordinación y apoyo
+* Jefe/a área ctrol.y a.riesgos com.ext.
+* Jefe/a área ctrol.y a.riesgos iiee y ma
+* Jefe/a área d.o.c.s de inf y asistenc np
+* Jefe/a área de comercio exterior
+* Jefe/a área de gestión de riesgos
+* Jefe/a área de información
+* Jefe/a área decls.informativas y retencs
+* Jefe/a área diseñ y mant herrs asist.dig
+* Jefe/a área ejecutiva
+* Jefe/a área fisc. no resid y proy intern
+* Jefe/a área gestión centralizada
+* Jefe/a área ii.ee.y medioambientales
+* Jefe/a área irnr
+* Jefe/a área logistica
+* Jefe/a área notificaciones y sanciones
+* Jefe/a área operaciones
+* Jefe/a área prevención riesgos lab.
+* Jefe/a área procs. y liquidaciones trib.
 * Jurista
 * Jurista de cis
 * Jurista de equipo central de observación de admon. penit.
@@ -17322,6 +17323,13 @@ Listado de claves:
 * Maestro / maestra de taller
 * Marinero/a o.e.
 * Mecánico / mecánica jefe de vuelo
+* Meteorologo / meteorologa
+* Meteorologo / meteorologa predictor g-1
+* Meteorologo / meteorologa predictor g-3
+* Monitor / monitora
+* Monitor / monitora de informática
+* Monitor / monitora de informática cis
+* Monitor / monitora unidad móvil
 * Médico / médica
 * Médico / médica cie
 * Médico / médica de cis
@@ -17332,13 +17340,6 @@ Listado de claves:
 * Médico / médica evaluador
 * Médico / médica evaluador jefe
 * Médico / médica jefe adjunto
-* Meteorologo / meteorologa
-* Meteorologo / meteorologa predictor g-1
-* Meteorologo / meteorologa predictor g-3
-* Monitor / monitora
-* Monitor / monitora de informática
-* Monitor / monitora de informática cis
-* Monitor / monitora unidad móvil
 * Observador / observadora
 * Observador / observadora aeronáutico g-1
 * Observador / observadora aeronáutico g-2
@@ -17430,8 +17431,6 @@ Listado de claves:
 * Psicólogo / psicologa de medio abierto
 * Puesto administrativo n16
 * Puesto administrativo n16 d
-* Puesto área control explotación
-* Puesto de área tráfico explotación
 * Puesto de gestión n22
 * Puesto de trabajo
 * Puesto de trabajo 26
@@ -17479,8 +17478,10 @@ Listado de claves:
 * Puesto de trabajo nivel 28
 * Puesto de trabajo nivel 30
 * Puesto de trabajo o.t.p.
+* Puesto de área tráfico explotación
 * Puesto n14 de área control explotación
 * Puesto n15 de área servicio público
+* Puesto área control explotación
 * Recopilador / recopiladora datos de contabilidad
 * Registrador / registradora central de la propiedad intelectual
 * Representante específico
@@ -17668,10 +17669,9 @@ Listado de claves:
 * Subdirector / subdirectora provincial prestac. invalidez permanente
 * Subdirector / subdirectora provincial prestac. muerte y supervivencia
 * Subdirector / subdirectora provincial prestaciones invalidez y control pensiones
-* Subdirector / subdirectora técnico
 * Subdirector / subdirectora territorial
+* Subdirector / subdirectora técnico
 * Subdirector adjunto/subdirectora adjunta
-* Subdirector adjunto/subdirectora adjunta área de formación especializ.
 * Subdirector adjunto/subdirectora adjunta circulación
 * Subdirector adjunto/subdirectora adjunta de administración
 * Subdirector adjunto/subdirectora adjunta de administración económica
@@ -17700,6 +17700,7 @@ Listado de claves:
 * Subdirector adjunto/subdirectora adjunta departamento de tecnologías de la información
 * Subdirector adjunto/subdirectora adjunta operativo
 * Subdirector adjunto/subdirectora adjunta para el síndrome tóxico
+* Subdirector adjunto/subdirectora adjunta área de formación especializ.
 * Subdirector/a adjunto/a
 * Subdirector/a general
 * Subdirector/a gral.a.cons.y cont.
@@ -17777,6 +17778,14 @@ Listado de claves:
 * Supervisor / supervisora económico
 * Supervisor / supervisora insp. aeron. y certificación
 * Supervisor/a escaner móvil
+* Tecnologo / tecnologa i+d+i
+* Traductor / traductora
+* Traductor / traductora de admon. penit.
+* Traductor / traductora e intérprete de lenguas
+* Traductor / traductora intérprete de lenguas
+* Traductor / traductora intérprete lenguas
+* Traductor / traductora intérprete revisor
+* Traductor / traductora jurídico
 * Técnico / técnica
 * Técnico / técnica (otan)
 * Técnico / técnica administrador bases de datos
@@ -18125,14 +18134,6 @@ Listado de claves:
 * Técnico/a superior sistemas a.a.
 * Técnico/a superior v.a. 4
 * Técnico/a valoraciones a
-* Tecnologo / tecnologa i+d+i
-* Traductor / traductora
-* Traductor / traductora de admon. penit.
-* Traductor / traductora e intérprete de lenguas
-* Traductor / traductora intérprete de lenguas
-* Traductor / traductora intérprete lenguas
-* Traductor / traductora intérprete revisor
-* Traductor / traductora jurídico
 * Vicecanciller
 * Vicecanciller de consulado (taipei)
 * Vicegerente
@@ -18197,8 +18198,8 @@ Listado de claves:
 * Vocal asesor n.28
 * Vocal coordinador / coordinadora de la unidad de apoyo y relaciones institucionales
 * Vocal coordinador/a
-* Vocal de área tributaria
 * Vocal de empresas publicas
+* Vocal de área tributaria
 * Vocal junta asesora
 * Vocal n.26
 * Vocal n.26 especial

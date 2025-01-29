@@ -79,6 +79,6 @@ with DBLite(ARG.db, readonly=True) as db:
             "LOCALIDAD": "Localidad",
         }).items(), key=lambda x: (db.one(f"select count(*) from {x[0]} where id>0"), x)):
             wirte_clave(db, f, l, t, where="where id>0")
-        f.write("# Cargo\n\n")
-        for id, txt in db.select("select id, txt from CARGO order by id, txt"):
+        f.write("\n# Cargo\n\n")
+        for id, txt in db.select("select id, txt from CARGO order by txt, id"):
             f.write(f"* {txt}\n")
