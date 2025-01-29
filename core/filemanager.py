@@ -4,6 +4,9 @@ from os import makedirs
 from os.path import dirname, realpath
 from pathlib import Path
 import pdftotext
+from typing import List, Dict
+from types import MappingProxyType
+import re
 
 from bs4 import BeautifulSoup, Tag
 
@@ -72,7 +75,7 @@ class FileManager:
             "htm": "html"
         }.get(ext, ext)
 
-    def load(self, file, *args, not_exist_ok=False, **kargv):
+    def load(self, file, *args, not_exist_ok=False, **kwargs):
         """
         Lee un fichero en funcion de su extension
         Para que haya soporte para esa extension ha de exisitir una funcion load_extension
@@ -87,9 +90,9 @@ class FileManager:
         if load_fl is None:
             raise Exception(f"No existe metodo para leer ficheros {ext} [{file.name}]")
 
-        return load_fl(file, *args, **kargv)
+        return load_fl(file, *args, **kwargs)
 
-    def dump(self, file, obj, *args, **kargv):
+    def dump(self, file, obj, *args, **kwargs):
         """
         Guarda un fichero en funcion de su extension
         Para que haya soporte para esa extension ha de exisitir una funcion dump_extension
@@ -113,40 +116,40 @@ class FileManager:
         if dump_fl is None:
             raise Exception(f"No existe metodo para guardar ficheros {ext} [{file.name}]")
 
-        dump_fl(file, obj, *args, **kargv)
+        dump_fl(file, obj, *args, **kwargs)
 
     def makedirs(self, file):
         file = self.resolve_path(file)
         makedirs(file.parent, exist_ok=True)
 
-    def load_json(self, file, *args, **kargv):
+    def load_json(self, file, *args, **kwargs):
         with open(file, "r") as f:
-            return json.load(f, *args, **kargv)
+            return json.load(f, *args, **kwargs)
 
-    def dump_json(self, file, obj, *args, indent=2, **kargv):
+    def dump_json(self, file, obj, *args, indent=2, **kwargs):
         with open(file, "w") as f:
-            json.dump(obj, f, *args, indent=indent, **kargv)
+            json.dump(obj, f, *args, indent=indent, **kwargs)
 
-    def load_html(self, file, *args, parser="lxml", **kargv):
+    def load_html(self, file, *args, parser="lxml", **kwargs):
         with open(file, "r") as f:
             return BeautifulSoup(f.read(), parser)
 
-    def dump_html(self, file, obj, *args, **kargv):
+    def dump_html(self, file, obj, *args, **kwargs):
         if isinstance(obj, (BeautifulSoup, Tag)):
             obj = str(obj)
         with open(file, "w") as f:
             f.write(obj)
 
-    def load_txt(self, file, *args, **kargv):
+    def load_txt(self, file, *args, **kwargs):
         with open(file, "r") as f:
             txt = f.read()
-            if args or kargv:
-                txt = txt.format(*args, **kargv)
+            if args or kwargs:
+                txt = txt.format(*args, **kwargs)
             return txt
 
-    def dump_txt(self, file, txt, *args, **kargv):
-        if args or kargv:
-            txt = txt.format(*args, **kargv)
+    def dump_txt(self, file, txt, *args, **kwargs):
+        if args or kwargs:
+            txt = txt.format(*args, **kwargs)
         with open(file, "w") as f:
             f.write(txt)
 
@@ -157,8 +160,25 @@ class FileManager:
                 return list(pdf)
             return "\n".join(pdf)
 
+    def load_tuple(self, file, *args, **kwargs):
+        txt = self.load_txt(file, *args, **kwargs)
+        arr: List[str] = []
+        for ln in txt.strip().split("\n"):
+            ln = ln.strip()
+            if len(ln) > 0:
+                arr.append(ln)
+        return tuple(arr)
 
-# Mejoras dinamicas en la documentacion
+    def load_dict(self, file, *args, **kwargs):
+        lines = self.load_tuple(file, *args, **kwargs)
+        dct: Dict[str, str] = {}
+        for ln in lines:
+            k, v = re.split(r"  +|\t|[ \t]{2,}", ln)
+            dct[k] = v
+        return MappingProxyType(dct)
+
+
+# Mejoras dinámicas en la documentación
 for mth in dir(FileManager):
     slp = mth.split("_", 1)
     if len(slp) == 2 and slp[0] in ("load", "dump"):

@@ -1,13 +1,19 @@
 
 from datetime import date, datetime
 from types import MappingProxyType
+from typing import Tuple
 import hashlib
 import re
 from spellchecker import SpellChecker
 from functools import cache
+from core.filemanager import FM
 
 ESP = SpellChecker(language="es", distance=1)
 RM_TILDE = str.maketrans('áéíóúÁÉÍÓÚ', 'aeiouAEIOU')
+LITERAL = {w.lower(): w for w in FM.load_tuple("rec/literal.txt")}
+REPLACE = FM.load_dict("rec/replace.txt")
+RE_REPLACE = re.compile(r"\b(" + "|".join(map(re.escape, REPLACE.keys())) + r")\b", re.IGNORECASE)
+RE_LITERAL = re.compile(r"\b(" + "|".join(map(re.escape, LITERAL.keys())) + r")\b", re.IGNORECASE)
 
 
 def to_hash(s: str):
@@ -116,99 +122,31 @@ def fix_tilde(s: str):
     if not re.match(r"^[a-zA-Z]+$", s) or len(s) < 3:
         return s
     lw = s.lower()
+    mtch = set()
     for ok in (ESP.candidates(lw) or ()):
         if ok.translate(RM_TILDE) == lw:
-            return copy_case(s, ok)
+            mtch.add(ok)
+    if len(mtch) == 1:
+        return copy_case(s, mtch.pop())
     return s
 
 
 def to_fix(s: str):
     s = "".join(map(fix_tilde, re.split(r"\b", s)))
-    for k, v in ({
-        "meritos": "méritos",
-        "informatica": "informática",
-        "tecnicos": "técnicos",
-        "maritimos": "marítimos",
-        "titulacion": "titulación",
-        "tecnico": "técnico",
-        "tecnicos": "técnicos",
-        "telegrafos": "telégrafos",
-        "biologicas": "biológicas",
-        "fisicas": "físicas",
-        "geologicas": "geológicas",
-        "matematicas": "matemáticas",
-        "quimicas": "químicas",
-        "economicas": "económicas",
-        "aeronautico": "aeronáutico",
-        "agronomo": "agrónomo",
-        "codigos": "códigos",
-        "segun": "según",
-        "idoneos": "idóneos",
-        "caracteristicas": "características",
-        "bibliograficos": "bibliográficos",
-        "tecnicas": "técnicas",
-        "microinformatica": "microinformática",
-        "programacion": "programación",
-        "intrumentaciones": "instrumentaciones",
-        "radioelectricas": "radioeléctricas",
-        "semiticas": "semíticas",
-        "dias": "días",
-        "microfilmacion": "microfilmación",
-        "planificacion": "planificación",
-        "bibliograficos": "bibliográficos",
-        "estadisticos": "estadísticos",
-        "podran": "podrán",
-        "metodos": "métodos",
-        "estadisticas": "estadísticas",
-        "informaticos": "informáticos",
-        "tecnologias": "tecnologías",
-        "cominicaciones": "comunicaciones",
-        "telecominicacion": "telecomunicación",
-        "radioelectronica": "radioelectrónica",
-        "radioelectronico": "radioelectrónico"
-    }).items():
-        s = re.sub(
-            r"\b"+k+r"\b",
-            lambda x: copy_case(x.group(), v),
-            s,
-            flags=re.IGNORECASE
-        )
+    s = RE_REPLACE.sub(lambda x: copy_case(x.group(), REPLACE[x.group().lower()]), s)
     s = re.sub(r"\bn[,\. ]?\d+\b(:?$| )", lambda x: re.sub(r"n[,\. ]?", "N", x.group()), s)
-    for w in (
-        'España',
-        'Europa',
-        'USA',
-        'INAP',
-        'Cataluña',
-        'INSS',
-        'Muface',
-        'Formentera',
-        'SOIVRE',
-        'CSIC',
-        'Andalucia',
-        'Aragón',
-        'Asturias',
-        'Illes Balears',
-        'Canarias',
-        'Cantabria',
-        'Castilla la Mancha'
-        'Castilla y León',
-        'Extremadura',
-        'Galicia',
-        'La Rioja',
-        'Madrid',
-        'Murcia',
-        'Navarra',
-        'País Vasco',
-        'Ceuta',
-        'Melilla',
-        'Baleares',
-        'FEGA',
-        'OEPM',
-        'CIEMAT',
-        'ISCIII',
-        'ISM',
-        'UIMP'
-    ):
-        s = re.sub(r"\b"+w+r"\b", w, s, flags=re.IGNORECASE)
+    s = RE_LITERAL.sub(lambda x: LITERAL[x.group().lower()], s)
+
+    def mormalize_gender(s: re.Match):
+        grp: Tuple[str] = s.groups()
+        lw_mas = grp[0].lower()
+        lw_fem = grp[1].lower()
+        if lw_fem in (lw_mas+'a', lw_mas[:-1]+"a"):
+            return grp[0]+'/a'
+        if lw_fem == lw_mas[:-2]+"as":
+            return grp[0]+'/as'
+        return s.group()
+
+    s = re.sub(r"\b(\w+)\s*/\s*(\w+)\b", mormalize_gender, s)
+
     return s

@@ -1,0 +1,581 @@
+Santa Elena, Ascensión y Tristán de Acuña
+Islas Vírgenes de los Estados Unidos
+República Árabe Saharaui Democrática
+Estados Federados de Micronesia
+República Democrática del Congo
+San Vicente y las Granadinas
+República de China o Taiwán
+Islas Vírgenes Británicas
+Sri Jayawardenapura Kotte
+Islas Marianas del Norte
+República Centroafricana
+Emiratos Árabes Unidos
+San Cristóbal y Nieves
+Castellon de la Plana
+Islas Turcas y Caicos
+Santo Tomé y Príncipe
+Bosnia y Herzegovina
+Ciudad de Luxemburgo
+Ciudad de San Marino
+Comunidad Valenciana
+República Dominicana
+San Pedro y Miquelón
+Acrotiri y Dhekelia
+Bandar Seri Begawan
+Ciudad de Guatemala
+Ciudad del Vaticano
+Macedonia del Norte
+República del Congo
+Castilla la Mancha
+Papúa Nueva Guinea
+Polinesia Francesa
+Antigua y Barbuda
+Guinea Ecuatorial
+Nicosia del Norte
+Trinidad y Tobago
+Andorra la Vieja
+Charlotte Amalie
+Chipre del Norte
+Ciudad de Kuwait
+Ciudad de México
+Ciudad de Panamá
+Ciudad de Yibuti
+Flying Fish Cove
+Puerto Argentino
+Saint Peter Port
+Washington D. C.
+Castilla y León
+Ciudad de Túnez
+Ciudad del Cabo
+Corea del Norte
+Costa de Marfil
+Isla de Navidad
+Nueva Caledonia
+Puerto Príncipe
+República Checa
+Samoa Americana
+Wallis y Futuna
+Arabia Saudita
+Estados Unidos
+Islas Malvinas
+Islas Marshall
+Islas Pitcairn
+Jerusalén Este
+Osetia del Sur
+Puerto Moresby
+Timor Oriental
+Cockburn Town
+Corea del Sur
+Illes Balears
+Islas Salomón
+Liechtenstein
+Nueva Zelanda
+Puerto España
+San Bartolomé
+Santo Domingo
+Sudán del Sur
+Antananarivo
+Bloemfontein
+Buenos Aires
+Burkina Faso
+Guadalquivir
+Guinea-Bisáu
+Isla Norfolk
+Islas Caimán
+Kuala Lumpur
+Longyearbyen
+Países Bajos
+Saint George
+Saint Helier
+San Salvador
+Sierra Leona
+Somalilandia
+Transnistria
+Turkmenistán
+Bielorrusia
+Brazzaville
+Ciudad Real
+El Salvador
+Extremadura
+George Town
+Groenlandia
+Guadalajara
+Isla de Man
+Islas Cocos
+Islas Feroe
+Nueva Delhi
+Philipsburg
+Puerto Rico
+Reino Unido
+Santa Lucía
+Suazilandia
+Tegucigalpa
+West Island
+Adís Abeba
+Afganistán
+Azerbaiyán
+Basseterre
+Bratislava
+Bridgetown
+Cabo Verde
+Copenhague
+Costa Rica
+Eslovaquia
+Formentera
+Georgetown
+Islas Cook
+Kazajistán
+Kirguistán
+Las Palmas
+Libreville
+Luxemburgo
+Madagascar
+Mauritania
+Mogadiscio
+Montenegro
+Montevideo
+Montserrat
+Mozambique
+Oranjestad
+Paramaribo
+País Vasco
+Pontevedra
+Port Louis
+Porto Novo
+Saint John
+San Marino
+San Martín
+Santo Tomé
+Seychelles
+Tayikistán
+Ulán Bator
+Uzbekistán
+Valladolid
+Valparaíso
+Wellington
+Willemstad
+Adamstown
+Andalucia
+Argentina
+Australia
+Bangladés
+Barcelona
+Buyumbura
+Cantabria
+Dinamarca
+Eslovenia
+Estocolmo
+Filipinas
+Finlandia
+Gibraltar
+Guatemala
+Indonesia
+Islamabad
+Jamestown
+Jerusalén
+Kingstown
+La Habana
+La Valeta
+Liubliana
+Marruecos
+Ngerulmud
+Nicaragua
+Nukualofa
+Pago Pago
+Palestina
+Podgorica
+Port Vila
+Putrajaya
+Reikiavik
+Road Town
+Salamanca
+San Pedro
+Sri Lanka
+Sudáfrica
+Tailandia
+Tarragona
+Venezuela
+Yamusukro
+Ámsterdam
+A Coruña
+Abu Dabi
+Albacete
+Alemania
+Alicante
+Asturias
+Asunción
+Baleares
+Barbados
+Belgrado
+Belmopán
+Bermudas
+Birmania
+Botsuana
+Brasilia
+Bruselas
+Bucarest
+Budapest
+Bulgaria
+Canarias
+Canberra
+Castries
+Cataluña
+Chisináu
+Colombia
+Dominica
+El Aaiún
+El Cairo
+El Valle
+Episkopí
+Freetown
+Funafuti
+Gaborone
+Gipuzkoa
+Guadiana
+Guernsey
+Gustavia
+Hamilton
+Hargeisa
+Helsinki
+Honduras
+Islandia
+Jordania
+Katmandú
+Kingston
+Kiribati
+La Rioja
+Lilongüe
+Lituania
+Maldivas
+Mata-Utu
+Mauricio
+Moldavia
+Mongolia
+Monrovia
+Naipyidó
+Nuakchot
+Pakistán
+Palencia
+Paraguay
+Pionyang
+Portugal
+Pretoria
+Pristina
+San José
+San Juan
+Santiago
+Sarajevo
+Singapur
+Svalbard
+Taibilla
+Tanzania
+Tenerife
+Tifariti
+Tiráspol
+Tsjinval
+Tórshavn
+Uagadugú
+Valencia
+Varsovia
+Victoria
+Vientián
+Windhoek
+Zaragoza
+Zimbabue
+Abjasia
+Albania
+Almeria
+América
+Andorra
+Anguila
+Argelia
+Armenia
+Asjabad
+Austria
+Badajoz
+Bahamas
+Bangkok
+Bizkaia
+Bolivia
+Burundi
+Bélgica
+Caceres
+Camboya
+Camerún
+Caracas
+Colombo
+Comoras
+Conakri
+Croacia
+Curazao
+Córdoba
+Damasco
+Douglas
+Dusambé
+Ecuador
+Eritrea
+Estonia
+Etiopía
+Francia
+Galicia
+Georgia
+Granada
+Guitega
+Honiara
+Hungría
+Irlanda
+Jamaica
+Kampala
+Kinsasa
+La Haya
+Letonia
+Liberia
+Lobamba
+Londres
+Malasia
+Managua
+Marigot
+Mascate
+Mbabane
+Melilla
+Nairobi
+Namibia
+Navarra
+Nicosia
+Nigeria
+Nom Pen
+Noruega
+Oceanía
+Ourense
+Palikir
+Papeete
+Polonia
+Rumania
+Segovia
+Senegal
+Sevilla
+Somalia
+Stanley
+Surinam
+Taskent
+Teherán
+Tokelau
+Trípoli
+Turquía
+Ucrania
+Uruguay
+Vanuatu
+Vietnam
+Yakarta
+Abiyán
+Angola
+Ankara
+Aragón
+Asmara
+Astaná
+Atenas
+Avarua
+Bagdad
+Bamako
+Bangui
+Banjul
+Baréin
+Beirut
+Belice
+Berlín
+Biskek
+Bogotá
+Brades
+Brasil
+Brunéi
+Burgos
+Canadá
+Cetiña
+Chipre
+CIEMAT
+Cotonú
+Cuenca
+Dodoma
+Dublín
+Egipto
+Ereván
+España
+Europa
+Gambia
+Girona
+Grecia
+Guinea
+Guyana
+Harare
+Huelva
+Huesca
+ISCIII
+Israel
+Italia
+Jartum
+Jersey
+Kigali
+Kosovo
+Kuwait
+La Paz
+Lesoto
+Lisboa
+Lleida
+Luanda
+Lusaka
+Líbano
+Madrid
+Majuro
+Malabo
+Malaui
+Manama
+Manila
+Maputo
+Maseru
+Moroni
+Muface
+Murcia
+Málaga
+México
+Mónaco
+Niamey
+Ottawa
+Palaos
+Panamá
+Ramala
+Roseau
+Ruanda
+Saipán
+Segura
+Serbia
+Skopie
+SOIVRE
+Suecia
+Sujumi
+Taipéi
+Tallin
+Tarawa
+Teruel
+Tiflis
+Tirana
+Toledo
+Tuvalu
+Uganda
+Yamena
+Yaundé
+Yibuti
+Zagreb
+Zambia
+Zamora
+África
+Abuya
+AEMET
+Agaña
+Alava
+Alofi
+Araba
+Argel
+Aruba
+Avila
+Benín
+Berna
+Bisáu
+Bután
+Cadiz
+Catar
+Ceuta
+Chile
+China
+Dakar
+Duero
+ENESA
+Gabón
+Ghana
+Haití
+Hanói
+India
+Japón
+Jucar
+Kabul
+Kenia
+Libia
+Malta
+Minsk
+Moscú
+Nasáu
+Nauru
+Nepal
+Numea
+Níger
+París
+Pekín
+Praga
+Praia
+Quito
+Rabat
+Rusia
+Samoa
+SEPIE
+Siria
+Sofía
+Soria
+Sucre
+Sudán
+Suiza
+Timbu
+Tokio
+Tonga
+Túnez
+Vaduz
+Viena
+Vilna
+Yaren
+Yemen
+Acra
+Amán
+Apia
+Asia
+Bakú
+Brno
+Chad
+CSIC
+Cuba
+Daca
+Dili
+Doha
+Ebro
+FEGA
+Fiyi
+Guam
+INAP
+INSS
+Irak
+Irán
+Jaén
+Kiev
+Laos
+León
+Lima
+Lomé
+Lugo
+Mali
+Malé
+Niue
+Nuuk
+OEPM
+Omán
+Oslo
+Perú
+Riad
+Riga
+Roma
+Saná
+Seúl
+Suva
+Tajo
+Togo
+UIMP
+Yuba
+ISM
+UME
+USA

@@ -2,7 +2,6 @@ import logging
 
 from .web import Web, get_text
 import re
-import bs4
 from .tp import Link
 from functools import cached_property
 from typing import Dict

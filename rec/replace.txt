@@ -1,0 +1,48 @@
+subdirector adjunto/subdirectora adjunta    Subdirector/a adjunto/a
+secretario adjunto / secretaria adjunta     Secretario/a adjunto/a
+vocal coordinador / coordinadora            Vocal coordinador/a
+vocal asesor / vocal asesora                Vocal asesor/a
+castilla-la mancha                          Castilla La Mancha
+intrumentaciones                            instrumentaciones
+microinformatica                            microinformática
+radioelectronica                            radioelectrónica
+radioelectronico                            radioelectrónico
+telecominicacion                            telecomunicación
+caracteristicas                             características
+radioelectricas                             radioeléctricas
+bibliograficos                              bibliográficos
+cominicaciones                              comunicaciones
+microfilmacion                              microfilmación
+castilla-leon                               Castilla y León
+castilla-león                               Castilla y León
+planificacion                               planificación
+estadisticas                                estadísticas
+estadisticos                                estadísticos
+informaticos                                informáticos
+programacion                                programación
+aeronautico                                 aeronáutico
+informatica                                 informática
+matematicas                                 matemáticas
+militar ac.                                 militar acción
+tecnologias                                 tecnologías
+biologicas                                  biológicas
+economicas                                  económicas
+geologicas                                  geológicas
+telegrafos                                  telégrafos
+titulacion                                  titulación
+maritimos                                   marítimos
+semiticas                                   semíticas
+agronomo                                    agrónomo
+mil. ac.                                    militar acción
+quimicas                                    químicas
+tecnicas                                    técnicas
+tecnicos                                    técnicos
+codigos                                     códigos
+fisicas                                     físicas
+idoneos                                     idóneos
+meritos                                     méritos
+metodos                                     métodos
+tecnico                                     técnico
+podran                                      podrán
+segun                                       según
+dias                                        días
