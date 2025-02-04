@@ -122,7 +122,7 @@ with DBLite(ARG.db, reload=True) as db:
         )
 
     for nivel, cd in ret.destino.items():
-        db.insert("NIVEL", id=nivel, complemento_destino=cd)
+        db.insert("NIVEL", id=nivel, destino=cd)
 
     cargos = tuple(sorted(set(to_capitalize(r.txt) for r in rpt.puestos)))
     for i, txt in enumerate(cargos):

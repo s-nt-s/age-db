@@ -110,7 +110,7 @@ CREATE TABLE CARGO (
 
 CREATE TABLE NIVEL (
     id INTEGER NOT NULL,
-    complemento_destino REAL NOT NULL,
+    destino REAL NOT NULL,
     PRIMARY KEY (id)
 );
 
