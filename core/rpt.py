@@ -18,6 +18,7 @@ import json
 
 
 re_sp = re.compile(r"\s+")
+re_hasta = re.compile(r"^[EX\d \+]+\(hasta 27/07/2007\)\s*\+", flags=re.IGNORECASE)
 
 GRUPOS = MappingProxyType({
     "A1": ("A1", ),
@@ -37,6 +38,7 @@ def get_codes(s: str):
     if s is None:
         return tuple()
     s = re_sp.sub(r" ", s).strip()
+    s = re_hasta.sub(r"", s)
     if len(s) == 0:
         return tuple()
     s = re.sub(r"\b[0123]?\d/[01]?\d/20\d\d\b", "", s)
@@ -315,11 +317,13 @@ class Rpt:
                 print(line)
                 raise RPTError(self.__link, "error in 2º sheet")
             c, t = line.split(None, 1)
-            data[clv].add(CodTxt(cod=c, txt=_parse(t)))
+            txt = _parse(t)
+            txt = re_hasta.sub("", txt)
+            data[clv].add(CodTxt(cod=c, txt=txt))
 
         missing = set(c for c in Clv).difference(data.keys())
         if len(missing) > 0:
-            raise RPTError(self.__link, "missing in 2º sheet: "+ ", ".join(sorted(map(str,missing))))
+            raise RPTError(self.__link, "missing in 2º sheet: " + ", ".join(sorted(map(str,missing))))
         clvs = {k: tuple(sorted(v)) for k, v in data.items()}
         return MappingProxyType(clvs)
 

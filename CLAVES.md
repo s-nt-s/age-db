@@ -124,32 +124,16 @@ Listado de claves:
 | AC15 | Agrupación de cuerpos sector servicios postales y telegraf. |
 | AC18 | Agrupación de cuerpos sector docencia e inspectores docencia |
 | AC19 | Agrupación de cuerpos sector sanidad y personal s.social |
-| AC20 | Agrupación de cuerpos (0913,0919,0920 y 0921) |
 | AC21 | Agrupación de cuerpos AC19 y 0902 especialidad psiquiatría |
-| AC23 | Agrupación de cuerpos (0900,0902 y 0913) |
-| AC24 | Agrupación de cuerpos (0011, 0012) |
-| EX11 | EX12+EX13+EX14+EX15 (hasta 27/07/2007) +EX16+EX17 |
 | EX12 | [¿?](https://github.com/s-nt-s/age-db/issues/1) |
 | EX13 | [¿?](https://github.com/s-nt-s/age-db/issues/1) |
 | EX14 | [¿?](https://github.com/s-nt-s/age-db/issues/1) |
-| EX15 | [¿?](https://github.com/s-nt-s/age-db/issues/1) |
 | EX16 | Excepto sector instituciones penitenciarias |
 | EX17 | Excepto sector transporte aéreo y meteorología |
-| EX18 | EX12+EX13+EX15 (hasta 27/07/2007) +EX16+EX17 |
-| EX19 | EX12+EX13+EX15 (hasta 27/07/2007) +EX16+EX17, incluye personal estatutario s.s. |
+| EX19 | EX16+EX17, incluye personal estatutario s.s. |
 | EX20 | Cuerpos-escalas admon.s.social o función. en ella y funcionarios de los serv.postales y telégrafos |
-| EX21 | EX12+EX13+EX14+EX15 (hasta 27/07/2007) +EX17 |
-| EX22 | EX14+EX15 (hasta 27/07/2007) +EX16+EX17 |
-| EX23 | EX15 (hasta 27/07/2007) +EX16+EX17 |
 | EX24 | EX23+personal de la seguridad social ley 30/84 |
-| EX25 | EX12+EX13+EX14+EX15 (hasta 27/07/2007) +EX16 |
-| EX26 | EX12+EX13+EX14+EX16 |
-| EX27 | EX12+EX14+EX15 (hasta 27/07/2007) +EX16+EX17 |
-| EX28 | EX13+EX14+EX15 (hasta 27/07/2007) +EX16+EX17 |
-| EX29 | EX12+EX13+EX15 (hasta 27/07/2007) +EX17 |
-| EX30 | EX12+EX13+EX14+EX17 |
-| EX32 | EX12+EX15 (hasta 27/07/2007) +EX16+EX17 |
-| EX33 | EX12+EX13+EX15 (hasta 27/07/2007) +EX17+personal estatutario s.s. |
+| EX33 | EX17+personal estatutario s.s. |
 
 # Titulación
 
@@ -217,18 +201,7 @@ Listado de claves:
 | 2A028 | Licenciado, ingeniero o arquitecto superior |
 | 2A031 | Licenciado en veterinaria,ingeniero agrónomo o ing. de monte |
 | 2A032 | Licenciado en ciencias |
-| 2A033 | Incluye códigos 21340/81360/81380/81400 |
 | 2A038 | Ing. industrial,telecomunicaciones o ldo.en radioelect.naval |
-| 2A042 | Incluye códigos 21340/21360/21380/21400/21490/21491/21492 |
-| 2A044 | Incluye códigos 21160/21051 |
-| 2A045 | Incluye códigos 21010/21050/21150/21500 |
-| 2A046 | Incluye códigos 21010/21050/21150/21190/21230/21421/21500 |
-| 2A050 | Incluye códigos 21010/21190/21200/21230/21421 |
-| 2A051 | Incluye códigos 21010/21050/21150/21200/21210/21500 |
-| 2A052 | Incluye códigos 21190/21200/21230 |
-| 2A055 | Incluye códigos 21010/21050/21150/21190/21230/21421 |
-| 2A056 | Incluye códigos 21010/21190/21200/21210/21230 /21421 |
-| 2A061 | Incluye códigos 2A007/21020/21021/21462/21492/3A008/32025/32029/32062/32064/32068/32104/32265 |
 | 2B002 | Licenciado en medicina y cirugía o en veterinaria, o en farmacia |
 | 3 | [¿?](https://github.com/s-nt-s/age-db/issues/1) |
 | 32009 | Arquitecto/a técnico/a |
@@ -285,8 +258,6 @@ Listado de claves:
 | 3A038 | Ing. tec. industrial/ing. tec.comunic./dipl.radioelect.naval |
 | 3A040 | Dip.nav.marit./pat.m.cab./pat.p.alt./pat.cab./pat.pesca lit. |
 | 3A041 | Dipl. maquinas nav./mecánico naval mayor/mecánico naval 1a |
-| 3A042 | Incluye códigos 32230/32263/32264/32265/32270/32280/32290 |
-| 3A053 | Incluye códigos 32030/32040/32080 |
 | 65041 | Certif.compet.marinera o certif.,título o tarjeta prof.que lo haya sust.o tenga un valor equivalente |
 | 92050 | Ayudante de obras publicas |
 | B1101 | [¿?](https://github.com/s-nt-s/age-db/issues/1) |

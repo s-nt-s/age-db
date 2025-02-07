@@ -80,29 +80,3 @@ SQL_PUESTO = '''
         FORMACION fo on fo.id=p.formacion
 '''
 
-
-with DBLite(ARG.db, readonly=True) as db:
-    FM.dump(
-        "db/fuentes.json",
-        db.to_tuple("select * from fuente", row_factory=dict_factory)
-    )
-    for p in db.select(SQL_PUESTO, row_factory=dict_factory):
-        grupo = {}
-        for g in get_vals(db, p['id'], "PUESTO_GRUPO.grupo"):
-            val = db.one("select * from GRUPO where id = ?", g, row_factory=dict_factory)
-            del val['id']
-            grupo[g] = val
-
-        p['vacante'] = bool(p['vacante'])
-        pst = Puesto(
-            observacion=get_vals(db, p['id'], "PUESTO_OBSERVACION.observacion", "OBSERVACION"),
-            cuerpo=get_vals(db, p['id'], "PUESTO_CUERPO.cuerpo", "CUERPO"),
-            titulacion=get_vals(db, p['id'], "PUESTO_TITULACION.titulacion", "TITULACION"),
-            grupo=grupo,
-            **p
-        )
-
-        FM.dump(
-            f"db/{pst.id}.json",
-            pst._asdict()
-        )

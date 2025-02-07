@@ -142,4 +142,28 @@ with DBLite(ARG.db, reload=True) as db:
         for g in row.grupos:
             db.insert("PUESTO_GRUPO", puesto=row.id, grupo=g)
 
+    re_cup = re.compile(r"^EX\d+$")
+    for id, txt in db.to_tuple("select id, txt from CUERPO"):
+        if not re_cup.match(id):
+            continue
+        if not all(map(re_cup.match, re.split(r"[\s\+]+", txt))):
+            continue
+        logger.info(f"RM {id} = {txt}")
+        db.execute("delete from PUESTO_CUERPO where cuerpo = ?", id)
+        db.execute("delete from CUERPO where id = ?", id)
+    re_cup = re.compile(r"^Agrupaci[oó]n de cuerpos [\(\)\d, yA-Z]+$")
+    for id, txt in db.to_tuple("select id, txt from CUERPO"):
+        if not re_cup.match(txt):
+            continue
+        logger.info(f"RM {id} = {txt}")
+        db.execute("delete from PUESTO_CUERPO where cuerpo = ?", id)
+        db.execute("delete from CUERPO where id = ?", id)
+    re_tit = re.compile(r"^Incluye c[óo]digos \d[\d/A-Z ]+$")
+    for id, txt in db.to_tuple("select id, txt from TITULACION"):
+        if not re_tit.match(txt):
+            continue
+        logger.info(f"RM {id} = {txt}")
+        db.execute("delete from PUESTO_TITULACION where titulacion = ?", id)
+        db.execute("delete from TITULACION where id = ?", id)
+
     db.execute(FM.load("sql/end.sql"))

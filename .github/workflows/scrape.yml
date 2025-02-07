@@ -71,8 +71,8 @@ jobs:
         with:
           name: age.sqlite
           path: ./db/
-      - name: Dump data
-        run: python3 dump.py --db ./db/age.sqlite
+      #- name: Dump data
+      #  run: python3 dump.py --db ./db/age.sqlite
       - name: Setup Pages
         uses: actions/configure-pages@v3
       - name: Upload artifact
