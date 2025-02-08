@@ -1,9 +1,15 @@
-DELETE FROM TITULACION where txt='¿?' and id not in (
+DELETE FROM TITULACION where id not in (
     select titulacion from PUESTO_TITULACION
-);
-DELETE FROM CUERPO where txt='¿?' and id not in (
+)
+and txt='¿?'
+;
+DELETE FROM CUERPO where id not in (
     select cuerpo from PUESTO_CUERPO
-);
-DELETE FROM OBSERVACION where txt='¿?' and id not in (
+)
+and txt='¿?'
+;
+DELETE FROM OBSERVACION where id not in (
     select observacion from PUESTO_OBSERVACION
-);
+)
+and txt='¿?'
+;

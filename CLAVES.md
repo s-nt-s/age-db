@@ -440,8 +440,8 @@ Listado de claves:
 | H.2 | Estos puestos podrán desarrollar su actividad en jornada de tarde/noche, en cuyo caso el complemento específico se incrementara en 300.000 pesetas anuales. esta circunstancia sera certificada por el inspector general de servicios del departamento |
 | H.4 | Horario especial en registro central |
 | H.E | Horario especial |
-| H.FM | Horario fijo de mañana en el catt del INSS |
-| H.FT | Horario fijo de tarde en el catt del INSS |
+| H.FM | Horario fijo de mañana en el CATT del INSS |
+| H.FT | Horario fijo de tarde en el CATT del INSS |
 | H.T | Horario tarde |
 | H.V | Horario de turno de trabajo dentro de las 24 horas del día |
 | H10 | Horario de 09.00 a 19.00 horas |
@@ -505,47 +505,6 @@ Listado de claves:
 | TSC | Poseer licencia supervisor del consejo de seguridad nuclear para dirigir equipos de escaner |
 | TTA | Titulación universitaria relacionada con la tecnología alime |
 | V.T | Vigencia temporal |
-| Y31 | C24 - EC1 |
-| Y32 | C25 - EC2 |
-| Y37 | EB2 - EB5 |
-| Y41 | EB5 - C29 - Z03 |
-| Y42 | EB2 - EB5 - E42 |
-| Y43 | EB5 - C11 - C28 - C30 - Z02 |
-| Y55 | EB5 - C25 - C30 - Z03 |
-| Y56 | C11 - C25 - C32 - Z03 |
-| Y60 | EB5 - C25 |
-| Y62 | FOI - C79 - C82 - EJ3 - EJ4 |
-| Y63 | FOI - C79 - C82 - EJ3 |
-| Y64 | FOI - C82 - EJ3 - EJ4 |
-| Y65 | FOI - C82 - EJ3 |
-| Y68 | FOI - C79 - C82 - C83 - C84 |
-| Y69 | FOI - C80 - C83 |
-| Y70 | FOI - C80 - C81 - C83 |
-| Y71 | C80 - C81 - C84 |
-| Y72 | C80 - C81 |
-| Y74 | FOI - C79 - C82 - C84 |
-| Y75 | FOI - C79 - C81 - C82 - C84 - EJ3 - EJ4 |
-| Y76 | FOI - C79 - C80 - C81 - C82 - C84 - EJ4 |
-| Y77 | FOI - C79 - C81 - C82 - C84 - EJ4 |
-| Y78 | FOI - C81 |
-| Y81 | C81 - C84 |
-| Y82 | FOI - C79 - C80 - C81 - C82 - C83 - EJ4 |
-| Y83 | FOI - C79 - C80 - C81 - C82 - EJ4 |
-| Y84 | FOI - C79 - C80 - C81 - EJ4 |
-| Y85 | FOI - C79 - C81 - C82 - EJ4 |
-| Y86 | FOI - C70 - C81 - C82 - C83 - EJ4 |
-| Y87 | FOI - C79 - C82 - C83 |
-| Y88 | FOI - C79 - C81 - C82 |
-| Y91 | C80 - C81 - C83 - EJ3 - EJ4 |
-| Y94 | EK1 - Z11 - Z10 |
-| Y95 | EK1 - Z12 - Z02 |
-| Y96 | EK1 - EK2 - Z13 |
-| YA8 | H24 - D.V - DLF |
-| YC4 | C92-EP6-E60-EC7-CC9 |
-| YC7 | C45-564-EN9-EP6 |
-| YC8 | DLF-H24-C91-E60-EC7-CC9 |
-| YD1 | DLF-H24-506-564-C45-C46 |
-| YD7 | DLF-H.V-C92-507-C41-C43-CC9-E61 |
 | Z08 | Capacidad organización y control |
 | Z18 | Capacidad de gestión y coord. program. invest. y desarr. tec |
 
@@ -12241,9 +12200,9 @@ Listado de claves:
 * Director/a de seguridad de aeronaves
 * Director/a de seguridad interior y gestión penitenciaria
 * Director/a de unidad
+* Director/a del CATT
 * Director/a del archivo sección nobleza
 * Director/a del c.i.d.a
-* Director/a del catt
 * Director/a del centro de educación infantil
 * Director/a del centro nacional de información geofísica y vulcanologia
 * Director/a del departamento
@@ -15856,6 +15815,7 @@ Listado de claves:
 * Jefe/a de u.r.e
 * Jefe/a de u.r.e.
 * Jefe/a de unidad
+* Jefe/a de unidad CATT
 * Jefe/a de unidad a
 * Jefe/a de unidad admtva. gestión prestaciones
 * Jefe/a de unidad apoyo
@@ -15867,7 +15827,6 @@ Listado de claves:
 * Jefe/a de unidad b coordinador
 * Jefe/a de unidad c
 * Jefe/a de unidad c coordinador
-* Jefe/a de unidad catt
 * Jefe/a de unidad central de caja
 * Jefe/a de unidad contabilidad
 * Jefe/a de unidad contra la violencia sobre la mujer

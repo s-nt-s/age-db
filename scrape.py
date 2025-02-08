@@ -165,5 +165,12 @@ with DBLite(ARG.db, reload=True) as db:
         logger.info(f"RM {id} = {txt}")
         db.execute("delete from PUESTO_TITULACION where titulacion = ?", id)
         db.execute("delete from TITULACION where id = ?", id)
+    re_obs = re.compile(r"^[A-Z0-9\.\- ]+$")
+    for id, txt in db.to_tuple("select id, txt from OBSERVACION"):
+        if not re_obs.match(txt):
+            continue
+        logger.info(f"RM {id} = {txt}")
+        db.execute("delete from PUESTO_OBSERVACION where observacion = ?", id)
+        db.execute("delete from OBSERVACION where id = ?", id)
 
     db.execute(FM.load("sql/end.sql"))
