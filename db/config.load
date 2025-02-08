@@ -14,6 +14,4 @@ AFTER LOAD
   DO $$ ALTER DEFAULT PRIVILEGES FOR ROLE postgres IN SCHEMA public GRANT ALL ON TABLES TO anon, authenticated, service_role; $$
   DO $$ ALTER DEFAULT PRIVILEGES FOR ROLE postgres IN SCHEMA public GRANT ALL ON ROUTINES TO anon, authenticated, service_role; $$
   DO $$ ALTER DEFAULT PRIVILEGES FOR ROLE postgres IN SCHEMA public GRANT ALL ON SEQUENCES TO anon, authenticated, service_role; $$
-  DO $$ CREATE VIEW GRUPO_NIVEL WITH (security_invoker = on) as select distinct g.grupo, p.nivel FROM puesto_grupo g join puesto p on p.id=g.puesto order by g.grupo, p.nivel; $$
-  DO $$ CREATE VIEW NIVEL_COMPLEMENTO WITH (security_invoker = on) as select n.id, n.destino, min(p.especifico) min_especifico, max(p.especifico) max_especifico FROM nivel n left join puesto p on n.id=p.nivel group by n.id, n.destino order by n.id; $$
 ;
