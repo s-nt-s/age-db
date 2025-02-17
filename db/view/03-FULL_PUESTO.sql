@@ -22,7 +22,7 @@ t as (
 select
 	p.id,
 	p.vacante,
-	coalesce(p.localidad, unidad.localidad) localidad,
+	p.localidad,
 	p.unidad,
 	p.nivel,
 	p.especifico,
@@ -37,7 +37,7 @@ select
 	t.val titulacion
 from 
 	puesto p
-	left join cargo cu on cu.id=p.cargo
+	join cargo cu on cu.id=p.cargo
 	left join tipo_puesto tp on tp.id=p.tipo
 	left join provision pv on pv.id=p.provision
 	left join administracion ad on ad.id=p.administracion
@@ -46,5 +46,4 @@ from
 	left join o on o.id=p.id
 	left join c on c.id=p.id
 	left join t on t.id=p.id
-	left join unidad ON unidad.id=p.unidad
 ;
