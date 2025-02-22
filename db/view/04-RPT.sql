@@ -1,6 +1,6 @@
 SELECT
 	p.id,
-	pg.grupo,
+	coalesce(pg.grupo, 'NULL') grupo,
 	p.nivel,
 	p.cargo,
 	p.unidad,

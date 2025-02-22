@@ -86,3 +86,11 @@ Hay varios cuerpos `EX**` cuya descripción es del tipo
 Para estos casos se ha decidido interpretar que la parte
 `EX**+EX**+EX**+... (hasta 27/07/2007)` ya no aplica y por
 lo tanto se ha eliminado esa parte de la relación.
+
+## Tipo puesto
+
+En la RPT aparecen algunos puestos con tipo puesto `P`
+(Pendiente de clasificar) y tipo puesto igual a `null`.
+
+Como creo que es lo mismo, e eliminado el tipo puesto `P`
+y he dejado esos puestos con tipo igual a `null`.

@@ -174,3 +174,20 @@ with DBLite(ARG.db, reload=True) as db:
         db.execute("delete from OBSERVACION where id = ?", id)
 
     db.execute(FM.load("sql/end.sql"))
+
+    if 1 == db.one("select count(*) from tipo_puesto where id='P' and txt='Pendiente de clasificar'"):
+        db.execute("UPDATE PUESTO SET tipo=NULL where tipo='P'")
+        db.execute("DELETE from TIPO_PUESTO where id='P'")
+
+    p_count = "select count(*) from puesto where "
+    for p, ptxt in db.select("select id, txt from provision"):
+        for t, ttxt in db.select("select id, txt from tipo_puesto"):
+            if ptxt == ttxt:
+                if 0 == db.one(p_count+f"(tipo='{t}' and provision!='{p}') or (tipo!='{t}' and provision='{p}')"):
+                    logger.info(f"Equivalencia: tipo={t} <=> provision={p} == {ttxt}")
+                else:
+                    raise ValueError(f"No se cumple tipo={t} <=> provision={p}")
+                continue
+            if p == t or ptxt == ttxt:
+                raise ValueError(f"Solapamiento tipo={t} ({txt}) provision={p} ({txt})")
+
