@@ -9,8 +9,8 @@ SELECT
 	p.localidad,
 	l.provincia,
 	pr.pais,
-	p.tipo,
-	p.provision,
+	coalesce(p.tipo, 'NULL') tipo,
+	coalesce(p.provision, 'NULL') provision,
 	p.vacante,
 	p.especifico + n.destino + coalesce(g.base, 0) + coalesce(g.extra_base, 0) sueldo
 FROM
