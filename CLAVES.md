@@ -15,7 +15,6 @@ Listado de claves:
 | E | Indistintamente personal eventual o funcionario |
 | F | Adscrito a funcionario |
 | N | No singularizado |
-| P | Pendiente de clasificar |
 | S | Singularizado |
 
 # Administración
