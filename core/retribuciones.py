@@ -74,8 +74,8 @@ class RetribucionesFinder:
         w.get(RetribucionesFinder.ROOT)
         for a in w.soup.select("a[href]"):
             txt = re_sp.sub(" ", a.get_text()).strip()
-            if re.match(r"^Retribuciones (del )?personal funcionario.*\d+.*", txt):
-                yr = tuple(map(int, re.findall(r"\d+", txt)))
+            if re.match(r"^Retribuciones (del )?personal funcionario.*20\d+.*", txt):
+                yr = tuple(map(int, re.findall(r"20\d+", txt)))
                 if yr[0] > 2000:
                     url = a.attrs["href"]
                     yr = int(yr[0])
