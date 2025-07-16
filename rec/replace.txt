@@ -26,6 +26,7 @@ matematicas                                 matemáticas
 militar ac.                                 militar acción
 tecnologias                                 tecnologías
 biologicas                                  biológicas
+ceintifico                                  científico
 economicas                                  económicas
 geologicas                                  geológicas
 telegrafos                                  telégrafos

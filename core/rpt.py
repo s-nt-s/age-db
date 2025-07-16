@@ -13,6 +13,7 @@ from enum import Enum
 from typing import NamedTuple, Tuple, Dict, Any, List, Set
 from collections import defaultdict
 from types import MappingProxyType
+from bs4 import Tag
 
 import json
 
@@ -205,30 +206,56 @@ class RPTError(ValueError):
 class RPTFinder:
     ROOT = "https://transparencia.gob.es/transparencia/transparencia_Home/index/PublicidadActiva/OrganizacionYEmpleo/Relaciones-Puestos-Trabajo.html"
 
+    @cache
     def get(self):
+        return Rpt(
+            via=RPTFinder.ROOT,
+            links=self.get_links()
+        )
+
+    @cache
+    def get_links(self):
+        arr: list[Rpt] = list()
         s = Web()
         s.get(RPTFinder.ROOT)
         a = s.soup.select_one("article li a[title*='funcionario'][href*='.xlsx']")
         text = re_sp.sub(" ", a.get_text()).strip()
         link = a.attrs["href"]
-        return Rpt(
-            via=RPTFinder.ROOT,
-            link=Link(href=link, text=text)
-        )
+        arr.append(Link(href=link, text=text))
+        links = [a.attrs["href"] for a in s.soup.select("div.title-item-div a[href]")]
+        for link in links:
+            s.get(link)
+            for a in s.soup.findAll("a", string=re.compile(r".*\bfuncionarios?\b.*", flags=re.IGNORECASE)):
+                li: Tag = a.find_parent("li")
+                a: Tag = li.find("a", href=re.compile(r"\.xlsx$"))
+                if a is not None:
+                    text = re_sp.sub(" ", a.get_text()).strip()
+                    lk = Link(href=a.attrs["href"], text=text)
+                    if lk not in arr:
+                        arr.append(lk)
+        return tuple(arr)
 
 
 class Rpt:
-    def __init__(self, link: Link, via: str):
-        self.__link = link
+    def __init__(self, links: Tuple[Link], via: str):
+        self.__links = links
         self.__via = via
-        self.__file = FM.resolve_path(f"dwn/rpt_{to_hash(link.href)}.xlsx")
-        if not isfile(self.__file):
+
+    @cache
+    def __get_local_path(self, link: Link) -> str:
+        file = FM.resolve_path(f"dwn/rpt_{to_hash(link.href)}.xlsx")
+        if not isfile(file):
             r = Web().s.get(link.href, verify=False)
-            FM.dump(self.__file, r.content)
+            FM.dump(file, r.content)
+        return file
 
     @property
     def link(self):
-        return self.__link
+        return self.__links[0]
+
+    @property
+    def __file(self):
+        return self.__get_local_path(self.__links[0])
 
     @property
     def via(self):
@@ -246,14 +273,14 @@ class Rpt:
         wb = load_workbook(self.__file)
         md = wb.properties.modified
         if not isinstance(md, datetime):
-            raise RPTError(self.__link, "modified date not found")
+            raise RPTError(self.link, "modified date not found")
         return md
 
     @cache
     def __get_df(self):
         df = pd.read_excel(self.__file, skiprows=3)
         if df is None or df.empty:
-            raise ValueError(self.__link.href+" can't be read")
+            raise ValueError(self.link.href+" can't be read")
         rename: Dict[str, str] = {}
         retype: Dict[str, str] = {}
         for name in map(str, df.columns):
@@ -268,7 +295,7 @@ class Rpt:
         df = df.dropna(how='all', axis=1)
         missing = set(c.name for c in Col).difference(map(str, df.columns))
         if len(missing) > 0:
-            raise RPTError(self.__link, "missing columns: "+ ", ".join(sorted(missing)))
+            raise RPTError(self.link, "missing columns: " + ", ".join(sorted(missing)))
         for col, tp in retype.items():
             df[col] = df[col].astype(tp)
         for (pro_id, pro_txt, pais_id, pais_txt) in (
@@ -277,7 +304,7 @@ class Rpt:
         ):
             isKO = (df[pro_id] == 60) & (df[pro_txt] != 'EXTRANJERO')
             if isKO.any():
-                raise RPTError(self.__link, f"{pro_id}==60 && {pro_txt}!=EXTRANJERO")
+                raise RPTError(self.link, f"{pro_id}==60 && {pro_txt}!=EXTRANJERO")
             df.loc[df[pro_id] == 60, pro_txt] = df[pais_txt]
             df.loc[df[pro_id] == 60, pro_id] = -df[pais_id]
 
@@ -289,7 +316,7 @@ class Rpt:
         geoCl = list(map(str, (Col.pais_id, Col.provincia_id, Col.localidad_id)))
         geoOK = (df[geoCl].isnull().all(axis=1) | df[geoCl].notnull().all(axis=1)).all()
         if not geoOK:
-            raise RPTError(self.__link, f"<{Col.pais_id}, {Col.provincia_id}, {Col.localidad_id}> inconsistent")
+            raise RPTError(self.link, f"<{Col.pais_id}, {Col.provincia_id}, {Col.localidad_id}> inconsistent")
 
         def __check_vals(col: Col, *vals, null=False):
             c = df[col.name]
@@ -297,7 +324,7 @@ class Rpt:
             if isOk:
                 return True
             real = tuple(c.sort_values().unique().tolist())
-            raise RPTError(self.__link, f"{col.name} is {real} instead not {vals}")
+            raise RPTError(self.link, f"{col.name} is {real} instead not {vals}")
 
         __check_vals(Col.estado, "V", "NV")
         __check_vals(Col.grupo, None, *GRUPOS.keys())
@@ -306,29 +333,30 @@ class Rpt:
 
     @cache
     def __get_claves(self):
-        clv = None
         data: Dict[Clv, Set[CodTxt]] = defaultdict(set)
-        for line in self.__iter_claves():
-            aux = Clv.find_by_value(line)
-            if aux is not None:
-                clv = aux
-                continue
-            if clv is None:
-                print(line)
-                raise RPTError(self.__link, "error in 2º sheet")
-            c, t = line.split(None, 1)
-            txt = _parse(t)
-            txt = re_hasta.sub("", txt)
-            data[clv].add(CodTxt(cod=c, txt=txt))
+        for link in self.__links:
+            clv = None
+            for line in self.__iter_claves(link):
+                aux = Clv.find_by_value(line)
+                if aux is not None:
+                    clv = aux
+                    continue
+                if clv is None:
+                    raise RPTError(self.link, "error in 2º sheet")
+                c, t = line.split(None, 1)
+                txt = _parse(t)
+                txt = re_hasta.sub("", txt)
+                data[clv].add(CodTxt(cod=c, txt=txt))
 
         missing = set(c for c in Clv).difference(data.keys())
         if len(missing) > 0:
-            raise RPTError(self.__link, "missing in 2º sheet: " + ", ".join(sorted(map(str,missing))))
+            raise RPTError(self.link, "missing in 2º sheet: " + ", ".join(sorted(map(str, missing))))
         clvs = {k: tuple(sorted(v)) for k, v in data.items()}
         return MappingProxyType(clvs)
 
-    def __iter_claves(self):
-        wb = load_workbook(self.__file)
+    def __iter_claves(self, link: Link):
+        local = self.__get_local_path(link)
+        wb = load_workbook(local)
         sh = wb.worksheets[1]
         flag = True
         for row in sh.iter_rows(values_only=True):
@@ -339,14 +367,14 @@ class Rpt:
                 continue
             line = row[0]
             if not isinstance(line, str) or len(row) > 1:
-                raise RPTError(self.__link, "error in 2º sheet")
+                raise RPTError(self.link, "error in 2º sheet")
             if flag:
                 if line.upper() == "CLAVES UTILIZADAS":
                     flag = False
                     continue
-                raise ValueError(self.__link, "error in 2º sheet")
+                raise ValueError(self.link, "error in 2º sheet")
             if len(line.split()) < 2:
-                raise ValueError(self.__link, "error in 2º sheet")
+                raise ValueError(self.link, "error in 2º sheet")
             yield line
 
     def __get_uniq(self, *args: str):
