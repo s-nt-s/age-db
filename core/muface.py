@@ -9,6 +9,7 @@ from types import MappingProxyType
 from . boe import BOE
 
 logger = logging.getLogger(__name__)
+re_sp = re.compile(r"\s+")
 
 
 def to_num(s, safe=False):
@@ -52,34 +53,42 @@ class Muface:
     @cached_property
     def cotizacion_general(self):
         data: Dict[str, float] = {}
-        li = self.__findMutualistas()
-        ul = li.find_parent("ul")
-        table = ul.find_next_sibling("table")
+        table = self.__findTableByCaption("Mutualistas obligatorios (cuota mensual)")
         for tr in table.select("tbody tr"):
             tds = tuple(map(get_text, tr.select("td")))
             g = tds[0]
+            if g == "(Ley 30/1984) y Agrupaciones Profesionales (EBEP)":
+                g = "E"
             g = g.upper()
             g = g.split()[0]
             if len(g) < 3 and g[0] in ("A", "B", "C", "E"):
                 data[g] = to_num(tds[-1])
         return MappingProxyType(data)
 
+
+    def __findTableByCaption(self, txt: str):
+        for c in self.__soup.select("table caption"):
+            caption = re_sp.sub(" ", c.get_text()).strip()
+            if caption.startswith(txt):
+                return c.find_parent("table")
+        raise MufaceError(self.__link, f"Not found table[caption='{txt}']")
+    
     def __findMutualistas(self):
-        tag = "strong"
+        tag = "strong, b"
         txt = "Mutualistas obligatorios (cuota mensual):"
         for s in self.__soup.select(tag):
             if txt in str(s):
                 return s.find_parent("li")
-        raise MufaceError(self.__link, f"Not found <{tag}>{txt}</{tag}")
+        raise MufaceError(self.__link, f"Not found <{tag}>{txt}</{tag}>")
 
     @cached_property
     def boe(self):
         re_boe = re.compile(r".*\bboe\.es/.*(BOE-[\w\-]+)")
-        for a in self.__soup.select("div.mod_content_gen a"):
+        for a in self.__soup.select("div.mod_content_gen a, section.dnt-vertical-menu-content a"):
             m = re_boe.search(a.attrs["href"])
-            if m is None:
-                continue
-            return m.groups()[0]
+            if m is not None:
+                return m.groups()[0]
+        raise ValueError(f"BOE no encontrado en {self.__link.href}")
 
     @cached_property
     def fecha(self):

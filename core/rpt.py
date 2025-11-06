@@ -214,11 +214,11 @@ class RPTFinder:
         )
 
     def __find_funcionario_xlsx(self, soup: Tag):
-        a = soup.select_one("article li a[title*='funcionario'][href*='.xlsx']")
+        a = soup.select_one("li a[title*='funcionario'][href*='.xlsx']")
         if a:
             text = re_sp.sub(" ", a.get_text()).strip()
             return Link(href=a.attrs["href"], text=text)
-        for a in soup.select_one("article li a[href*='.xlsx']"):
+        for a in soup.select("li a[href*='.xlsx']"):
             text = re_sp.sub(" ", a.get_text()).strip()
             if "funcionario" in text.lower():
                 return Link(href=a.attrs["href"], text=text)
@@ -228,11 +228,11 @@ class RPTFinder:
         arr: list[Rpt] = list()
         s = Web()
         s.get(RPTFinder.ROOT)
-        xlsx_link = self.__find_funcionario_xlsx(soup)
+        xlsx_link = self.__find_funcionario_xlsx(s.soup)
         if xlsx_link is None:
             raise ValueError(f"XLSX de funcionarios no encontrado en {RPTFinder.ROOT}")
         arr.append(xlsx_link)
-        links = [a.attrs["href"] for a in s.soup.select("div.title-item-div a[href]")]
+        links = [a.attrs["href"] for a in s.soup.select("div.card-container a[href]")]
         for link in links:
             s.get(link)
             for a in s.soup.findAll("a", string=re.compile(r".*\bfuncionarios?\b.*", flags=re.IGNORECASE)):
