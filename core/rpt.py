@@ -213,15 +213,25 @@ class RPTFinder:
             links=self.get_links()
         )
 
+    def __find_funcionario_xlsx(self, soup: Tag):
+        a = soup.select_one("article li a[title*='funcionario'][href*='.xlsx']")
+        if a:
+            text = re_sp.sub(" ", a.get_text()).strip()
+            return Link(href=a.attrs["href"], text=text)
+        for a in soup.select_one("article li a[href*='.xlsx']"):
+            text = re_sp.sub(" ", a.get_text()).strip()
+            if "funcionario" in text.lower():
+                return Link(href=a.attrs["href"], text=text)
+
     @cache
     def get_links(self):
         arr: list[Rpt] = list()
         s = Web()
         s.get(RPTFinder.ROOT)
-        a = s.soup.select_one("article li a[title*='funcionario'][href*='.xlsx']")
-        text = re_sp.sub(" ", a.get_text()).strip()
-        link = a.attrs["href"]
-        arr.append(Link(href=link, text=text))
+        xlsx_link = self.__find_funcionario_xlsx(soup)
+        if xlsx_link is None:
+            raise ValueError(f"XLSX de funcionarios no encontrado en {RPTFinder.ROOT}")
+        arr.append(xlsx_link)
         links = [a.attrs["href"] for a in s.soup.select("div.title-item-div a[href]")]
         for link in links:
             s.get(link)
