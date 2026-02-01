@@ -8,15 +8,6 @@ Listado de claves:
 | I | Indistintamente personal eventual o funcionario |
 | L | Libre designación |
 
-# Tipo puesto
-
-| id | txt |
-|---:|-----|
-| E | Indistintamente personal eventual o funcionario |
-| F | Adscrito a funcionario |
-| N | No singularizado |
-| S | Singularizado |
-
 # Administración
 
 | id | txt |
@@ -32,6 +23,22 @@ Listado de claves:
 | AC | Adscripción func.admon.civ.y mil.est.cc.aa. cgpj y org.const |
 | AE | Administración del estado |
 | AM | Pto.tr.que puede ser desemp.por fun.de las cc.aa. adh. al ac.marco para fom. la mov.de f.p.de aa.pp. |
+
+# Tipo puesto
+
+| id | txt |
+|---:|-----|
+| 415 | Estar en posesión del título y licencia control. circulación |
+| 416 | Piloto transporte línea aérea |
+| 417 | Piloto comercial |
+| 419 | Titulación de técnico de mantenimiento de aeronaves |
+| 501 | Curso formación en meteorología clase i de la o.m.m. |
+| 502 | Curso formación en meteorología clase ii de la o.m.m. |
+| 503 | Curso formación en met. clase iii/iv de la o.m.m. |
+| E | Indistintamente personal eventual o funcionario |
+| F | Adscrito a funcionario |
+| N | No singularizado |
+| S | Singularizado |
 
 # Formación
 
@@ -363,6 +370,7 @@ Listado de claves:
 | D3F | Disponibilidad tres días a la semana para desempeño del puesto de trabajo en Formentera |
 | DFA | Funciones fuera ámbito geográfico de su delegación especial |
 | DI | Disponible como mínimo 24 horas durante 7 días al mes |
+| DI. | Disponible como mínimo 24 horas durante 7 días al mes |
 | DIR | Personal directivo público profesional |
 | DJI | Puestos que dependen funcionalmente del min.de justicia e in |
 | DLF | Disponibilidad laborables y festivos |
@@ -496,6 +504,7 @@ Listado de claves:
 | PPR | Puesto pendiente de redistribucion |
 | PTP | Preparación técnica y peligrosidad |
 | R.1 | Residencia en localidad distinta de la de la unidad |
+| R.2 | Puesto de trabajo con residencia en las localidades: |
 | R.3 | P.t. adscritos a las distintas residencias del patrimonio na |
 | R01 | Residencia variable (min 3 años, max 5) misma central nuclear |
 | RSD | Residencia a determinar en el oportuno concurso |
@@ -633,9 +642,9 @@ Listado de claves:
 | 1187 | D.g. de política económica |
 | 1190 | D.g. de seguros y fondos de pensiones |
 | 1194 | D.g. de política energética y minas |
-| 1198 | D.g. de comercio internacional e inversiones |
-| 1200 | D.g. de política comercial |
-| 1206 | Consejerias y agregadurias de comercio y turismo |
+| 1198 | D.g. de inteligencia económica y comercial |
+| 1200 | D.g. de política comercial y seguridad económica |
+| 1206 | Consejerias y agregadurias de economía y comercio |
 | 1207 | Consejerias de turismo |
 | 1208 | Instituto de turismo de España (turespaña) , o.a. |
 | 1209 | Comisionado para el mercado de tabacos |
@@ -688,7 +697,7 @@ Listado de claves:
 | 1308 | S.g.t. de justicia |
 | 1309 | Abogacía general del estado |
 | 1313 | D.g. de seguridad jurídica y fe pública |
-| 1314 | D.g. para el servicio público de justicia |
+| 1314 | D.g. para la eficiencia del servicio público de justicia |
 | 1318 | Centro de estudios juridicos |
 | 1319 | Abogacias del estado en la administración periférica |
 | 1320 | Gerencias territoriales |
@@ -706,7 +715,6 @@ Listado de claves:
 | 1360 | D.g. de relaciones con las cortés |
 | 1362 | Centro de investigaciones sociologicas, o.a. |
 | 1363 | Centro de estudios politicos y constitucionales, o.a. |
-| 1364 | S.gral. de la presidencia del gobierno a.p. |
 | 1376 | Administración del estado en el exterior - oficinas de comunicación a.p. |
 | 1383 | Instituto de salud carlos iii (ISCIII) |
 | 1386 | Instituto nacional de gestión sanitaria |
@@ -732,14 +740,11 @@ Listado de claves:
 | 1464 | Departamento de asuntos exteriores a.p. |
 | 27473 | Entidad estatal de seguros agrarios, o.a. (ENESA) |
 | 27596 | Presidencia del CSIC |
-| 30090 | Unidad de apoyo |
 | 30091 | Subdirección de gerencia |
+| 30092 | Subdirección artística |
 | 30164 | Consejo escolar del estado |
-| 31045 | Gerencia |
 | 31340 | Mutualidad general judicial |
-| 31683 | Presidencia del gobierno a.p. |
-| 31731 | Departamento de protocolo a.p. |
-| 31732 | Departamento de seguridad a.p. |
+| 31707 | Secretaria y oficina del presidente del gobierno a.p. |
 | 31752 | Secretaria general |
 | 31753 | Departamento de medicamentos de uso humano |
 | 31818 | Departamento de productos sanitarios |
@@ -767,7 +772,7 @@ Listado de claves:
 | 40779 | Delegación especial de Navarra |
 | 40780 | Delegación especial de País Vasco |
 | 40781 | Delegación especial de La Rioja |
-| 40782 | Delegación especial de Valencia |
+| 40782 | Delegación especial de la comunitat valenciana |
 | 44269 | Departamento de inspección y control de medicamentos |
 | 45798 | Organización nacional de trasplantes |
 | 45805 | Direcciones territoriales y provinciales de comercio |
@@ -784,7 +789,6 @@ Listado de claves:
 | 47272 | D.g. de apoyo a victimas del terrorismo |
 | 47370 | Oficina española del cambio climático |
 | 47399 | Servicio español para la internacionalizacion de la educación (SEPIE) |
-| 47587 | Dirección artística |
 | 47613 | Dirección de la agencia estatal boletín oficial del estado |
 | 47637 | Administración del estado en el exterior - consejerias |
 | 47676 | Departamento de recursos humanos |
@@ -830,7 +834,6 @@ Listado de claves:
 | 49401 | D.g. de gestión migratoria |
 | 49403 | Secretaria general técnica |
 | 49406 | Gabinete de la presidencia del gobierno a.p. |
-| 49501 | Departamento de seguridad nacional a.p. |
 | 49627 | D.g. de racionalizacion y centralización de la contratación |
 | 49643 | Presidente de la comisión nacional de los mercados y la competencia |
 | 49646 | Vicepresidente de la comisión nacional de los mercados y la competencia |
@@ -847,7 +850,7 @@ Listado de claves:
 | 49780 | Presidencia del consejo de transparencia y buen gobierno |
 | 49787 | D.g. de naciones unidas, organismos internacionales y derechos humanos |
 | 49850 | Agencia nacional de evaluación de la calidad y acreditacion (aneca) |
-| 49872 | División de coordinación, evaluación y seguimiento científico y técnico |
+| 49872 | Dirección de gestión científica y tecnológica |
 | 49881 | Secretaria general |
 | 49952 | S. de e. de comunicación a.p. |
 | 49957 | S.gral. de financiacion autonómica y local |
@@ -878,7 +881,6 @@ Listado de claves:
 | 50338 | Subsecretaria de asuntos exteriores, unión europea y cooperación |
 | 50349 | Subsecretaria de agricultura, pesca y alimentación |
 | 50379 | Departamento de asuntos institucionales a.p. |
-| 50382 | Departamento de coordinación técnica y jurídica a.p. |
 | 50389 | D.g. para América del norte, Europa oriental, Asia y pacífico |
 | 50391 | D.g. de Europa occidental, central y sudeste de Europa |
 | 50393 | D.g. de transformación digital de la administración de justicia |
@@ -952,7 +954,8 @@ Listado de claves:
 | 51279 | Departamento de información autonómica a.p. |
 | 51283 | Departamento digital a.p. |
 | 51719 | Dirección del instituto |
-| 51739 | Secretaria de estado de sanidad |
+| 51722 | S.g. de relaciones internacionales y unión europea |
+| 51739 | S. de e. de sanidad |
 | 51743 | D.g. de salud pública y equidad en salud |
 | 51745 | Secretaria general de salud digital, información e innovación del sistema nacional de salud |
 | 51746 | D.g. de salud digital y sistemas de información para el sistema nacional de salud |
@@ -961,10 +964,9 @@ Listado de claves:
 | 51799 | D.g. de coordinación y estudios |
 | 51850 | Presidencia de la agencia española de protección de datos |
 | 51879 | Gabinete de la vicepresidenta segunda del gobierno |
-| 51880 | Secretaria vicepresidenta seg. gobierno |
+| 51880 | Secretaria de la vicepresidenta segunda del gobierno |
 | 51881 | Gabinete de la vicepresidenta tercera del gobierno |
 | 51882 | Secretaria de la vicepresidenta tercera del gobierno |
-| 51883 | Gabinete del ministro |
 | 51888 | S. de e. de función pública |
 | 51907 | S. de e. para iberoamerica y el caribe y el español en el mundo |
 | 51910 | S. de e. de asuntos exteriores y globales |
@@ -988,6 +990,7 @@ Listado de claves:
 | 52113 | D.g. de lo contencioso |
 | 52122 | Centro de sistemas y tecnologías de la información y las comunicaciones |
 | 52159 | Dirección |
+| 52174 | S.g. de fondos europeos |
 | 52270 | Dirección |
 | 52287 | Gabinete del ministro |
 | 52288 | Secretaria del ministro |
@@ -1039,10 +1042,8 @@ Listado de claves:
 | 52406 | Subsecretaria de juventud e infancia |
 | 52410 | S. gral. de asuntos exteriores a.p. |
 | 52412 | Departamento de análisis territorial a.p. |
-| 52413 | Departamento de discurso a.p. |
 | 52416 | Departamento de coordinación política a.p. |
 | 52418 | Departamento de asuntos europeos a.p. |
-| 52420 | Oficina nacional de prospectiva y estrategia a.p. |
 | 52425 | Oficina de asuntos economicos y g-20 a.p. |
 | 52455 | Comisionado del ciclo del agua y restauración de ecosistemas |
 | 52456 | Comisionado para la economía circular |
@@ -1080,13 +1081,11 @@ Listado de claves:
 | 52530 | Subsecretaria de hacienda |
 | 52532 | Subsecretaria para la transformación digital y de la función pública |
 | 52534 | Casa de la arquitectura |
-| 52544 | Departamento de asuntos culturales a.p. |
 | 52610 | D.g. de estrategias de movilidad |
 | 52669 | D. g. de politicas turisticas |
 | 52716 | D. g. de estrategia e innovación de la industria de defensa |
 | 52729 | S.gral. de política nacional a.p. |
-| 52731 | S.gral. de coordinación institucional a.p. |
-| 52735 | Departamento de atención y respuesta a la ciudadanía a.p. |
+| 52731 | S. gral. de relaciones institucionales y ciudadanía a.p. |
 | 52749 | Comisionado esp. rec. y rep. daños provoc. por dana en dif. municipios entre 28 oct. y 4 nov. 2024 |
 | 52751 | Presidencia |
 | 52758 | D.g. de atención a las victimas |
@@ -1098,15 +1097,20 @@ Listado de claves:
 | 52839 | Dirección |
 | 52940 | Comisionado especial para la reindustrializacion |
 | 52942 | Comisionado especial para la competitividad industrial y de la pequeña y mediana empresa |
+| 52960 | Departamento de innovación política y social a.p. |
+| 52961 | Oficina española para la reconstrucción de Ucrania |
+| 52976 | D.g. de artes escenicas y música |
+| 52993 | Dirección |
 
 # Unidad
 
 | id | txt |
 |---:|-----|
 | 1148 | Instituto de astrofísica de Canarias |
-| 1238 | Museo nacional centro de arte reina sofia |
+| 1228 | Consejo superior de deportes |
 | 1336 | Mancomunidad de los canales del Taibilla, o.a. |
 | 1364 | S.gral. de la presidencia del gobierno a.p. |
+| 3992 | Residencia jorge juan |
 | 26591 | Dirección |
 | 26592 | Gerencia |
 | 26595 | Subdirección de aprendizaje |
@@ -1761,7 +1765,7 @@ Listado de claves:
 | 27614 | Instituto de óptica daza de valdes |
 | 27617 | Instituto de astrofísica de Andalucia |
 | 27618 | Instituto de química física blas cabrera |
-| 27619 | Instituto de ciencia de materiales de Barcelona |
+| 27619 | Instituto de ciencia de materiales de Barcelona. |
 | 27620 | Instituto de nanociencia y materiales de Aragón |
 | 27621 | Instituto de ciencia de materiales de Sevilla |
 | 27622 | Instituto de tecnología química |
@@ -1977,6 +1981,8 @@ Listado de claves:
 | 27949 | Delegación regional de Toledo |
 | 27950 | Delegación provincial de Bizkaia |
 | 27951 | Delegación provincial de Zamora |
+| 27952 | Subdelegación de ibiza |
+| 27953 | Subdelegación de mahón |
 | 27954 | Subdelegación de algeciras |
 | 27956 | Subdelegación del puerto de santa maría |
 | 27958 | Oficina delegada de alcala de henares |
@@ -2015,7 +2021,7 @@ Listado de claves:
 | 28169 | Regimiento de guerra electrónica 32 |
 | 28185 | Archivo general militar de Avila |
 | 28187 | Unidad de servicios de la base cid campeador |
-| 28190 | Parque y centro de mantenimiento de vehiculos de rueda N2 |
+| 28190 | Núcleo de constitución del centro tecnológico y log. del et |
 | 28191 | Mando de adiestramiento y doctrina |
 | 28192 | Archivo general militar de Guadalajara |
 | 28193 | Escuela militar de montaña y operaciones especiales |
@@ -2048,7 +2054,6 @@ Listado de claves:
 | 28276 | Agrupación de apoyo logistico nº 11 (colmenar) |
 | 28277 | Usba - príncipe |
 | 28279 | Agrupación de apoyo logistico nº 11 (talavera de la reina) |
-| 28286 | Usac "primo de rivera" |
 | 28289 | Cuartel general terrestre de alta disponibilidad |
 | 28291 | Centro de formación de tropa número 1 |
 | 28292 | Centro de formación de tropa número 2 |
@@ -2213,8 +2218,8 @@ Listado de claves:
 | 29257 | Grupo del cuartel general del macan |
 | 29258 | Centro de farmacia del aire - Las Palmas |
 | 29259 | Ala num. 46 |
-| 29261 | Gabinete de la secretaria de estado |
-| 29262 | Gabinete de la secretaria de estado |
+| 29261 | Secretaria secr. de estado |
+| 29262 | Gabinete secr. de estado |
 | 29263 | Gabinete técnico de la secretaria de estado de defensa |
 | 29265 | Unidad de apoyo |
 | 29266 | S.g. de contabilidad |
@@ -2376,9 +2381,6 @@ Listado de claves:
 | 29598 | Gerencia del instituto |
 | 29599 | Presidencia |
 | 29601 | Secretaria general |
-| 29602 | Área de mantenimiento de la red minorista |
-| 29603 | Área económico-financiera, presupuestaria, de personal y servicios generales |
-| 29604 | Área de inspección del mercado |
 | 29605 | Área de control y regulación del mercado |
 | 29614 | Unidad de apoyo de la d. g. del instituto de turismo de España (turespaña) |
 | 29621 | Secretaria del presidente |
@@ -2386,7 +2388,6 @@ Listado de claves:
 | 29629 | Gabinete de la presidencia |
 | 29631 | Oficina del censo electoral |
 | 29677 | S.g. de tecnologías de la información y de las comunicaciones |
-| 29680 | Departamento de cuentas nacionales |
 | 29685 | Delegación provincial del ine de Araba/Alava |
 | 29686 | Delegación provincial del ine de Albacete |
 | 29687 | Delegación provincial del ine de Alicante |
@@ -2460,7 +2461,7 @@ Listado de claves:
 | 29826 | S.g. de países mediterraneos, África y oriente medio |
 | 29827 | S.g. de Europa, Asia y oceania |
 | 29833 | S.g. de bancos multilaterales de desarrollo, fmi y g20 |
-| 29835 | S.g. de política comercial multilateral y de la u.e. |
+| 29835 | S.g. de política comercial multilateral y seguridad económica |
 | 29838 | S.g. de defensa comercial y política arancelaria |
 | 29839 | S.g. de comercio internacional de material de defensa y de doble uso |
 | 29841 | S.g. de inspección, certificación y asistencia técnica del comercio exterior |
@@ -2531,7 +2532,6 @@ Listado de claves:
 | 29978 | Consejeria de economía y comercio en Japón - Tokio |
 | 29979 | Agregaduria de economía y comercio en Jordania - amman |
 | 29980 | Consejeria de economía y comercio en corea - seul |
-| 29981 | Consejeria de economía y comercio en Libia - Trípoli |
 | 29982 | Consejeria de economía y comercio en Malasia - Kuala Lumpur |
 | 29983 | Consejeria de economía y comercio en México - México d.f. |
 | 29984 | Consejeria de economía y comercio en Marruecos - Rabat |
@@ -2576,8 +2576,8 @@ Listado de claves:
 | 30029 | Consejeria de economía y comercio en Estados Unidos - los angeles |
 | 30030 | Consejeria de economía y comercio en Estados Unidos - miami |
 | 30031 | Consejeria de economía y comercio en Estados Unidos - San Juan de Puerto Rico |
-| 30033 | Secretaria de la secretaria de estado (presidencia del csd) |
-| 30034 | Gabinete de la secretaria de estado (presidencia del csd) |
+| 30033 | Secretaria secr. de estado (presidencia del csd) |
+| 30034 | Gabinete secr. de estado (presidencia del csd) |
 | 30035 | Oficina de prensa |
 | 30038 | S.g. de alta competición |
 | 30042 | Secretaria general |
@@ -2586,8 +2586,8 @@ Listado de claves:
 | 30059 | S.g. económico-administrativa |
 | 30060 | S.g. de obras |
 | 30061 | Secretaria general |
-| 30062 | S.g. de música y danza |
-| 30063 | S.g. de teatro |
+| 30062 | S.g. de música |
+| 30063 | S.g. de teatro y circo |
 | 30064 | S.g. de personal |
 | 30065 | S.g. económico-administrativa |
 | 30066 | Teatro lírico nacional de la zarzuela |
@@ -2606,7 +2606,6 @@ Listado de claves:
 | 30082 | S.g de fomento de la industria cinematográfica y audiovisual |
 | 30083 | S.g de promoción y relaciones internacionales |
 | 30084 | Filmoteca española |
-| 30090 | Unidad de apoyo |
 | 30091 | Subdirección de gerencia |
 | 30092 | Subdirección artística |
 | 30094 | Dirección |
@@ -3291,8 +3290,8 @@ Listado de claves:
 | 31129 | Unidad de apoyo |
 | 31137 | S. g. de análisis e inspección |
 | 31138 | S.g. de planificación y gestión económica |
-| 31151 | Gabinete de la secretaria de estado |
-| 31152 | Gabinete de la secretaria de estado |
+| 31151 | Secretaria secr. de estado |
+| 31152 | Gabinete secr. de estado |
 | 31154 | Inspección de personal y servicios de seguridad |
 | 31159 | Comisaria general de información |
 | 31160 | Comisaria general de policía judicial |
@@ -3415,7 +3414,6 @@ Listado de claves:
 | 31361 | Gabinete técnico del abogado o abogada general del estado |
 | 31362 | S.g. de coordinación y apoyo de los servicios consultivos |
 | 31363 | S.g. de coordinación y apoyo de los los servicios contenciosos |
-| 31364 | Abogacía del estado en el ministerio de justicia |
 | 31365 | Dirección adjunta de medios personales y materiales |
 | 31366 | S.g. de asuntos constitucionales y derechos humanos |
 | 31367 | Abogacía del estado ante el tribunal de cuentas |
@@ -3970,7 +3968,6 @@ Listado de claves:
 | 36174 | Administración de la s.s. no.1 de getafe (no.22 de Madrid) |
 | 36175 | Administración de la s.s. no.1 de mostoles (no.30 de Madrid) |
 | 36176 | Administración de la s.s. no.1 de pozuelo de alarcon (no.29 de Madrid) |
-| 36177 | Administración de la s.s. no.1 de san lorenzo de el escorial (no.23 de Madrid) |
 | 36178 | Administración de la s.s. no.1 de torrejón de ardoz (no.24 de Madrid) |
 | 36179 | Administración de la s.s. no.1 de Málaga |
 | 36180 | Administración de la s.s. no.1 de antequera (no.3 de Málaga) |
@@ -4146,7 +4143,6 @@ Listado de claves:
 | 36374 | Agencia de caravaca de la cruz |
 | 36376 | Agencia de mula |
 | 36377 | Agencia de totana |
-| 36378 | Agencia de yecla |
 | 36379 | Agencia de llanes |
 | 36380 | Agencia de villagarcia |
 | 36381 | Agencia de bejar |
@@ -5183,6 +5179,7 @@ Listado de claves:
 | 41485 | Área general de apoyo administrativo |
 | 41486 | Área de jefatura |
 | 41488 | Área de gestión |
+| 41489 | Servicio/sección de gestión tributaria general |
 | 41491 | Área general de apoyo administrativo |
 | 41492 | Área de jefatura |
 | 41494 | Área de gestión |
@@ -5625,6 +5622,7 @@ Listado de claves:
 | 42308 | Área de jefatura |
 | 42309 | Área de informática |
 | 42310 | Área de gestión |
+| 42311 | Servicio/sección de gestión tributaria general |
 | 42314 | Área de recursos humanos y gestión económica |
 | 42315 | Área general de apoyo administrativo |
 | 42316 | Área de jefatura |
@@ -6043,6 +6041,7 @@ Listado de claves:
 | 43070 | Área de jefatura |
 | 43071 | Área de informática |
 | 43072 | Área de gestión |
+| 43073 | Servicio/sección de gestión tributaria general |
 | 43075 | Área general de apoyo administrativo |
 | 43076 | Área de jefatura |
 | 43078 | Área de gestión |
@@ -6057,6 +6056,7 @@ Listado de claves:
 | 43090 | Área de gestión |
 | 43091 | Servicio/sección de gestión tributaria general |
 | 43096 | Área de recaudación |
+| 43098 | Área general de apoyo administrativo |
 | 43099 | Área de jefatura |
 | 43100 | Área de informática |
 | 43101 | Área de gestión |
@@ -6085,6 +6085,7 @@ Listado de claves:
 | 43147 | Área general de apoyo administrativo |
 | 43148 | Área de jefatura |
 | 43150 | Área de gestión |
+| 43153 | Área general de apoyo administrativo |
 | 43154 | Área de jefatura |
 | 43155 | Área de informática |
 | 43156 | Área de gestión |
@@ -6181,7 +6182,6 @@ Listado de claves:
 | 43289 | Área de recaudación |
 | 43291 | Área general de apoyo administrativo |
 | 43292 | Área de jefatura |
-| 43293 | Área de informática |
 | 43294 | Área de gestión |
 | 43295 | Servicio/sección de gestión tributaria general |
 | 43299 | Área de recaudación |
@@ -6259,13 +6259,7 @@ Listado de claves:
 | 43401 | Área de recaudación |
 | 43403 | Área general de apoyo administrativo |
 | 43404 | Área de jefatura |
-| 43436 | Área de gestión |
 | 43437 | Servicio/sección de gestión tributaria general |
-| 43440 | Área de recaudación |
-| 43441 | Área de recursos humanos y gestión económica |
-| 43442 | Área general de apoyo administrativo |
-| 43443 | Área de jefatura |
-| 43444 | Área de informática |
 | 43547 | Área de gestión |
 | 43548 | Servicio/sección de gestión tributaria general |
 | 43552 | Área de recaudación |
@@ -6295,6 +6289,7 @@ Listado de claves:
 | 43598 | Área de informática |
 | 43599 | Área de gestión |
 | 43600 | Servicio/sección de gestión tributaria general |
+| 43605 | Área general de apoyo administrativo |
 | 43606 | Área de jefatura |
 | 43623 | Área de gestión |
 | 43624 | Servicio/sección de gestión tributaria general |
@@ -6613,6 +6608,7 @@ Listado de claves:
 | 44310 | Centro deportivo y sociocultural "barberan" |
 | 44312 | Centro deportivo y sociocultural suboficiales "biescas" |
 | 44313 | Centro deportivo socio cultural militar "tablada" |
+| 44315 | Centro residencial capitán general gutierrez mellado |
 | 45790 | Consejeria de educación en la república popular de China - pekin |
 | 45791 | Museo del traje - centro de investigación del patrimonio etnológico |
 | 45792 | Misión diplomática en la república de Letonia - Riga |
@@ -6707,7 +6703,7 @@ Listado de claves:
 | 46127 | División de estudios y tecnología del transporte |
 | 46129 | Abogacía del estado ante los juzgados centrales de lo contencioso administrativo |
 | 46131 | Unidad combinada de s.c.Tenerife |
-| 46147 | Unidad de coordinación a.p. |
+| 46147 | Unidad de atención y respuesta a la ciudadanía a.p. |
 | 46148 | Unidad de medios operativos a.p. |
 | 46172 | S.g. de farmacia |
 | 46173 | Centro de investigación y control de la calidad |
@@ -6755,7 +6751,7 @@ Listado de claves:
 | 46313 | S.g. de informes y relaciones internacionales |
 | 46314 | S.g. de informes y desarrollo normativo |
 | 46320 | S.g. de gestión de la movilidad y tecnología |
-| 46335 | S.g. de de suelo, información y evaluación |
+| 46335 | S.g. de suelo, información y evaluación |
 | 46336 | Observatorio nacional de seguridad vial |
 | 46343 | S.g. de organismos y entidades publicas de investigación |
 | 46355 | Dirección de enseñanza (maper) en Sevilla |
@@ -7060,7 +7056,6 @@ Listado de claves:
 | 46848 | Jefatura de la inspección general del ejército |
 | 46850 | Jefatura de la segunda subinspección general del ejército |
 | 46851 | Cuartel general de la fuerza terrestre |
-| 46852 | Jefatura de la segunda suige (Badajoz) |
 | 46854 | Jefatura de la tercera subinspección general del ejército (Barcelona) |
 | 46855 | Jefatura de la cuarta suige (Burgos) |
 | 46859 | Jefatura de la segunda suige (Córdoba) |
@@ -7152,7 +7147,7 @@ Listado de claves:
 | 47248 | Museo naval de san fernando |
 | 47251 | Jsuige 3 (logroño) |
 | 47254 | Oficina de coordinación de la administración general del estado en el campo de Gibraltar |
-| 47255 | Misión diplomática permanente de España en Macedonia del Norte - skopje |
+| 47255 | Misión diplomática permanente de España en la república de Macedonia del Norte - skopje |
 | 47257 | Dirección de infraestructura (Tenerife) |
 | 47265 | Unidad de apoyo |
 | 47266 | S.g. de cooperación policial internacional |
@@ -7247,7 +7242,6 @@ Listado de claves:
 | 47564 | Consejeria de turismo en mumbay |
 | 47584 | Cis torre espioca |
 | 47586 | Agregregaduria de defensa embajada de España en la república islámica de Mauritania - nouakchott |
-| 47587 | Dirección artística |
 | 47588 | Observatorio español del racismo y la xenofobia |
 | 47590 | Distrito marítimo de carboneras |
 | 47592 | Distrito marítimo de blanes |
@@ -7265,10 +7259,10 @@ Listado de claves:
 | 47613 | Dirección de la agencia estatal boletín oficial del estado |
 | 47614 | Secretaria general |
 | 47615 | Subdirección de la imprenta nacional |
-| 47616 | Departamento de gestión editorial, documentación e información |
-| 47617 | Departamento de tecnologías de la información |
+| 47616 | Departamento de documentación y difusión jurídica |
+| 47617 | Departamento de tecnologías de la información y seguridad |
 | 47618 | Departamento de recursos humanos y relaciones laborales |
-| 47619 | Departamento de programación, seguimiento y evaluación de la gestión |
+| 47619 | Departamento editorial boe |
 | 47621 | Misión diplomática permanente de España en bangladesh - dhaka |
 | 47622 | Servicio/sección de gestión tributaria general |
 | 47623 | Servicio/sección de gestión tributaria general |
@@ -7601,6 +7595,7 @@ Listado de claves:
 | 48802 | Oferta de empleo público cuerpos grales. y escalas min.pol. terr.y func. pub (resolución 19/12/2008) |
 | 48803 | Área instituto español de oceanografía |
 | 48808 | Centro de investigación agrigenomica |
+| 48810 | Farmacia depósito igesandef (Madrid) |
 | 48812 | Mando de las unidades de fuerza de acción marítima en ferrol |
 | 48816 | Área de aduanas |
 | 48817 | Área general de apoyo administrativo |
@@ -7740,7 +7735,7 @@ Listado de claves:
 | 49182 | Agencia de valls (Tarragona) |
 | 49183 | Agregaduria de economía y comercio en Kuwait-Kuwait |
 | 49184 | Agregaduria de economía y comercio en república de Paraguay-Asunción |
-| 49185 | Unidad de apoyo a.p. |
+| 49185 | Unidad de integridad y calidad administrativa a.p. |
 | 49187 | Centro de física teórica y matemáticas |
 | 49188 | Centro de química y materiales de Aragón |
 | 49189 | Instituto de síntesis química y catálisis homogénea |
@@ -7818,7 +7813,6 @@ Listado de claves:
 | 49463 | S.g. de relaciones institucionales y coordinación territorial |
 | 49464 | I.d. en el ministerio de asuntos economicos y transformación digital |
 | 49468 | Unidad de apoyo |
-| 49469 | Unidad de emergencias, seguridad y gestión de crisis |
 | 49471 | Secretaria permanente de igualdad |
 | 49472 | S.g. de procedmientos ejecutivos y especiales de recaudación |
 | 49473 | División de derechos de gracia y otros derechos |
@@ -7832,7 +7826,6 @@ Listado de claves:
 | 49484 | Unidad de documentación de santa lucia de tirajana |
 | 49492 | Estado mayor del ejército del aire y del espacio |
 | 49500 | T.p.p. cis torre espioca |
-| 49502 | Dirección operativa del departamento de seguridad nacional a.p. |
 | 49504 | I.d. en el frob |
 | 49505 | Caiss de cangas de morrazo |
 | 49510 | Unidad de estadísticas e informes |
@@ -7847,6 +7840,7 @@ Listado de claves:
 | 49537 | Área de recaudación |
 | 49538 | Área general de apoyo administrativo |
 | 49539 | Área de jefatura |
+| 49540 | Área de informática |
 | 49541 | Área de recursos humanos y gestión económica |
 | 49542 | Servicio/sección de gestión tributaria general |
 | 49544 | Servicio/sección de gestión tributaria general |
@@ -7943,7 +7937,7 @@ Listado de claves:
 | 49718 | I.d. confederación hidrográfica del Tajo |
 | 49720 | Dirección de las colecciones reales |
 | 49721 | Dirección de inmuebles y medio natural |
-| 49726 | S.g. de estrategia comercial y seguridad económica |
+| 49726 | S.g. de estrategia comercial |
 | 49730 | Dirección |
 | 49731 | Secretaria general |
 | 49732 | Unidad técnica de mercados |
@@ -7962,14 +7956,9 @@ Listado de claves:
 | 49753 | S.g. de solvencia |
 | 49754 | Dirección de asuntos economicos (Zaragoza) |
 | 49755 | Consejeria de finanzas en Brasil-Brasilia |
-| 49758 | Gabinete técnico |
 | 49763 | Oficina nacional de contabilidad |
 | 49764 | Servicio nacional de coordinación antifraude |
-| 49765 | S.g. de planificación y gobernanza de la administración digital |
-| 49766 | S.g. de impulso de la digitalizacion de la administracio |
 | 49767 | S.g. de infraestructuras y operaciones |
-| 49768 | S.g. de servicios digitales para la gestión |
-| 49769 | S.g. de presupuestos y contratación tic |
 | 49770 | S.g. de datos para el empleo público |
 | 49773 | I.d. agencia española de consumo, seguridad alimentaria y nutrición |
 | 49774 | Consejeria de agricultura, pesca y alimentación en la mis.diplom. de España ante la rep.de India |
@@ -8031,15 +8020,15 @@ Listado de claves:
 | 49869 | I.d. trabajo penitenciario y formación para el empleo |
 | 49870 | Cuartel general |
 | 49871 | I.d. agencia estatal de investigación |
-| 49872 | División de coordinación, evaluación y seguimiento científico y técnico |
-| 49873 | Subdivisión de coordinación y evaluación |
-| 49874 | Subdivisión de programas tematicos científico-técnicos |
-| 49875 | Subdivisiion de programas científico-técnicos transversales, fortalecimiento y excelencia |
-| 49876 | División de programación y gestión económica y administrativa |
-| 49877 | Subdivisión de gestión económica |
-| 49878 | Subdivisión de seguimiento y justificación de ayudas |
-| 49879 | Subdivisión de gestión de ayudas de fondos europeos |
-| 49880 | Subdivisión de planificación y gestión administrativa |
+| 49872 | Dirección de gestión científica y tecnológica |
+| 49873 | Subdirección de evaluación |
+| 49874 | Subdirección de programas tematicos |
+| 49875 | Subdirección de programas horizontales e internacionalizacion |
+| 49876 | Dirección de programación y seguimiento económico |
+| 49877 | Subdirección de gestión económica de ayudas |
+| 49878 | Subdirección de seguimiento económico |
+| 49879 | Subdirección de fondos europeos |
+| 49880 | Subdirección de procedimientos de concesión |
 | 49881 | Secretaria general |
 | 49884 | S.g. de fomento de la innovación |
 | 49887 | Centro deportivo sociocultural militar de el ferrol |
@@ -8054,8 +8043,8 @@ Listado de claves:
 | 49898 | Unidad de documentación de huercal-overa |
 | 49899 | Unidad de documentación de majadahonda |
 | 49900 | Unidad de documentación de valdemoro |
-| 49953 | Gabinete de la secretaria de estado a.p. |
-| 49954 | Secretaria de la secretaria de estado a.p. |
+| 49953 | Gabinete secr. de estado a.p. |
+| 49954 | Secretaria secr. de estado a.p. |
 | 49958 | Secretaria de la secretaria general |
 | 49962 | Unidad de apoyo |
 | 49964 | Unidad de apoyo |
@@ -8149,8 +8138,8 @@ Listado de claves:
 | 50253 | Secretaria del ministro |
 | 50262 | Gabinete del ministro |
 | 50263 | Secretaria del ministro |
-| 50289 | Gabinete de la secretaria de estado |
-| 50290 | Secretaria de la secretaria de estado |
+| 50289 | Gabinete secr. de estado |
+| 50290 | Secretaria secr. de estado |
 | 50339 | Secretaria subsecret. |
 | 50350 | Secretaria subsecret. |
 | 50370 | S.g. para la sec.tec. de la com.deleg.gob.para asunt.econ. |
@@ -8207,7 +8196,6 @@ Listado de claves:
 | 50485 | Vicesecretaria general técnica |
 | 50486 | S.g. de legislación y desarrollo normativo |
 | 50487 | S.g. de recursos, reclamaciones y relaciones con la administración de justicia |
-| 50491 | División de planificación y coordinación de ciberseguridad |
 | 50500 | I.d. en el ministerio para la transición ecológica y el reto demográfico |
 | 50504 | S.g. de la economía social y de la responsabilidad social de las empresas |
 | 50505 | S.g. de innovación y digitalizacion |
@@ -8218,7 +8206,7 @@ Listado de claves:
 | 50514 | Unidad de apoyo |
 | 50516 | Unidad de apoyo |
 | 50520 | S.g. de comercio internacional de mercancias |
-| 50521 | S.g. de comercio internacional de servicios, comercio digital y cadenas de valor |
+| 50521 | S.g. de comercio internacional de servicios y comercio digital |
 | 50522 | S.g. de regulación y apoyo al comercio interior |
 | 50526 | S.g. de apoyo a las victimas de la guerra y de la dictadura |
 | 50527 | División de coordinación administrativa y relaciones institucionales |
@@ -8252,12 +8240,13 @@ Listado de claves:
 | 50579 | Núcleo del cuartel general conjunto multinacional (es-ohq) |
 | 50584 | División de auditoria interna y evaluación |
 | 50585 | Administración de la seguridad social N1 de collado villalba (N38 de Madrid) |
-| 50586 | Administración de la seguridad social N1 de majadahonda (N35 de Madrid) |
 | 50593 | I.d. en el ministerio de igualdad |
 | 50597 | Residencia de investigadores y biblioteca de Sevilla |
 | 50601 | Oficina consular en Reino Unido- manchester |
-| 50602 | Centro de documentación de las artes escenicas de de la música |
+| 50602 | Centro de documentación de las artes escenicas de la música |
+| 50604 | Centro de explotación cis de Canarias |
 | 50605 | Centro de explotación cis de cartagena |
+| 50606 | Centro de explotación cis de ferrol |
 | 50608 | Centro de explotación cis de rota |
 | 50616 | Jefatura de aprovisionamiento y transportes de Madrid |
 | 50621 | Museo naval de Canarias |
@@ -8276,27 +8265,27 @@ Listado de claves:
 | 50651 | Área general de apoyo administrativo |
 | 50652 | Área de informática |
 | 50654 | Fuerza de protección |
-| 50684 | Gabinete de la secretaria de estado |
-| 50685 | Secretaria de la secretaria de estado |
-| 50687 | Gabinete de la secretaria de estado |
-| 50688 | Secretaria de la secretaria de estado |
+| 50684 | Gabinete secr. de estado |
+| 50685 | Secretaria secr. de estado |
+| 50687 | Gabinete secr. de estado |
+| 50688 | Secretaria secr. de estado |
 | 50702 | Gabinete de la ministra |
 | 50703 | Secretaria de la ministra |
 | 50717 | Gabinete de la ministra |
 | 50718 | Secretaria de la ministra |
 | 50726 | Gabinete de la ministra |
 | 50727 | Secretaria de la ministra |
-| 50729 | Gabinete de la secretaria de estado |
-| 50730 | Secretaria de la secretaria de estado |
-| 50732 | Gabinete de la secretaria de estado |
-| 50733 | Secretaria de la secretaria de estado |
+| 50729 | Gabinete secr. de estado |
+| 50730 | Secretaria secr. de estado |
+| 50732 | Gabinete secr. de estado |
+| 50733 | Secretaria secr. de estado |
 | 50740 | Secretaria subsecret. |
 | 50744 | Secretaria subsecret. |
 | 50748 | Secretaria subsecret. |
 | 50754 | Secretaria subsecret. |
 | 50758 | Secretaria subsecret. |
-| 50765 | Gabinete de la secretaria de estado |
-| 50766 | Secretaria de la secretaria de estado |
+| 50765 | Gabinete secr. de estado |
+| 50766 | Secretaria secr. de estado |
 | 50772 | Unidad de apoyo |
 | 50773 | Secretaria de la secretaria general |
 | 50775 | Unidad de apoyo |
@@ -8316,7 +8305,6 @@ Listado de claves:
 | 50804 | Unidad de apoyo |
 | 50805 | Unidad de apoyo |
 | 50809 | Unidad de apoyo |
-| 50812 | S.gral. de universidades |
 | 50813 | Secretaria de la secretaria general |
 | 50817 | Secretaria de la secretaria general |
 | 50821 | Unidad de apoyo |
@@ -8766,7 +8754,7 @@ Listado de claves:
 | 51292 | Unidad de apoyo a.p. |
 | 51293 | O.p. sepe calahorra |
 | 51294 | O.p. sepe haro |
-| 51295 | O.p. sepe logroño |
+| 51295 | O.p. sepe logroño nº1 (calvo sotelo) |
 | 51296 | O.p. sepe logroño-ratel |
 | 51297 | O.p. sepe arrecife |
 | 51298 | O.p. sepe arucas |
@@ -8804,8 +8792,8 @@ Listado de claves:
 | 51330 | O.p. sepe becerrea |
 | 51331 | O.p. sepe burela |
 | 51332 | O.p. sepe chantada |
-| 51333 | O.p. sepe Lugo nº1 (campos novos) |
-| 51334 | O.p. sepe Lugo nº2 (río cabe) |
+| 51333 | O.p. sepe Lugo nº1 (sur) |
+| 51334 | O.p sepe Lugo nº2 (norte) |
 | 51335 | O.p. sepe mondoñedo |
 | 51336 | O.p. sepe monforte de lemos |
 | 51337 | O.p. sepe ribadeo |
@@ -8827,7 +8815,7 @@ Listado de claves:
 | 51354 | O.p. sepe getafe nº2 (centro) |
 | 51355 | O.p. sepe leganes nº1 (butarque) |
 | 51356 | O.p. sepe leganes nº2 (centro) |
-| 51357 | División de comunicaciones en movilidad a.p. |
+| 51357 | División de impulso de la innovación tecnológica a.p. |
 | 51359 | S.g. de datos para la gobernanza pública |
 | 51360 | O.p. sepe Madrid nº1 (agueda diez) |
 | 51361 | O.p. sepe Madrid nº2 (aluche) |
@@ -9175,8 +9163,8 @@ Listado de claves:
 | 51736 | S.g. de organización y gestión de recursos |
 | 51737 | Unidad de seguim., coordinac. y gestión de proc. resp. patr. en el amb. a.g.e. y las ee.der.pub.dep. |
 | 51738 | Unidad de apoyo |
-| 51740 | Gabinete de la secretaria de estado |
-| 51741 | Secretaria de la secretaria de estado |
+| 51740 | Gabinete secr. de estado |
+| 51741 | Secretaria secr. de estado |
 | 51744 | Unidad de apoyo |
 | 51747 | Unidad de apoyo |
 | 51748 | S.g. de promoción, prevención y equidad en salud |
@@ -9202,7 +9190,7 @@ Listado de claves:
 | 51781 | S.g. de seguimiento y control del cumplimiento de hitos y objetivos |
 | 51782 | S.g. de solicitudes de pago |
 | 51783 | Unidad de seguimiento del plan de recuperación, transformación y resiliencia a.p. |
-| 51785 | Equipo nacional de embargos |
+| 51785 | Equipo nacional embargo de cuentas y tpv |
 | 51786 | Equipo nacional enajenaciones |
 | 51787 | Unidad nacional de actuaciones |
 | 51788 | Unidad central de información y asistencia digital |
@@ -9218,11 +9206,9 @@ Listado de claves:
 | 51818 | División para la ejecución de los fondos europeos |
 | 51819 | Unidad temporal para la transformación digital de las administraciones publicas |
 | 51822 | S.g. de fondos europeos para la investigación, la innovación y el ámbito universitario |
-| 51823 | Instituto nacional de investigación y tecnología agraria y alimentaria |
 | 51824 | Dirección |
 | 51825 | Instituto geológico y minero de España |
 | 51826 | Dirección |
-| 51827 | Instituto español de oceanografía |
 | 51828 | Dirección |
 | 51829 | División para el seguimiento y coordinación del plan de recuperación, transformación y resiliencia |
 | 51830 | Unidad temporal para ejecución del plan de recuperación, transformación y resiliencia |
@@ -9259,18 +9245,16 @@ Listado de claves:
 | 51874 | Dirección de asuntos economicos (A Coruña) |
 | 51876 | Usac "aizoain" (pamplona) |
 | 51879 | Gabinete de la vicepresidenta segunda del gobierno |
-| 51880 | Secretaria vicepresidenta seg. gobierno |
+| 51880 | Secretaria de la vicepresidenta segunda del gobierno |
 | 51881 | Gabinete de la vicepresidenta tercera del gobierno |
 | 51882 | Secretaria de la vicepresidenta tercera del gobierno |
-| 51883 | Gabinete del ministro |
 | 51889 | Gabinete de la secretaria de estado |
-| 51908 | Gabinete de la secretaria de estado |
-| 51909 | Secretaria de la secretaria de estado |
-| 51911 | Gabinete de la secretaria de estado |
-| 51912 | Secretaria de la secretaria de estado |
+| 51908 | Gabinete secr. de estado |
+| 51909 | Secretaria secr. de estado |
+| 51911 | Gabinete secr. de estado |
+| 51912 | Secretaria secr. de estado |
 | 51913 | Instituto mixto de investigación en biodiversidad |
 | 51915 | Unidad de análisis gubernamental a.p. |
-| 51923 | Centro internacional de neurociencia cajal |
 | 51924 | Serv/secc.de gestión tributaria general |
 | 51925 | Unidad temporal para ejecución del plan de recuperación, transformación y resiliencia |
 | 51926 | S.g. de oficialía mayor |
@@ -9323,7 +9307,6 @@ Listado de claves:
 | 51988 | Unidad territ. de control financiero nº9 de Caceres |
 | 51989 | Unidad territorial de control financiero nº10 de Zaragoza |
 | 51990 | Unidad territorial de control financiero nº11 de Las Palmas |
-| 51991 | Instalación de acción social de la armada en soller |
 | 51992 | Residencias de la armada en ferrol |
 | 51993 | Residencias de la armada en cartagena |
 | 51996 | Unidad de apoyo a.p. |
@@ -9380,6 +9363,7 @@ Listado de claves:
 | 52103 | S.g. de estadísticas coyunturales |
 | 52104 | S.g. de relaciones internacionales y agenda 2030 |
 | 52105 | S.g. de formación, análisis e innovación en la producción estadística |
+| 52106 | Área de aduanas/vigilancia aduanera |
 | 52107 | Gabinete técnico |
 | 52109 | Puestos adscritos a la subsecretaria |
 | 52111 | Unidad de apoyo |
@@ -9492,14 +9476,13 @@ Listado de claves:
 | 52403 | Secretaria subsecret. |
 | 52407 | Secretaria subsecret. |
 | 52411 | Secretaria a.p. |
-| 52414 | Unidad de seguimiento territorial a.p. |
+| 52414 | Dirección adjunta a.p. |
 | 52415 | Unidad de asuntos institucionales a.p. |
 | 52417 | Unidad de análisis y estudio a.p. |
 | 52419 | Dirección adjunta a.p. |
-| 52421 | Unidad de coordinación a.p. |
-| 52422 | Unidad de politicas de crecimiento y desarrollo a.p. |
-| 52423 | Unidad de politicas sociales a.p. |
-| 52424 | Unidad de politicas medioambientales a.p. |
+| 52422 | Unidad de politicas de crecimiento y desarrollo sostenible a.p |
+| 52423 | Unidad de politicas sociales y gobernanza estratégica a.p. |
+| 52424 | Unidad de coordinación a.p. |
 | 52426 | Secretaria a.p. |
 | 52427 | Unidad de politicas macroeconomicas y laborales a.p. |
 | 52428 | Unidad de economía internacional y g-20 a.p. |
@@ -9552,7 +9535,7 @@ Listado de claves:
 | 52533 | Secretaria subsecret. |
 | 52535 | Dirección |
 | 52536 | S.g. de la casa de la arquitectura |
-| 52545 | Unidad de apoyo a.p. |
+| 52545 | Unidad de coordinación a.p. |
 | 52546 | Oficina nacional de asesoramiento científico a.p. |
 | 52547 | Unidad recursos y relac. con tribunales |
 | 52552 | Unidad de apoyo |
@@ -9664,7 +9647,6 @@ Listado de claves:
 | 52702 | S.g. de coordinación y seguimiento de fondos europeos |
 | 52703 | Observatorio permanente de la inmigración |
 | 52704 | Unidad de apoyo |
-| 52705 | Oficina para la org. de la cuarta conf. int. sobre la financiacion para el desarrollo de la onu a.p. |
 | 52706 | División de formación agroalimentaria |
 | 52707 | S.g. de laboratorios de sanidad animal y vegetal |
 | 52708 | División de bienestar animal |
@@ -9694,6 +9676,7 @@ Listado de claves:
 | 52738 | Centro de primeras llegadas (cpll) las raices, san cristóbal de la laguna, santa cruz de Tenerife |
 | 52741 | Unidad de apoyo |
 | 52743 | Agregaduria de economía y comercio en la república de Costa Rica-san jose |
+| 52744 | Unidad de inclusión del personal con discapacidad |
 | 52749 | Comisionado esp. rec. y rep. daños provoc. por dana en dif. municipios entre 28 oct. y 4 nov. 2024 |
 | 52752 | Unidad de apoyo |
 | 52753 | Departamento de protección del informante |
@@ -9800,13 +9783,12 @@ Listado de claves:
 | 52885 | Unidad de apoyo a.p. |
 | 52886 | Unidad de apoyo a.p. |
 | 52887 | Unidad de apoyo a.p. |
-| 52888 | Unidad de apoyo a.p. |
 | 52889 | Unidad de apoyo a.p. |
 | 52890 | Unidad de apoyo a.p. |
 | 52891 | Unidad de apoyo a.p. |
-| 52892 | Unidad de apoyo a.p. |
 | 52893 | Unidad de apoyo a.p. |
 | 52894 | Unidad de apoyo a.p. |
+| 52896 | Jefatura de la tercera suige (figueres) |
 | 52901 | Dirección de enseñanza, ins. adi. eval. (guitiriz) |
 | 52902 | Dirección de enseñanza, ins. adi. eval. (cabezón) |
 | 52903 | Dirección de enseñanza, ins. adi. eval. (astorga) |
@@ -9818,12 +9800,15 @@ Listado de claves:
 | 52916 | Secretaria |
 | 52918 | Gabinete |
 | 52920 | S.g. de seguridad de la información y de la inteligencia artificial |
+| 52922 | Área de aduanas/vigilancia aduanera |
+| 52923 | Área de aduanas/vigilancia aduanera |
 | 52924 | Área general de apoyo administrativo |
 | 52925 | Oficina técnica del perte de la industrialización de la vivienda |
 | 52927 | S.g. de planificación y coordinación |
 | 52936 | Secretaria general |
 | 52937 | Coordinación médica |
 | 52938 | Agrupación gerencial Asturias 1 |
+| 52939 | Agrupación gerencial Baleares |
 | 52940 | Comisionado especial para la reindustrializacion |
 | 52942 | Comisionado especial para la competitividad industrial y de la pequeña y mediana empresa |
 | 52943 | Oficina técnica del comisionado especial |
@@ -9833,6 +9818,37 @@ Listado de claves:
 | 52947 | S.g. de coordinación jurídica y de relación con los operadoresperadores |
 | 52948 | S.g. de supervision |
 | 52949 | Observatorio para la coord. y prevención de crisis y atenc. victimas acc. e incid. en modos transp. |
+| 52950 | S.g. de estrategia migratoria |
+| 52951 | S.g. de atención a la ciudadanía e inspección de servicios |
+| 52953 | O.p. sepe unidad de apoyo |
+| 52956 | Unidad de comunicaciones e infraestructuras del sistema de seguridad nacional a.p. |
+| 52957 | Unidad de planificación y gestión de crisis a.p. |
+| 52958 | Unidad de análisis de riesgos asociados al espacio digital a.p. |
+| 52959 | Oficina para la organización xxx conferencia iberoamericana de jefas y jefes estado y gobierno a.p. |
+| 52962 | Unidad de apoyo |
+| 52963 | Oficina nacional de prospectiva y estrategia a.p. |
+| 52964 | Unidad de apoyo a.p. |
+| 52965 | Unidad de apoyo a.p. |
+| 52966 | Servicio/sección de gestión tributaria general |
+| 52967 | Servicio/sección de gestión tributaria general |
+| 52968 | Servicio/sección de gestión tributaria general |
+| 52969 | Servicio/sección de gestión tributaria general |
+| 52970 | Servicio/sección de gestión tributaria general |
+| 52971 | Gerencia |
+| 52972 | Agrupación gerencial centro de ciencias humanas y sociales |
+| 52977 | Unidad de apoyo |
+| 52978 | S.g. laboratorio de datos |
+| 52980 | Unidad de apoyo |
+| 52981 | S.g. de cuentas anuales |
+| 52982 | S.g. de cuentas trimestrales |
+| 52983 | División de nuevos desarrollos |
+| 52984 | S.g. danza y creación interdisciplinar |
+| 52985 | División de archivo, documentación y gestión |
+| 52986 | Departamento de derecho administrativo general |
+| 52987 | Departamento de economía, energía y medio ambiente |
+| 52989 | Agrupación gerencial centro de física teórica y matemáticas |
+| 52990 | Agrupación gerencial centro de biología molecular |
+| 52993 | Dirección |
 
 # Provincia
 
@@ -10018,7 +10034,7 @@ Listado de claves:
 | 788 | Túnez |
 | 792 | Turquía |
 | 804 | Ucrania |
-| 807 | Macedonia del Norte |
+| 807 | República de Macedonia del Norte |
 | 818 | Egipto |
 | 826 | Reino Unido |
 | 834 | Tanzania |
@@ -10105,11 +10121,11 @@ Listado de claves:
 | 71 | Jaén |
 | 72 | Jartum |
 | 73 | Kabul |
-| 74 | Kiev |
-| 75 | Kingston |
-| 76 | Kinshasa |
-| 77 | Kuala-Lumpur |
-| 78 | Kuwait |
+| 74 | Kingston |
+| 75 | Kinshasa |
+| 76 | Kuala-Lumpur |
+| 77 | Kuwait |
+| 78 | Kyiv |
 | 79 | La Habana |
 | 80 | La Haya |
 | 81 | La Paz |
@@ -10326,28 +10342,28 @@ Listado de claves:
 | 292 | Almazora/Almassora |
 | 293 | Arevalo |
 | 294 | Badalona |
-| 295 | Alcantarilla |
-| 296 | Alcázar de San Juan |
-| 297 | Algarrobo |
-| 298 | Algodonales |
-| 299 | Almodovar del Río |
-| 300 | Almonte |
-| 301 | Andujar |
-| 302 | Arucas |
-| 303 | Caldas de Reis |
-| 304 | Alzira |
-| 305 | Alcañiz |
-| 306 | Alhama de Granada |
-| 307 | Almendralejo |
-| 308 | Arahal |
-| 309 | Barbera del Valles |
-| 310 | Bélgica |
-| 311 | Bembibre |
-| 312 | Aoiz/Agoitz |
-| 313 | Alcoba |
-| 314 | Arcos de la Frontera |
-| 315 | Arona |
-| 316 | Aznalcazar |
+| 295 | Badia del Valles |
+| 296 | Alcantarilla |
+| 297 | Alcázar de San Juan |
+| 298 | Algarrobo |
+| 299 | Algodonales |
+| 300 | Almodovar del Río |
+| 301 | Almonte |
+| 302 | Andujar |
+| 303 | Arucas |
+| 304 | Caldas de Reis |
+| 305 | Alzira |
+| 306 | Alcañiz |
+| 307 | Alhama de Granada |
+| 308 | Almendralejo |
+| 309 | Arahal |
+| 310 | Barbera del Valles |
+| 311 | Bélgica |
+| 312 | Bembibre |
+| 313 | Aoiz/Agoitz |
+| 314 | Alcoba |
+| 315 | Arcos de la Frontera |
+| 316 | Arona |
 | 317 | Becerrea |
 | 318 | Benavente |
 | 319 | Cambados |
@@ -10626,488 +10642,494 @@ Listado de claves:
 | 592 | Rota |
 | 593 | Corme |
 | 594 | Guareña |
-| 595 | Culleredo |
-| 596 | Eibar |
-| 597 | Hospitalet de Llobregat, L' |
-| 598 | Marchena |
-| 599 | Monforte de Lemos |
-| 600 | San Fernando |
-| 601 | Igualada |
-| 602 | Iscar |
-| 603 | Quart de Poblet |
-| 604 | Curtis |
-| 605 | Denia |
-| 606 | Herrera del Duque |
-| 607 | Langreo |
-| 608 | Llucmajor |
-| 609 | Monterroso |
-| 610 | San Roque |
-| 611 | Caleta de Velez |
-| 612 | Cullera |
-| 613 | Durcal |
-| 614 | Chelva |
-| 615 | Campillos |
-| 616 | Elche/Elx |
-| 617 | Illescas |
-| 618 | Mahón |
-| 619 | Puerto Lumbreras |
-| 620 | Realejos, Los |
-| 621 | Sanlucar de Barrameda |
-| 622 | Xinzo de Limia |
-| 623 | Cubo de la Solana |
-| 624 | Elda |
-| 625 | Getafe |
-| 626 | Morón de la Frontera |
-| 627 | Cheste |
-| 628 | Jonquera, La |
-| 629 | Dumbria |
-| 630 | Lena |
-| 631 | Manacor |
-| 632 | Xirivella |
-| 633 | Fuentes |
-| 634 | Chiva |
-| 635 | Manresa |
-| 636 | Martorell |
-| 637 | Hinojosa del Duque |
-| 638 | Llodio |
-| 639 | Luarca |
-| 640 | Mayorga |
-| 641 | Olula del Río |
-| 642 | Osuna |
-| 643 | San Javier |
-| 644 | Tarifa |
-| 645 | Vecindario |
-| 646 | San Cristóbal de la Laguna |
-| 647 | Madridejos |
-| 648 | Medina de Rioseco |
-| 649 | Jerez de los Caballeros |
-| 650 | Palacios y Villafranca, Los |
-| 651 | Hungría |
-| 652 | Medina del Campo |
-| 653 | Ferrol |
-| 654 | Llanera |
-| 655 | Maspalomas |
-| 656 | San Pedro del Pinatar |
-| 657 | Sangonera la Verde |
-| 658 | Haro |
-| 659 | Hontalbilla |
-| 660 | Fisterra |
-| 661 | Hellin |
-| 662 | Hondarribia |
-| 663 | Hoyo de Manzanares |
-| 664 | Llanes |
-| 665 | Mataro |
-| 666 | San Vicente de la Barquera |
-| 667 | Torre-Pacheco |
-| 668 | Trebujena |
-| 669 | Lloret de Mar |
-| 670 | Mansilla de las Mulas |
-| 671 | Llerena |
-| 672 | Mollet del Valles |
-| 673 | Leganes |
-| 674 | Lucena |
-| 675 | Mieres |
-| 676 | San Sebastian de la Gomera |
-| 677 | Ubrique |
-| 678 | Montcada i Reixac |
-| 679 | Guardamar del Segura |
-| 680 | Pilas |
-| 681 | Santillana del Mar |
-| 682 | Hervas |
-| 683 | Daimiel |
-| 684 | Guadix |
-| 685 | Italia |
-| 686 | Montanejos |
-| 687 | Porriño, O |
-| 688 | Santa Cruz de la Palma |
-| 689 | Totana |
-| 690 | Vejer de la Frontera |
-| 691 | Iruña Oka/Iruña de Oca |
-| 692 | Morella |
-| 693 | Puebla de Cazalla, La |
-| 694 | Fraga |
-| 695 | Medina de Pomar |
-| 696 | Getaria |
-| 697 | Ibi |
-| 698 | Melgar de Fernamental |
-| 699 | Roquetas de Mar |
-| 700 | Santoña |
-| 701 | Hoyos |
-| 702 | Gandia |
-| 703 | Jacarilla |
-| 704 | Majadahonda |
-| 705 | Nules |
-| 706 | Portonovo |
-| 707 | Puebla del Río, La |
-| 708 | Unión, La |
-| 709 | Villamartin |
-| 710 | Graus |
-| 711 | Miranda de Ebro |
-| 712 | Luanco |
-| 713 | Onda |
-| 714 | Rinconada, La |
-| 715 | Jaraíz de la Vera |
-| 716 | Isla Cristina |
-| 717 | Jijona/Xixona |
-| 718 | Letur |
-| 719 | Merida |
-| 720 | Montilla |
-| 721 | Navia |
-| 722 | Huescar |
-| 723 | Huete |
-| 724 | Barca, La |
-| 725 | Coin |
-| 726 | Getxo |
-| 727 | Huelma |
-| 728 | Malpica de Bergantiños |
-| 729 | Montoro |
-| 730 | Mora |
-| 731 | Ponteareas |
-| 732 | Yecla |
-| 733 | Corvera |
-| 734 | Torrelavega |
-| 735 | Olot |
-| 736 | Benalup-Casas Viejas |
-| 737 | Lepe |
-| 738 | Montblanc |
-| 739 | San Juan de Aznalfarache |
-| 740 | Tacoronte |
-| 741 | Espinardo |
-| 742 | Les |
-| 743 | Losar de la Vera |
-| 744 | Montijo |
-| 745 | Tabernas |
-| 746 | Xativa |
-| 747 | Gernika-Lumo |
-| 748 | Jaca |
-| 749 | Redondela |
-| 750 | Sanlucar la Mayor |
-| 751 | Lliria |
-| 752 | Palamos |
-| 753 | Ponferrada |
-| 754 | Irun |
-| 755 | Iznalloz |
-| 756 | Melide |
-| 757 | Mostoles |
-| 758 | Navalvillar de Pela |
-| 759 | San Antonio Abad |
-| 760 | Saucejo, El |
-| 761 | Novelda |
-| 762 | Navalosa |
-| 763 | Peñafiel |
-| 764 | Peñaranda de Bracamonte |
-| 765 | Puebla de Sanabria |
-| 766 | Herencia |
-| 767 | Minglanilla |
-| 768 | Mora D'Ebre |
-| 769 | Sant Josep de Sa Talaia |
-| 770 | Tegueste |
-| 771 | Navalcarnero |
-| 772 | Olivenza |
-| 773 | Utrera |
-| 774 | Lodosa |
-| 775 | Mazagon |
-| 776 | Iurreta |
-| 777 | Miajadas |
-| 778 | Manises |
-| 779 | Mauritania |
-| 780 | Horcajo de los Montés |
-| 781 | Navas del Marqués, Las |
-| 782 | Ocaña |
-| 783 | Orellana la Vieja |
-| 784 | Palma del Río |
-| 785 | Valverde |
-| 786 | Molina de Aragón |
-| 787 | Orihuela |
-| 788 | Pineda de Mar |
-| 789 | Motilla del Palancar |
-| 790 | Quintanilla de Onsoña |
-| 791 | Moguer |
-| 792 | Salvaterra de Miño |
-| 793 | Velez-Rubio |
-| 794 | Najera |
-| 795 | Vera |
-| 796 | Meliana |
-| 797 | Jodar |
-| 798 | Paracuellos de Jarama |
-| 799 | Pravia |
-| 800 | Ribadeo |
-| 801 | Sanxenxo |
-| 802 | Viator |
-| 803 | Pardo, El |
-| 804 | Marruecos |
-| 805 | Prat de Llobregat, El |
-| 806 | Parla |
-| 807 | Segorbe |
-| 808 | Mislata |
-| 809 | Estepona |
-| 810 | Nerva |
-| 811 | Petrer |
-| 812 | Peñarroya-Pueblonuevo |
-| 813 | Ejido, El |
-| 814 | Monflorite-Lascasas |
-| 815 | Montcada / Moncada |
-| 816 | Premia de Mar |
-| 817 | Loja |
-| 818 | Maliaño |
-| 819 | Monserrat |
-| 820 | Navalmoral de la Mata |
-| 821 | Leioa |
-| 822 | Linares |
-| 823 | Manzanares |
-| 824 | Monzón |
-| 825 | Muros |
-| 826 | Portbou |
-| 827 | Posadas |
-| 828 | Saldaña |
-| 829 | Los Cristianos |
-| 830 | Palma del Condado, La |
-| 831 | Pozoblanco |
-| 832 | Santa Eulalia del Río |
-| 833 | Puigcerda |
-| 834 | Naquera |
-| 835 | Piedrahita |
-| 836 | Ripollet |
-| 837 | Fuengirola |
-| 838 | Montalban |
-| 839 | Pastrana |
-| 840 | Pinto |
-| 841 | Priego de Córdoba |
-| 842 | Tui |
-| 843 | Mutilva Baja |
-| 844 | Rubí |
-| 845 | Arrasate o Mondragon |
-| 846 | Lekeitio |
-| 847 | Negreira |
-| 848 | Pozuelo de Alarcon |
-| 849 | Puente Genil |
-| 850 | Ribadesella |
-| 851 | Ontinyent |
-| 852 | San Andrés del Rabanedo |
-| 853 | Ripoll |
-| 854 | Sabadell |
-| 855 | Montefrio |
-| 856 | Noia |
-| 857 | Ossa de Montiel |
-| 858 | Palazuelos de Eresma |
-| 859 | Rambla, La |
-| 860 | Sarria |
-| 861 | Vigo |
-| 862 | Quintanar de la Orden |
-| 863 | Martos |
-| 864 | Paterna |
-| 865 | Pereiro de Aguiar, O |
-| 866 | Puebla de Guzmán |
-| 867 | Rute |
-| 868 | Sant Joan D'Alacant |
-| 869 | Pinofranqueado |
-| 870 | Roses |
-| 871 | Sant Adria de Besos |
-| 872 | Mengibar |
-| 873 | Ordes |
-| 874 | Salvatierra de los Barros |
-| 875 | San Miguel de Salinas |
-| 876 | Picassent |
-| 877 | Plasencia |
-| 878 | Motril |
-| 879 | Sant Andreu de la Barca |
-| 880 | Salt |
-| 881 | Punta Umbría |
-| 882 | Vilagarcia de Arousa |
-| 883 | Toro |
-| 884 | Rivas-Vaciamadrid |
-| 885 | Santa Pola |
-| 886 | Sant Boi de Llobregat |
-| 887 | Ortigueira |
-| 888 | Soller |
-| 889 | Vilanova de Arousa |
-| 890 | Topas |
-| 891 | Perú |
-| 892 | Sant Feliu de Guixols |
-| 893 | Salas de los Infantes |
-| 894 | Reus |
-| 895 | Vall D'Uixo, La |
-| 896 | Sant Cugat del Valles |
-| 897 | Santa María del Páramo |
-| 898 | Rozas de Madrid, Las |
-| 899 | Pobla de Segur, La |
-| 900 | Orcera |
-| 901 | Orgiva |
-| 902 | Piedrabuena |
-| 903 | Pobra de Trives, A |
-| 904 | Santovenia de Pisuerga |
-| 905 | Santa Olalla |
-| 906 | San Fernando de Henares |
-| 907 | Sant Feliu de Llobregat |
-| 908 | Sabiñanigo |
-| 909 | San Lorenzo de el Escorial |
-| 910 | Talavera la Real |
-| 911 | Requena |
-| 912 | Pasaia |
-| 913 | San Martín de la Vega |
-| 914 | Simancas |
-| 915 | Vilalba |
-| 916 | Rumania |
-| 917 | Federación Rusa |
-| 918 | San Martín de Valdeiglesias |
-| 919 | Sangüesa/Zangoza |
-| 920 | Porcuna |
-| 921 | San Sebastian de los Reyes |
-| 922 | Sant Antoni de Portmany |
-| 923 | Siero |
-| 924 | Torrevieja |
-| 925 | Viveiro |
-| 926 | San Ildefonso |
-| 927 | Sonseca |
-| 928 | Tordesillas |
-| 929 | Doneztebe/Santesteban |
-| 930 | Villagonzalo de Tormes |
-| 931 | Cillero |
-| 932 | Mundaka |
-| 933 | Pobra Do Caramiñal, A |
-| 934 | Pozo Alcon |
-| 935 | Roquetes |
-| 936 | Sagunto/Sagunt |
-| 937 | Santorcaz |
-| 938 | Talavera de la Reina |
-| 939 | Villarreal/Vila-Real |
-| 940 | Errenteria |
-| 941 | Mungia |
-| 942 | Pinos Puente |
-| 943 | Sadaba |
-| 944 | Sigüenza |
-| 945 | Sant Carles de la Rápita |
-| 946 | Tafalla |
-| 947 | Vinaros |
-| 948 | Santa María la Real de Nieva |
-| 949 | Marbella |
-| 950 | Pontedeume |
-| 951 | Puerta de Segura, La |
-| 952 | Ribadavia |
-| 953 | Roda, La |
-| 954 | San Clemente |
-| 955 | Villajoyosa/Vila Joiosa, La |
-| 956 | Villanueva de Córdoba |
-| 957 | Villena |
-| 958 | Santa Coloma de Farners |
-| 959 | Torrijos |
-| 960 | Pontes de García Rodriguez, As |
-| 961 | Quesada |
-| 962 | Silla |
-| 963 | Soto del Real |
-| 964 | Tapia de Casariego |
-| 965 | Tudela |
-| 966 | Tudela de Duero |
-| 967 | Puertollano |
-| 968 | Tolosa |
-| 969 | Torre de la Sal |
-| 970 | Tiemblo, El |
-| 971 | Eslovaquia (República de Eslovaquia) |
-| 972 | Sueca |
-| 973 | Vitigudino |
-| 974 | Mollina |
-| 975 | Ondarroa |
-| 976 | Retuerta del Bullaque |
-| 977 | Rianxo |
-| 978 | Teverga |
-| 979 | Torrejón de Ardoz |
-| 980 | Valverde del Camino |
-| 981 | Ribeira |
-| 982 | Tineo |
-| 983 | Seu D'Urgell, La |
-| 984 | Tarancon |
-| 985 | Vegadeo |
-| 986 | Sant Vicenc Dels Horts |
-| 987 | Torrent |
-| 988 | Valencia de Don Juan |
-| 989 | Tarazona |
-| 990 | Valverde de la Virgen |
-| 991 | Villacañas |
-| 992 | Nerja |
-| 993 | Sada |
-| 994 | Santiago-Pontones |
-| 995 | Solsona |
-| 996 | Tardienta |
-| 997 | Villafranca de los Barros |
-| 998 | Tres Cantos |
-| 999 | Santa Coloma de Gramenet |
-| 1000 | Turis |
-| 1001 | Santa Fe |
-| 1002 | Santisteban del Puerto |
-| 1003 | Portugalete |
-| 1004 | Vega de Infanzones |
-| 1005 | Villanueva de la Serena |
-| 1006 | Talarn |
-| 1007 | Tortosa |
-| 1008 | Santiago de Compostela |
-| 1009 | Tarrega |
-| 1010 | Trujillo |
-| 1011 | Valdemoro |
-| 1012 | Solana, La |
-| 1013 | Ugijar |
-| 1014 | Valdeolmos-Alalpardo |
-| 1015 | Valle de Trapaga-Trapagaran |
-| 1016 | Villablino |
-| 1017 | Zarautz |
-| 1018 | Zafra |
-| 1019 | Zumarraga |
-| 1020 | Noain (Valle de Elorz) /Imarcoain |
-| 1021 | Yebenes, Los |
-| 1022 | Sardanyola |
-| 1023 | Valdilecha |
-| 1024 | Valls |
-| 1025 | Santurtzi |
-| 1026 | Villarrobledo |
-| 1027 | Valencia de Alcántara |
-| 1028 | Vendrell, El |
-| 1029 | Lasarte-Oria |
-| 1030 | Tomelloso |
-| 1031 | Venta de Baños |
-| 1032 | Ronda |
-| 1033 | Sestao |
-| 1034 | Torredonjimeno |
-| 1035 | Sondika |
-| 1036 | Terrassa |
-| 1037 | Utrillas |
-| 1038 | Villarcayo de Merindad de Castilla la Vieja |
-| 1039 | Estados Unidos de América (USA) |
-| 1040 | Lastres |
-| 1041 | Tremp |
-| 1042 | Verin |
-| 1043 | Villalon de Campos |
-| 1044 | Viana Do Bolo |
-| 1045 | Yeste |
-| 1046 | Vilamalla |
-| 1047 | Villanubla |
-| 1048 | Zarza de Granadilla |
-| 1049 | Ubeda |
-| 1050 | Valdepeñas |
-| 1051 | Yebes |
-| 1052 | Villarejo de Salvanes |
-| 1053 | Vielha e Mijaran |
-| 1054 | Zuera |
-| 1055 | Villaviciosa de Odon |
-| 1056 | Vilobi D'Onyar |
-| 1057 | Balmaseda |
-| 1058 | Torrox |
-| 1059 | Villacarrillo |
-| 1060 | Vic |
-| 1061 | Cantoblanco |
-| 1062 | Viladecans |
-| 1063 | Cabildo Insular de la Isla de la Gomera |
-| 1064 | Lanzarote |
-| 1065 | Cabildo Insular de la Isla de la Palma |
-| 1066 | Vilafranca del Penedes |
-| 1067 | Vilanova del Cami |
-| 1068 | Vilanova i la Geltru |
-| 1069 | Farga de Moles, La |
-| 1070 | Velez-Málaga |
-| 1071 | Villanueva de los Infantes |
-| 1072 | Villar del Pozo |
-| 1073 | Zalla |
-| 1074 | Viso del Marqués |
-| 1075 | Torre de Mar |
-| 1076 | Torremolinos |
+| 595 | Castejon de Sos |
+| 596 | Culleredo |
+| 597 | Eibar |
+| 598 | Hospitalet de Llobregat, L' |
+| 599 | Marchena |
+| 600 | Monforte de Lemos |
+| 601 | San Fernando |
+| 602 | Igualada |
+| 603 | Iscar |
+| 604 | Quart de Poblet |
+| 605 | Curtis |
+| 606 | Denia |
+| 607 | Herrera del Duque |
+| 608 | Langreo |
+| 609 | Llucmajor |
+| 610 | Monterroso |
+| 611 | San Roque |
+| 612 | Caleta de Velez |
+| 613 | Cullera |
+| 614 | Durcal |
+| 615 | Chelva |
+| 616 | Campillos |
+| 617 | Elche/Elx |
+| 618 | Illescas |
+| 619 | Mahón |
+| 620 | Puerto Lumbreras |
+| 621 | Realejos, Los |
+| 622 | Sanlucar de Barrameda |
+| 623 | Xinzo de Limia |
+| 624 | Cubo de la Solana |
+| 625 | Elda |
+| 626 | Getafe |
+| 627 | Morón de la Frontera |
+| 628 | Cheste |
+| 629 | Jonquera, La |
+| 630 | Dumbria |
+| 631 | Lena |
+| 632 | Manacor |
+| 633 | Xirivella |
+| 634 | Fuentes |
+| 635 | Chiva |
+| 636 | Manresa |
+| 637 | Martorell |
+| 638 | Galdakao |
+| 639 | Hinojosa del Duque |
+| 640 | Llodio |
+| 641 | Luarca |
+| 642 | Mayorga |
+| 643 | Olula del Río |
+| 644 | Osuna |
+| 645 | San Javier |
+| 646 | Tarifa |
+| 647 | Vecindario |
+| 648 | San Cristóbal de la Laguna |
+| 649 | Madridejos |
+| 650 | Medina de Rioseco |
+| 651 | Jerez de los Caballeros |
+| 652 | Palacios y Villafranca, Los |
+| 653 | Hungría |
+| 654 | Medina del Campo |
+| 655 | Ferrol |
+| 656 | Llanera |
+| 657 | Maspalomas |
+| 658 | San Pedro del Pinatar |
+| 659 | Guijo de Granadilla |
+| 660 | Sangonera la Verde |
+| 661 | Haro |
+| 662 | Hontalbilla |
+| 663 | Fisterra |
+| 664 | Hellin |
+| 665 | Hondarribia |
+| 666 | Hoyo de Manzanares |
+| 667 | Llanes |
+| 668 | Mataro |
+| 669 | San Vicente de la Barquera |
+| 670 | Torre-Pacheco |
+| 671 | Trebujena |
+| 672 | Lloret de Mar |
+| 673 | Mansilla de las Mulas |
+| 674 | Llerena |
+| 675 | Mollet del Valles |
+| 676 | Leganes |
+| 677 | Lucena |
+| 678 | Mieres |
+| 679 | San Sebastian de la Gomera |
+| 680 | Ubrique |
+| 681 | Montcada i Reixac |
+| 682 | Guardamar del Segura |
+| 683 | Pilas |
+| 684 | Santillana del Mar |
+| 685 | Hervas |
+| 686 | Daimiel |
+| 687 | Guadix |
+| 688 | Italia |
+| 689 | Montanejos |
+| 690 | Porriño, O |
+| 691 | Santa Cruz de la Palma |
+| 692 | Totana |
+| 693 | Vejer de la Frontera |
+| 694 | Iruña Oka/Iruña de Oca |
+| 695 | Morella |
+| 696 | Puebla de Cazalla, La |
+| 697 | Fraga |
+| 698 | Medina de Pomar |
+| 699 | Getaria |
+| 700 | Ibi |
+| 701 | Melgar de Fernamental |
+| 702 | Roquetas de Mar |
+| 703 | Santoña |
+| 704 | Hoyos |
+| 705 | Gandia |
+| 706 | Jacarilla |
+| 707 | Majadahonda |
+| 708 | Merindad de Río Ubierna |
+| 709 | Nules |
+| 710 | Portonovo |
+| 711 | Puebla del Río, La |
+| 712 | Unión, La |
+| 713 | Villamartin |
+| 714 | Graus |
+| 715 | Miranda de Ebro |
+| 716 | Luanco |
+| 717 | Onda |
+| 718 | Rinconada, La |
+| 719 | Jaraíz de la Vera |
+| 720 | Isla Cristina |
+| 721 | Jijona/Xixona |
+| 722 | Letur |
+| 723 | Merida |
+| 724 | Montilla |
+| 725 | Navia |
+| 726 | Huescar |
+| 727 | Huete |
+| 728 | Barca, La |
+| 729 | Coin |
+| 730 | Getxo |
+| 731 | Huelma |
+| 732 | Malpica de Bergantiños |
+| 733 | Montoro |
+| 734 | Mora |
+| 735 | Ponteareas |
+| 736 | Yecla |
+| 737 | Corvera |
+| 738 | Torrelavega |
+| 739 | Olot |
+| 740 | Benalup-Casas Viejas |
+| 741 | Lepe |
+| 742 | Montblanc |
+| 743 | San Juan de Aznalfarache |
+| 744 | Tacoronte |
+| 745 | Espinardo |
+| 746 | Les |
+| 747 | Losar de la Vera |
+| 748 | Montijo |
+| 749 | Tabernas |
+| 750 | Xativa |
+| 751 | Gernika-Lumo |
+| 752 | Jaca |
+| 753 | Redondela |
+| 754 | Sanlucar la Mayor |
+| 755 | Lliria |
+| 756 | Palamos |
+| 757 | Ponferrada |
+| 758 | Irun |
+| 759 | Iznalloz |
+| 760 | Melide |
+| 761 | Mostoles |
+| 762 | Navalvillar de Pela |
+| 763 | San Antonio Abad |
+| 764 | Saucejo, El |
+| 765 | Novelda |
+| 766 | Navalosa |
+| 767 | Peñafiel |
+| 768 | Peñaranda de Bracamonte |
+| 769 | Puebla de Sanabria |
+| 770 | Herencia |
+| 771 | Minglanilla |
+| 772 | Mora D'Ebre |
+| 773 | Sant Josep de Sa Talaia |
+| 774 | Tegueste |
+| 775 | Navalcarnero |
+| 776 | Olivenza |
+| 777 | Utrera |
+| 778 | Lodosa |
+| 779 | Mazagon |
+| 780 | Iurreta |
+| 781 | Miajadas |
+| 782 | Manises |
+| 783 | Mauritania |
+| 784 | Horcajo de los Montés |
+| 785 | Navas del Marqués, Las |
+| 786 | Ocaña |
+| 787 | Orellana la Vieja |
+| 788 | Palma del Río |
+| 789 | Valverde |
+| 790 | Molina de Aragón |
+| 791 | Orihuela |
+| 792 | Pineda de Mar |
+| 793 | Motilla del Palancar |
+| 794 | Quintanilla de Onsoña |
+| 795 | Moguer |
+| 796 | Salvaterra de Miño |
+| 797 | Velez-Rubio |
+| 798 | Najera |
+| 799 | Vera |
+| 800 | Meliana |
+| 801 | Jodar |
+| 802 | Paracuellos de Jarama |
+| 803 | Pravia |
+| 804 | Ribadeo |
+| 805 | Sanxenxo |
+| 806 | Viator |
+| 807 | Pardo, El |
+| 808 | Marruecos |
+| 809 | Prat de Llobregat, El |
+| 810 | Parla |
+| 811 | Segorbe |
+| 812 | Mislata |
+| 813 | Estepona |
+| 814 | Nerva |
+| 815 | Petrer |
+| 816 | Peñarroya-Pueblonuevo |
+| 817 | Ejido, El |
+| 818 | Monflorite-Lascasas |
+| 819 | Montcada / Moncada |
+| 820 | Premia de Mar |
+| 821 | Loja |
+| 822 | Maliaño |
+| 823 | Monserrat |
+| 824 | Navalmoral de la Mata |
+| 825 | Leioa |
+| 826 | Linares |
+| 827 | Manzanares |
+| 828 | Monzón |
+| 829 | Muros |
+| 830 | Portbou |
+| 831 | Posadas |
+| 832 | Saldaña |
+| 833 | Los Cristianos |
+| 834 | Palma del Condado, La |
+| 835 | Pozoblanco |
+| 836 | Santa Eulalia del Río |
+| 837 | Monreal del Campo |
+| 838 | Puigcerda |
+| 839 | Naquera |
+| 840 | Piedrahita |
+| 841 | Ripollet |
+| 842 | Fuengirola |
+| 843 | Montalban |
+| 844 | Pastrana |
+| 845 | Pinto |
+| 846 | Priego de Córdoba |
+| 847 | Tui |
+| 848 | Mutilva Baja |
+| 849 | Rubí |
+| 850 | Arrasate o Mondragon |
+| 851 | Lekeitio |
+| 852 | Negreira |
+| 853 | Pozuelo de Alarcon |
+| 854 | Puente Genil |
+| 855 | Ribadesella |
+| 856 | Ontinyent |
+| 857 | San Andrés del Rabanedo |
+| 858 | Ripoll |
+| 859 | Sabadell |
+| 860 | Montefrio |
+| 861 | Noia |
+| 862 | Ossa de Montiel |
+| 863 | Palazuelos de Eresma |
+| 864 | Rambla, La |
+| 865 | Sarria |
+| 866 | Vigo |
+| 867 | Quintanar de la Orden |
+| 868 | Martos |
+| 869 | Paterna |
+| 870 | Pereiro de Aguiar, O |
+| 871 | Puebla de Guzmán |
+| 872 | Rute |
+| 873 | Sant Joan D'Alacant |
+| 874 | Pinofranqueado |
+| 875 | Roses |
+| 876 | Sant Adria de Besos |
+| 877 | Mengibar |
+| 878 | Ordes |
+| 879 | Salvatierra de los Barros |
+| 880 | San Miguel de Salinas |
+| 881 | Picassent |
+| 882 | Plasencia |
+| 883 | Motril |
+| 884 | Sant Andreu de la Barca |
+| 885 | Salt |
+| 886 | Punta Umbría |
+| 887 | Vilagarcia de Arousa |
+| 888 | Toro |
+| 889 | Rivas-Vaciamadrid |
+| 890 | Santa Pola |
+| 891 | Sant Boi de Llobregat |
+| 892 | Ortigueira |
+| 893 | Vilanova de Arousa |
+| 894 | Topas |
+| 895 | Perú |
+| 896 | Sant Feliu de Guixols |
+| 897 | Salas de los Infantes |
+| 898 | Reus |
+| 899 | Vall D'Uixo, La |
+| 900 | Priego |
+| 901 | Sant Cugat del Valles |
+| 902 | Santa María del Páramo |
+| 903 | Rozas de Madrid, Las |
+| 904 | Pobla de Segur, La |
+| 905 | Orcera |
+| 906 | Orgiva |
+| 907 | Piedrabuena |
+| 908 | Pobra de Trives, A |
+| 909 | Santovenia de Pisuerga |
+| 910 | Santa Olalla |
+| 911 | San Fernando de Henares |
+| 912 | Sant Feliu de Llobregat |
+| 913 | Sabiñanigo |
+| 914 | San Lorenzo de el Escorial |
+| 915 | Talavera la Real |
+| 916 | Requena |
+| 917 | Pasaia |
+| 918 | San Martín de la Vega |
+| 919 | Simancas |
+| 920 | Vilalba |
+| 921 | Rumania |
+| 922 | Federación Rusa |
+| 923 | San Martín de Valdeiglesias |
+| 924 | Sangüesa/Zangoza |
+| 925 | Porcuna |
+| 926 | San Sebastian de los Reyes |
+| 927 | Sant Antoni de Portmany |
+| 928 | Siero |
+| 929 | Torrevieja |
+| 930 | Viveiro |
+| 931 | San Ildefonso |
+| 932 | Sonseca |
+| 933 | Tordesillas |
+| 934 | Doneztebe/Santesteban |
+| 935 | Villagonzalo de Tormes |
+| 936 | Cillero |
+| 937 | Mundaka |
+| 938 | Pobra Do Caramiñal, A |
+| 939 | Pozo Alcon |
+| 940 | Roquetes |
+| 941 | Sagunto/Sagunt |
+| 942 | Santorcaz |
+| 943 | Talavera de la Reina |
+| 944 | Villarreal/Vila-Real |
+| 945 | Errenteria |
+| 946 | Mungia |
+| 947 | Pinos Puente |
+| 948 | Sadaba |
+| 949 | Sigüenza |
+| 950 | Sant Carles de la Rápita |
+| 951 | Tafalla |
+| 952 | Vinaros |
+| 953 | Santa María la Real de Nieva |
+| 954 | Marbella |
+| 955 | Pontedeume |
+| 956 | Puerta de Segura, La |
+| 957 | Ribadavia |
+| 958 | Roda, La |
+| 959 | San Clemente |
+| 960 | Soto del Barco |
+| 961 | Villajoyosa/Vila Joiosa, La |
+| 962 | Villanueva de Córdoba |
+| 963 | Villena |
+| 964 | Santa Coloma de Farners |
+| 965 | Torrijos |
+| 966 | Pontes de García Rodriguez, As |
+| 967 | Quesada |
+| 968 | Silla |
+| 969 | Soto del Real |
+| 970 | Tapia de Casariego |
+| 971 | Tudela |
+| 972 | Tudela de Duero |
+| 973 | Puertollano |
+| 974 | Tolosa |
+| 975 | Torre de la Sal |
+| 976 | Tiemblo, El |
+| 977 | Eslovaquia (República de Eslovaquia) |
+| 978 | Sueca |
+| 979 | Vitigudino |
+| 980 | Mollina |
+| 981 | Ondarroa |
+| 982 | Retuerta del Bullaque |
+| 983 | Rianxo |
+| 984 | Teverga |
+| 985 | Torrejón de Ardoz |
+| 986 | Valverde del Camino |
+| 987 | Ribeira |
+| 988 | Tineo |
+| 989 | Seu D'Urgell, La |
+| 990 | Tarancon |
+| 991 | Vegadeo |
+| 992 | Sant Vicenc Dels Horts |
+| 993 | Torrent |
+| 994 | Valencia de Don Juan |
+| 995 | Tarazona |
+| 996 | Valverde de la Virgen |
+| 997 | Villacañas |
+| 998 | Nerja |
+| 999 | Sada |
+| 1000 | Santiago-Pontones |
+| 1001 | Solsona |
+| 1002 | Tardienta |
+| 1003 | Villafranca de los Barros |
+| 1004 | Tres Cantos |
+| 1005 | Santa Coloma de Gramenet |
+| 1006 | Turis |
+| 1007 | Santa Fe |
+| 1008 | Santisteban del Puerto |
+| 1009 | Portugalete |
+| 1010 | Vega de Infanzones |
+| 1011 | Villanueva de la Serena |
+| 1012 | Talarn |
+| 1013 | Tortosa |
+| 1014 | Santiago de Compostela |
+| 1015 | Tarrega |
+| 1016 | Trujillo |
+| 1017 | Valdemoro |
+| 1018 | Solana, La |
+| 1019 | Ugijar |
+| 1020 | Valdeolmos-Alalpardo |
+| 1021 | Valle de Trapaga-Trapagaran |
+| 1022 | Villablino |
+| 1023 | Zarautz |
+| 1024 | Zafra |
+| 1025 | Zumarraga |
+| 1026 | Noain (Valle de Elorz) /Imarcoain |
+| 1027 | Yebenes, Los |
+| 1028 | Sardanyola |
+| 1029 | Valdilecha |
+| 1030 | Valls |
+| 1031 | Santurtzi |
+| 1032 | Villarrobledo |
+| 1033 | Valencia de Alcántara |
+| 1034 | Vendrell, El |
+| 1035 | Lasarte-Oria |
+| 1036 | Tomelloso |
+| 1037 | Venta de Baños |
+| 1038 | Ronda |
+| 1039 | Sestao |
+| 1040 | Torredonjimeno |
+| 1041 | Sondika |
+| 1042 | Terrassa |
+| 1043 | Utrillas |
+| 1044 | Villarcayo de Merindad de Castilla la Vieja |
+| 1045 | Estados Unidos de América (USA) |
+| 1046 | Lastres |
+| 1047 | Tremp |
+| 1048 | Verin |
+| 1049 | Villalon de Campos |
+| 1050 | Viana Do Bolo |
+| 1051 | Yeste |
+| 1052 | Vilamalla |
+| 1053 | Villanubla |
+| 1054 | Zarza de Granadilla |
+| 1055 | Ubeda |
+| 1056 | Valdepeñas |
+| 1057 | Yebes |
+| 1058 | Villarejo de Salvanes |
+| 1059 | Vielha e Mijaran |
+| 1060 | Zuera |
+| 1061 | Villaviciosa de Odon |
+| 1062 | Vilobi D'Onyar |
+| 1063 | Balmaseda |
+| 1064 | Torrox |
+| 1065 | Villacarrillo |
+| 1066 | Vic |
+| 1067 | Cantoblanco |
+| 1068 | Viladecans |
+| 1069 | Cabildo Insular de la Isla de la Gomera |
+| 1070 | Lanzarote |
+| 1071 | Cabildo Insular de la Isla de la Palma |
+| 1072 | Vilafranca del Penedes |
+| 1073 | Vilanova del Cami |
+| 1074 | Vilanova i la Geltru |
+| 1075 | Farga de Moles, La |
+| 1076 | Velez-Málaga |
+| 1077 | Villanueva de los Infantes |
+| 1078 | Villar del Pozo |
+| 1079 | Zalla |
+| 1080 | Viso del Marqués |
+| 1081 | Torre de Mar |
+| 1082 | Torremolinos |
 
 # Cargo
 
@@ -11206,18 +11228,15 @@ Listado de claves:
 * Agente hacienda pública 2 p.i.
 * Agente hacienda pública 3
 * Agente hacienda pública 3 h10
-* Agente hacienda pública 3 p.i.
 * Agente hacienda pública 4
 * Agente hacienda pública 5
 * Agente hacienda pública 6
 * Agente hacienda pública 6 h10
 * Agente hacienda pública entrada h10
-* Agente mediambiental
 * Agente medioambiental
 * Agente medioambiental N16
 * Agente medioambiental coordinador
 * Agente medioambiental de parques nacionales
-* Agente medioambiental jefe
 * Agente v.a. aéreo 4
 * Agente v.a. aéreo 6
 * Agente v.a. investigación 1
@@ -11338,8 +11357,6 @@ Listado de claves:
 * Arquitecto/a superior 1
 * Arquitecto/a técnica
 * Arquitecto/a técnico/a 1
-* Arquitecto/a técnico/a 2
-* Arquitecto/a técnico/a 3
 * Arquitecto/a técnico/a 4
 * Arquitecto/a técnico/a 5
 * Arquitecto/a técnico/a 6
@@ -11352,12 +11369,12 @@ Listado de claves:
 * Asesor de la presidencia N30
 * Asesor pres. para rel. institucionales
 * Asesor pres. para rel. internacionales
-* Asesor presidencia de publicaciones
 * Asesor técnico
 * Asesor técnico de consejero
 * Asesor/a
 * Asesor/a N25
 * Asesor/a N26
+* Asesor/a N28
 * Asesor/a N30
 * Asesor/a b
 * Asesor/a científico
@@ -11372,7 +11389,6 @@ Listado de claves:
 * Asesor/a gabinete
 * Asesor/a jurídico
 * Asesor/a jurídico general
-* Asesor/a jurídico/a
 * Asesor/a médico
 * Asesor/a onif grupo a
 * Asesor/a técnica
@@ -11421,6 +11437,7 @@ Listado de claves:
 * Auditor/a nacional jefe de división
 * Auditor/a nacional jefe de equipo
 * Auditor/a nacional supervisor
+* Auxiilar de oficina
 * Auxiliar
 * Auxiliar N13
 * Auxiliar N14
@@ -11432,7 +11449,6 @@ Listado de claves:
 * Auxiliar de informática
 * Auxiliar de informática N14
 * Auxiliar de informática de cooperación
-* Auxiliar de investigación de i+d+i
 * Auxiliar de investigación en laboratorio
 * Auxiliar de investigación i+d+i
 * Auxiliar de laboratorio
@@ -11447,7 +11463,6 @@ Listado de claves:
 * Auxiliar de oficina de prestaciones
 * Auxiliar de oficina de prestaciones a
 * Auxiliar de oficina de prestaciones b
-* Auxiliar de oficina de prestacioness
 * Auxiliar de oficina de prestraciones
 * Auxiliar de oficina de registro
 * Auxiliar de registro
@@ -11840,6 +11855,7 @@ Listado de claves:
 * Coordinador/a de tratamiento y gestión penitenciaria
 * Coordinador/a de unidad de enlace eurostat
 * Coordinador/a de unidad de proyectos
+* Coordinador/a de unidad de publicaciones y gestión del conocimiento
 * Coordinador/a de zona
 * Coordinador/a de área
 * Coordinador/a de área (u.e.)
@@ -11856,6 +11872,7 @@ Listado de claves:
 * Coordinador/a de área de asistencia técnica
 * Coordinador/a de área de asuntos economicos agrarios y pesqueros
 * Coordinador/a de área de cites
+* Coordinador/a de área de defensa contra incendios
 * Coordinador/a de área de desarrollo
 * Coordinador/a de área de documentación
 * Coordinador/a de área de estadística
@@ -11958,6 +11975,7 @@ Listado de claves:
 * Coordinador/a técnico general
 * Coordinador/a técnico i+d
 * Coordinador/a técnico/a
+* Coordinador/a técnico/a N29
 * Coordinador/a técnico/a de ingeniería
 * Coordinador/a técnico/a de prot.rad. pub y v.r.a.
 * Coordinador/a técnico/a de sistemas y transformación digital
@@ -11965,6 +11983,9 @@ Listado de claves:
 * Coordinador/a u.e.
 * Coordinador/a unidad apoyo a la fiscalía
 * Coordinador/a unidad de gestión
+* Coordinador/a unidad de gestión presupuestaria y financiera
+* Coordinador/a unidad de inclusión
+* Coordinador/a unidad de recursos humanos y coordinación administrativa
 * Coordinador/a unidad tecnologías de la información
 * Coordinador/a y jefe de tramitación vue
 * Coordinador/a área
@@ -12011,7 +12032,6 @@ Listado de claves:
 * Delineante
 * Delineante N18
 * Delineante cartográfico
-* Delineante de segunda
 * Director
 * Director adjunto / directora adjunta
 * Director adjunto / directora adjunta de laboratorio
@@ -12559,7 +12579,6 @@ Listado de claves:
 * Director/a de prog. consejo superior de administración electrónica
 * Director/a de programa
 * Director/a de programa análisis y atrib del cambio climat
-* Director/a de programa areas marinas
 * Director/a de programa de coordinación
 * Director/a de programa de formación
 * Director/a de programa de formación personal superior
@@ -12605,7 +12624,6 @@ Listado de claves:
 * Director/a de programas secr. gr. com. as. v.
 * Director/a de programas seguridad
 * Director/a de proyecto
-* Director/a de proyecto meteorología trópica
 * Director/a de relaciones culturales y cientificas
 * Director/a de relaciones internacionales
 * Director/a de seguridad de aeronaves
@@ -12665,7 +12683,6 @@ Listado de claves:
 * Director/a o.n.a.
 * Director/a oficina nacional de contabilidad
 * Director/a oficina polivalente
-* Director/a operativo
 * Director/a otri
 * Director/a p3
 * Director/a programas centros penitenciarios
@@ -12763,6 +12780,7 @@ Listado de claves:
 * Formador/a de formadores
 * Genérico (r.d. 89/2001)
 * Genérico (r.d.89/2001)
+* Genérico cis (r.d. 89/2001)
 * Genérico cis (r.d.89/2001)
 * Genérico área mixta
 * Genérico área mixta de cis
@@ -12904,11 +12922,10 @@ Listado de claves:
 * Insp.jef.equipo selec.y análisis riesgos
 * Inspector res. adjunto central nuclear
 * Inspector residente adjunto central nuclear
-* Inspector residente adjunto suplente
 * Inspector residente en central nuclear
-* Inspector residente suplente
 * Inspector/a
 * Inspector/a - instructor/a
+* Inspector/a - instructor/a datos
 * Inspector/a adjunto
 * Inspector/a adjunto de admon. penit.
 * Inspector/a adjunto jefe de unidad
@@ -13369,7 +13386,6 @@ Listado de claves:
 * Jefe/a de laboratorio técnico de investigación de accidentes
 * Jefe/a de mantenimiento
 * Jefe/a de negociado
-* Jefe/a de negociado (coor.doc.reserv.)
 * Jefe/a de negociado (coord. doc. otan)
 * Jefe/a de negociado (getafe)
 * Jefe/a de negociado (oficina delegada)
@@ -13395,7 +13411,6 @@ Listado de claves:
 * Jefe/a de negociado actualizacion información
 * Jefe/a de negociado administrador de oficina
 * Jefe/a de negociado administrador oficina
-* Jefe/a de negociado asesoramiento al público
 * Jefe/a de negociado caja
 * Jefe/a de negociado ceremonial
 * Jefe/a de negociado de administración
@@ -13484,7 +13499,6 @@ Listado de claves:
 * Jefe/a de negociado de habilitación y pagaduría N18
 * Jefe/a de negociado de habilitación y pagaduría suplente
 * Jefe/a de negociado de habilitado
-* Jefe/a de negociado de inform.económico-financiera
 * Jefe/a de negociado de información
 * Jefe/a de negociado de información N16
 * Jefe/a de negociado de información N17
@@ -13493,7 +13507,6 @@ Listado de claves:
 * Jefe/a de negociado de información al público N18
 * Jefe/a de negociado de información meteorológica
 * Jefe/a de negociado de información pública
-* Jefe/a de negociado de información visitas y reservas
 * Jefe/a de negociado de información y atención público
 * Jefe/a de negociado de información y registro
 * Jefe/a de negociado de información y registro de admon. penit.
@@ -13539,7 +13552,6 @@ Listado de claves:
 * Jefe/a de negociado de relaciones internacionales
 * Jefe/a de negociado de relaciones tribunales
 * Jefe/a de negociado de reprografia
-* Jefe/a de negociado de responsabilidad patrimonial
 * Jefe/a de negociado de retribuciones
 * Jefe/a de negociado de seguimiento legislativo
 * Jefe/a de negociado de seguridad social
@@ -13565,7 +13577,6 @@ Listado de claves:
 * Jefe/a de negociado habilitado-cajero pagador suplente
 * Jefe/a de negociado habilitado-personal
 * Jefe/a de negociado intervención
-* Jefe/a de negociado mesa contratación
 * Jefe/a de negociado multimedia
 * Jefe/a de negociado observatorio
 * Jefe/a de negociado oficina de información y registro
@@ -13579,7 +13590,6 @@ Listado de claves:
 * Jefe/a de negociado tipo ii
 * Jefe/a de negociado tipo vi
 * Jefe/a de negociado tipo5
-* Jefe/a de negociado técnico
 * Jefe/a de negociado unidad de producción
 * Jefe/a de observación c.r.n. g-4
 * Jefe/a de oficina
@@ -13608,7 +13618,6 @@ Listado de claves:
 * Jefe/a de oficina prensa
 * Jefe/a de oficina proyectos
 * Jefe/a de oficina supervision de proyectos
-* Jefe/a de oficina tráfico
 * Jefe/a de oficina técnica
 * Jefe/a de oficina técnica y de supervision de proyec
 * Jefe/a de oficinas
@@ -13730,7 +13739,6 @@ Listado de claves:
 * Jefe/a de sección de apoyo N22
 * Jefe/a de sección de apoyo N24
 * Jefe/a de sección de apoyo a control
-* Jefe/a de sección de apoyo a fincas
 * Jefe/a de sección de apoyo a formación y documentación
 * Jefe/a de sección de apoyo a la gestión
 * Jefe/a de sección de apoyo administrativo de admon. penit.
@@ -13804,7 +13812,6 @@ Listado de claves:
 * Jefe/a de sección de caja fija
 * Jefe/a de sección de caja habilitación
 * Jefe/a de sección de caja pagadora
-* Jefe/a de sección de caja pagadora de centros
 * Jefe/a de sección de cajas de ahorro
 * Jefe/a de sección de cajas pagadoras
 * Jefe/a de sección de cajero habilitado
@@ -13895,7 +13902,6 @@ Listado de claves:
 * Jefe/a de sección de control y gestión patrimonial
 * Jefe/a de sección de control y seguimiento
 * Jefe/a de sección de conv. proy. infr. y acc. esp.
-* Jefe/a de sección de convenios colaboración cc.aa.
 * Jefe/a de sección de convenios consulares
 * Jefe/a de sección de convenios y operaciones comerciales
 * Jefe/a de sección de convenios y patentes
@@ -13924,6 +13930,7 @@ Listado de claves:
 * Jefe/a de sección de cursos
 * Jefe/a de sección de cálculo de costes
 * Jefe/a de sección de declaración utilidad pública
+* Jefe/a de sección de defensa contra incendios
 * Jefe/a de sección de delineación cartográfica
 * Jefe/a de sección de delineación y cartografía informatizada
 * Jefe/a de sección de delineación y cartografía informatizada N20
@@ -13962,7 +13969,6 @@ Listado de claves:
 * Jefe/a de sección de empleo y formación
 * Jefe/a de sección de ensayos biologicos
 * Jefe/a de sección de ensayos de investigación
-* Jefe/a de sección de entidades financieras
 * Jefe/a de sección de entrada valijas
 * Jefe/a de sección de epidemiologia del sida
 * Jefe/a de sección de epidemiologia enfermedades infecciosa
@@ -14049,7 +14055,6 @@ Listado de claves:
 * Jefe/a de sección de gestión e información tributaria
 * Jefe/a de sección de gestión económica
 * Jefe/a de sección de gestión económica N20
-* Jefe/a de sección de gestión económica administrativa
 * Jefe/a de sección de gestión económica habilitación
 * Jefe/a de sección de gestión económica y habili
 * Jefe/a de sección de gestión editorial
@@ -14350,6 +14355,7 @@ Listado de claves:
 * Jefe/a de sección de registro y comunicaciones
 * Jefe/a de sección de registro y distribución
 * Jefe/a de sección de registro y estadística
+* Jefe/a de sección de registro y notificaciones
 * Jefe/a de sección de reingresos
 * Jefe/a de sección de relaciones con las administración es territoriales
 * Jefe/a de sección de relaciones con usuarios
@@ -14362,7 +14368,6 @@ Listado de claves:
 * Jefe/a de sección de reprografia y distribución
 * Jefe/a de sección de residuos fitosanitarios ii
 * Jefe/a de sección de retribuciones
-* Jefe/a de sección de retribuciones N22
 * Jefe/a de sección de retribuciones de admon. penit.
 * Jefe/a de sección de retribuciones funcionarios
 * Jefe/a de sección de revalidación de titulos
@@ -14396,7 +14401,6 @@ Listado de claves:
 * Jefe/a de sección de seguimiento ongd
 * Jefe/a de sección de seguimiento presupuestario
 * Jefe/a de sección de seguimiento presupuestario y asuntos generales
-* Jefe/a de sección de seguimiento resultados
 * Jefe/a de sección de seguimiento y control
 * Jefe/a de sección de seguimiento y control de admon. penit.
 * Jefe/a de sección de seguimiento y coordinación
@@ -14748,7 +14752,6 @@ Listado de claves:
 * Jefe/a de servicio de apoyo junta contratación y mesas c.
 * Jefe/a de servicio de apoyo jurídico de rrhh
 * Jefe/a de servicio de apoyo medidas medioam. y sect. e.
-* Jefe/a de servicio de apoyo oficina del director
 * Jefe/a de servicio de apoyo sector financ. y telecom.
 * Jefe/a de servicio de apoyo sede electrónica
 * Jefe/a de servicio de apoyo tecnológico
@@ -14833,7 +14836,6 @@ Listado de claves:
 * Jefe/a de servicio de ayudas de emergencia
 * Jefe/a de servicio de bases de datos agroalimentara
 * Jefe/a de servicio de bases técnicas
-* Jefe/a de servicio de becarios y formación
 * Jefe/a de servicio de becas
 * Jefe/a de servicio de becas y ayudas
 * Jefe/a de servicio de biblioteca
@@ -14843,7 +14845,6 @@ Listado de claves:
 * Jefe/a de servicio de biblioteca islámica
 * Jefe/a de servicio de biblioteca y documentación
 * Jefe/a de servicio de bienes inmuebles
-* Jefe/a de servicio de bienes y patrimonio forestal
 * Jefe/a de servicio de biotecnologia
 * Jefe/a de servicio de biotecnologia y control biológico
 * Jefe/a de servicio de brechas
@@ -15014,7 +15015,6 @@ Listado de claves:
 * Jefe/a de servicio de cooperación terrestre
 * Jefe/a de servicio de cooperación técnica internacional
 * Jefe/a de servicio de cooperación universitaria
-* Jefe/a de servicio de cooperación y colaboración con ccaa.
 * Jefe/a de servicio de cooperación y difusión teatral
 * Jefe/a de servicio de cooperación y promoción
 * Jefe/a de servicio de coordinación
@@ -15031,13 +15031,11 @@ Listado de claves:
 * Jefe/a de servicio de coordinación con el exterior
 * Jefe/a de servicio de coordinación cooperación
 * Jefe/a de servicio de coordinación cultural
-* Jefe/a de servicio de coordinación de educación ambiental
 * Jefe/a de servicio de coordinación de inventarios
 * Jefe/a de servicio de coordinación de inversiones
 * Jefe/a de servicio de coordinación de niveles asistenciales y programas de salud
 * Jefe/a de servicio de coordinación de pagos
 * Jefe/a de servicio de coordinación de procesos catastrales
-* Jefe/a de servicio de coordinación de transporte de mercancias perecederas
 * Jefe/a de servicio de coordinación e informes
 * Jefe/a de servicio de coordinación empresarial
 * Jefe/a de servicio de coordinación enseñanzas deportivas
@@ -15108,7 +15106,6 @@ Listado de claves:
 * Jefe/a de servicio de desarrollo
 * Jefe/a de servicio de desarrollo alimentario
 * Jefe/a de servicio de desarrollo apoyo informatico
-* Jefe/a de servicio de desarrollo de la red
 * Jefe/a de servicio de desarrollo de modelos macroeconomicos
 * Jefe/a de servicio de desarrollo de proyectos
 * Jefe/a de servicio de desarrollo de sistemas informáticos
@@ -15127,7 +15124,6 @@ Listado de claves:
 * Jefe/a de servicio de difusión de contenidos digitales
 * Jefe/a de servicio de difusión electrónica y public.
 * Jefe/a de servicio de difusión tecnológica
-* Jefe/a de servicio de difusión y comunicación
 * Jefe/a de servicio de difusión y documentación
 * Jefe/a de servicio de difusión y transferencia
 * Jefe/a de servicio de difusión y transferencias
@@ -15304,7 +15300,6 @@ Listado de claves:
 * Jefe/a de servicio de geodesia
 * Jefe/a de servicio de geomagnetismo
 * Jefe/a de servicio de gestión
-* Jefe/a de servicio de gestión (c. s.)
 * Jefe/a de servicio de gestión administrativa
 * Jefe/a de servicio de gestión administrativa de admon. penit.
 * Jefe/a de servicio de gestión administrativa y patrimonio
@@ -15578,7 +15573,6 @@ Listado de claves:
 * Jefe/a de servicio de mantenimiento y seguridad
 * Jefe/a de servicio de manuscritos e incunables
 * Jefe/a de servicio de material defensa
-* Jefe/a de servicio de material genético
 * Jefe/a de servicio de materiales
 * Jefe/a de servicio de materiales y nanotecnologias
 * Jefe/a de servicio de mdl y ac
@@ -15800,7 +15794,6 @@ Listado de claves:
 * Jefe/a de servicio de programa desarrollo gitano
 * Jefe/a de servicio de programac. y seguim. técnico
 * Jefe/a de servicio de programación
-* Jefe/a de servicio de programación actuaciones
 * Jefe/a de servicio de programación cultural y deportiva de admon. penit.
 * Jefe/a de servicio de programación de control oficial
 * Jefe/a de servicio de programación de enseñanzas artisticas
@@ -15857,7 +15850,6 @@ Listado de claves:
 * Jefe/a de servicio de protocolo y relaciones publicas
 * Jefe/a de servicio de provisión de personal funcionario
 * Jefe/a de servicio de provisión de personal laboral
-* Jefe/a de servicio de provisión de puestos de personal laboral
 * Jefe/a de servicio de provisión de puestos de trabajo
 * Jefe/a de servicio de proy. acciones esp. inves.
 * Jefe/a de servicio de proyecto de desarrollo de aplicaciones
@@ -15959,7 +15951,6 @@ Listado de claves:
 * Jefe/a de servicio de relaciones con la adm de justicia
 * Jefe/a de servicio de relaciones con organismos europeos
 * Jefe/a de servicio de relaciones con países europeos
-* Jefe/a de servicio de relaciones con tribunales
 * Jefe/a de servicio de relaciones con u.e.
 * Jefe/a de servicio de relaciones econ. Asia y pacífico
 * Jefe/a de servicio de relaciones econ. África y medio oriente
@@ -16065,7 +16056,6 @@ Listado de claves:
 * Jefe/a de servicio de sist.información geográfica agraria
 * Jefe/a de servicio de sistemas
 * Jefe/a de servicio de sistemas avanzados
-* Jefe/a de servicio de sistemas cartograficos
 * Jefe/a de servicio de sistemas comunicaciones
 * Jefe/a de servicio de sistemas de control
 * Jefe/a de servicio de sistemas de información
@@ -16086,7 +16076,6 @@ Listado de claves:
 * Jefe/a de servicio de soporte red sísmica
 * Jefe/a de servicio de subsidiacion y subvención
 * Jefe/a de servicio de subsistema
-* Jefe/a de servicio de subvenc. ingresos y concesiones
 * Jefe/a de servicio de subvenciones
 * Jefe/a de servicio de subvenciones y ayuda
 * Jefe/a de servicio de suministros
@@ -16097,7 +16086,6 @@ Listado de claves:
 * Jefe/a de servicio de supervision de proyectos i
 * Jefe/a de servicio de supervision del juego
 * Jefe/a de servicio de supervision e inspección ais
-* Jefe/a de servicio de supervision e inspección ats
 * Jefe/a de servicio de supervision y normativa
 * Jefe/a de servicio de t. radioelectricos telefonicos y t.
 * Jefe/a de servicio de talleres cartograficos
@@ -16115,6 +16103,7 @@ Listado de claves:
 * Jefe/a de servicio de tesorería
 * Jefe/a de servicio de tesorería de admon. penit.
 * Jefe/a de servicio de tesorería general
+* Jefe/a de servicio de tesorería y contabilidad
 * Jefe/a de servicio de tesorería y retribuciones
 * Jefe/a de servicio de titulaciones nauticas recreo
 * Jefe/a de servicio de titulaciones profesionales
@@ -16233,7 +16222,6 @@ Listado de claves:
 * Jefe/a de servicio técnico de impugnaciones
 * Jefe/a de servicio técnico de la oph
 * Jefe/a de servicio técnico sanit.programas especif.
-* Jefe/a de servicio técnico supervision proyectos
 * Jefe/a de servicio unidad de transparencia
 * Jefe/a de servicio vizcaya
 * Jefe/a de servicio África norte
@@ -16279,7 +16267,6 @@ Listado de claves:
 * Jefe/a de unidad central de caja
 * Jefe/a de unidad contabilidad
 * Jefe/a de unidad contra la violencia sobre la mujer
-* Jefe/a de unidad coord., inform. e infraestructuras
 * Jefe/a de unidad coordinador
 * Jefe/a de unidad correspondencia oit
 * Jefe/a de unidad d
@@ -16391,7 +16378,6 @@ Listado de claves:
 * Jefe/a de área de actuaciones administrativas
 * Jefe/a de área de actuaciones en zonas regables
 * Jefe/a de área de actuaciones hidrológico forestales
-* Jefe/a de área de actuaciones singulares en red, centros y fincas
 * Jefe/a de área de actuación operativa
 * Jefe/a de área de administración
 * Jefe/a de área de administración de personal
@@ -16513,7 +16499,6 @@ Listado de claves:
 * Jefe/a de área de consejo ministros e informes
 * Jefe/a de área de conservación
 * Jefe/a de área de conservación y explotación
-* Jefe/a de área de conservación, seguimiento y programas de la red
 * Jefe/a de área de cont. y vigil. de la cal. de las aguas
 * Jefe/a de área de contabilidad
 * Jefe/a de área de contabilidad de fondos europeos
@@ -16565,13 +16550,13 @@ Listado de claves:
 * Jefe/a de área de coordinación de la gestión
 * Jefe/a de área de coordinación de la información
 * Jefe/a de área de coordinación de relaciones culturales y cientificas
+* Jefe/a de área de coordinación de unidades territoriales
 * Jefe/a de área de coordinación estad.ínter.
 * Jefe/a de área de coordinación estratégica
 * Jefe/a de área de coordinación estud. y registro contratos
 * Jefe/a de área de coordinación estudios y documentación
 * Jefe/a de área de coordinación informática
 * Jefe/a de área de coordinación institucional
-* Jefe/a de área de coordinación interna
 * Jefe/a de área de coordinación jurídica
 * Jefe/a de área de coordinación médica
 * Jefe/a de área de coordinación operaciones de emergencia
@@ -16795,7 +16780,6 @@ Listado de claves:
 * Jefe/a de área de gestión personal estatutario
 * Jefe/a de área de gestión prestaciones y recuperaciones
 * Jefe/a de área de gestión presupuestaria
-* Jefe/a de área de gestión presupuestaria y financiera
 * Jefe/a de área de gestión presupuesto recursos
 * Jefe/a de área de gestión procedimientos de selección y contratación en origen
 * Jefe/a de área de gestión procedimientos medicam.uso vet
@@ -16865,7 +16849,6 @@ Listado de claves:
 * Jefe/a de área de instalaciones nucleares y radiactivas
 * Jefe/a de área de institucional
 * Jefe/a de área de instrucción i
-* Jefe/a de área de instrucción ii
 * Jefe/a de área de instrucción iii
 * Jefe/a de área de instrumentación
 * Jefe/a de área de instrumentación sísmica
@@ -17008,7 +16991,6 @@ Listado de claves:
 * Jefe/a de área de prevención riesgos laborales
 * Jefe/a de área de prevención y coordinación multisectorial y aut.
 * Jefe/a de área de primas ganaderas
-* Jefe/a de área de procedimientos especiales
 * Jefe/a de área de procedimientos oopp
 * Jefe/a de área de proceso y análisis de datos
 * Jefe/a de área de procesos electorales
@@ -17078,7 +17060,6 @@ Listado de claves:
 * Jefe/a de área de recursos
 * Jefe/a de área de recursos administrativos
 * Jefe/a de área de recursos humanos
-* Jefe/a de área de recursos humanos y coordinación administrativa
 * Jefe/a de área de recursos humanos y relaciones laborales
 * Jefe/a de área de recursos humanos y servicios
 * Jefe/a de área de recursos patentes y modelos
@@ -17113,7 +17094,6 @@ Listado de claves:
 * Jefe/a de área de relaciones institucionales y juridicas
 * Jefe/a de área de relaciones internacionales
 * Jefe/a de área de relaciones internacionales y cooperación
-* Jefe/a de área de relaciones internacionales y reservas de la biosfera
 * Jefe/a de área de relaciones laborales
 * Jefe/a de área de relaciones laborales y negociación colectiva
 * Jefe/a de área de relaciones multilaterales
@@ -17192,6 +17172,7 @@ Listado de claves:
 * Jefe/a de área de sistemas y explotación
 * Jefe/a de área de sistemas y gestión calidad
 * Jefe/a de área de soporte ide/sig
+* Jefe/a de área de sostenibilidad y tecnología de firmes
 * Jefe/a de área de subsidios
 * Jefe/a de área de subvenciones
 * Jefe/a de área de supervision de proyecto
@@ -17211,6 +17192,7 @@ Listado de claves:
 * Jefe/a de área de toxicología ambiental
 * Jefe/a de área de traducción
 * Jefe/a de área de tramitación
+* Jefe/a de área de transferencia del conocimiento
 * Jefe/a de área de transporte y distribución
 * Jefe/a de área de tratamiento de admon. penit.
 * Jefe/a de área de tratamiento de aguas
@@ -17581,7 +17563,6 @@ Listado de claves:
 * Jefe/a puesto de inspección fronteriza
 * Jefe/a reg.adjunto/a planif.y coord
 * Jefe/a sección
-* Jefe/a sección asuntos generales 3
 * Jefe/a sección asuntos generales c1 4
 * Jefe/a sección asuntos generales c1 5
 * Jefe/a sección asuntos generales c1 6
@@ -17595,6 +17576,7 @@ Listado de claves:
 * Jefe/a servicio c.i.e.
 * Jefe/a servicio coordinador
 * Jefe/a servicio coordinador gestión trib
+* Jefe/a servicio coordinador/a rrii
 * Jefe/a servicio esp.apoyo informatico
 * Jefe/a servicio esp.grandes empresas
 * Jefe/a servicio especial
@@ -17678,6 +17660,7 @@ Listado de claves:
 * Jefe/a área análisis de riesgos
 * Jefe/a área apoyo procesal
 * Jefe/a área c.i.e.
+* Jefe/a área control e invest. iiee y ma
 * Jefe/a área coord. despacho nacional
 * Jefe/a área coordinación y apoyo
 * Jefe/a área ctrol.y a.riesgos com.ext.
@@ -17685,7 +17668,6 @@ Listado de claves:
 * Jefe/a área d.o.c.s de inf y asistenc np
 * Jefe/a área de comercio exterior
 * Jefe/a área de gestión de riesgos
-* Jefe/a área de información
 * Jefe/a área decls.informativas y retencs
 * Jefe/a área diseñ y mant herrs asist.dig
 * Jefe/a área ejecutiva
@@ -17861,11 +17843,15 @@ Listado de claves:
 * Puesto de trabajo de informática N16
 * Puesto de trabajo de laboratorio N15
 * Puesto de trabajo del gabinete telegráfico
+* Puesto de trabajo jefe/a de servicios
+* Puesto de trabajo jurista
+* Puesto de trabajo jurista de cis
+* Puesto de trabajo médico/a
 * Puesto de trabajo n. 30
 * Puesto de trabajo nivel 28
 * Puesto de trabajo nivel 30
+* Puesto de trabajo psicólogo/psicologa
 * Puesto de área tráfico explotación
-* Puesto área control explotación
 * Recopilador/a datos de contabilidad
 * Registrador/a central de la propiedad intelectual
 * Representante específico
@@ -17882,7 +17868,6 @@ Listado de claves:
 * Secretario/a N18
 * Secretario/a adjunto/a
 * Secretario/a adjunto/a de comisión nacional unesco
-* Secretario/a c.i.a.r.
 * Secretario/a comisión
 * Secretario/a comisión informática
 * Secretario/a comisión investigación accidentes
@@ -17912,7 +17897,6 @@ Listado de claves:
 * Secretario/a de embajada
 * Secretario/a de expedientes
 * Secretario/a de general jemacon
-* Secretario/a de la adjuntia
 * Secretario/a de la ciabsi
 * Secretario/a de la comisión
 * Secretario/a de la comisión permanente de selección
@@ -17994,7 +17978,6 @@ Listado de claves:
 * Subalterno/a prestaciones
 * Subcajero/a
 * Subcajero/a de pagaduría
-* Subd.adj.seguridad inf.y protec.datos
 * Subdelegado/a del gobierno
 * Subdirector
 * Subdirector/a
@@ -18100,7 +18083,6 @@ Listado de claves:
 * Subgestor/a 2 p.i.
 * Subgestor/a 3
 * Subgestor/a 4
-* Subgestor/a 4 (ac)
 * Subgestor/a 5
 * Subgestor/a 5 (ac)
 * Subgestor/a 6
@@ -18348,6 +18330,7 @@ Listado de claves:
 * Técnico/a entrada hacienda pública h24
 * Técnico/a entrada hacienda pública p.i.
 * Técnico/a entrada informática
+* Técnico/a entrada informática p.i.
 * Técnico/a entrada investigación
 * Técnico/a entrada investigación p.i.
 * Técnico/a entrada navegación
@@ -18361,6 +18344,7 @@ Listado de claves:
 * Técnico/a especialista instalaciones
 * Técnico/a especialista mantenim. invest. accid.
 * Técnico/a especialista sistemas comunicaciones
+* Técnico/a estadística 1
 * Técnico/a estadística 2
 * Técnico/a experto meteorología
 * Técnico/a facultativo N24
@@ -18472,7 +18456,6 @@ Listado de claves:
 * Técnico/a superior de proyecto informatico
 * Técnico/a superior de proyectos
 * Técnico/a superior de proyectos informáticos
-* Técnico/a superior de proyectos y obras
 * Técnico/a superior de sistemas informáticos
 * Técnico/a superior de tecnologías de la información
 * Técnico/a superior de telecomunicaciones
@@ -18485,6 +18468,7 @@ Listado de claves:
 * Técnico/a superior entrada investigación
 * Técnico/a superior entrada navegación
 * Técnico/a superior entrada propulsión
+* Técnico/a superior estadística 1
 * Técnico/a superior estadística 1 p.i.
 * Técnico/a superior estadística a.a.
 * Técnico/a superior estudios meteorologicos del med
@@ -18550,7 +18534,6 @@ Listado de claves:
 * Vocal adjunto/a
 * Vocal adjunto/a N26
 * Vocal adjunto/a N28
-* Vocal adscrito/a
 * Vocal adscrito/a N26
 * Vocal adscrito/a N28
 * Vocal adscrito/a N29
@@ -18558,6 +18541,7 @@ Listado de claves:
 * Vocal asesor/a
 * Vocal asesor/a (u.e.)
 * Vocal asesor/a - secretario junta de contratación
+* Vocal asesor/a N29
 * Vocal asesor/a N30
 * Vocal asesor/a N30 inspección de datos
 * Vocal asesor/a asuntos economicos

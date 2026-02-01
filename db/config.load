@@ -3,6 +3,12 @@ load database
   into {{DB_TARGET}}
 with truncate, include drop, create tables, create indexes, reset sequences
 set work_mem to '16MB', maintenance_work_mem to '512 MB'
+CAST
+  type float   to numeric using float-to-string,
+  type real    to numeric using float-to-string,
+  type double  to numeric using float-to-string,
+  type numeric to numeric using float-to-string,
+  type decimal to numeric using float-to-string
 BEFORE LOAD
   DO $$ DROP SCHEMA IF EXISTS public CASCADE; $$
   DO $$ create schema if not exists public; $$

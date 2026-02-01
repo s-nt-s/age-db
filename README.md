@@ -1,8 +1,8 @@
 Crea una base de datos `sqlite` a partir del:
 
 * [Muface](https://www.muface.es/muface_Home/mutualistas/cotizacion/Regimen-de-Cotizaciones.html)
-* [RPT](https://transparencia.gob.es/content/dam/transparencia_home/publicidadactiva/organizacionyempleo/rpt/actual-junio-2025/total/250901-RPT-Tabla%20conjunta%20PF.xlsx) (via [transparencia.gob.es](https://transparencia.gob.es/transparencia/transparencia_Home/index/PublicidadActiva/OrganizacionYEmpleo/Relaciones-Puestos-Trabajo.html))
-* [Retribuciones](https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/CostesPersonal/EstadisticasInformes/PublishingImages/Paginas/RetribucionesPersonalFuncionario/Retribuciones%20del%20personal%20funcionario.%20Real%20Decreto-ley%204%202024%20%202%25%20+0.5%25%20IPCA.pdf) (via [sepg.pap.hacienda.gob.es](https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/CostesPersonal/EstadisticasInformes/Paginas/RetribucionesPersonalFuncionario.aspx))
+* [RPT](https://transparencia.gob.es/content/dam/transparencia_home/publicidadactiva/organizacionyempleo/rpt/actual/total/260101-RPT-Tabla%20conjunta_PF.xlsx) (via [transparencia.gob.es](https://transparencia.gob.es/transparencia/transparencia_Home/index/PublicidadActiva/OrganizacionYEmpleo/Relaciones-Puestos-Trabajo.html))
+* [Retribuciones](https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/CostesPersonal/EstadisticasInformes/Documents/A%c3%91O%202026/Retribuciones%20del%20personal%20funcionario%202026.%20Real%20Decreto-ley%2014%202025%2c%20de%202%20de%20diciembre..pdf) (via [sepg.pap.hacienda.gob.es](https://www.sepg.pap.hacienda.gob.es/sitios/sepg/es-ES/CostesPersonal/EstadisticasInformes/Paginas/RetribucionesPersonalFuncionario.aspx))
 
 # Resultado
 
