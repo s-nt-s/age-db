@@ -53,7 +53,10 @@ class Muface:
     @cached_property
     def cotizacion_general(self):
         data: Dict[str, float] = {}
-        table = self.__findTableByCaption("Mutualistas obligatorios (cuota mensual)")
+        table = self.__findTableByCaption(
+            "Mutualistas obligatorios (cuota mensual)",
+            "Cuota mensual de mutualistas obligatorios"
+        )
         for tr in table.select("tbody tr"):
             tds = tuple(map(get_text, tr.select("td")))
             g = tds[0]
@@ -65,14 +68,14 @@ class Muface:
                 data[g] = to_num(tds[-1])
         return MappingProxyType(data)
 
+    def __findTableByCaption(self, *captions: str):
+        for txt in captions:
+            for c in self.__soup.select("table caption"):
+                caption = re_sp.sub(" ", c.get_text()).strip()
+                if caption.startswith(txt):
+                    return c.find_parent("table")
+        raise MufaceError(self.__link, f"Not found table[caption='{captions}']")
 
-    def __findTableByCaption(self, txt: str):
-        for c in self.__soup.select("table caption"):
-            caption = re_sp.sub(" ", c.get_text()).strip()
-            if caption.startswith(txt):
-                return c.find_parent("table")
-        raise MufaceError(self.__link, f"Not found table[caption='{txt}']")
-    
     def __findMutualistas(self):
         tag = "strong, b"
         txt = "Mutualistas obligatorios (cuota mensual):"
