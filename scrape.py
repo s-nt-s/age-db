@@ -179,15 +179,21 @@ with DBLite(ARG.db, reload=True) as db:
         db.execute("UPDATE PUESTO SET tipo=NULL where tipo='P'")
         db.execute("DELETE from TIPO_PUESTO where id='P'")
 
+    ko: set[str] = set()
     p_count = "select count(*) from puesto where "
     for p, ptxt in db.select("select id, txt from provision"):
         for t, ttxt in db.select("select id, txt from tipo_puesto"):
-            if ptxt == ttxt:
-                if 0 == db.one(p_count+f"(tipo='{t}' and provision!='{p}') or (tipo!='{t}' and provision='{p}')"):
-                    logger.info(f"Equivalencia: tipo={t} <=> provision={p} == {ttxt}")
-                else:
-                    raise ValueError(f"No se cumple tipo={t} <=> provision={p}")
+            if p != t and ptxt != ttxt:
                 continue
-            if p == t or ptxt == ttxt:
-                raise ValueError(f"Solapamiento tipo={t} ({txt}) provision={p} ({txt})")
+            # Si los códigos o las descripciones son iguales
+            # debería haber equivalencia
+            not_eq = db.one(p_count+f"(tipo='{t}' and provision!='{p}') or (tipo!='{t}' and provision='{p}')")
+            if not_eq > 0:
+                logger.warning(f"No se cumple tipo={t} ({ttxt}) <=> provision={p} ({ptxt}) en {not_eq} puestos")
+                continue
+            if ptxt == ttxt:
+                logger.info(f"Equivalencia: tipo={t} <=> provision={p} == {ttxt}")
+            else:
+                logger.warning(f"seudo-Equivalencia: tipo={t} ({ttxt}) <=> provision={p} ({ptxt})")
+
 
