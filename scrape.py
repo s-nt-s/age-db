@@ -196,4 +196,3 @@ with DBLite(ARG.db, reload=True) as db:
             else:
                 logger.warning(f"seudo-Equivalencia: tipo={t} ({ttxt}) <=> provision={p} ({ptxt})")
 
-
