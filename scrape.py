@@ -195,4 +195,3 @@ with DBLite(ARG.db, reload=True) as db:
                 logger.info(f"Equivalencia: tipo={t} <=> provision={p} == {ttxt}")
             else:
                 logger.warning(f"seudo-Equivalencia: tipo={t} ({ttxt}) <=> provision={p} ({ptxt})")
-

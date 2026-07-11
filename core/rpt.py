@@ -14,9 +14,11 @@ from typing import NamedTuple, Tuple, Dict, Any, List, Set
 from collections import defaultdict
 from types import MappingProxyType
 from bs4 import Tag
+import logging
 
 import json
 
+logger = logging.getLogger(__name__)
 
 re_sp = re.compile(r"\s+")
 re_hasta = re.compile(r"^[EX\d \+]+\(hasta 27/07/2007\)\s*\+", flags=re.IGNORECASE)
@@ -336,8 +338,24 @@ class Rpt:
             real = tuple(c.sort_values().unique().tolist())
             raise RPTError(self.link, f"{col.name} is {real} instead not {vals}")
 
+        def __fix_id(cid: Col, ctxt: Col, min_rate: float):
+            _id = cid.name
+            _tx = ctxt.name
+            for txt, group in df.groupby(_tx):
+                count = group[_id].value_counts()
+                if len(count) == 2:
+                    main_id = count.index[0]
+                    rate = count.iloc[0] / count.sum()
+                    if rate >= min_rate:
+                        logger.warning(f"{_id}={main_id} ¿=? {_tx}={txt}")
+                        df.loc[
+                            df[_tx] == txt,
+                            _id
+                        ] = main_id
+
         __check_vals(Col.estado, "V", "NV")
         __check_vals(Col.grupo, None, *GRUPOS.keys())
+        __fix_id(Col.ministerio_id, Col.ministerio_txt, 0.7)
 
         return df
 
